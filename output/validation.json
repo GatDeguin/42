@@ -157,7 +157,7 @@
     {
       "name": "Fixed source cameras plus tour",
       "pass": true,
-      "measured": 22
+      "measured": 33
     },
     {
       "name": "Tour camera eye clear of architectural walls",
@@ -170,230 +170,150 @@
       "measured": null
     },
     {
-      "name": "All 16 HTML cameras retain exact positions, focal lengths and targets",
-      "pass": true,
-      "measured": [
-        {
-          "camera": "CAM | Casa & paisaje",
-          "position_error_m": 0.0,
-          "lens_mm": 26.0,
-          "target_angle_error_degrees": 0.0
-        },
-        {
-          "camera": "CAM | Pileta & playa húmeda",
-          "position_error_m": 0.0,
-          "lens_mm": 25.0,
-          "target_angle_error_degrees": 0.0
-        },
-        {
-          "camera": "CAM | Escalera & acceso",
-          "position_error_m": 0.0,
-          "lens_mm": 25.0,
-          "target_angle_error_degrees": 0.0
-        },
-        {
-          "camera": "CAM | Estudio de grabación",
-          "position_error_m": 0.0,
-          "lens_mm": 20.0,
-          "target_angle_error_degrees": 0.0
-        },
-        {
-          "camera": "CAM | Cocina & comedor",
-          "position_error_m": 0.0,
-          "lens_mm": 21.0,
-          "target_angle_error_degrees": 0.0
-        },
-        {
-          "camera": "CAM | Cocina",
-          "position_error_m": 0.0,
-          "lens_mm": 20.0,
-          "target_angle_error_degrees": 0.0
-        },
-        {
-          "camera": "CAM | Comedor",
-          "position_error_m": 0.0,
-          "lens_mm": 22.0,
-          "target_angle_error_degrees": 0.0
-        },
-        {
-          "camera": "CAM | Vestidor pasante",
-          "position_error_m": 0.0,
-          "lens_mm": 18.0,
-          "target_angle_error_degrees": 0.0
-        },
-        {
-          "camera": "CAM | Dormitorio",
-          "position_error_m": 0.0,
-          "lens_mm": 20.0,
-          "target_angle_error_degrees": 0.0
-        },
-        {
-          "camera": "CAM | Baño de pileta",
-          "position_error_m": 0.0,
-          "lens_mm": 22.0,
-          "target_angle_error_degrees": 0.0
-        },
-        {
-          "camera": "CAM | Quincho",
-          "position_error_m": 0.0,
-          "lens_mm": 22.0,
-          "target_angle_error_degrees": 0.0
-        },
-        {
-          "camera": "CAM | Implantación general",
-          "position_error_m": 0.0,
-          "lens_mm": 26.0,
-          "target_angle_error_degrees": 0.0
-        },
-        {
-          "camera": "CAM | Distribución · planta alta",
-          "position_error_m": 0.0,
-          "lens_mm": 24.0,
-          "target_angle_error_degrees": 0.0
-        },
-        {
-          "camera": "CAM | Huerta",
-          "position_error_m": 0.0,
-          "lens_mm": 26.0,
-          "target_angle_error_degrees": 0.0
-        },
-        {
-          "camera": "CAM | Balcón",
-          "position_error_m": 0.0,
-          "lens_mm": 26.0,
-          "target_angle_error_degrees": 0.0
-        },
-        {
-          "camera": "CAM | Fachada de acceso",
-          "position_error_m": 0.0,
-          "lens_mm": 26.0,
-          "target_angle_error_degrees": 0.0
-        }
-      ]
-    },
-    {
-      "name": "Closed hinged leaves match HTML coordinates",
-      "pass": true,
-      "measured": [
-        {
-          "door": "studio",
-          "closed_error_m": 0.0
-        },
-        {
-          "door": "suiteEntry",
-          "closed_error_m": 0.0
-        },
-        {
-          "door": "bedroomLink",
-          "closed_error_m": 0.0
-        },
-        {
-          "door": "bathLink",
-          "closed_error_m": 0.0
-        },
-        {
-          "door": "poolBath",
-          "closed_error_m": 0.0
-        }
-      ]
-    },
-    {
-      "name": "Every hinged/sliding door driver moves at open pose",
-      "pass": true,
-      "measured": {
-        "studio": 1.6336281299591064,
-        "suiteEntry": 1.6022123098373413,
-        "bedroomLink": 1.6022123098373413,
-        "bathLink": 1.6022123098373413,
-        "poolBath": 1.6022123098373413,
-        "mono_L": 0.7800006866455078,
-        "mono_R": 0.7800006866455078,
-        "balconySide": 1.1999998092651367,
-        "balconyRear_A": 1.2750005722045898,
-        "balconyRear_B": 1.6749992370605469,
-        "bathroomMono": 1.6022123098373413,
-        "gate": 3.0500001907348633
-      }
-    },
-    {
-      "name": "Every tour door stays open to the continuous tour end",
-      "pass": true,
-      "measured": null
-    },
-    {
-      "name": "Flat studio ceiling has 3.20m clear finished height",
-      "pass": true,
-      "measured": {
-        "floor": 3.25,
-        "ceiling": 6.450000286102295,
-        "clear": 3.200000286102295
-      }
-    },
-    {
-      "name": "All file-based texture/reference/HDR images are packed",
-      "pass": true,
-      "measured": {
-        "count": 37,
-        "unpacked": []
-      }
-    },
-    {
-      "name": "All required semantic collections exist",
-      "pass": true,
-      "measured": [
-        "SITE",
-        "GROUND_FLOOR",
-        "UPPER_FLOOR",
-        "ROOF",
-        "STAIR",
-        "POOL",
-        "QUINCHO",
-        "STUDIO",
-        "INTERIORS",
-        "FURNITURE",
-        "LANDSCAPE",
-        "LIGHTS",
-        "CAMERAS"
-      ]
-    },
-    {
-      "name": "Metric units at scale 1",
-      "pass": true,
-      "measured": null
-    },
-    {
-      "name": "Cycles production renderer",
-      "pass": true,
-      "measured": null
-    },
-    {
-      "name": "No unlabelled default Cube meshes",
-      "pass": true,
-      "measured": null
-    },
-    {
-      "name": "Hollow sink and sanitary detailing",
-      "pass": true,
-      "measured": null
-    },
-    {
-      "name": "Continuous animation and day/night/inspection variants",
-      "pass": true,
-      "measured": {
-        "scenes": [
-          "CASA DE CAMPO | Atardecer",
-          "CASA DE CAMPO | DÍA",
-          "CASA DE CAMPO | NOCHE",
-          "INSPECCIÓN | Planta alta",
-          "RECORRIDO | Continuo"
-        ],
-        "continuous_frames": 4206
-      }
-    },
-    {
-      "name": "Continuous camera eye avoids architectural walls",
+      "name": "All movable door meshes avoid walls across27sampledposes (evaluated BVH)",
       "pass": true,
       "measured": []
+    },
+    {
+      "name": "Extraction pipes avoid evaluated enclosure and structural meshes",
+      "pass": true,
+      "measured": []
+    },
+    {
+      "name": "Acoustic meshes do not intersect",
+      "pass": true,
+      "measured": []
+    },
+    {
+      "name": "Extraction pipes avoid sanitary fixtures and kitchen/wardrobe meshes",
+      "pass": true,
+      "measured": []
+    },
+    {
+      "name": "Studio3.20m / dwelling and bathroom2.60m clear",
+      "pass": true,
+      "measured": {
+        "Cielorraso estudio | cota inferior 6.45m": {
+          "floor": 3.25,
+          "underside": 6.450000286102295,
+          "clear": 3.200000286102295
+        },
+        "Cielorraso vivienda | 2.60m sobre piso general": {
+          "floor": 3.25,
+          "underside": 5.850000381469727,
+          "clear": 2.6000003814697266
+        },
+        "Cielorraso baño | 2.60m sobre porcelanato": {
+          "floor": 3.3,
+          "underside": 5.900000095367432,
+          "clear": 2.6000001430511475
+        }
+      }
+    },
+    {
+      "name": "Exterior front studio roof stands0.60m above dwelling module",
+      "pass": true,
+      "measured": {
+        "front_center": 7.549999713897705,
+        "rear_center": 6.949999809265137,
+        "difference": 0.5999999046325684
+      }
+    },
+    {
+      "name": "All HTML fixed cameras retained",
+      "pass": true,
+      "measured": [
+        {
+          "name": "CAM | Casa & paisaje",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Pileta & playa húmeda",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Escalera & acceso",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Estudio de grabación",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Cocina & comedor",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Cocina",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Comedor",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Vestidor pasante",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Dormitorio",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Baño de pileta",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Quincho",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Implantación general",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Distribución · planta alta",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Huerta",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Balcón",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Fachada de acceso",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        }
+      ]
+    },
+    {
+      "name": "All textures and reference images packed",
+      "pass": true,
+      "measured": 36
+    },
+    {
+      "name": "Video generation explicitly paused",
+      "pass": true,
+      "measured": null
     }
   ],
   "source_checks": [
@@ -445,15 +365,34 @@
     "Carpentry: complete moving leaf assemblies; rear glass bays split into fixed/sliding double-glazed leaves on parallel tracks inside the original bay; side panel A slides over B. Closed exterior opening dimensions preserved.",
     "Flat studio ceiling underside at 6.45m gives 3.20m above source finished floor. Front roof sheet made 16mm thick while keeping its external top surface, allowing the lining to fit below the original roof.",
     "Fine grass follows the exact source planting mask; finer instanced foliage and bark added only to surrounding trees.",
-    "Symbolic sink and sanitary solids refined into hollow bowls at the source openings/footprints; countertop cutouts and real basin depth added. Pool handrail rounded within the original endpoints."
+    "Symbolic sink and sanitary solids refined into hollow bowls at the source openings/footprints; countertop cutouts and real basin depth added. Pool handrail rounded within the original endpoints.",
+    "User clarified: dwelling approximately2.60m clear, studio3.20m. General dwelling ceiling+5.85 over+3.25; bathroom+5.90 over+3.30. Studio exterior front roof raised0.60m relative to rear module, with stepped gables and flashing; inference ties roof difference to interior height difference.",
+    "Iteration1 pass1: gate offset0.22m to inner parallel track and lifted0.085m, maintaining3m leaf (source clear gap2.75m) and3.05m slide. Added fine vertical railing infill, post base anchors and stair anti-slip strips.",
+    "Iteration1 pass1: acoustic clouds cut around baffles with4mm dry joints; retained3.20m minimum clear height.",
+    "Iteration1 pass1: roof support, insulation, ceiling channels and stepped flashing added within real available roof cavity; these are coordinated detail geometry, not structural calculations.",
+    "Iteration1 pass1: independent insulated oven/grill ducts run under slab through sleeved partition penetrations into studio rear-right service shaft; no pipe passes through upstairs bath/kitchen fixtures. Independent kitchen exhaust added. Services are inferred because absent in HTML.",
+    "Iteration1 pass2: mono complete sliding sashes shifted0.10m clear of wall; side sliding sash offset totals0.15m so125mm frames no longer intersect; rear fixed glass tracks receive20mm extra separation. Original opening extents retained; all normal track offsets documented.",
+    "Iteration1 pass3: corrected source shower lining onto actual wall, recessed niche, rim-mounted shower screen, taps/shower and toilet detailing. Bath floor base reconciled by40mm while preserving plan footprint.",
+    "Iteration1 pass3: finer leaves preserve source tree centres; outside grove uses varied collection instances with no mulch discs. Grass colour no longer repeats source dark tile bands. Distant terrain/trees fill horizon beyond source site.",
+    "Iteration1 pass3: source steel albedo streaks replaced with restrained brushed finish; wood saturation and bump moderated. Physical clear sunset sky and balanced practical lamps; original packed HDRI preserved as optional world.",
+    "Distant terrain excludes the complete source plot, preventing soil from covering the submerged pool volume. Water volume reaches real basin floor; pool caustic receivers enabled.",
+    "Roof detail resolved as0.8mm external metal skin over80mm insulation, with visible standing seams; original outside planes preserved after user-authorized0.60m module step. Existing oven chimney and grill hood now have true hollow interiors continuous with new flues; exposed shaft receives metal weathering cover.",
+    "Iteration2 pass1: PB sliders moved onto quincho face and bathroom hinge offset55mm. Independent flues relocated clear of beams/purlins; former holes rebuilt and recut. Ceiling channel framed around shaft. Source gate leaf3m, actual source pillar gap2.75m.",
+    "Iteration2 pass3: longitudinal fine-grain oak/walnut with individual object variation and180mm parquet joints; tapered bark branches, meadow tufts and irregular outer grove. Original six tree centres retained."
   ],
-  "objects": 2974,
-  "materials": 38,
+  "objects": 2564,
+  "materials": 48,
   "source_meshes": 1233,
   "source_instances": 27618,
-  "tour_frames": 1608,
+  "tour_frames": 1968,
   "fps": 24,
   "axis": "HTML (X,Y,Z) => Blender (X,-Z,Y)",
-  "fine_grass_blades": 292601,
-  "continuous_tour_frames": 4206
+  "review_state": "Independent architecture review03:8.0/10; frozen final model inspected from disk. Video remains paused.",
+  "continuous_tour_frames": 4206,
+  "independent_review": {
+    "score": 8.0,
+    "report": "audit/critica_iteracion_03.md",
+    "model": "output/Casa_de_Campo_Final.blend",
+    "model_sha256": "58223d78f71dc0c1d4f33034aaaf0be96a1bd420f72f2231468003e942c2bbfe"
+  }
 }

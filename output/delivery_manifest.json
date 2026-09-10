@@ -1,0 +1,37 @@
+{
+  "version": "architectural-review-03",
+  "critic_score": 8.0,
+  "video": "paused-pending-explicit-approval",
+  "files": [
+    {
+      "path": "output/Casa_de_Campo_Final.blend",
+      "bytes": 84387430,
+      "sha256": "58223d78f71dc0c1d4f33034aaaf0be96a1bd420f72f2231468003e942c2bbfe"
+    },
+    {
+      "path": "output/Casa_de_Campo_Atardecer_Revision.png",
+      "bytes": 6147014,
+      "sha256": "e1a639426054577d17291ac840f29e4ed487a94cf908b8f48a0b66308a117d6b"
+    },
+    {
+      "path": "output/tour_route.json",
+      "bytes": 207634,
+      "sha256": "503b690d41a44f6e77be2557e87ace05a680acb32f856b98ab863415a515b32e"
+    },
+    {
+      "path": "output/validation.json",
+      "bytes": 13214,
+      "sha256": "be9076dde11fe5535aea901fa5a3c65fcd5d0db0ca827a822d4edcb4144a528f"
+    },
+    {
+      "path": "review/saved_route_final.json",
+      "bytes": 154,
+      "sha256": "02ca881f01b82e7b9a52be08a17bc430e1ad47553b7700296b91b1b5634c8476"
+    },
+    {
+      "path": "audit/critica_iteracion_03.md",
+      "bytes": 7243,
+      "sha256": "95c3fd64697945c596bac9fbaef218617e2715b32b0716f3daf2db45e4ad10a8"
+    }
+  ]
+}

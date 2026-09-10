@@ -7,6 +7,8 @@ p=bpy.context.preferences.addons['cycles'].preferences;p.compute_device_type='OP
 for d in p.devices:d.use=d.type=='OPTIX'
 S.render.use_persistent_data=True;S.cycles.use_denoising=True;S.render.image_settings.file_format='PNG';S.render.image_settings.color_mode='RGB';S.render.image_settings.color_depth='8'
 mode=args[0] if args else 'hero'
+if mode=='tour' and S.get('video_render_requires_explicit_approval',True):
+ raise RuntimeError('Video rendering paused by owner. Explicit approval is required before changing this project flag.')
 if mode=='hero':
  S.camera=bpy.data.objects['CAM | Presentación verticales corregidas'];S.frame_set(1)
  S.render.resolution_x=2400;S.render.resolution_y=1800;S.cycles.samples=192;S.cycles.adaptive_threshold=.025

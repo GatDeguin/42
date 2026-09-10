@@ -14,3 +14,15 @@ source/scene.json
 source/source_readable.html
 source/engine.js
 audit/*.log
+
+*.blend@
+review/*.log
+review/pass2_*.png
+output/Casa_de_Campo.blend
+output/control_*.png
+output/Casa_de_Campo_Atardecer.png
+
+output/Casa_de_Campo_Revision.blend
+
+
+!audit/final_reopen_checks_03.log

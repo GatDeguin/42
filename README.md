@@ -1,36 +1,35 @@
-# Casa de campo · Reconstrucción arquitectónica
+# Casa de campo · reconstrucción arquitectónica
 
-Reconstrucción editable en Blender 5.2 del proyecto definido por casa_campo_estudio_interactivo_mejorado_v3.html.
+Modelo editable en Blender 5.2, reconstruido a partir del HTML y JavaScript del proyecto. La revisión conserva implantación, dimensiones, distribución y cámaras originales, e incorpora las alturas indicadas por el propietario: **estudio 3,20 m libres y vivienda 2,60 m**, con la cubierta del estudio más alta.
 
-**Estado:** revisión arquitectónica en curso. Primera evaluación independiente provisional: **6/10**. El renderizado del video está pausado por pedido del propietario y requiere su aprobación explícita para reanudarse.
+**Estado:** tercera auditoría independiente aprobada con **8,0/10**, tras las evaluaciones de 6/10 y 7/10. [Dictamen final](audit/critica_iteracion_03.md). **El video permanece pausado hasta aprobación explícita del propietario.**
 
-## Proyecto
+![Presentación al atardecer](output/Casa_de_Campo_Atardecer_Revision.png)
 
-- Lote: 22 × 20 m; casa: 8 × 12 m; pileta: 7 × 3 m.
-- Escalera exterior de 18 peldaños y descanso de 1 × 1 m.
-- Estudio con 3,20 m libres, según la decisión del propietario.
-- Conversión de ejes: HTML (X, Y, Z) → Blender (X, −Z, Y). Unidades: metros.
-- Cámaras originales, puertas con pivotes y drivers, recorrido continuo y tomas para montaje.
-- Materiales y referencias empaquetados en el archivo Blender.
+## Entrega vigente
+- [Modelo completo: Casa_de_Campo_Final.blend](output/Casa_de_Campo_Final.blend), con materiales empaquetados, colecciones y objetos editables.
+- [Render principal, 2400 × 1800](output/Casa_de_Campo_Atardecer_Revision.png).
+- [Planos, cortes, detalles e imágenes interiores](review/README.md).
+- [Auditorías independientes](audit/) y [respuesta a las correcciones](audit/respuesta_constructor_02.md).
+- [Decisiones, dimensiones e inferencias](docs/DECISIONES.md).
+- [Validación geométrica](output/validation.json).
 
-## Archivos y carpetas
+El archivo Blender usa **Git LFS**. Para descargar la escena completa, clonar el repositorio con Git LFS y ejecutar git lfs pull. La escena vigente es Casa_de_Campo_Final.blend; el render vigente conserva el nombre Casa_de_Campo_Atardecer_Revision.png. Los archivos de las primeras iteraciones se mantienen como registro.
 
-- output/Casa_de_Campo.blend: escena editable (Git LFS).
-- output/Casa_de_Campo_Atardecer.png: render principal.
-- output/control_*.png: vistas interiores de revisión.
-- output/validation.json: comprobaciones geométricas automáticas.
-- review/: plantas y cortes derivados de la geometría real.
-- audit/: informes del crítico independiente.
-- scripts/: extracción, construcción, mejoras, comprobación y render.
-- source/original.html: fuente arquitectónica original.
-- source/request.txt: alcance de la reconstrucción.
+## Contenido
+Lote 22 × 20 m; casa 8 × 12 m; pileta 7 × 3 m; quincho y línea de fuego; huerta; estudio; vivienda; baños; mobiliario; DVH; escalera exterior de 18 peldaños; balcones y paisajismo. La hoja del portón mide 3 m; la luz entre sus pilares de fuente es 2,75 m.
 
-## Revisión
+Las 16 cámaras del HTML se conservan. Se agregan cámaras de revisión y un recorrido editado de 1968 fotogramas a 24 fps. Las 12 puertas y correderas tienen la propiedad open: 0 cerrada, 1 abierta. Las muestras fijas del recorrido permiten revisarlo sin producir video.
 
-Por cada evaluación inferior a 8/10 se realizan tres pasadas de corrección antes de volver a presentar la escena al crítico: construcción y encuentros; cámaras y lectura espacial; materiales, vegetación e iluminación. Se conserva la arquitectura explícita de la fuente y se documentan los ajustes.
+## Revisión técnica
+Se comprobaron las dimensiones y alturas, los barridos de todas las piezas móviles contra muros y mobiliario, los conductos frente a cerramientos y estructura, las juntas acústicas y la persistencia de la cámara al reabrir el archivo.
 
-La revisión visual y geométrica no reemplaza documentación estructural calculada. Los detalles ausentes en el HTML se identifican como desarrollo del modelo.
+Las plantas, cortes y detalles derivan de la geometría del modelo. Los detalles ausentes en el HTML están documentados como desarrollo de la reconstrucción. La escena y su revisión no constituyen un cálculo estructural ni documentación ejecutiva para obra.
 
-## Recursos
+## Fuente y herramientas
+- [HTML original](source/original.html) y [encargo](source/request.txt).
+- [Scripts de extracción, construcción y verificación](scripts/). La extracción se ejecuta con node scripts/extract_scene.cjs; las verificaciones usan Blender Python.
+- Conversión de ejes: HTML (X, Y, Z) → Blender (X, −Z, Y); unidades en metros.
+- Mapas de materiales generados por el HTML. Entorno opcional empaquetado: [Belfast Sunset, Poly Haven](https://polyhaven.com/a/belfast_sunset), CC0.
 
-Mapas de materiales generados por el HTML. Entorno [Belfast Sunset, Poly Haven](https://polyhaven.com/a/belfast_sunset), CC0.
+Los scripts de render y codificación mantienen un bloqueo explícito para el video. Solo se reanudará tras la aprobación del propietario.

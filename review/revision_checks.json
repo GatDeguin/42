@@ -1,0 +1,1185 @@
+{
+  "checks": [
+    {
+      "name": "All movable door meshes avoid walls across27sampledposes (evaluated BVH)",
+      "pass": true,
+      "measured": []
+    },
+    {
+      "name": "Extraction pipes avoid evaluated enclosure and structural meshes",
+      "pass": true,
+      "measured": []
+    },
+    {
+      "name": "Acoustic meshes do not intersect",
+      "pass": true,
+      "measured": []
+    },
+    {
+      "name": "Extraction pipes avoid sanitary fixtures and kitchen/wardrobe meshes",
+      "pass": true,
+      "measured": []
+    },
+    {
+      "name": "Studio3.20m / dwelling and bathroom2.60m clear",
+      "pass": true,
+      "measured": {
+        "Cielorraso estudio | cota inferior 6.45m": {
+          "floor": 3.25,
+          "underside": 6.450000286102295,
+          "clear": 3.200000286102295
+        },
+        "Cielorraso vivienda | 2.60m sobre piso general": {
+          "floor": 3.25,
+          "underside": 5.850000381469727,
+          "clear": 2.6000003814697266
+        },
+        "Cielorraso baño | 2.60m sobre porcelanato": {
+          "floor": 3.3,
+          "underside": 5.900000095367432,
+          "clear": 2.6000001430511475
+        }
+      }
+    },
+    {
+      "name": "Exterior front studio roof stands0.60m above dwelling module",
+      "pass": true,
+      "measured": {
+        "front_center": 7.549999713897705,
+        "rear_center": 6.949999809265137,
+        "difference": 0.5999999046325684
+      }
+    },
+    {
+      "name": "All HTML fixed cameras retained",
+      "pass": true,
+      "measured": [
+        {
+          "name": "CAM | Casa & paisaje",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Pileta & playa húmeda",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Escalera & acceso",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Estudio de grabación",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Cocina & comedor",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Cocina",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Comedor",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Vestidor pasante",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Dormitorio",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Baño de pileta",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Quincho",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Implantación general",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Distribución · planta alta",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Huerta",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Balcón",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        },
+        {
+          "name": "CAM | Fachada de acceso",
+          "error_m": 0.0,
+          "lens_error_mm": 0.0
+        }
+      ]
+    },
+    {
+      "name": "All textures and reference images packed",
+      "pass": true,
+      "measured": 36
+    },
+    {
+      "name": "Video generation explicitly paused",
+      "pass": true,
+      "measured": null
+    }
+  ],
+  "bounds": [
+    {
+      "name": "Cubierta pendiente Cedro Misionero",
+      "lo": [
+        13.699999809265137,
+        -6.078751087188721,
+        7.037081718444824
+      ],
+      "hi": [
+        22.299999237060547,
+        0.09844285249710083,
+        8.170327186584473
+      ]
+    },
+    {
+      "name": "Cubierta pendiente pileta",
+      "lo": [
+        13.699999809265137,
+        -12.098443031311035,
+        6.437081813812256
+      ],
+      "hi": [
+        22.299999237060547,
+        -5.921248912811279,
+        7.5703277587890625
+      ]
+    },
+    {
+      "name": "Revestimiento interior | Cubierta pendiente pileta",
+      "lo": [
+        13.699999809265137,
+        -12.09011173248291,
+        6.31011438369751
+      ],
+      "hi": [
+        22.299999237060547,
+        -5.90988826751709,
+        7.459885120391846
+      ]
+    },
+    {
+      "name": "Cubierta escalonada | babeta vertical",
+      "lo": [
+        13.690000534057617,
+        -6.116000175476074,
+        7.484999656677246
+      ],
+      "hi": [
+        22.309999465942383,
+        -6.093999862670898,
+        8.164999961853027
+      ]
+    },
+    {
+      "name": "Cubierta vivienda | contrababeta de encuentro",
+      "lo": [
+        13.690000534057617,
+        -6.319999694824219,
+        7.522500038146973
+      ],
+      "hi": [
+        22.309999465942383,
+        -6.0,
+        7.547499656677246
+      ]
+    },
+    {
+      "name": "Bafle cielorraso estudio 1",
+      "lo": [
+        14.6899995803833,
+        -4.300000190734863,
+        6.450000286102295
+      ],
+      "hi": [
+        15.609999656677246,
+        -1.7000000476837158,
+        6.570000171661377
+      ]
+    },
+    {
+      "name": "Bafle cielorraso estudio 2",
+      "lo": [
+        16.07000160217285,
+        -4.300000190734863,
+        6.450000286102295
+      ],
+      "hi": [
+        16.989999771118164,
+        -1.7000000476837158,
+        6.570000171661377
+      ]
+    },
+    {
+      "name": "Bafle cielorraso estudio 3",
+      "lo": [
+        17.450000762939453,
+        -4.300000190734863,
+        6.450000286102295
+      ],
+      "hi": [
+        18.369998931884766,
+        -1.7000000476837158,
+        6.570000171661377
+      ]
+    },
+    {
+      "name": "Bafle cielorraso estudio 4",
+      "lo": [
+        18.830001831054688,
+        -4.300000190734863,
+        6.450000286102295
+      ],
+      "hi": [
+        19.75,
+        -1.7000000476837158,
+        6.570000171661377
+      ]
+    },
+    {
+      "name": "Bafle cielorraso estudio 5",
+      "lo": [
+        20.21000099182129,
+        -4.300000190734863,
+        6.450000286102295
+      ],
+      "hi": [
+        21.1299991607666,
+        -1.7000000476837158,
+        6.570000171661377
+      ]
+    },
+    {
+      "name": "Cielorraso estudio | cota inferior 6.45m",
+      "lo": [
+        14.210000038146973,
+        -5.789999961853027,
+        6.450000286102295
+      ],
+      "hi": [
+        21.790000915527344,
+        -0.21000003814697266,
+        6.4679999351501465
+      ]
+    },
+    {
+      "name": "Remate cielorraso vestidor",
+      "lo": [
+        17.65999984741211,
+        -8.75,
+        5.925000190734863
+      ],
+      "hi": [
+        19.380001068115234,
+        -6.010000228881836,
+        5.954999923706055
+      ]
+    },
+    {
+      "name": "Cielorraso vivienda | 2.60m sobre piso general",
+      "lo": [
+        14.199999809265137,
+        -11.800000190734863,
+        5.850000381469727
+      ],
+      "hi": [
+        21.799999237060547,
+        -6.199999809265137,
+        5.868000030517578
+      ]
+    },
+    {
+      "name": "Cielorraso baño | 2.60m sobre porcelanato",
+      "lo": [
+        19.524999618530273,
+        -8.475000381469727,
+        5.900000095367432
+      ],
+      "hi": [
+        21.774999618530273,
+        -6.125,
+        5.917999744415283
+      ]
+    },
+    {
+      "name": "Estudio | cabio 00",
+      "lo": [
+        14.279999732971191,
+        -6.054262161254883,
+        6.675491809844971
+      ],
+      "hi": [
+        14.359999656677246,
+        0.054262276738882065,
+        8.004508018493652
+      ]
+    },
+    {
+      "name": "Estudio | cabio 01",
+      "lo": [
+        14.97599983215332,
+        -6.054262161254883,
+        6.675491809844971
+      ],
+      "hi": [
+        15.055999755859375,
+        0.054262276738882065,
+        8.004508018493652
+      ]
+    },
+    {
+      "name": "Estudio | cabio 02",
+      "lo": [
+        15.67199993133545,
+        -6.054262161254883,
+        6.675491809844971
+      ],
+      "hi": [
+        15.751999855041504,
+        0.054262276738882065,
+        8.004508018493652
+      ]
+    },
+    {
+      "name": "Estudio | cabio 03",
+      "lo": [
+        16.368000030517578,
+        -6.054262161254883,
+        6.675491809844971
+      ],
+      "hi": [
+        16.448001861572266,
+        0.054262276738882065,
+        8.004508018493652
+      ]
+    },
+    {
+      "name": "Estudio | cabio 04",
+      "lo": [
+        17.06399917602539,
+        -6.054262161254883,
+        6.675491809844971
+      ],
+      "hi": [
+        17.144001007080078,
+        0.054262276738882065,
+        8.004508018493652
+      ]
+    },
+    {
+      "name": "Estudio | cabio 05",
+      "lo": [
+        17.759998321533203,
+        -6.054262161254883,
+        6.675491809844971
+      ],
+      "hi": [
+        17.84000015258789,
+        0.054262276738882065,
+        8.004508018493652
+      ]
+    },
+    {
+      "name": "Estudio | cabio 06",
+      "lo": [
+        18.45599937438965,
+        -6.054262161254883,
+        6.675491809844971
+      ],
+      "hi": [
+        18.536001205444336,
+        0.054262276738882065,
+        8.004508018493652
+      ]
+    },
+    {
+      "name": "Estudio | cabio 07",
+      "lo": [
+        19.15199851989746,
+        -6.054262161254883,
+        6.675491809844971
+      ],
+      "hi": [
+        19.23200035095215,
+        0.054262276738882065,
+        8.004508018493652
+      ]
+    },
+    {
+      "name": "Estudio | cabio 08",
+      "lo": [
+        19.847999572753906,
+        -6.054262161254883,
+        6.675491809844971
+      ],
+      "hi": [
+        19.928001403808594,
+        0.054262276738882065,
+        8.004508018493652
+      ]
+    },
+    {
+      "name": "Estudio | cabio 09",
+      "lo": [
+        20.54399871826172,
+        -6.054262161254883,
+        6.675491809844971
+      ],
+      "hi": [
+        20.624000549316406,
+        0.054262276738882065,
+        8.004508018493652
+      ]
+    },
+    {
+      "name": "Estudio | cabio 10",
+      "lo": [
+        21.239999771118164,
+        -6.054262161254883,
+        6.675491809844971
+      ],
+      "hi": [
+        21.32000160217285,
+        0.054262276738882065,
+        8.004508018493652
+      ]
+    },
+    {
+      "name": "Estudio | canal de cielorraso 00",
+      "lo": [
+        14.382499694824219,
+        -5.760000228881836,
+        6.605000019073486
+      ],
+      "hi": [
+        14.417499542236328,
+        -0.24000000953674316,
+        6.644999980926514
+      ]
+    },
+    {
+      "name": "Estudio | canal de cielorraso 01",
+      "lo": [
+        14.982500076293945,
+        -5.760000228881836,
+        6.605000019073486
+      ],
+      "hi": [
+        15.017499923706055,
+        -0.24000000953674316,
+        6.644999980926514
+      ]
+    },
+    {
+      "name": "Estudio | canal de cielorraso 02",
+      "lo": [
+        15.582500457763672,
+        -5.760000228881836,
+        6.605000019073486
+      ],
+      "hi": [
+        15.617500305175781,
+        -0.24000000953674316,
+        6.644999980926514
+      ]
+    },
+    {
+      "name": "Estudio | canal de cielorraso 03",
+      "lo": [
+        16.1825008392334,
+        -5.760000228881836,
+        6.605000019073486
+      ],
+      "hi": [
+        16.217500686645508,
+        -0.24000000953674316,
+        6.644999980926514
+      ]
+    },
+    {
+      "name": "Estudio | canal de cielorraso 04",
+      "lo": [
+        16.782499313354492,
+        -5.760000228881836,
+        6.605000019073486
+      ],
+      "hi": [
+        16.8174991607666,
+        -0.24000000953674316,
+        6.644999980926514
+      ]
+    },
+    {
+      "name": "Estudio | canal de cielorraso 05",
+      "lo": [
+        17.38249969482422,
+        -5.760000228881836,
+        6.605000019073486
+      ],
+      "hi": [
+        17.417499542236328,
+        -0.24000000953674316,
+        6.644999980926514
+      ]
+    },
+    {
+      "name": "Estudio | canal de cielorraso 06",
+      "lo": [
+        17.982500076293945,
+        -5.760000228881836,
+        6.605000019073486
+      ],
+      "hi": [
+        18.017499923706055,
+        -0.24000000953674316,
+        6.644999980926514
+      ]
+    },
+    {
+      "name": "Estudio | canal de cielorraso 07",
+      "lo": [
+        18.582500457763672,
+        -5.760000228881836,
+        6.605000019073486
+      ],
+      "hi": [
+        18.61750030517578,
+        -0.24000000953674316,
+        6.644999980926514
+      ]
+    },
+    {
+      "name": "Estudio | canal de cielorraso 08",
+      "lo": [
+        19.1825008392334,
+        -5.760000228881836,
+        6.605000019073486
+      ],
+      "hi": [
+        19.217500686645508,
+        -0.24000000953674316,
+        6.644999980926514
+      ]
+    },
+    {
+      "name": "Estudio | canal de cielorraso 09",
+      "lo": [
+        19.782499313354492,
+        -5.760000228881836,
+        6.605000019073486
+      ],
+      "hi": [
+        19.8174991607666,
+        -0.24000000953674316,
+        6.644999980926514
+      ]
+    },
+    {
+      "name": "Estudio | canal de cielorraso 10",
+      "lo": [
+        20.38249969482422,
+        -5.760000228881836,
+        6.605000019073486
+      ],
+      "hi": [
+        20.417499542236328,
+        -0.24000000953674316,
+        6.644999980926514
+      ]
+    },
+    {
+      "name": "Estudio | canal de cielorraso 11",
+      "lo": [
+        20.982500076293945,
+        -5.760000228881836,
+        6.605000019073486
+      ],
+      "hi": [
+        21.017499923706055,
+        -0.24000000953674316,
+        6.644999980926514
+      ]
+    },
+    {
+      "name": "Estudio | canal de cielorraso 12",
+      "lo": [
+        21.582500457763672,
+        -4.920000076293945,
+        6.605000019073486
+      ],
+      "hi": [
+        21.61750030517578,
+        -0.24000000953674316,
+        6.644999980926514
+      ]
+    },
+    {
+      "name": "Vivienda | cabio 00",
+      "lo": [
+        14.279999732971191,
+        -12.054262161254883,
+        6.075491428375244
+      ],
+      "hi": [
+        14.359999656677246,
+        -5.945737838745117,
+        7.404508113861084
+      ]
+    },
+    {
+      "name": "Vivienda | cabio 01",
+      "lo": [
+        14.97599983215332,
+        -12.054262161254883,
+        6.075491428375244
+      ],
+      "hi": [
+        15.055999755859375,
+        -5.945737838745117,
+        7.404508113861084
+      ]
+    },
+    {
+      "name": "Vivienda | cabio 02",
+      "lo": [
+        15.67199993133545,
+        -12.054262161254883,
+        6.075491428375244
+      ],
+      "hi": [
+        15.751999855041504,
+        -5.945737838745117,
+        7.404508113861084
+      ]
+    },
+    {
+      "name": "Vivienda | cabio 03",
+      "lo": [
+        16.368000030517578,
+        -12.054262161254883,
+        6.075491428375244
+      ],
+      "hi": [
+        16.448001861572266,
+        -5.945737838745117,
+        7.404508113861084
+      ]
+    },
+    {
+      "name": "Vivienda | cabio 04",
+      "lo": [
+        17.06399917602539,
+        -12.054262161254883,
+        6.075491428375244
+      ],
+      "hi": [
+        17.144001007080078,
+        -5.945737838745117,
+        7.404508113861084
+      ]
+    },
+    {
+      "name": "Vivienda | cabio 05",
+      "lo": [
+        17.759998321533203,
+        -12.054262161254883,
+        6.075491428375244
+      ],
+      "hi": [
+        17.84000015258789,
+        -5.945737838745117,
+        7.404508113861084
+      ]
+    },
+    {
+      "name": "Vivienda | cabio 06",
+      "lo": [
+        18.45599937438965,
+        -12.054262161254883,
+        6.075491428375244
+      ],
+      "hi": [
+        18.536001205444336,
+        -5.945737838745117,
+        7.404508113861084
+      ]
+    },
+    {
+      "name": "Vivienda | cabio 07",
+      "lo": [
+        19.15199851989746,
+        -12.054262161254883,
+        6.075491428375244
+      ],
+      "hi": [
+        19.23200035095215,
+        -5.945737838745117,
+        7.404508113861084
+      ]
+    },
+    {
+      "name": "Vivienda | cabio 08",
+      "lo": [
+        19.847999572753906,
+        -12.054262161254883,
+        6.075491428375244
+      ],
+      "hi": [
+        19.928001403808594,
+        -5.945737838745117,
+        7.404508113861084
+      ]
+    },
+    {
+      "name": "Vivienda | cabio 09",
+      "lo": [
+        20.54399871826172,
+        -12.054262161254883,
+        6.075491428375244
+      ],
+      "hi": [
+        20.624000549316406,
+        -5.945737838745117,
+        7.404508113861084
+      ]
+    },
+    {
+      "name": "Vivienda | cabio 10",
+      "lo": [
+        21.239999771118164,
+        -12.054262161254883,
+        6.075491428375244
+      ],
+      "hi": [
+        21.32000160217285,
+        -5.945737838745117,
+        7.404508113861084
+      ]
+    },
+    {
+      "name": "Vivienda | canal de cielorraso 00",
+      "lo": [
+        14.382499694824219,
+        -11.760000228881836,
+        5.960000038146973
+      ],
+      "hi": [
+        14.417499542236328,
+        -6.239999771118164,
+        6.0
+      ]
+    },
+    {
+      "name": "Vivienda | canal de cielorraso 01",
+      "lo": [
+        14.982500076293945,
+        -11.760000228881836,
+        5.960000038146973
+      ],
+      "hi": [
+        15.017499923706055,
+        -6.239999771118164,
+        6.0
+      ]
+    },
+    {
+      "name": "Vivienda | canal de cielorraso 02",
+      "lo": [
+        15.582500457763672,
+        -11.760000228881836,
+        5.960000038146973
+      ],
+      "hi": [
+        15.617500305175781,
+        -6.239999771118164,
+        6.0
+      ]
+    },
+    {
+      "name": "Vivienda | canal de cielorraso 03",
+      "lo": [
+        16.1825008392334,
+        -11.760000228881836,
+        5.960000038146973
+      ],
+      "hi": [
+        16.217500686645508,
+        -6.239999771118164,
+        6.0
+      ]
+    },
+    {
+      "name": "Vivienda | canal de cielorraso 04",
+      "lo": [
+        16.782499313354492,
+        -11.760000228881836,
+        5.960000038146973
+      ],
+      "hi": [
+        16.8174991607666,
+        -6.239999771118164,
+        6.0
+      ]
+    },
+    {
+      "name": "Vivienda | canal de cielorraso 05",
+      "lo": [
+        17.38249969482422,
+        -11.760000228881836,
+        5.960000038146973
+      ],
+      "hi": [
+        17.417499542236328,
+        -6.239999771118164,
+        6.0
+      ]
+    },
+    {
+      "name": "Vivienda | canal de cielorraso 06",
+      "lo": [
+        17.982500076293945,
+        -11.760000228881836,
+        5.960000038146973
+      ],
+      "hi": [
+        18.017499923706055,
+        -6.239999771118164,
+        6.0
+      ]
+    },
+    {
+      "name": "Vivienda | canal de cielorraso 07",
+      "lo": [
+        18.582500457763672,
+        -11.760000228881836,
+        5.960000038146973
+      ],
+      "hi": [
+        18.61750030517578,
+        -6.239999771118164,
+        6.0
+      ]
+    },
+    {
+      "name": "Vivienda | canal de cielorraso 08",
+      "lo": [
+        19.1825008392334,
+        -11.760000228881836,
+        5.960000038146973
+      ],
+      "hi": [
+        19.217500686645508,
+        -6.239999771118164,
+        6.0
+      ]
+    },
+    {
+      "name": "Vivienda | canal de cielorraso 09",
+      "lo": [
+        19.782499313354492,
+        -11.760000228881836,
+        5.960000038146973
+      ],
+      "hi": [
+        19.8174991607666,
+        -6.239999771118164,
+        6.0
+      ]
+    },
+    {
+      "name": "Vivienda | canal de cielorraso 10",
+      "lo": [
+        20.38249969482422,
+        -11.760000228881836,
+        5.960000038146973
+      ],
+      "hi": [
+        20.417499542236328,
+        -6.239999771118164,
+        6.0
+      ]
+    },
+    {
+      "name": "Vivienda | canal de cielorraso 11",
+      "lo": [
+        20.982500076293945,
+        -11.760000228881836,
+        5.960000038146973
+      ],
+      "hi": [
+        21.017499923706055,
+        -6.239999771118164,
+        6.0
+      ]
+    },
+    {
+      "name": "Vivienda | canal de cielorraso 12",
+      "lo": [
+        21.582500457763672,
+        -11.760000228881836,
+        5.960000038146973
+      ],
+      "hi": [
+        21.61750030517578,
+        -6.239999771118164,
+        6.0
+      ]
+    },
+    {
+      "name": "Extracción Horno | conducto continuo aislado",
+      "lo": [
+        21.055246353149414,
+        -6.855000019073486,
+        2.5851798057556152
+      ],
+      "hi": [
+        21.604999542236328,
+        -5.09499979019165,
+        8.699999809265137
+      ]
+    },
+    {
+      "name": "Extracción Parrilla | conducto continuo aislado",
+      "lo": [
+        21.329999923706055,
+        -9.4399995803833,
+        2.490000009536743
+      ],
+      "hi": [
+        21.65999984741211,
+        -5.410000324249268,
+        8.699999809265137
+      ]
+    },
+    {
+      "name": "Patinillo extracción | frente registrable",
+      "lo": [
+        21.267499923706055,
+        -5.804999828338623,
+        3.129999876022339
+      ],
+      "hi": [
+        21.29250144958496,
+        -5.025000095367432,
+        8.229999542236328
+      ]
+    },
+    {
+      "name": "Patinillo extracción | lateral anterior",
+      "lo": [
+        21.280000686645508,
+        -5.037499904632568,
+        3.129999876022339
+      ],
+      "hi": [
+        21.78999900817871,
+        -5.012500286102295,
+        8.229999542236328
+      ]
+    },
+    {
+      "name": "Patinillo extracción | lateral posterior",
+      "lo": [
+        21.280000686645508,
+        -5.81749963760376,
+        3.129999876022339
+      ],
+      "hi": [
+        21.78999900817871,
+        -5.792500019073486,
+        8.229999542236328
+      ]
+    },
+    {
+      "name": "Patinillo | registro estudio",
+      "lo": [
+        21.253999710083008,
+        -5.619999885559082,
+        3.509999990463257
+      ],
+      "hi": [
+        21.266000747680664,
+        -5.199999809265137,
+        4.130000114440918
+      ]
+    },
+    {
+      "name": "Patinillo | remate exterior frente",
+      "lo": [
+        21.255998611450195,
+        -5.824999809265137,
+        7.930000305175781
+      ],
+      "hi": [
+        21.26799964904785,
+        -5.005000114440918,
+        8.25
+      ]
+    },
+    {
+      "name": "Patinillo | remate exterior lateral anterior",
+      "lo": [
+        21.25899887084961,
+        -5.013000011444092,
+        7.930000305175781
+      ],
+      "hi": [
+        21.798999786376953,
+        -5.000999927520752,
+        8.25
+      ]
+    },
+    {
+      "name": "Patinillo | remate exterior lateral posterior",
+      "lo": [
+        21.25899887084961,
+        -5.828999996185303,
+        7.930000305175781
+      ],
+      "hi": [
+        21.798999786376953,
+        -5.816999912261963,
+        8.25
+      ]
+    },
+    {
+      "name": "Extracción cocina | salida independiente",
+      "lo": [
+        21.369976043701172,
+        -10.574999809265137,
+        5.0
+      ],
+      "hi": [
+        21.630008697509766,
+        -10.225000381469727,
+        7.949999809265137
+      ]
+    }
+  ],
+  "tested_moving_meshes": {
+    "studio": [
+      "Manija puerta estudio exterior",
+      "Manija puerta estudio interior",
+      "Puerta acceso estudio"
+    ],
+    "suiteEntry": [
+      "Puerta acceso vestidor",
+      "Puerta acceso vestidor manija"
+    ],
+    "bedroomLink": [
+      "Puerta dormitorio",
+      "Puerta dormitorio manija"
+    ],
+    "bathLink": [
+      "Puerta baño vivienda",
+      "Puerta baño vivienda manija"
+    ],
+    "poolBath": [
+      "Puerta baño quincho",
+      "Puerta baño quincho manija"
+    ],
+    "mono_L": [
+      "Puerta doble mono izquierda Burlete derecho",
+      "Puerta doble mono izquierda Burlete inferior",
+      "Puerta doble mono izquierda Burlete izquierdo",
+      "Puerta doble mono izquierda Burlete superior",
+      "Puerta doble mono izquierda marco derecho",
+      "Puerta doble mono izquierda marco inferior",
+      "Puerta doble mono izquierda marco izquierdo",
+      "Puerta doble mono izquierda marco superior",
+      "Puerta doble mono izquierda vidrio",
+      "Puerta doble mono izquierda Vidrio interior"
+    ],
+    "mono_R": [
+      "Puerta doble mono derecha Burlete derecho",
+      "Puerta doble mono derecha Burlete inferior",
+      "Puerta doble mono derecha Burlete izquierdo",
+      "Puerta doble mono derecha Burlete superior",
+      "Puerta doble mono derecha marco derecho",
+      "Puerta doble mono derecha marco inferior",
+      "Puerta doble mono derecha marco izquierdo",
+      "Puerta doble mono derecha marco superior",
+      "Puerta doble mono derecha vidrio",
+      "Puerta doble mono derecha Vidrio interior"
+    ],
+    "balconySide": [
+      "Corrediza lateral A Burlete fondo",
+      "Corrediza lateral A Burlete frente",
+      "Corrediza lateral A Burlete inferior",
+      "Corrediza lateral A Burlete superior",
+      "Corrediza lateral A marco fondo",
+      "Corrediza lateral A marco frente",
+      "Corrediza lateral A marco inferior",
+      "Corrediza lateral A marco superior",
+      "Corrediza lateral A vidrio",
+      "Corrediza lateral A Vidrio interior"
+    ],
+    "balconyRear_A": [
+      "Corrediza posterior A vidrio",
+      "Corrediza posterior A Vidrio interior",
+      "Hoja posterior A | perfil móvil",
+      "Hoja posterior A | perfil móvil.001",
+      "Hoja posterior A | perfil móvil.002",
+      "Hoja posterior A | perfil móvil.003",
+      "Hoja posterior A | tirador",
+      "Manija corrediza posterior A"
+    ],
+    "balconyRear_B": [
+      "Corrediza posterior B vidrio",
+      "Corrediza posterior B Vidrio interior",
+      "Hoja posterior B | perfil móvil",
+      "Hoja posterior B | perfil móvil.001",
+      "Hoja posterior B | perfil móvil.002",
+      "Hoja posterior B | perfil móvil.003",
+      "Hoja posterior B | tirador",
+      "Manija corrediza posterior B"
+    ],
+    "bathroomMono": [
+      "Baño mono puerta",
+      "Baño mono | manija"
+    ],
+    "gate": [
+      "Nervio portón 11.25",
+      "Nervio portón 11.57",
+      "Nervio portón 11.89",
+      "Nervio portón 12.21",
+      "Nervio portón 12.53",
+      "Nervio portón 12.85",
+      "Nervio portón 13.17",
+      "Nervio portón 13.49",
+      "Nervio portón 13.81",
+      "Portón negro",
+      "Portón | rueda de acero",
+      "Portón | rueda de acero.001"
+    ]
+  }
+}

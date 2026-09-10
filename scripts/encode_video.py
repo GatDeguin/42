@@ -1,4 +1,5 @@
 import os,json,sys,subprocess
+raise SystemExit('Video encoding paused by owner. Resume this pipeline only after explicit approval.')
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)));OUT=os.path.join(ROOT,'output')
 sys.path.insert(0,os.path.join(ROOT,'tools'))
 import imageio_ffmpeg

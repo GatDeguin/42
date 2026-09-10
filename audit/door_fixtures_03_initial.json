@@ -1,0 +1,44 @@
+[
+  {
+    "frame": 78,
+    "door": "DOOR | bedroomLink",
+    "part": "Puerta dormitorio",
+    "fixture": "Cama dormitorio manta",
+    "tri_pairs": 26
+  },
+  {
+    "frame": 78,
+    "door": "DOOR | bathLink",
+    "part": "Puerta baño vivienda",
+    "fixture": "Bidet vivienda",
+    "tri_pairs": 78
+  },
+  {
+    "frame": 90,
+    "door": "DOOR | bedroomLink",
+    "part": "Puerta dormitorio",
+    "fixture": "Cama dormitorio manta",
+    "tri_pairs": 26
+  },
+  {
+    "frame": 90,
+    "door": "DOOR | bathLink",
+    "part": "Puerta baño vivienda",
+    "fixture": "Bidet vivienda",
+    "tri_pairs": 78
+  },
+  {
+    "frame": 105,
+    "door": "DOOR | bedroomLink",
+    "part": "Puerta dormitorio",
+    "fixture": "Cama dormitorio manta",
+    "tri_pairs": 26
+  },
+  {
+    "frame": 105,
+    "door": "DOOR | bathLink",
+    "part": "Puerta baño vivienda",
+    "fixture": "Bidet vivienda",
+    "tri_pairs": 78
+  }
+]

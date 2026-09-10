@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="1450"><rect width="100%" height="100%" fill="#fcfbf7"/>
+<text x="950.0" y="51.3" font-family="Segoe UI,sans-serif" font-size="31" text-anchor="middle" fill="#28372f">Extracción | horno y parrilla independientes</text>
+<text x="950.0" y="91.7" font-family="Segoe UI,sans-serif" font-size="19" text-anchor="middle" fill="#64716a">Trayectorias coordinadas con la geometría real; detalle desarrollado donde el HTML no define instalaciones</text>
+<text x="570" y="152.5" font-family="Segoe UI,sans-serif" font-size="25" text-anchor="middle" fill="#28372f">Proyección longitudinal | Z fuente / altura</text>
+<polyline points="115.00,1180.00 912.50,1180.00" fill="none" stroke="#adb8af" stroke-width="1"/>
+<text x="80" y="1185.1" font-family="Segoe UI,sans-serif" font-size="17" text-anchor="middle" fill="#64716a">±0,00</text>
+<polyline points="115.00,891.40 912.50,891.40" fill="none" stroke="#adb8af" stroke-width="1"/>
+<text x="80" y="896.5" font-family="Segoe UI,sans-serif" font-size="17" text-anchor="middle" fill="#64716a">+2,60</text>
+<polyline points="115.00,847.00 912.50,847.00" fill="none" stroke="#adb8af" stroke-width="1"/>
+<text x="80" y="852.1" font-family="Segoe UI,sans-serif" font-size="17" text-anchor="middle" fill="#64716a">Losa</text>
+<polyline points="115.00,819.25 912.50,819.25" fill="none" stroke="#adb8af" stroke-width="1"/>
+<text x="80" y="824.35" font-family="Segoe UI,sans-serif" font-size="17" text-anchor="middle" fill="#64716a">Piso</text>
+<polyline points="115.00,464.05 912.50,464.05" fill="none" stroke="#adb8af" stroke-width="1"/>
+<text x="80" y="469.15" font-family="Segoe UI,sans-serif" font-size="17" text-anchor="middle" fill="#64716a">Cielorraso</text>
+<polyline points="115.00,214.30 912.50,214.30" fill="none" stroke="#adb8af" stroke-width="1"/>
+<text x="80" y="219.40000000000006" font-family="Segoe UI,sans-serif" font-size="17" text-anchor="middle" fill="#64716a">Salida</text>
+<polygon points="115.00,847.00 912.50,847.00 912.50,824.80 115.00,824.80" fill="#d0d2ca"/>
+<polyline points="115.00,305.32 289.00,280.90 289.00,347.50 912.50,435.01" fill="none" stroke="#303d37" stroke-width="5"/>
+<polyline points="397.75,891.40 397.75,882.52 370.20,880.30 212.15,876.97 180.25,871.42 173.00,860.32 173.00,838.12 173.00,214.30" fill="none" stroke="#a95536" stroke-width="23"/>
+<polyline points="397.75,891.40 397.75,882.52 370.20,880.30 212.15,876.97 180.25,871.42 173.00,860.32 173.00,838.12 173.00,214.30" fill="none" stroke="#fcfbf7" stroke-width="20"/>
+<text x="397.75" y="975.4" font-family="Segoe UI,sans-serif" font-size="21" text-anchor="middle" fill="#a95536">Horno</text>
+<polyline points="787.80,885.85 738.50,885.85 318.00,881.41 280.30,879.19 242.60,871.42 226.65,852.55 226.65,832.57 226.65,214.30" fill="none" stroke="#347986" stroke-width="36"/>
+<polyline points="787.80,885.85 738.50,885.85 318.00,881.41 280.30,879.19 242.60,871.42 226.65,852.55 226.65,832.57 226.65,214.30" fill="none" stroke="#fcfbf7" stroke-width="32"/>
+<text x="787.8" y="975.4" font-family="Segoe UI,sans-serif" font-size="21" text-anchor="middle" fill="#347986">Parrilla</text>
+<text x="570" y="1286.3" font-family="Segoe UI,sans-serif" font-size="21" text-anchor="middle" fill="#28372f">Conductos bajo losa → patinillo → pasos de cubierta → sombreretes</text>
+<text x="1460" y="152.5" font-family="Segoe UI,sans-serif" font-size="25" text-anchor="middle" fill="#28372f">Planta de coordinación | X / Z fuente</text>
+<polygon points="1376.10,474.00 1651.10,474.00 1651.10,592.40 1376.10,592.40" fill="#e4e6de" stroke="#909a91"/>
+<text x="1513.6" y="538.3000000000001" font-family="Segoe UI,sans-serif" font-size="17" text-anchor="middle" fill="#28372f">BAÑERA</text>
+<polygon points="1500.40,874.00 1667.60,874.00 1667.60,1154.00 1500.40,1154.00" fill="#e4e6de" stroke="#909a91"/>
+<text x="1583.9999999999998" y="1019.0999999999999" font-family="Segoe UI,sans-serif" font-size="17" text-anchor="middle" fill="#28372f">COCINA</text>
+<polygon points="1562.55,253.60 1678.05,253.60 1678.05,390.40 1562.55,390.40" fill="#d4e0d4" stroke="#909a91"/>
+<text x="1620.2999999999997" y="327.1" font-family="Segoe UI,sans-serif" font-size="17" text-anchor="middle" fill="#28372f">PATINILLO</text>
+<polyline points="1551.00,522.00 1551.00,522.00 1531.20,491.60 1531.20,317.20 1551.00,282.00 1606.00,274.00 1606.00,274.00 1606.00,274.00" fill="none" stroke="#a95536" stroke-width="34"/>
+<text x="1491.0000000000002" y="279.40000000000003" font-family="Segoe UI,sans-serif" font-size="18" text-anchor="middle" fill="#a95536">Horno</text>
+<polyline points="1603.80,952.40 1603.80,898.00 1603.80,434.00 1603.80,392.40 1606.00,350.80 1606.00,333.20 1606.00,333.20 1606.00,333.20" fill="none" stroke="#347986" stroke-width="51"/>
+<text x="1491.0000000000002" y="338.6" font-family="Segoe UI,sans-serif" font-size="18" text-anchor="middle" fill="#347986">Parrilla</text>
+<text x="1460" y="1255.7" font-family="Segoe UI,sans-serif" font-size="19" text-anchor="middle" fill="#28372f">Los tramos horizontales pertenecen al nivel bajo losa.</text>
+<text x="950" y="1386.3" font-family="Segoe UI,sans-serif" font-size="21" text-anchor="middle" fill="#64716a">Diámetros exteriores representados: horno 0,21 m / parrilla 0,32 m. Rutas independientes. Se conserva distribución de ambientes.</text>
+</svg>

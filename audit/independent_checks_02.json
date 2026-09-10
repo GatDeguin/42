@@ -1,0 +1,250 @@
+{
+  "file": "D:\\2026\\42\\output\\Casa_de_Campo_Revision.blend",
+  "pipe_structure_intersections": [
+    {
+      "pipe": "Extracción Horno | conducto continuo aislado",
+      "other": "Estudio | canal de cielorraso 12",
+      "tri_pairs": 64
+    },
+    {
+      "pipe": "Extracción Parrilla | conducto continuo aislado",
+      "other": "Medianera constructiva baja",
+      "tri_pairs": 14
+    },
+    {
+      "pipe": "Extracción Parrilla | conducto continuo aislado",
+      "other": "Separación mono quincho derecha",
+      "tri_pairs": 60
+    },
+    {
+      "pipe": "Extracción Parrilla | conducto continuo aislado",
+      "other": "Estudio | correa secundaria.007",
+      "tri_pairs": 54
+    },
+    {
+      "pipe": "Extracción Parrilla | conducto continuo aislado",
+      "other": "Estudio | viga de apoyo.001",
+      "tri_pairs": 48
+    },
+    {
+      "pipe": "Extracción Parrilla | conducto continuo aislado",
+      "other": "Estudio | canal de cielorraso 12",
+      "tri_pairs": 24
+    },
+    {
+      "pipe": "Extracción cocina | salida independiente",
+      "other": "Vivienda | correa secundaria.005",
+      "tri_pairs": 40
+    },
+    {
+      "pipe": "Extracción cocina | salida independiente",
+      "other": "Vivienda | canal de cielorraso 12",
+      "tri_pairs": 56
+    }
+  ],
+  "all_door_leaf_wall_intersections": [
+    {
+      "frame": 1,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha marco inferior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 58
+    },
+    {
+      "frame": 1,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha marco superior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 60
+    },
+    {
+      "frame": 42,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha marco inferior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 58
+    },
+    {
+      "frame": 42,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha marco superior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 60
+    },
+    {
+      "frame": 54,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha marco inferior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 58
+    },
+    {
+      "frame": 54,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha marco superior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 60
+    },
+    {
+      "frame": 66,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha marco inferior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 58
+    },
+    {
+      "frame": 66,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha marco superior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 60
+    },
+    {
+      "frame": 78,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha Burlete inferior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 20
+    },
+    {
+      "frame": 78,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha Burlete superior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 24
+    },
+    {
+      "frame": 78,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha marco inferior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 80
+    },
+    {
+      "frame": 78,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha marco superior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 60
+    },
+    {
+      "frame": 78,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha vidrio",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 16
+    },
+    {
+      "frame": 78,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha Vidrio interior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 24
+    },
+    {
+      "frame": 78,
+      "rig": "DOOR | bathroomMono",
+      "leaf": "Baño mono puerta",
+      "other": "Baño mono frente | paño",
+      "tri_pairs": 44
+    },
+    {
+      "frame": 90,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha Burlete inferior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 20
+    },
+    {
+      "frame": 90,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha Burlete superior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 24
+    },
+    {
+      "frame": 90,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha marco inferior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 80
+    },
+    {
+      "frame": 90,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha marco superior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 60
+    },
+    {
+      "frame": 90,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha vidrio",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 16
+    },
+    {
+      "frame": 90,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha Vidrio interior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 24
+    },
+    {
+      "frame": 90,
+      "rig": "DOOR | bathroomMono",
+      "leaf": "Baño mono puerta",
+      "other": "Baño mono frente | paño",
+      "tri_pairs": 44
+    },
+    {
+      "frame": 105,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha Burlete inferior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 20
+    },
+    {
+      "frame": 105,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha Burlete superior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 24
+    },
+    {
+      "frame": 105,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha marco inferior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 80
+    },
+    {
+      "frame": 105,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha marco superior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 60
+    },
+    {
+      "frame": 105,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha vidrio",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 16
+    },
+    {
+      "frame": 105,
+      "rig": "DOOR | mono_R",
+      "leaf": "Puerta doble mono derecha Vidrio interior",
+      "other": "Baño mono muro izquierdo",
+      "tri_pairs": 24
+    },
+    {
+      "frame": 105,
+      "rig": "DOOR | bathroomMono",
+      "leaf": "Baño mono puerta",
+      "other": "Baño mono frente | paño",
+      "tri_pairs": 44
+    }
+  ]
+}
