@@ -1,0 +1,760 @@
+{
+  "url": "https://gatdeguin.github.io/42/",
+  "stats": {
+    "drawCalls": 196,
+    "triangles": 789066,
+    "doors": 12,
+    "meshes": 2349,
+    "downloadBytes": 10021880
+  },
+  "materials": [
+    {
+      "name": "WEB | Metal negro | blackMetal",
+      "type": "MeshStandardMaterial",
+      "objects": 799,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.3799999952316284,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Agua | water",
+      "type": "MeshStandardMaterial",
+      "objects": 1,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.1599999964237213,
+      "metalness": 0.15000000596046448,
+      "transparent": true,
+      "opacity": 0.6299999952316284,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | oak · madera original",
+      "type": "MeshStandardMaterial",
+      "objects": 94,
+      "maps": {
+        "color": true,
+        "normal": false,
+        "bump": true,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.43,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Textil | fabric",
+      "type": "MeshStandardMaterial",
+      "objects": 52,
+      "maps": {
+        "color": true,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.8799999952316284,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Cerámica | tile",
+      "type": "MeshStandardMaterial",
+      "objects": 12,
+      "maps": {
+        "color": true,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.23999999463558197,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Luz cálida | warmLight",
+      "type": "MeshStandardMaterial",
+      "objects": 27,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.23999999463558197,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Horno de barro | terracotta",
+      "type": "MeshStandardMaterial",
+      "objects": 9,
+      "maps": {
+        "color": true,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.9200000166893005,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Porcelana sanitaria | ceramic",
+      "type": "MeshStandardMaterial",
+      "objects": 18,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.15000000596046448,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Acero | stainless",
+      "type": "MeshStandardMaterial",
+      "objects": 192,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.25,
+      "metalness": 1,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Panel acústico | acoustic",
+      "type": "MeshStandardMaterial",
+      "objects": 21,
+      "maps": {
+        "color": true,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.9399999976158142,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | walnut · madera original",
+      "type": "MeshStandardMaterial",
+      "objects": 97,
+      "maps": {
+        "color": true,
+        "normal": false,
+        "bump": true,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.43,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Hormigón | concrete",
+      "type": "MeshStandardMaterial",
+      "objects": 35,
+      "maps": {
+        "color": true,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.7599999904632568,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Madera oscura | woodDark",
+      "type": "MeshStandardMaterial",
+      "objects": 33,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.44999998807907104,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Hormigón oscuro | concreteDark",
+      "type": "MeshStandardMaterial",
+      "objects": 23,
+      "maps": {
+        "color": true,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.7900000214576721,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Vaso de piscina | poolBasin",
+      "type": "MeshStandardMaterial",
+      "objects": 9,
+      "maps": {
+        "color": true,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.25999999046325684,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Suelo exterior | soil",
+      "type": "MeshStandardMaterial",
+      "objects": 11,
+      "maps": {
+        "color": true,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 1,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Ladrillo sombra | brickDark",
+      "type": "MeshStandardMaterial",
+      "objects": 9,
+      "maps": {
+        "color": true,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.75,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Revoque cálido | whitePlaster",
+      "type": "MeshStandardMaterial",
+      "objects": 26,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.8199999928474426,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Ladrillo visto | brick",
+      "type": "MeshStandardMaterial",
+      "objects": 20,
+      "maps": {
+        "color": true,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.7200000286102295,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | embers",
+      "type": "MeshStandardMaterial",
+      "objects": 5,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.5,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Cedro Misionero | road",
+      "type": "MeshStandardMaterial",
+      "objects": 1,
+      "maps": {
+        "color": true,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.9700000286102295,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Lino marfil | clothWhite",
+      "type": "MeshStandardMaterial",
+      "objects": 12,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.8799999952316284,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Chapa grafito | roof",
+      "type": "MeshStandardMaterial",
+      "objects": 92,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.4300000071525574,
+      "metalness": 0.550000011920929,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | DVH | glass",
+      "type": "MeshStandardMaterial",
+      "objects": 22,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.15000000596046448,
+      "metalness": 0.10000000149011612,
+      "transparent": true,
+      "opacity": 0.20000000298023224,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Césped fino | variación botánica",
+      "type": "MeshStandardMaterial",
+      "objects": 72,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.75,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Césped | grass",
+      "type": "MeshStandardMaterial",
+      "objects": 198,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.8799999952316284,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | meterCyan",
+      "type": "MeshStandardMaterial",
+      "objects": 110,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.5,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | meterAmber",
+      "type": "MeshStandardMaterial",
+      "objects": 102,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.5,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Pantalla | screen",
+      "type": "MeshStandardMaterial",
+      "objects": 13,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.20000000298023224,
+      "metalness": 0.07999999821186066,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Loseta piscina | paver",
+      "type": "MeshStandardMaterial",
+      "objects": 10,
+      "maps": {
+        "color": true,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.7599999904632568,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Espejo con respaldo opaco | mirror",
+      "type": "MeshStandardMaterial",
+      "objects": 4,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.15000000596046448,
+      "metalness": 1,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Follaje de hoja ancha | leaf",
+      "type": "MeshStandardMaterial",
+      "objects": 10,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.5799999833106995,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Cemento alisado | cement",
+      "type": "MeshStandardMaterial",
+      "objects": 2,
+      "maps": {
+        "color": true,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.7300000190734863,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | parquet · madera original",
+      "type": "MeshStandardMaterial",
+      "objects": 2,
+      "maps": {
+        "color": true,
+        "normal": false,
+        "bump": true,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.43,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | meterGreen",
+      "type": "MeshStandardMaterial",
+      "objects": 8,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.5,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Corteza | fisura fina gris parda",
+      "type": "MeshStandardMaterial",
+      "objects": 54,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.9100000262260437,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    },
+    {
+      "name": "WEB | Corteza | poro y estría",
+      "type": "MeshStandardMaterial",
+      "objects": 144,
+      "maps": {
+        "color": false,
+        "normal": false,
+        "bump": false,
+        "roughness": false,
+        "metalness": false,
+        "ao": false,
+        "light": false,
+        "emissive": false
+      },
+      "roughness": 0.8799999952316284,
+      "metalness": 0,
+      "transparent": false,
+      "opacity": 1,
+      "transmission": 0
+    }
+  ],
+  "coverage": {
+    "color": 16,
+    "normal": 0,
+    "bump": 3,
+    "roughness": 0,
+    "ao": 0,
+    "light": 0
+  }
+}
