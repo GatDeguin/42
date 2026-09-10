@@ -8,7 +8,7 @@
 <script type="importmap">{"imports":{"three":"./vendor/three.module.js","three/addons/":"./vendor/addons/"}}</script>
 </head>
 <body>
-<header><button id="menu" class="icon" aria-label="Abrir controles" aria-expanded="false">☰</button><a class="brand" href="./"><span class="mark">42</span><span>CASA DE CAMPO<small>CEDRO MISIONERO</small></span></a><div class="header-right"><span class="live">Modelo interactivo</span><a href="https://github.com/GatDeguin/42" target="_blank" rel="noopener">Proyecto ↗</a></div></header>
+<header><button id="menu" class="icon" aria-label="Abrir controles" aria-expanded="false">☰</button><a class="brand" href="./"><span class="mark">42</span><span>CASA DE CAMPO<small>CEDRO MISIONERO</small></span></a><div class="header-right"><a href="./planos/">Planos ↗</a><span class="live">Modelo interactivo</span><a href="https://github.com/GatDeguin/42" target="_blank" rel="noopener">Proyecto ↗</a></div></header>
 <aside id="panel" aria-label="Controles del modelo">
 <div class="panel-intro"><span class="eyebrow">EXPLORAR LA ARQUITECTURA</span><h1>Tu espacio,<br>desde cada ángulo.</h1><p>Gira, acércate y descubre el interior.</p></div>
 <section><h2>Vistas generales</h2><div class="segmented" role="group" aria-label="Vistas generales"><button data-view="exterior" class="active">Exterior</button><button data-view="pb">Planta baja</button><button data-view="pa">Planta alta</button></div></section>
@@ -22,7 +22,7 @@
 <section><div class="section-heading"><h2>Puertas y correderas</h2><output id="door-value">Cerradas</output></div><label class="sr-only" for="doors">Apertura de todas las puertas</label><input id="doors" type="range" min="0" max="100" value="0"><div class="range-ends"><span>Cerrar</span><span>Abrir</span></div><p class="micro">Selecciona una puerta en el modelo para moverla por separado.</p></section>
 <div class="facts"><div><strong>22 × 20 <em>m</em></strong><span>Terreno</span></div><div><strong>3,20 <em>m</em></strong><span>Altura del estudio</span></div><div><strong>8 × 12 <em>m</em></strong><span>Casa</span></div><div><strong>2,60 <em>m</em></strong><span>Altura de vivienda</span></div></div>
 <a class="source-link" href="https://github.com/GatDeguin/42/blob/main/output/Casa_de_Campo_Final.blend" target="_blank" rel="noopener">Abrir proyecto Blender ↗</a>
-<p class="model-note">Geometría del modelo final auditado. Los materiales e iluminación están adaptados a la visualización en tiempo real.</p>
+<p class="model-note">Versión publicada en revisión. La auditoría exige 9,5 y realismo fotográfico. Consulta las correcciones constructivas en el juego de planos.</p>
 </aside>
 <main id="viewport" aria-label="Modelo tridimensional interactivo">
 <canvas id="scene" aria-label="Casa de campo en 3D. Arrastra para girar y usa la rueda para acercarte." tabindex="0"></canvas>

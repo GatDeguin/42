@@ -1,0 +1,216 @@
+{
+  "status": 200,
+  "sheets": 19,
+  "errors": [],
+  "widths": {
+    "body": 1440,
+    "viewport": 1440
+  },
+  "mobile": {
+    "body": 390,
+    "viewport": 390
+  },
+  "downloads": [
+    {
+      "url": "http://127.0.0.1:8420/planos/Casa_de_Campo_Planos_A2.pdf",
+      "status": 200,
+      "size": 598532
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/Casa_de_Campo_Planos_Editables.zip",
+      "status": 200,
+      "size": 1414700
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A00.svg",
+      "status": 200,
+      "size": 15028
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A00.dxf",
+      "status": 200,
+      "size": 19250
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A01.svg",
+      "status": 200,
+      "size": 24190
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A01.dxf",
+      "status": 200,
+      "size": 64620
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A02.svg",
+      "status": 200,
+      "size": 181851
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A02.dxf",
+      "status": 200,
+      "size": 338644
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A03.svg",
+      "status": 200,
+      "size": 351589
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A03.dxf",
+      "status": 200,
+      "size": 669182
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A04.svg",
+      "status": 200,
+      "size": 38158
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A04.dxf",
+      "status": 200,
+      "size": 71689
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A05a.svg",
+      "status": 200,
+      "size": 503588
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A05a.dxf",
+      "status": 200,
+      "size": 807511
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A05b.svg",
+      "status": 200,
+      "size": 482504
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A05b.dxf",
+      "status": 200,
+      "size": 754947
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A06.svg",
+      "status": 200,
+      "size": 279744
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A06.dxf",
+      "status": 200,
+      "size": 499679
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A07.svg",
+      "status": 200,
+      "size": 114907
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A07.dxf",
+      "status": 200,
+      "size": 199314
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A08.svg",
+      "status": 200,
+      "size": 23916
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A08.dxf",
+      "status": 200,
+      "size": 57117
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A09.svg",
+      "status": 200,
+      "size": 66379
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A09.dxf",
+      "status": 200,
+      "size": 135999
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A10.svg",
+      "status": 200,
+      "size": 90055
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A10.dxf",
+      "status": 200,
+      "size": 175426
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A11.svg",
+      "status": 200,
+      "size": 120967
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A11.dxf",
+      "status": 200,
+      "size": 236258
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A12.svg",
+      "status": 200,
+      "size": 20858
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A12.dxf",
+      "status": 200,
+      "size": 19248
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A13.svg",
+      "status": 200,
+      "size": 12358
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A13.dxf",
+      "status": 200,
+      "size": 36082
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A13b.svg",
+      "status": 200,
+      "size": 19877
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A13b.dxf",
+      "status": 200,
+      "size": 45827
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A14.svg",
+      "status": 200,
+      "size": 53177
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A14.dxf",
+      "status": 200,
+      "size": 108438
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A15.svg",
+      "status": 200,
+      "size": 10190
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A15.dxf",
+      "status": 200,
+      "size": 23814
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A16.svg",
+      "status": 200,
+      "size": 14900
+    },
+    {
+      "url": "http://127.0.0.1:8420/planos/A16.dxf",
+      "status": 200,
+      "size": 19244
+    }
+  ],
+  "pass": true
+}

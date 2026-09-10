@@ -1,0 +1,77 @@
+{
+  "status": "PASS",
+  "model": "D:\\2026\\42\\output\\Casa_de_Campo_95_Pass1c.blend",
+  "model_sha256": "fba22fb65c02f4e82e400abb6b0914d45813397d17cd76fa96fef809a4d39227",
+  "checks": [
+    {
+      "name": "Model hash matches frozen input",
+      "pass": true,
+      "evidence": "fba22fb65c02f4e82e400abb6b0914d45813397d17cd76fa96fef809a4d39227"
+    },
+    {
+      "name": "PDF page count matches manifest",
+      "pass": true,
+      "evidence": 19
+    },
+    {
+      "name": "All PDF sheets are physical A2",
+      "pass": true,
+      "evidence": [
+        594,
+        420
+      ]
+    },
+    {
+      "name": "PDF graphics fully vector",
+      "pass": true,
+      "evidence": {
+        "images": 0,
+        "paths": 16032
+      }
+    },
+    {
+      "name": "All text inside print frame",
+      "pass": true,
+      "evidence": []
+    },
+    {
+      "name": "Printed text at least 2.4 mm",
+      "pass": true,
+      "evidence": []
+    },
+    {
+      "name": "DXF opens with metre units and no audit errors",
+      "pass": true,
+      "evidence": []
+    },
+    {
+      "name": "Native CAD dimensions match drawing register",
+      "pass": true,
+      "evidence": 90
+    },
+    {
+      "name": "SVG sheets physically sized A2",
+      "pass": true,
+      "evidence": []
+    },
+    {
+      "name": "House footprint preserves 8 x 12 m",
+      "pass": true,
+      "evidence": [
+        8.0,
+        12.0
+      ]
+    },
+    {
+      "name": "18 source treads retained",
+      "pass": true,
+      "evidence": 18
+    }
+  ],
+  "not_checked": [
+    "Municipal approval or code compliance",
+    "Engineering capacity or system performance",
+    "Independent 9.5 photographic approval"
+  ],
+  "visual_review": "All sheets rendered; representative full-size sheets and complete contact sheet reviewed by author"
+}

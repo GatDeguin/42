@@ -8,7 +8,9 @@ Modelo editable en Blender 5.2, reconstruido a partir del HTML y JavaScript del 
 
 **Historial:** el modelo alcanzó 8,0/10 con el criterio inicial, tras las evaluaciones de 6/10 y 7/10. [Dictamen anterior del modelo](audit/critica_iteracion_03.md). El nuevo criterio es más estricto; los archivos evaluados no cambiaron. **El video permanece pausado hasta aprobación explícita del propietario.**
 
-**Entrega final ampliada:** se incluirá un juego completo de planos de toda la propiedad, en PDF a escala y editables SVG/DXF, correspondiente al modelo corregido. [Índice, formatos y verificaciones de la entrega de planos](docs/ENTREGA_PLANOS.md).
+**Planos disponibles en revisión:** [abrir las 19 láminas A2 online](https://gatdeguin.github.io/42/planos/) · [PDF a escala](docs/planos/Casa_de_Campo_Planos_A2.pdf) · [PDF + SVG + DXF editables](docs/planos/Casa_de_Campo_Planos_Editables.zip). Documentan el candidato constructivo Pass1c y los datos del propietario: Virrey del Pino, Buenos Aires; norte orientativo y redes disponibles. [Validación documental](docs/planos/print_validation.json).
+
+**Avance de correcciones:** [candidato Pass1c](output/Casa_de_Campo_95_Pass1c.blend) con canaletas abiertas, bajadas continuas, colector comunicado y acabados de escalera/umbrales coordinados. [14 verificaciones geométricas pasan](review95/construccion_checks.json), incluido el barrido de todas las piezas móviles contra las nuevas piezas. El criterio9,5 todavía no ha sido aprobado; materiales, luz y visor continúan en desarrollo.
 
 ![Presentación al atardecer](output/Casa_de_Campo_Atardecer_Revision.png)
 

@@ -29,3 +29,11 @@ output/Casa_de_Campo_Revision.blend
 
 web-tools/node_modules/
 web-tools/.cache/
+
+# Unreviewed local checkpoints; accepted candidates are added explicitly.
+output/Casa_de_Campo_95_Pass1.blend
+output/Casa_de_Campo_95_Pass1b.blend
+review95/*.ppm
+review95/patch_*.py
+review95/hdri_preview.py
+review95/tracks_probe.py

@@ -1,0 +1,119 @@
+{
+  "status": "EN REVISION",
+  "model": "Casa_de_Campo_95_Pass1c.blend",
+  "source_axes": "X, heightY, depthZ",
+  "rainwater": {
+    "front_path": [
+      [
+        13.8,
+        6.897,
+        -0.08
+      ],
+      [
+        13.8,
+        6.75,
+        -0.08
+      ],
+      [
+        13.62,
+        6.58,
+        -0.08
+      ],
+      [
+        13.62,
+        6.4,
+        0.5
+      ],
+      [
+        13.62,
+        0.2,
+        0.5
+      ],
+      [
+        13.62,
+        -0.2,
+        0.7
+      ]
+    ],
+    "rear_path": [
+      [
+        21.78,
+        6.297,
+        12.08
+      ],
+      [
+        21.78,
+        6.16,
+        12.08
+      ],
+      [
+        21.78,
+        6.03,
+        12.24
+      ],
+      [
+        21.78,
+        0.16,
+        12.24
+      ],
+      [
+        21.78,
+        -0.3,
+        12.42
+      ],
+      [
+        21.65,
+        -0.35,
+        13.5
+      ]
+    ],
+    "collector": [
+      [
+        21.65,
+        -0.4,
+        13.5
+      ],
+      [
+        12.6,
+        -0.45,
+        13.5
+      ],
+      [
+        12.6,
+        -0.55,
+        0.7
+      ],
+      [
+        12.6,
+        -0.57,
+        0.1
+      ]
+    ],
+    "pipe_diameters_proposed_m": [
+      0.11,
+      0.16
+    ],
+    "note": "Captación y continuidad geométrica; dimensionamiento y empalme exterior a verificar"
+  },
+  "stair": {
+    "treads": 18,
+    "run": 3.8,
+    "start_finish": 0.06,
+    "landing_finish": 3.25,
+    "riser": 0.17722222222222223,
+    "going": 0.2111111111111111,
+    "balcony_drainage": "Borde abierto con goterón continuo a jardín; sin gárgolas obturadas"
+  },
+  "finish_levels": {
+    "studio": 3.25,
+    "dwelling": 3.25,
+    "landing_at_door": 3.25,
+    "landing_low_corner": 3.235
+  },
+  "location": "Virrey del Pino, Buenos Aires",
+  "north_plan_xy": [
+    -1,
+    1
+  ],
+  "services": "Redes disponibles; posiciones de acometida por confirmar"
+}

@@ -1,0 +1,201 @@
+{
+  "model": "D:\\2026\\42\\output\\Casa_de_Campo_95_Pass1c.blend",
+  "sha256": "fba22fb65c02f4e82e400abb6b0914d45813397d17cd76fa96fef809a4d39227",
+  "checks": [
+    {
+      "name": "18 risers equal from +0.06 to +3.25",
+      "pass": true,
+      "measured": {
+        "tops": [
+          0.23722222447395325,
+          0.4144444465637207,
+          0.5916666984558105,
+          0.7688889503479004,
+          0.9461111426353455,
+          1.1233333349227905,
+          1.3005555868148804,
+          1.4777778387069702,
+          1.6549999713897705,
+          1.8322222232818604,
+          2.00944447517395,
+          2.186666488647461,
+          2.363888740539551,
+          2.5411109924316406,
+          2.7183332443237305,
+          2.8955554962158203,
+          3.072777509689331,
+          3.249999761581421
+        ],
+        "risers": [
+          0.17722222447395325,
+          0.17722222208976746,
+          0.17722225189208984,
+          0.17722225189208984,
+          0.17722219228744507,
+          0.17722219228744507,
+          0.17722225189208984,
+          0.17722225189208984,
+          0.1772221326828003,
+          0.17722225189208984,
+          0.17722225189208984,
+          0.17722201347351074,
+          0.17722225189208984,
+          0.17722225189208984,
+          0.17722225189208984,
+          0.17722225189208984,
+          0.17722201347351074,
+          0.17722225189208984
+        ],
+        "going": 0.2111111111111111,
+        "slope_deg": 40.012574298220486
+      }
+    },
+    {
+      "name": "Landing highest finish matches studio threshold",
+      "pass": true,
+      "measured": {
+        "landing_bounds": [
+          [
+            13.0,
+            -6.0,
+            3.200000047683716
+          ],
+          [
+            14.0,
+            -5.0,
+            3.2499849796295166
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Cielorraso estudio | cota inferior 6.45m",
+      "pass": true,
+      "measured": {
+        "underside": 6.450000286102295,
+        "clear": 3.200000286102295
+      }
+    },
+    {
+      "name": "Cielorraso vivienda | 2.60m sobre piso general",
+      "pass": true,
+      "measured": {
+        "underside": 5.850000381469727,
+        "clear": 2.6000003814697266
+      }
+    },
+    {
+      "name": "Cielorraso baño | 2.60m sobre porcelanato",
+      "pass": true,
+      "measured": {
+        "underside": 5.900000095367432,
+        "clear": 2.6000001430511475
+      }
+    },
+    {
+      "name": "PL95 | canaleta frontal abierta open receiving channel",
+      "pass": true,
+      "measured": [
+        {
+          "x": 14.5,
+          "expected_bottom": 6.899699999999999,
+          "first_surface": 6.899700164794922,
+          "pass": true
+        },
+        {
+          "x": 17.0,
+          "expected_bottom": 6.9121999999999995,
+          "first_surface": 6.912199974060059,
+          "pass": true
+        },
+        {
+          "x": 20.0,
+          "expected_bottom": 6.927199999999999,
+          "first_surface": 6.9272003173828125,
+          "pass": true
+        },
+        {
+          "x": 21.5,
+          "expected_bottom": 6.934699999999999,
+          "first_surface": 6.934700012207031,
+          "pass": true
+        }
+      ]
+    },
+    {
+      "name": "PL95 | canaleta frontal abierta outlet open",
+      "pass": true,
+      "measured": {
+        "hit": null
+      }
+    },
+    {
+      "name": "PL95 | canaleta posterior abierta open receiving channel",
+      "pass": true,
+      "measured": [
+        {
+          "x": 14.5,
+          "expected_bottom": 6.3326,
+          "first_surface": 6.332600116729736,
+          "pass": true
+        },
+        {
+          "x": 17.0,
+          "expected_bottom": 6.3201,
+          "first_surface": 6.320099830627441,
+          "pass": true
+        },
+        {
+          "x": 20.0,
+          "expected_bottom": 6.3050999999999995,
+          "first_surface": 6.305099964141846,
+          "pass": true
+        },
+        {
+          "x": 21.5,
+          "expected_bottom": 6.2976,
+          "first_surface": 6.297599792480469,
+          "pass": true
+        }
+      ]
+    },
+    {
+      "name": "PL95 | canaleta posterior abierta outlet open",
+      "pass": true,
+      "measured": {
+        "hit": null
+      }
+    },
+    {
+      "name": "T main unobstructed centerline at junction",
+      "pass": true,
+      "measured": {
+        "hit": null
+      }
+    },
+    {
+      "name": "T branch unobstructed centerline at junction",
+      "pass": true,
+      "measured": {
+        "hit": null
+      }
+    },
+    {
+      "name": "Downpipes/collector versus structure and enclosure",
+      "pass": true,
+      "measured": []
+    },
+    {
+      "name": "Every moving door part versus new construction",
+      "pass": true,
+      "measured": []
+    },
+    {
+      "name": "Audited source remains unchanged",
+      "pass": true,
+      "measured": "58223d78f71dc0c1d4f33034aaaf0be96a1bd420f72f2231468003e942c2bbfe"
+    }
+  ],
+  "all_pass": true,
+  "scope": "Geometric coordination only. No structural capacity, hydraulic sizing, acoustical performance or municipal compliance certification."
+}
