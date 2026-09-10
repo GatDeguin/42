@@ -26,3 +26,6 @@ output/Casa_de_Campo_Revision.blend
 
 
 !audit/final_reopen_checks_03.log
+
+web-tools/node_modules/
+web-tools/.cache/

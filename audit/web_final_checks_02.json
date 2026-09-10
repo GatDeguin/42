@@ -1,0 +1,111 @@
+{
+  "cutOff": {
+    "label": "Planta baja",
+    "planes": 0
+  },
+  "vestidor": {
+    "camera": [
+      18.55,
+      4.85,
+      8.750000000000004
+    ],
+    "doorsClosed": true,
+    "mappedMeshes": 193
+  },
+  "selection": "Portón negro",
+  "singleDoor": {
+    "label": "Personalizadas",
+    "targets": [
+      {
+        "key": "balconyRear_A",
+        "target": 0,
+        "value": 0
+      },
+      {
+        "key": "balconyRear_B",
+        "target": 0,
+        "value": 0
+      },
+      {
+        "key": "balconySide",
+        "target": 0,
+        "value": 0
+      },
+      {
+        "key": "bathLink",
+        "target": 0,
+        "value": 0
+      },
+      {
+        "key": "bathroomMono",
+        "target": 0,
+        "value": 0
+      },
+      {
+        "key": "bedroomLink",
+        "target": 0,
+        "value": 0
+      },
+      {
+        "key": "gate",
+        "target": 1,
+        "value": 0.9999928700048232
+      },
+      {
+        "key": "mono_L",
+        "target": 0,
+        "value": 0
+      },
+      {
+        "key": "mono_R",
+        "target": 0,
+        "value": 0
+      },
+      {
+        "key": "poolBath",
+        "target": 0,
+        "value": 0
+      },
+      {
+        "key": "studio",
+        "target": 0,
+        "value": 0
+      },
+      {
+        "key": "suiteEntry",
+        "target": 0,
+        "value": 0
+      }
+    ]
+  },
+  "warmFrames": {
+    "meanMS": 16.64666666666667,
+    "maxMS": 16.80000000000109,
+    "over50": 0
+  },
+  "initialMobile": [
+    -6.188102564102564,
+    20.0548717948718,
+    50.15676923076922
+  ],
+  "homeMobile": [
+    -6.188102564102564,
+    20.0548717948718,
+    50.15676923076922
+  ],
+  "landscape": {
+    "camera": [
+      4.8000000000000025,
+      10.499999999999995,
+      28.29999999999999
+    ],
+    "width": 844,
+    "scroll": 844
+  },
+  "returnPortrait": [
+    -6.188102564102564,
+    20.0548717948718,
+    50.15676923076922
+  ],
+  "errors": []
+}

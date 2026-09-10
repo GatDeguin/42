@@ -1,0 +1,37 @@
+{
+  "url": "http://127.0.0.1:8420/",
+  "errors": [],
+  "cut": {
+    "label": "Planta baja · corte a 4,50 m",
+    "plane": 4.5
+  },
+  "cutDisabledLabel": "Planta baja",
+  "vestidor": {
+    "allClosed": true,
+    "camera": [
+      18.55,
+      4.85,
+      8.750000000000004
+    ]
+  },
+  "woodMeshes": 193,
+  "allWoodMapped": true,
+  "portrait": {
+    "camera": [
+      -6.188102564102564,
+      20.0548717948718,
+      50.15676923076922
+    ],
+    "width": 390,
+    "scroll": 390
+  },
+  "landscape": {
+    "camera": [
+      4.8000000000000025,
+      10.499999999999995,
+      28.29999999999999
+    ],
+    "width": 844,
+    "scroll": 844
+  }
+}

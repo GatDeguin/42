@@ -1,0 +1,57 @@
+{
+  "cut": {
+    "label": "Planta baja · corte a 4,50 m",
+    "output": "4,50 m",
+    "actual": 4.5
+  },
+  "wood": [
+    {
+      "name": "WEB | oak · madera original",
+      "map": true,
+      "normal": false,
+      "roughnessMap": false,
+      "roughness": 0.43,
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "WEB | walnut · madera original",
+      "map": true,
+      "normal": false,
+      "roughnessMap": false,
+      "roughness": 0.43,
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "WEB | Madera oscura | woodDark",
+      "map": false,
+      "normal": false,
+      "roughnessMap": false,
+      "roughness": 0.44999998807907104,
+      "color": [
+        0.550000011920929,
+        0.47999998927116394,
+        0.38999998569488525
+      ]
+    },
+    {
+      "name": "WEB | parquet · madera original",
+      "map": true,
+      "normal": false,
+      "roughnessMap": false,
+      "roughness": 0.43,
+      "color": [
+        1,
+        1,
+        1
+      ]
+    }
+  ]
+}

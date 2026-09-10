@@ -1,0 +1,14 @@
+import {chromium} from 'playwright';import fs from 'node:fs';
+const browser=await chromium.launch({channel:'chrome',headless:true,args:['--enable-webgl','--ignore-gpu-blocklist']});
+const p=await browser.newPage({viewport:{width:1440,height:1000}});const errors=[];p.on('pageerror',e=>errors.push(e.message));await p.goto((process.env.VIEWER_URL||'http://127.0.0.1:8420/'));await p.waitForFunction(()=>window.__viewer?.ready);
+await p.click('[data-view="acceso"]');await p.waitForTimeout(1400);
+const point=await p.evaluate(()=>{const o=__viewer.originals.find(o=>o.userData.label==='Portón negro');o.geometry.computeBoundingBox();const v=o.geometry.boundingBox.getCenter(o.position.clone()).applyMatrix4(o.matrixWorld).project(__viewer.camera);const r=document.querySelector('canvas').getBoundingClientRect();return{x:r.x+(v.x+1)*r.width/2,y:r.y+(1-v.y)*r.height/2};});
+await p.mouse.click(point.x,point.y);await p.waitForTimeout(100);
+const selected=await p.locator('#object-name').textContent();const toggleVisible=await p.locator('#toggle-door').isVisible();
+if(!toggleVisible)throw new Error('A real click on the gate did not select its door control: '+selected);
+await p.click('#toggle-door');await p.waitForTimeout(1300);const gate=await p.evaluate(()=>({value:__viewer.doors.get('gate').value,target:__viewer.doors.get('gate').target}));await p.screenshot({path:'review/web_gate_interaction.png'});
+await p.click('#home');await p.waitForTimeout(1300);const before=await p.evaluate(()=>__viewer.camera.position.toArray());
+await p.mouse.move(950,450);await p.mouse.down();await p.mouse.move(1110,520,{steps:12});await p.mouse.up();await p.waitForTimeout(500);const after=await p.evaluate(()=>__viewer.camera.position.toArray());
+await p.mouse.wheel(0,-400);await p.waitForTimeout(400);
+const report={errors,selected,toggleVisible,gate,orbitMoved:before.some((x,i)=>Math.abs(x-after[i])>.1),before,after};
+fs.writeFileSync('review/web_interaction_test.json',JSON.stringify(report,null,2));console.log(report);await browser.close();

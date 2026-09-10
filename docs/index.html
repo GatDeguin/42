@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#182b2c"><meta name="description" content="Explora la casa de campo de Cedro Misionero: modelo 3D, interiores, plantas y puertas interactivas.">
+<link rel="icon" href="data:,"><title>Casa de campo · Visor arquitectónico</title>
+<link rel="stylesheet" href="./viewer.css">
+<script type="importmap">{"imports":{"three":"./vendor/three.module.js","three/addons/":"./vendor/addons/"}}</script>
+</head>
+<body>
+<header><button id="menu" class="icon" aria-label="Abrir controles" aria-expanded="false">☰</button><a class="brand" href="./"><span class="mark">42</span><span>CASA DE CAMPO<small>CEDRO MISIONERO</small></span></a><div class="header-right"><span class="live">Modelo interactivo</span><a href="https://github.com/GatDeguin/42" target="_blank" rel="noopener">Proyecto ↗</a></div></header>
+<aside id="panel" aria-label="Controles del modelo">
+<div class="panel-intro"><span class="eyebrow">EXPLORAR LA ARQUITECTURA</span><h1>Tu espacio,<br>desde cada ángulo.</h1><p>Gira, acércate y descubre el interior.</p></div>
+<section><h2>Vistas generales</h2><div class="segmented" role="group" aria-label="Vistas generales"><button data-view="exterior" class="active">Exterior</button><button data-view="pb">Planta baja</button><button data-view="pa">Planta alta</button></div></section>
+<section><h2>Ir a un ambiente</h2><div class="room-grid" id="rooms"><button data-view="estudio"><span>01</span>Estudio</button><button data-view="quincho"><span>02</span>Quincho</button><button data-view="cocina"><span>03</span>Cocina</button><button data-view="dormitorio"><span>04</span>Dormitorio</button><button data-view="vestidor"><span>05</span>Vestidor</button><button data-view="bano"><span>06</span>Baño</button><button data-view="pileta"><span>07</span>Pileta</button><button data-view="huerta"><span>08</span>Huerta</button><button data-view="mono"><span>09</span>Monoambiente</button><button data-view="acceso"><span>10</span>Acceso</button></div></section>
+<section><h2>Inspeccionar</h2>
+<label class="switch-row"><span>Mostrar cubiertas</span><input id="roof" type="checkbox" checked role="switch"></label>
+<label class="switch-row"><span>Mostrar vegetación</span><input id="vegetation" type="checkbox" checked role="switch"></label>
+<label class="switch-row"><span>Corte horizontal</span><input id="cut-enabled" type="checkbox" role="switch"></label>
+<div id="cut-options" hidden><label class="range-label" for="cut">Altura del corte <output id="cut-value">5,50 m</output></label><input id="cut" type="range" min="0.5" max="9" step=".05" value="5.5"></div>
+</section>
+<section><div class="section-heading"><h2>Puertas y correderas</h2><output id="door-value">Cerradas</output></div><label class="sr-only" for="doors">Apertura de todas las puertas</label><input id="doors" type="range" min="0" max="100" value="0"><div class="range-ends"><span>Cerrar</span><span>Abrir</span></div><p class="micro">Selecciona una puerta en el modelo para moverla por separado.</p></section>
+<div class="facts"><div><strong>22 × 20 <em>m</em></strong><span>Terreno</span></div><div><strong>3,20 <em>m</em></strong><span>Altura del estudio</span></div><div><strong>8 × 12 <em>m</em></strong><span>Casa</span></div><div><strong>2,60 <em>m</em></strong><span>Altura de vivienda</span></div></div>
+<a class="source-link" href="https://github.com/GatDeguin/42/blob/main/output/Casa_de_Campo_Final.blend" target="_blank" rel="noopener">Abrir proyecto Blender ↗</a>
+<p class="model-note">Geometría del modelo final auditado. Los materiales e iluminación están adaptados a la visualización en tiempo real.</p>
+</aside>
+<main id="viewport" aria-label="Modelo tridimensional interactivo">
+<canvas id="scene" aria-label="Casa de campo en 3D. Arrastra para girar y usa la rueda para acercarte." tabindex="0"></canvas>
+<div class="view-label"><span class="eyebrow">VISTA ACTUAL</span><strong id="view-name">Casa y paisaje</strong></div>
+<div class="tools"><button id="home" class="tool" title="Volver a la vista exterior" aria-label="Volver al exterior">⌂</button><button id="zoom-in" class="tool" title="Acercar" aria-label="Acercar">+</button><button id="zoom-out" class="tool" title="Alejar" aria-label="Alejar">−</button><button id="fullscreen" class="tool" title="Pantalla completa" aria-label="Pantalla completa">⛶</button></div>
+<div id="selection" class="selection" hidden><button id="clear-selection" class="dismiss" aria-label="Cerrar selección">×</button><span class="eyebrow">ELEMENTO SELECCIONADO</span><strong id="object-name"></strong><span id="object-meta"></span><button id="toggle-door" hidden>Abrir puerta</button></div>
+<div class="interaction-hint" id="hint"><span>Arrastrar: girar</span><span>Rueda: zoom</span><span>Botón derecho: desplazar</span><span>Clic: inspeccionar</span></div>
+<div class="status-bar"><span><i id="status-dot"></i><span id="status">Cargando modelo…</span></span><span>ESCALA REAL · METROS</span></div>
+<div id="loading" role="status" aria-live="polite"><div class="loading-card"><span class="eyebrow">CASA DE CAMPO / 42</span><h2>Preparando tu recorrido</h2><p id="loading-text">Cargando la arquitectura y sus detalles…</p><div class="progress-track"><div id="progress"></div></div><span class="micro">La primera carga puede tardar unos segundos.</span></div></div>
+<div id="error" hidden role="alert"><h2>No pudimos abrir el modelo</h2><p id="error-detail">Comprueba tu conexión y vuelve a intentarlo.</p><button onclick="location.reload()">Volver a cargar</button><a href="https://github.com/GatDeguin/42">Ver el proyecto en GitHub ↗</a></div>
+<noscript><div class="no-script">Activa JavaScript para usar el visor 3D.</div></noscript>
+</main>
+<script type="module" src="./viewer.js"></script>
+</body></html>

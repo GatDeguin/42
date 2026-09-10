@@ -1,0 +1,23 @@
+import {chromium} from '../web-tools/node_modules/playwright/index.mjs';
+import fs from 'node:fs';
+const browser=await chromium.launch({channel:'chrome',headless:true,args:['--enable-webgl','--ignore-gpu-blocklist']});
+const errors=[],report={};
+const page=await browser.newPage({viewport:{width:1440,height:1000},deviceScaleFactor:1});page.on('pageerror',e=>errors.push(e.message));
+const started=performance.now();await page.goto('http://127.0.0.1:8420/',{waitUntil:'networkidle'});await page.waitForFunction(()=>window.__viewer?.ready);report.loadMS=performance.now()-started;
+report.initial=await page.evaluate(()=>({stats:__viewer.stats,title:document.title,scrollWidth:document.documentElement.scrollWidth,viewport:innerWidth}));
+report.geometry=await page.evaluate(async()=>{
+ const T=await import('/vendor/three.module.js');
+ return __viewer.originals.map(o=>{const box=new T.Box3().setFromObject(o);return {name:o.userData.label,category:o.userData.category,roof:o.userData.roofPart,dynamic:o.userData.dynamic,multipleMaterials:Array.isArray(o.material),min:box.min.toArray(),max:box.max.toArray(),material:Array.isArray(o.material)?o.material.map(m=>m.name):o.material.name};});
+});
+await page.uncheck('#roof');await page.uncheck('#vegetation');report.visibility=await page.evaluate(()=>{let root=__viewer.originals[0];while(root.parent)root=root.parent;let bad=[],visible=0;root.traverse(o=>{if(o.isMesh&&o.visible){visible++;if(o.userData.roofPart||o.userData.category==='LANDSCAPE')bad.push(o.userData.label||o.name);}});return {bad,visible};});
+await page.check('#roof');await page.check('#vegetation');
+await page.check('#cut-enabled');await page.locator('#cut').fill('4.5');await page.locator('#cut').dispatchEvent('input');report.cut=await page.evaluate(()=>__viewer.renderer.clippingPlanes.map(p=>({normal:p.normal.toArray(),constant:p.constant})));
+report.frames=await page.evaluate(()=>new Promise(resolve=>{const samples=[];let last=performance.now();function step(now){samples.push(now-last);last=now;if(samples.length<90)requestAnimationFrame(step);else resolve({meanMS:samples.reduce((a,b)=>a+b,0)/samples.length,maxMS:Math.max(...samples),over50:samples.filter(x=>x>50).length});}requestAnimationFrame(step);}));
+const mob=await browser.newPage({viewport:{width:390,height:844},deviceScaleFactor:1,isMobile:true,hasTouch:true});mob.on('pageerror',e=>errors.push(e.message));await mob.goto('http://127.0.0.1:8420/',{waitUntil:'networkidle'});await mob.waitForFunction(()=>window.__viewer?.ready);await mob.waitForTimeout(700);
+await mob.screenshot({path:'D:/2026/42/audit/web_mobile_independent_02.png'});
+await mob.click('#menu');await mob.waitForTimeout(450);report.menu=await mob.evaluate(()=>({rect:document.querySelector('aside').getBoundingClientRect().toJSON(),transform:getComputedStyle(document.querySelector('aside')).transform,width:innerWidth,scroll:document.documentElement.scrollWidth}));
+await mob.screenshot({path:'D:/2026/42/audit/web_menu_independent_02.png'});
+await mob.click('[data-view="estudio"]');await mob.waitForTimeout(1500);await mob.screenshot({path:'D:/2026/42/audit/web_studio_mobile_independent_02.png'});
+report.mobileView=await mob.evaluate(()=>({menu:document.body.classList.contains('menu-open'),label:document.getElementById('view-name').textContent,stats:__viewer.stats}));
+report.errors=errors;
+fs.writeFileSync('D:/2026/42/audit/web_independent_02.json',JSON.stringify(report,null,2));console.log(JSON.stringify({...report,geometry:report.geometry.length}));await browser.close();

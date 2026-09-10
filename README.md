@@ -1,5 +1,7 @@
 # Casa de campo · reconstrucción arquitectónica
 
+**[Abrir el modelo 3D interactivo online](https://gatdeguin.github.io/42/)** · Vistas de ambientes, cortes, cubiertas y puertas interactivas. Compatible con escritorio y móvil. [Uso, desarrollo y publicación](web-tools/README.md). Auditoría independiente del visor: **8/10**, después de tres pasadas de corrección. [Dictamen web](audit/critica_visor_web_02.md).
+
 Modelo editable en Blender 5.2, reconstruido a partir del HTML y JavaScript del proyecto. La revisión conserva implantación, dimensiones, distribución y cámaras originales, e incorpora las alturas indicadas por el propietario: **estudio 3,20 m libres y vivienda 2,60 m**, con la cubierta del estudio más alta.
 
 **Estado:** tercera auditoría independiente aprobada con **8,0/10**, tras las evaluaciones de 6/10 y 7/10. [Dictamen final](audit/critica_iteracion_03.md). **El video permanece pausado hasta aprobación explícita del propietario.**

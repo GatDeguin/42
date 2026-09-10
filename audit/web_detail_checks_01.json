@@ -1,0 +1,45 @@
+{
+  "cut": {
+    "label": "Planta baja · corte a 2,80 m",
+    "output": "4,50 m",
+    "actual": 4.5
+  },
+  "wood": [
+    {
+      "name": "WEB | Roble aceitado | 2 veta",
+      "map": false,
+      "normal": false,
+      "roughnessMap": false,
+      "roughness": 0.4300000071525574,
+      "color": [
+        0.3400000035762787,
+        0.20000000298023224,
+        0.10000000149011612
+      ]
+    },
+    {
+      "name": "WEB | Nogal mate | 0 veta",
+      "map": false,
+      "normal": false,
+      "roughnessMap": false,
+      "roughness": 0.4300000071525574,
+      "color": [
+        0.12999999523162842,
+        0.06800000369548798,
+        0.029999999329447746
+      ]
+    },
+    {
+      "name": "WEB | Madera oscura | woodDark",
+      "map": false,
+      "normal": false,
+      "roughnessMap": false,
+      "roughness": 0.44999998807907104,
+      "color": [
+        0.550000011920929,
+        0.47999998927116394,
+        0.38999998569488525
+      ]
+    }
+  ]
+}

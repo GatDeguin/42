@@ -1,0 +1,213 @@
+{
+  "errors": [],
+  "views": [
+    {
+      "name": "Casa y paisaje",
+      "cut": false,
+      "stats": {
+        "drawCalls": 196,
+        "triangles": 789066,
+        "doors": 12,
+        "meshes": 2349,
+        "downloadBytes": 10021880
+      }
+    },
+    {
+      "name": "Planta baja · corte a 2,80 m",
+      "cut": true,
+      "stats": {
+        "drawCalls": 196,
+        "triangles": 789066,
+        "doors": 12,
+        "meshes": 2349,
+        "downloadBytes": 10021880
+      }
+    },
+    {
+      "name": "Planta alta · corte a 5,60 m",
+      "cut": true,
+      "stats": {
+        "drawCalls": 194,
+        "triangles": 789030,
+        "doors": 12,
+        "meshes": 2349,
+        "downloadBytes": 10021880
+      }
+    },
+    {
+      "name": "Estudio de grabación",
+      "cut": false,
+      "stats": {
+        "drawCalls": 111,
+        "triangles": 705998,
+        "doors": 12,
+        "meshes": 2349,
+        "downloadBytes": 10021880
+      }
+    },
+    {
+      "name": "Quincho y línea de fuego",
+      "cut": false,
+      "stats": {
+        "drawCalls": 144,
+        "triangles": 708754,
+        "doors": 12,
+        "meshes": 2349,
+        "downloadBytes": 10021880
+      }
+    },
+    {
+      "name": "Cocina y comedor",
+      "cut": false,
+      "stats": {
+        "drawCalls": 141,
+        "triangles": 703018,
+        "doors": 12,
+        "meshes": 2349,
+        "downloadBytes": 10021880
+      }
+    },
+    {
+      "name": "Dormitorio",
+      "cut": false,
+      "stats": {
+        "drawCalls": 114,
+        "triangles": 720540,
+        "doors": 12,
+        "meshes": 2349,
+        "downloadBytes": 10021880
+      }
+    },
+    {
+      "name": "Vestidor pasante",
+      "cut": false,
+      "stats": {
+        "drawCalls": 141,
+        "triangles": 547474,
+        "doors": 12,
+        "meshes": 2349,
+        "downloadBytes": 10021880
+      }
+    },
+    {
+      "name": "Baño de la vivienda",
+      "cut": false,
+      "stats": {
+        "drawCalls": 107,
+        "triangles": 513442,
+        "doors": 12,
+        "meshes": 2349,
+        "downloadBytes": 10021880
+      }
+    },
+    {
+      "name": "Pileta y jardín",
+      "cut": false,
+      "stats": {
+        "drawCalls": 161,
+        "triangles": 734642,
+        "doors": 12,
+        "meshes": 2349,
+        "downloadBytes": 10021880
+      }
+    },
+    {
+      "name": "Huerta y acceso",
+      "cut": false,
+      "stats": {
+        "drawCalls": 152,
+        "triangles": 761530,
+        "doors": 12,
+        "meshes": 2349,
+        "downloadBytes": 10021880
+      }
+    }
+  ],
+  "doors": [
+    {
+      "key": "balconyRear_A",
+      "error": 0.000003692666769694597,
+      "angleError": 0
+    },
+    {
+      "key": "balconyRear_B",
+      "error": 0.000004851146076845225,
+      "angleError": 0
+    },
+    {
+      "key": "balconySide",
+      "error": 0.0000034754489650623555,
+      "angleError": 0
+    },
+    {
+      "key": "bathLink",
+      "error": 0,
+      "angleError": 0
+    },
+    {
+      "key": "bathroomMono",
+      "error": 0,
+      "angleError": 0
+    },
+    {
+      "key": "bedroomLink",
+      "error": 0,
+      "angleError": 0
+    },
+    {
+      "key": "gate",
+      "error": 0.000008833434744559554,
+      "angleError": 0
+    },
+    {
+      "key": "mono_L",
+      "error": 0.000002259044176611269,
+      "angleError": 0
+    },
+    {
+      "key": "mono_R",
+      "error": 0.000002259044176611269,
+      "angleError": 0
+    },
+    {
+      "key": "poolBath",
+      "error": 0,
+      "angleError": 0
+    },
+    {
+      "key": "studio",
+      "error": 0,
+      "angleError": 0
+    },
+    {
+      "key": "suiteEntry",
+      "error": 0,
+      "angleError": 0
+    }
+  ],
+  "desktop": {
+    "width": 1440,
+    "scroll": 1440,
+    "stats": {
+      "drawCalls": 196,
+      "triangles": 789066,
+      "doors": 12,
+      "meshes": 2349,
+      "downloadBytes": 10021880
+    }
+  },
+  "cut": 4.5,
+  "mobile": {
+    "width": 390,
+    "scroll": 390,
+    "menuOpen": false,
+    "view": "Estudio de grabación",
+    "stats": {
+      "drawCalls": 88,
+      "triangles": 466102,
+      "doors": 12,
+      "meshes": 2349,
+      "downloadBytes": 10021880
+    }
+  }
+}
