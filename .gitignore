@@ -1,0 +1,16 @@
+tools/
+__pycache__/
+*.pyc
+*.blend1
+*.blend2
+output/tour_frames/
+output/tour_clips/
+output/*.log
+output/preview*.png
+output/bench*.png
+output/fastbench*.png
+review/drawing_geometry.json
+source/scene.json
+source/source_readable.html
+source/engine.js
+audit/*.log

@@ -1,0 +1,124 @@
+Your task is to reconstruct the attached architectural project as a complete, highly detailed 3D scene in Blender.
+The primary source of truth is the attached file casa_campo_estudio_interactivo_mejorado_v3.html. Do not treat it merely as a visual reference: inspect and parse its HTML/JavaScript source because it contains explicit architectural dimensions, coordinates, object positions, materials, camera definitions, and scene logic. The embedded presentation render may be used as the visual reference for proportions, atmosphere, material appearance, landscaping, and composition.
+Reconstruct the entire property, including the lot, house, recording studio, interiors, quincho, pool, garden, vegetable garden, perimeter walls, gate, exterior stairs, balconies, vegetation, furniture, fixtures, lighting and architectural details.
+Use metric units and preserve the coordinate system and proportions defined by the HTML wherever possible. Do not redesign the project.
+The main architectural parameters are:
+-  Lot: 22 m × 20 m. 
+-  Main building footprint: 8 m × 12 m, positioned on the front-right portion of the lot. 
+-  Building origin/reference: approximately X = 14 m, Z = 0 m according to the source scene. 
+-  Two principal 6 m-deep modules. 
+-  Upper-floor level: 3.00 m. 
+-  Exterior wall thickness: 0.20 m. 
+-  Slab thickness: 0.20 m. 
+-  Balcony projection: 1.00 m. 
+-  Balcony/stair railing height: 1.05 m. 
+-  Perimeter wall height: 2.00 m. 
+-  Pool: 7 m × 3 m, located approximately at X = 13 m, Z = 15 m, with 2 m rear/right setbacks and a continuous 1 m paving perimeter. 
+-  Recording studio clear ceiling height: 3.20 m. 
+-  Recording studio lateral DVH window: 3.00 m wide. 
+-  Exterior staircase: straight run, 1.00 m wide, 3.80 m run, 18 steps, timber treads with black metal structure and handrails. 
+-  Stair landing: 1 × 1 m, physically connected to both the studio entrance and lateral balcony. 
+-  There must be no interior staircase. 
+-  Roof: graphite sheet-metal gable roof, ridge parallel to Cedro Misionero, with slopes toward the street and pool sides. 
+Carefully reproduce the functional layout encoded in the HTML.
+Ground floor: create the monoambiente/interior space, its kitchen and island, bathroom, rear/open quincho, pool bathroom, and the connection between the interior and quincho through the large double glazed opening.
+The quincho must open directly toward the lawn and pool. Along the service wall reconstruct the fire/cooking line in the same sequence as the source: clay/brick oven, double sink, grill/parrilla and exterior pool bathroom. Include grill rods, brazier, ash drawer, hood details, countertop/supports and associated fixtures.
+Upper floor: reconstruct the recording studio and independent dwelling areas, including the bedroom, pass-through wardrobe, bathroom, kitchen, dining/living area and balconies. Preserve real circulation paths between bedroom → wardrobe → bathroom and between living spaces → lateral/rear balconies.
+The recording studio must include its acoustic treatment, desk/workstation, recording console and technical equipment. Orient the main console/work position toward the lateral 3 m DVH window as specified by the source.
+Reconstruct the large rear glazed openings toward the pool and the lateral sliding opening toward the balcony.
+Reconstruct the complete property context:
+-  Cedro Misionero street frontage. 
+-  Black metal 3 m gate. 
+-  Front and side boundary walls. 
+-  Lawn covering the remaining open lot. 
+-  Vegetable garden in the front-left free area, including four raised planting beds, paths, bench and planting details. 
+-  Existing/reference trees and supplementary surrounding vegetation. 
+-  Pool paving, pool basin, water, submerged steps and stainless-steel handrail. 
+-  Exterior pathway/ground transitions and subtle landscaping. 
+-  Exterior architectural lighting and pool-area bollards. 
+Create physically based Blender materials matching the source definitions, preferably with procedural or PBR texture sets rather than flat colors.
+Reproduce at minimum:
+-  Exposed warm red/orange brick. 
+-  Darker weathered brick. 
+-  Natural concrete. 
+-  Dark concrete. 
+-  Smooth cement flooring. 
+-  Warm pool paving. 
+-  Light ceramic tile. 
+-  Warm off-white plaster. 
+-  Matte/semi-matte black architectural metal. 
+-  Brushed/polished stainless steel. 
+-  Graphite corrugated/sheet-metal roofing. 
+-  Natural timber. 
+-  Dark timber. 
+-  Double glazing / DVH with separate inner and outer panes. 
+-  Pool water with realistic transmission, reflections and subtle surface variation. 
+-  Pool-tile/basin material. 
+-  Acoustic panel material. 
+-  Fabrics, soil, grass and vegetation. 
+Add realistic roughness variation, normal/bump, subtle imperfections, edge wear and moisture variation where appropriate. Avoid exaggerated dirt or procedural noise.
+Use small bevels on exposed architectural edges so highlights behave realistically. Avoid perfectly sharp CG edges.
+Model doors and sliding panels as independent objects with correctly placed origins/pivots.
+The studio door, monoambiente double door, lateral sliding door, rear sliding doors, wardrobe/bedroom/bathroom doors and pool-bathroom door must be functional and animatable.
+Set up meaningful open/closed poses or simple Blender animations so the scene can demonstrate the circulation through the property.
+Keep the .blend production-ready. Use clearly named Blender Collections such as:
+SITE, GROUND_FLOOR, UPPER_FLOOR, ROOF, STAIR, POOL, QUINCHO, STUDIO, INTERIORS, FURNITURE, LANDSCAPE, LIGHTS, CAMERAS.
+Name important objects semantically instead of leaving Cube.001, Cube.002, etc.
+Apply sensible transforms, normals and smoothing. Use instancing for repeated vegetation and repeated architectural details where useful.
+Recreate the principal cameras defined by the HTML as closely as possible. Treat the source coordinates as Blender world-space references, adjusting only axis conventions if necessary:
+- Casa & paisaje: position [5.5, 6.3, 24.8], target [16.4, 3.0, 10.5], 26 mm. 
+- Pileta: [10.5, 3.6, 21.7] → [18.0, 0.4, 16.45], 25 mm. 
+- Escalera: [8.5, 5.0, 1.6] → [13.5, 2.8, 4.6], 25 mm. 
+- Estudio: [20.0, 4.9, 5.05] → [17.4, 4.2, 2.8], 20 mm. 
+- Cocina: [19.1, 4.85, 11.45] → [21.15, 4.30, 9.78], 20 mm. 
+- Comedor: [16.1, 4.85, 11.3] → [18.65, 4.0, 10.2], 22 mm. 
+- Vestidor: [18.52, 4.86, 8.60] → [18.52, 4.44, 6.42], 18 mm. 
+- Dormitorio: [17.1, 4.86, 8.5] → [15.35, 4.0, 7.25], 20 mm. 
+- Quincho: [16.2, 1.86, 11.3] → [20.70, 1.45, 8.9], 22 mm. 
+- Baño pileta: [21.2, 1.82, 13.25] → [21.2, 1.35, 10.8], 22 mm. 
+- Huerta: [1.1, 3.1, 2.0] → [4.65, 0.42, 5.5], 26 mm. 
+- Balcón: [10.8, 6.0, 17.7] → [17.4, 4.2, 11.8], 26 mm. 
+- Fachada: [9.3, 6.0, -17.3] → [17.7, 3.3, 2.7], 26 mm. 
+-  Also create aerial and upper-floor inspection cameras corresponding to the source. 
+Use architectural camera settings with properly corrected verticals wherever appropriate.
+In addition to the still cameras, create one polished virtual-tour camera animation through the property.
+Start outside on Cedro Misionero, introduce the front facade and exterior staircase, enter or visually reveal the ground-floor spaces and quincho, move toward the pool, then transition to the upper level, showing the recording studio, lateral balcony, kitchen/dining area, bedroom, pass-through wardrobe and bathroom, before finishing with a wider balcony/pool/landscape view.
+Use a Bezier/NURBS camera path or equivalent rig with smooth ease-in/ease-out motion. Avoid abrupt rotations, intersections with walls, excessive camera roll or unnatural acceleration.
+Keep a realistic human eye height around 1.65 m during walking sections.
+Animate selected doors/sliding panels when required by the tour so circulation reads naturally.
+Reproduce the warm architectural late-afternoon / sunset appearance of the embedded reference render as the principal lighting condition.
+Set up a physically plausible sun/sky or HDRI-based environment plus architectural practical lights.
+Also prepare optional day and night lighting variants if practical.
+Use Cycles for the final photorealistic output, with Eevee available for previews if useful. Use realistic exposure, Filmic/AgX color management, soft indirect lighting, contact shadows, reflections, glass transmission and realistic pool reflections.
+Do not overuse bloom, depth of field, chromatic aberration or cinematic effects. This should look like premium architectural visualization, not a stylized game environment.
+Before considering the task finished, compare the Blender reconstruction against both:
+1.  the explicit dimensions/coordinates in the attached HTML; and 
+2.  its embedded architectural reference render. 
+Check especially:
+-  22 × 20 m lot. 
+-  8 × 12 m main volume. 
+-  two levels. 
+-  7 × 3 m pool. 
+-  correct pool setbacks. 
+-  1 m pool paving. 
+-  18-step exterior stair and 1 × 1 m landing. 
+-  stair actually meets the upper landing. 
+-  no interior staircase. 
+-  3 m lateral studio window. 
+-  3.20 m studio clear height. 
+-  graphite gable roof. 
+-  functional connection between studio, balcony and dwelling. 
+-  correct bedroom → wardrobe → bathroom circulation. 
+-  quincho open toward garden/pool. 
+-  correct location of vegetable garden and gate. 
+Do not silently replace source geometry with generic architectural assumptions. Where the attached file explicitly defines a measurement or position, use it. Only infer details that are genuinely absent, and keep those inferences visually consistent with the embedded render.
+Finish with:
+1.  A clean, editable .blend containing the complete reconstruction. 
+2.  Organized materials, collections and named objects. 
+3.  The fixed architectural cameras. 
+4.  The animated virtual-tour camera. 
+5.  Animatable doors/sliding panels. 
+6.  A high-quality still render matching the principal presentation view. 
+7.  A rendered virtual-tour sequence/video. 
+Priority order: architectural accuracy → spatial/circulation accuracy → material fidelity → lighting fidelity → decorative detail.
+Use Blender scripting/Python where it improves dimensional accuracy or speeds up repetitive modeling, but leave the resulting scene as normal editable Blender geometry and materials rather than a disposable procedural preview.
