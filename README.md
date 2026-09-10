@@ -8,6 +8,8 @@ Modelo editable en Blender 5.2, reconstruido a partir del HTML y JavaScript del 
 
 **Historial:** el modelo alcanzó 8,0/10 con el criterio inicial, tras las evaluaciones de 6/10 y 7/10. [Dictamen anterior del modelo](audit/critica_iteracion_03.md). El nuevo criterio es más estricto; los archivos evaluados no cambiaron. **El video permanece pausado hasta aprobación explícita del propietario.**
 
+**Entrega final ampliada:** se incluirá un juego completo de planos de toda la propiedad, en PDF a escala y editables SVG/DXF, correspondiente al modelo corregido. [Índice, formatos y verificaciones de la entrega de planos](docs/ENTREGA_PLANOS.md).
+
 ![Presentación al atardecer](output/Casa_de_Campo_Atardecer_Revision.png)
 
 ## Entrega vigente
