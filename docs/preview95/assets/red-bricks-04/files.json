@@ -1,0 +1,846 @@
+{
+  "Diffuse": {
+    "8k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/red_bricks_04/red_bricks_04_diff_8k.jpg",
+        "size": 11107039,
+        "md5": "557fe8a953ffb789f0efb29bdd177e99"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/red_bricks_04/red_bricks_04_diff_8k.png",
+        "size": 343426964,
+        "md5": "f4fa397d1308e030036715ecd927c031"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/red_bricks_04/red_bricks_04_diff_8k.exr",
+        "size": 72664113,
+        "md5": "f662492c28dc35eaeca4d47927386515"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/red_bricks_04/red_bricks_04_diff_4k.jpg",
+        "size": 3574590,
+        "md5": "7e1be0bbefabd8dd3c34263c3ec6854f"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/red_bricks_04/red_bricks_04_diff_4k.png",
+        "size": 99609455,
+        "md5": "9dd91d9584fcc4c02c9bb6b83cc12498"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/red_bricks_04/red_bricks_04_diff_4k.exr",
+        "size": 25477216,
+        "md5": "25831a96097681036b1d27653c0ecec1"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/red_bricks_04/red_bricks_04_diff_2k.jpg",
+        "size": 1033535,
+        "md5": "31853e9c8519c54a0df96cbe3dd7f31f"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/red_bricks_04/red_bricks_04_diff_2k.png",
+        "size": 25622383,
+        "md5": "69b25c273a6207db4ad7fb21b4b71c0f"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/red_bricks_04/red_bricks_04_diff_2k.exr",
+        "size": 7959142,
+        "md5": "849663107d71c5e40ba3141408265826"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_bricks_04/red_bricks_04_diff_1k.jpg",
+        "size": 283965,
+        "md5": "c372b17ae66518decc602b7f5c98da5f"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/red_bricks_04/red_bricks_04_diff_1k.png",
+        "size": 6479748,
+        "md5": "99e96f518bffea535ad92d2ca438da81"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/red_bricks_04/red_bricks_04_diff_1k.exr",
+        "size": 2179221,
+        "md5": "b7ec8acf5a896158b7551d9996456cc3"
+      }
+    }
+  },
+  "nor_dx": {
+    "8k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/red_bricks_04/red_bricks_04_nor_dx_8k.jpg",
+        "size": 10462325,
+        "md5": "970da73283314cf42007a3739616b682"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/red_bricks_04/red_bricks_04_nor_dx_8k.png",
+        "size": 331728165,
+        "md5": "b97917d25ee6e7ea4b851bc29dc32040"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/red_bricks_04/red_bricks_04_nor_dx_8k.exr",
+        "size": 58785733,
+        "md5": "948a95f1ecd9671e0405d5c20488993d"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/red_bricks_04/red_bricks_04_nor_dx_4k.jpg",
+        "size": 3736723,
+        "md5": "94e34e24d91ce13ff68cbc86e45842a9"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/red_bricks_04/red_bricks_04_nor_dx_4k.png",
+        "size": 97195567,
+        "md5": "2d26c5fdc622ba7b85508b98ff89ccc0"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/red_bricks_04/red_bricks_04_nor_dx_4k.exr",
+        "size": 23982533,
+        "md5": "1555da77a1074630b5e7051212f71091"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/red_bricks_04/red_bricks_04_nor_dx_2k.jpg",
+        "size": 1178935,
+        "md5": "15451bea7a8ace9ee90a320d291ab4fe"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/red_bricks_04/red_bricks_04_nor_dx_2k.png",
+        "size": 25394474,
+        "md5": "5f5f906f5453e3f5a55c6dffefe07388"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/red_bricks_04/red_bricks_04_nor_dx_2k.exr",
+        "size": 8236222,
+        "md5": "876598b69f37e4d8dafc690678d29d1a"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_bricks_04/red_bricks_04_nor_dx_1k.jpg",
+        "size": 340313,
+        "md5": "1a9f6712bc77a3a9ce0bede633557640"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/red_bricks_04/red_bricks_04_nor_dx_1k.png",
+        "size": 6493157,
+        "md5": "d41738d7a8aadb027e2cfa258f3c378a"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/red_bricks_04/red_bricks_04_nor_dx_1k.exr",
+        "size": 2290955,
+        "md5": "dfeebb63a790d26f826a3d32d23b3153"
+      }
+    }
+  },
+  "blend": {
+    "8k": {
+      "blend": {
+        "include": {
+          "textures/red_bricks_04_nor_gl_8k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/red_bricks_04/red_bricks_04_nor_gl_8k.exr",
+            "size": 59012070,
+            "md5": "e4fd7a374e314eff6370c27596352a2f"
+          },
+          "textures/red_bricks_04_diff_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/red_bricks_04/red_bricks_04_diff_8k.jpg",
+            "size": 11107039,
+            "md5": "557fe8a953ffb789f0efb29bdd177e99"
+          },
+          "textures/red_bricks_04_disp_8k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/red_bricks_04/red_bricks_04_disp_8k.png",
+            "size": 93139313,
+            "md5": "dfe7dfdf10ca04c6c99e775e4670f55b"
+          },
+          "textures/red_bricks_04_rough_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/red_bricks_04/red_bricks_04_rough_8k.jpg",
+            "size": 9113571,
+            "md5": "0073a039df25694ff771604d4366cb3e"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/8k/red_bricks_04/red_bricks_04_8k.blend",
+        "size": 278098,
+        "md5": "9f07b1256e3f11f496f5780fb58282a0"
+      }
+    },
+    "4k": {
+      "blend": {
+        "include": {
+          "textures/red_bricks_04_disp_4k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/red_bricks_04/red_bricks_04_disp_4k.png",
+            "size": 31202439,
+            "md5": "0abc3c384d606433cb30220c91a0fe2a"
+          },
+          "textures/red_bricks_04_diff_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/red_bricks_04/red_bricks_04_diff_4k.jpg",
+            "size": 3574590,
+            "md5": "7e1be0bbefabd8dd3c34263c3ec6854f"
+          },
+          "textures/red_bricks_04_nor_gl_4k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/red_bricks_04/red_bricks_04_nor_gl_4k.exr",
+            "size": 24082151,
+            "md5": "abe7bc4a38ec0b76c8e5934957d70a69"
+          },
+          "textures/red_bricks_04_rough_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/red_bricks_04/red_bricks_04_rough_4k.jpg",
+            "size": 2978373,
+            "md5": "b6dbcc824cf36849eba67917f8666e90"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/4k/red_bricks_04/red_bricks_04_4k.blend",
+        "size": 278143,
+        "md5": "20cb69bb5279a8b73bffdcc63ccc613f"
+      }
+    },
+    "2k": {
+      "blend": {
+        "include": {
+          "textures/red_bricks_04_nor_gl_2k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/red_bricks_04/red_bricks_04_nor_gl_2k.exr",
+            "size": 8265774,
+            "md5": "fbb1bc2dc513e4c9d5af7ba77334c844"
+          },
+          "textures/red_bricks_04_rough_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/red_bricks_04/red_bricks_04_rough_2k.jpg",
+            "size": 862533,
+            "md5": "c1e4375e73a63e6573f418d62863f91c"
+          },
+          "textures/red_bricks_04_disp_2k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/red_bricks_04/red_bricks_04_disp_2k.png",
+            "size": 8691546,
+            "md5": "1a2e1198518d9bdd5b38d201342b3927"
+          },
+          "textures/red_bricks_04_diff_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/red_bricks_04/red_bricks_04_diff_2k.jpg",
+            "size": 1033535,
+            "md5": "31853e9c8519c54a0df96cbe3dd7f31f"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/2k/red_bricks_04/red_bricks_04_2k.blend",
+        "size": 278213,
+        "md5": "e4f20ab2c1cc444184c3f8fe86cd0baa"
+      }
+    },
+    "1k": {
+      "blend": {
+        "include": {
+          "textures/red_bricks_04_disp_1k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/red_bricks_04/red_bricks_04_disp_1k.png",
+            "size": 2390492,
+            "md5": "b7b0db742d09ff9557b3fa2dd2b28174"
+          },
+          "textures/red_bricks_04_diff_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_bricks_04/red_bricks_04_diff_1k.jpg",
+            "size": 283965,
+            "md5": "c372b17ae66518decc602b7f5c98da5f"
+          },
+          "textures/red_bricks_04_nor_gl_1k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/red_bricks_04/red_bricks_04_nor_gl_1k.exr",
+            "size": 2297060,
+            "md5": "986da76bfeb3dfa3c34a72ea68eebb2c"
+          },
+          "textures/red_bricks_04_rough_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_bricks_04/red_bricks_04_rough_1k.jpg",
+            "size": 234867,
+            "md5": "89de3afd3e3a15e35681813fe8b03928"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/1k/red_bricks_04/red_bricks_04_1k.blend",
+        "size": 278177,
+        "md5": "1cf2ca25cf98c22a35bbe0333064a79d"
+      }
+    }
+  },
+  "gltf": {
+    "8k": {
+      "gltf": {
+        "include": {
+          "textures/red_bricks_04_nor_gl_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/red_bricks_04/red_bricks_04_nor_gl_8k.jpg",
+            "size": 10460254,
+            "md5": "129dbc6d0084dde3d906a1fc038c3a32"
+          },
+          "textures/red_bricks_04_arm_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/red_bricks_04/red_bricks_04_arm_8k.jpg",
+            "size": 9906751,
+            "md5": "b24980d208493dbf0bbc917506262365"
+          },
+          "red_bricks_04.bin": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/red_bricks_04/red_bricks_04.bin",
+            "size": 2369940,
+            "md5": "3a10b1738fbb2cec8166e495319b62e4"
+          },
+          "textures/red_bricks_04_diff_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/red_bricks_04/red_bricks_04_diff_8k.jpg",
+            "size": 11107039,
+            "md5": "557fe8a953ffb789f0efb29bdd177e99"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/red_bricks_04/red_bricks_04_8k.gltf",
+        "size": 2703,
+        "md5": "750e4118766b4eba76fcd910bb11175d"
+      }
+    },
+    "4k": {
+      "gltf": {
+        "include": {
+          "textures/red_bricks_04_arm_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/red_bricks_04/red_bricks_04_arm_4k.jpg",
+            "size": 3203610,
+            "md5": "995ae4699610feda84974b5935a9147d"
+          },
+          "textures/red_bricks_04_diff_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/red_bricks_04/red_bricks_04_diff_4k.jpg",
+            "size": 3574590,
+            "md5": "7e1be0bbefabd8dd3c34263c3ec6854f"
+          },
+          "red_bricks_04.bin": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/red_bricks_04/red_bricks_04.bin",
+            "size": 2369940,
+            "md5": "3a10b1738fbb2cec8166e495319b62e4"
+          },
+          "textures/red_bricks_04_nor_gl_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/red_bricks_04/red_bricks_04_nor_gl_4k.jpg",
+            "size": 3727457,
+            "md5": "0cecb8504e2864595de6667e05985264"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/4k/red_bricks_04/red_bricks_04_4k.gltf",
+        "size": 2703,
+        "md5": "37b046e8fddf7d6c30cd9536e0f1c461"
+      }
+    },
+    "2k": {
+      "gltf": {
+        "include": {
+          "textures/red_bricks_04_nor_gl_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/red_bricks_04/red_bricks_04_nor_gl_2k.jpg",
+            "size": 1175166,
+            "md5": "96757e0dfdb0d0f6bcd48e71d12c0d60"
+          },
+          "red_bricks_04.bin": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/red_bricks_04/red_bricks_04.bin",
+            "size": 2369940,
+            "md5": "3a10b1738fbb2cec8166e495319b62e4"
+          },
+          "textures/red_bricks_04_arm_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/red_bricks_04/red_bricks_04_arm_2k.jpg",
+            "size": 952959,
+            "md5": "2fd33790ad5a1de62f5cbd8c33fe9f77"
+          },
+          "textures/red_bricks_04_diff_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/red_bricks_04/red_bricks_04_diff_2k.jpg",
+            "size": 1033535,
+            "md5": "31853e9c8519c54a0df96cbe3dd7f31f"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/2k/red_bricks_04/red_bricks_04_2k.gltf",
+        "size": 2703,
+        "md5": "b74e83a08a6e1ad7e2044fdc18cfb0af"
+      }
+    },
+    "1k": {
+      "gltf": {
+        "include": {
+          "textures/red_bricks_04_arm_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_bricks_04/red_bricks_04_arm_1k.jpg",
+            "size": 271822,
+            "md5": "e8e2c4607721fb47b61ad9d2c17a8a73"
+          },
+          "red_bricks_04.bin": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/red_bricks_04/red_bricks_04.bin",
+            "size": 2369940,
+            "md5": "3a10b1738fbb2cec8166e495319b62e4"
+          },
+          "textures/red_bricks_04_diff_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_bricks_04/red_bricks_04_diff_1k.jpg",
+            "size": 283965,
+            "md5": "c372b17ae66518decc602b7f5c98da5f"
+          },
+          "textures/red_bricks_04_nor_gl_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_bricks_04/red_bricks_04_nor_gl_1k.jpg",
+            "size": 339216,
+            "md5": "3a0013fd51c1188f69d6bf4b02486814"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/1k/red_bricks_04/red_bricks_04_1k.gltf",
+        "size": 2703,
+        "md5": "da5b857d0135d91e8580d2f234b6024f"
+      }
+    }
+  },
+  "AO": {
+    "8k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/red_bricks_04/red_bricks_04_ao_8k.jpg",
+        "size": 7533474,
+        "md5": "cf413690cd34515334eb594880910548"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/red_bricks_04/red_bricks_04_ao_8k.png",
+        "size": 137146473,
+        "md5": "aaec6d49fe8ad173965063d3bdc8bd91"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/red_bricks_04/red_bricks_04_ao_8k.exr",
+        "size": 20600716,
+        "md5": "6f9212c1c22057fd7f059974cd2f9b8a"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/red_bricks_04/red_bricks_04_ao_4k.jpg",
+        "size": 2771829,
+        "md5": "888be30b155af3f5e5a8bedf300ca3ca"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/red_bricks_04/red_bricks_04_ao_4k.png",
+        "size": 32710903,
+        "md5": "77641cb1387344ae5eed4c31e74065e8"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/red_bricks_04/red_bricks_04_ao_4k.exr",
+        "size": 7813118,
+        "md5": "7d27dae5664ce5f01b065b68d5bea6f9"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/red_bricks_04/red_bricks_04_ao_2k.jpg",
+        "size": 992918,
+        "md5": "b4e5c53ba488f6f6a75737e7aed95913"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/red_bricks_04/red_bricks_04_ao_2k.png",
+        "size": 9404355,
+        "md5": "7730fb02208b8a56f001b7c87d662ee9"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/red_bricks_04/red_bricks_04_ao_2k.exr",
+        "size": 2709620,
+        "md5": "068f78fb8dcac0fba5af94fbd21a7ef5"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_bricks_04/red_bricks_04_ao_1k.jpg",
+        "size": 327707,
+        "md5": "dab528687798f55ca6534fb99c557f54"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/red_bricks_04/red_bricks_04_ao_1k.png",
+        "size": 2709723,
+        "md5": "52886477df4188a73354842e59310ea9"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/red_bricks_04/red_bricks_04_ao_1k.exr",
+        "size": 852431,
+        "md5": "ed27c39b8757bae0f32ee1965f4c4909"
+      }
+    }
+  },
+  "Displacement": {
+    "8k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/red_bricks_04/red_bricks_04_disp_8k.jpg",
+        "size": 2040337,
+        "md5": "383baa6796cd1bd7947b86f7f0a7203c"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/red_bricks_04/red_bricks_04_disp_8k.png",
+        "size": 93139313,
+        "md5": "dfe7dfdf10ca04c6c99e775e4670f55b"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/red_bricks_04/red_bricks_04_disp_8k.exr",
+        "size": 7915969,
+        "md5": "a57bdced4562abdbcdc4b41a2d66aefb"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/red_bricks_04/red_bricks_04_disp_4k.jpg",
+        "size": 701454,
+        "md5": "e95e6a78c2f786267bdc992ef1e2b328"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/red_bricks_04/red_bricks_04_disp_4k.png",
+        "size": 31202439,
+        "md5": "0abc3c384d606433cb30220c91a0fe2a"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/red_bricks_04/red_bricks_04_disp_4k.exr",
+        "size": 3100412,
+        "md5": "7cfea463148f0e8ac1b3628f514f47c7"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/red_bricks_04/red_bricks_04_disp_2k.jpg",
+        "size": 260391,
+        "md5": "2efc074e44d371bc4607edd6e6401808"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/red_bricks_04/red_bricks_04_disp_2k.png",
+        "size": 8691546,
+        "md5": "1a2e1198518d9bdd5b38d201342b3927"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/red_bricks_04/red_bricks_04_disp_2k.exr",
+        "size": 1166142,
+        "md5": "0ae3a53cd524bb29866b321e402d0101"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_bricks_04/red_bricks_04_disp_1k.jpg",
+        "size": 94521,
+        "md5": "ce1471d126f9f3188cd7b2c99d6a02db"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/red_bricks_04/red_bricks_04_disp_1k.png",
+        "size": 2390492,
+        "md5": "b7b0db742d09ff9557b3fa2dd2b28174"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/red_bricks_04/red_bricks_04_disp_1k.exr",
+        "size": 435727,
+        "md5": "81465166ef7923b5e5f6936b5bd1aa01"
+      }
+    }
+  },
+  "Rough": {
+    "8k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/red_bricks_04/red_bricks_04_rough_8k.jpg",
+        "size": 9113571,
+        "md5": "0073a039df25694ff771604d4366cb3e"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/red_bricks_04/red_bricks_04_rough_8k.png",
+        "size": 124651854,
+        "md5": "25415395ef349b33178fa870ac2f7be4"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/red_bricks_04/red_bricks_04_rough_8k.exr",
+        "size": 26581481,
+        "md5": "591c9d2f11be9355e6395409f21f8551"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/red_bricks_04/red_bricks_04_rough_4k.jpg",
+        "size": 2978373,
+        "md5": "b6dbcc824cf36849eba67917f8666e90"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/red_bricks_04/red_bricks_04_rough_4k.png",
+        "size": 35749952,
+        "md5": "eaf68b4226452b489afdc6086d26a391"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/red_bricks_04/red_bricks_04_rough_4k.exr",
+        "size": 8945891,
+        "md5": "e09471d76247d6e1e89a1d4123ccb5c6"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/red_bricks_04/red_bricks_04_rough_2k.jpg",
+        "size": 862533,
+        "md5": "c1e4375e73a63e6573f418d62863f91c"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/red_bricks_04/red_bricks_04_rough_2k.png",
+        "size": 9252368,
+        "md5": "b5ec9ba8477038ea350d2c687204906f"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/red_bricks_04/red_bricks_04_rough_2k.exr",
+        "size": 2692363,
+        "md5": "27ceca55940e57655baea53e9559b4cc"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_bricks_04/red_bricks_04_rough_1k.jpg",
+        "size": 234867,
+        "md5": "89de3afd3e3a15e35681813fe8b03928"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/red_bricks_04/red_bricks_04_rough_1k.png",
+        "size": 2348612,
+        "md5": "65b1a1be665c7fb3838be8171586c9bf"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/red_bricks_04/red_bricks_04_rough_1k.exr",
+        "size": 735119,
+        "md5": "cc9a19556be40d07cd66b869d56898e7"
+      }
+    }
+  },
+  "nor_gl": {
+    "8k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/red_bricks_04/red_bricks_04_nor_gl_8k.jpg",
+        "size": 10460254,
+        "md5": "129dbc6d0084dde3d906a1fc038c3a32"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/red_bricks_04/red_bricks_04_nor_gl_8k.png",
+        "size": 331740679,
+        "md5": "29a8a7434239a3c60abd9d7c62643271"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/red_bricks_04/red_bricks_04_nor_gl_8k.exr",
+        "size": 59012070,
+        "md5": "e4fd7a374e314eff6370c27596352a2f"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/red_bricks_04/red_bricks_04_nor_gl_4k.jpg",
+        "size": 3727457,
+        "md5": "0cecb8504e2864595de6667e05985264"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/red_bricks_04/red_bricks_04_nor_gl_4k.png",
+        "size": 97198582,
+        "md5": "b117641bfad3b0da91d8aef213a2fb0f"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/red_bricks_04/red_bricks_04_nor_gl_4k.exr",
+        "size": 24082151,
+        "md5": "abe7bc4a38ec0b76c8e5934957d70a69"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/red_bricks_04/red_bricks_04_nor_gl_2k.jpg",
+        "size": 1175166,
+        "md5": "96757e0dfdb0d0f6bcd48e71d12c0d60"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/red_bricks_04/red_bricks_04_nor_gl_2k.png",
+        "size": 25396332,
+        "md5": "d80d442021b08cd05dfb4f1fb24d0d72"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/red_bricks_04/red_bricks_04_nor_gl_2k.exr",
+        "size": 8265774,
+        "md5": "fbb1bc2dc513e4c9d5af7ba77334c844"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_bricks_04/red_bricks_04_nor_gl_1k.jpg",
+        "size": 339216,
+        "md5": "3a0013fd51c1188f69d6bf4b02486814"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/red_bricks_04/red_bricks_04_nor_gl_1k.png",
+        "size": 6494066,
+        "md5": "45723f68c2fccf2a1631c0af8703e855"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/red_bricks_04/red_bricks_04_nor_gl_1k.exr",
+        "size": 2297060,
+        "md5": "986da76bfeb3dfa3c34a72ea68eebb2c"
+      }
+    }
+  },
+  "arm": {
+    "8k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/red_bricks_04/red_bricks_04_arm_8k.jpg",
+        "size": 9906751,
+        "md5": "b24980d208493dbf0bbc917506262365"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/red_bricks_04/red_bricks_04_arm_8k.png",
+        "size": 216371044,
+        "md5": "a96ebd1202d437f8e7a0e8c08557efdb"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/red_bricks_04/red_bricks_04_arm_8k.exr",
+        "size": 60999835,
+        "md5": "451590bb33bf97c42e4cc362c24fdc8a"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/red_bricks_04/red_bricks_04_arm_4k.jpg",
+        "size": 3203610,
+        "md5": "995ae4699610feda84974b5935a9147d"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/red_bricks_04/red_bricks_04_arm_4k.png",
+        "size": 61648592,
+        "md5": "5443267a64a0279ce32dec61379dee16"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/red_bricks_04/red_bricks_04_arm_4k.exr",
+        "size": 21641681,
+        "md5": "2d42000c0e64b3cb3b80f93f12bbb328"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/red_bricks_04/red_bricks_04_arm_2k.jpg",
+        "size": 952959,
+        "md5": "2fd33790ad5a1de62f5cbd8c33fe9f77"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/red_bricks_04/red_bricks_04_arm_2k.png",
+        "size": 16493956,
+        "md5": "06aafb73c2fdd3c5d847a444f77b2071"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/red_bricks_04/red_bricks_04_arm_2k.exr",
+        "size": 6812751,
+        "md5": "7910537d5fd2df0731219fa1cc1178ce"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_bricks_04/red_bricks_04_arm_1k.jpg",
+        "size": 271822,
+        "md5": "e8e2c4607721fb47b61ad9d2c17a8a73"
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/red_bricks_04/red_bricks_04_arm_1k.png",
+        "size": 4363409,
+        "md5": "163bc86b1131ad3c21505ec9d0fc1ccc"
+      },
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/red_bricks_04/red_bricks_04_arm_1k.exr",
+        "size": 1897531,
+        "md5": "79bc59519a5fb18c0ac9b8f49db1fed5"
+      }
+    }
+  },
+  "mtlx": {
+    "8k": {
+      "mtlx": {
+        "include": {
+          "textures/red_bricks_04_nor_gl_8k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/red_bricks_04/red_bricks_04_nor_gl_8k.exr",
+            "size": 59012070,
+            "md5": "e4fd7a374e314eff6370c27596352a2f"
+          },
+          "textures/red_bricks_04_diff_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/red_bricks_04/red_bricks_04_diff_8k.jpg",
+            "size": 11107039,
+            "md5": "557fe8a953ffb789f0efb29bdd177e99"
+          },
+          "textures/red_bricks_04_disp_8k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/red_bricks_04/red_bricks_04_disp_8k.png",
+            "size": 93139313,
+            "md5": "dfe7dfdf10ca04c6c99e775e4670f55b"
+          },
+          "textures/red_bricks_04_rough_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/red_bricks_04/red_bricks_04_rough_8k.jpg",
+            "size": 9113571,
+            "md5": "0073a039df25694ff771604d4366cb3e"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/mtlx/8k/red_bricks_04/red_bricks_04_8k.mtlx",
+        "size": 4716,
+        "md5": "c86eb9f1b8c52f67ededb48f9ef5b77d"
+      }
+    },
+    "4k": {
+      "mtlx": {
+        "include": {
+          "textures/red_bricks_04_disp_4k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/red_bricks_04/red_bricks_04_disp_4k.png",
+            "size": 31202439,
+            "md5": "0abc3c384d606433cb30220c91a0fe2a"
+          },
+          "textures/red_bricks_04_diff_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/red_bricks_04/red_bricks_04_diff_4k.jpg",
+            "size": 3574590,
+            "md5": "7e1be0bbefabd8dd3c34263c3ec6854f"
+          },
+          "textures/red_bricks_04_nor_gl_4k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/red_bricks_04/red_bricks_04_nor_gl_4k.exr",
+            "size": 24082151,
+            "md5": "abe7bc4a38ec0b76c8e5934957d70a69"
+          },
+          "textures/red_bricks_04_rough_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/red_bricks_04/red_bricks_04_rough_4k.jpg",
+            "size": 2978373,
+            "md5": "b6dbcc824cf36849eba67917f8666e90"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/mtlx/4k/red_bricks_04/red_bricks_04_4k.mtlx",
+        "size": 4716,
+        "md5": "8e12d643395a81abd31b90338adab5b1"
+      }
+    },
+    "2k": {
+      "mtlx": {
+        "include": {
+          "textures/red_bricks_04_nor_gl_2k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/red_bricks_04/red_bricks_04_nor_gl_2k.exr",
+            "size": 8265774,
+            "md5": "fbb1bc2dc513e4c9d5af7ba77334c844"
+          },
+          "textures/red_bricks_04_rough_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/red_bricks_04/red_bricks_04_rough_2k.jpg",
+            "size": 862533,
+            "md5": "c1e4375e73a63e6573f418d62863f91c"
+          },
+          "textures/red_bricks_04_disp_2k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/red_bricks_04/red_bricks_04_disp_2k.png",
+            "size": 8691546,
+            "md5": "1a2e1198518d9bdd5b38d201342b3927"
+          },
+          "textures/red_bricks_04_diff_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/red_bricks_04/red_bricks_04_diff_2k.jpg",
+            "size": 1033535,
+            "md5": "31853e9c8519c54a0df96cbe3dd7f31f"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/mtlx/2k/red_bricks_04/red_bricks_04_2k.mtlx",
+        "size": 4716,
+        "md5": "8e7e8e92094e7b48645cae3d48d5be1c"
+      }
+    },
+    "1k": {
+      "mtlx": {
+        "include": {
+          "textures/red_bricks_04_disp_1k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/red_bricks_04/red_bricks_04_disp_1k.png",
+            "size": 2390492,
+            "md5": "b7b0db742d09ff9557b3fa2dd2b28174"
+          },
+          "textures/red_bricks_04_diff_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_bricks_04/red_bricks_04_diff_1k.jpg",
+            "size": 283965,
+            "md5": "c372b17ae66518decc602b7f5c98da5f"
+          },
+          "textures/red_bricks_04_nor_gl_1k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/red_bricks_04/red_bricks_04_nor_gl_1k.exr",
+            "size": 2297060,
+            "md5": "986da76bfeb3dfa3c34a72ea68eebb2c"
+          },
+          "textures/red_bricks_04_rough_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/red_bricks_04/red_bricks_04_rough_1k.jpg",
+            "size": 234867,
+            "md5": "89de3afd3e3a15e35681813fe8b03928"
+          }
+        },
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/mtlx/1k/red_bricks_04/red_bricks_04_1k.mtlx",
+        "size": 4716,
+        "md5": "674089e3b2dbdffeb686d498263edf0a"
+      }
+    }
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "source": "D:\\2026\\42\\docs\\planos\\Casa_de_Campo_Planos_A2.pdf",
+  "sha256": "022d777fc96771d43fd5f2813b187c0057beb7de9e89445daacab8779909798a",
+  "pages": [
+    {
+      "page": 1,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 2,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 3,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 4,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 5,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 6,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 7,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 8,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 9,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 10,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 11,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 12,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 13,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 14,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 15,
+      "min_font_pt": 7.086613999999827,
+      "outside": []
+    },
+    {
+      "page": 16,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 17,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 18,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 19,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 20,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 21,
+      "min_font_pt": 7.086613999999997,
+      "outside": []
+    },
+    {
+      "page": 22,
+      "min_font_pt": 7.08661399999999,
+      "outside": []
+    },
+    {
+      "page": 23,
+      "min_font_pt": 7.08661399999999,
+      "outside": []
+    },
+    {
+      "page": 24,
+      "min_font_pt": 7.08661399999999,
+      "outside": []
+    },
+    {
+      "page": 25,
+      "min_font_pt": 7.08661399999999,
+      "outside": []
+    },
+    {
+      "page": 26,
+      "min_font_pt": 7.08661399999999,
+      "outside": []
+    },
+    {
+      "page": 27,
+      "min_font_pt": 7.08661399999999,
+      "outside": []
+    },
+    {
+      "page": 28,
+      "min_font_pt": 7.08661399999999,
+      "outside": []
+    },
+    {
+      "page": 29,
+      "min_font_pt": 7.08661399999999,
+      "outside": []
+    },
+    {
+      "page": 30,
+      "min_font_pt": 7.08661399999999,
+      "outside": []
+    },
+    {
+      "page": 31,
+      "min_font_pt": 7.08661399999999,
+      "outside": []
+    },
+    {
+      "page": 32,
+      "min_font_pt": 7.08661399999999,
+      "outside": []
+    },
+    {
+      "page": 33,
+      "min_font_pt": 7.08661399999999,
+      "outside": []
+    }
+  ],
+  "zip_files": [
+    {
+      "file": "D:\\2026\\42\\docs\\planos\\Casa_de_Campo_Planos_Editables.zip",
+      "integrity_error": null,
+      "svg_count": 33,
+      "dxf_count": 33,
+      "native_dimensions": 195,
+      "files": [
+        {
+          "file": "A00.dxf",
+          "native_dimensions": 0
+        },
+        {
+          "file": "A01.dxf",
+          "native_dimensions": 12
+        },
+        {
+          "file": "A02.dxf",
+          "native_dimensions": 16
+        },
+        {
+          "file": "A03.dxf",
+          "native_dimensions": 17
+        },
+        {
+          "file": "A03b.dxf",
+          "native_dimensions": 5
+        },
+        {
+          "file": "A04.dxf",
+          "native_dimensions": 4
+        },
+        {
+          "file": "A05a.dxf",
+          "native_dimensions": 2
+        },
+        {
+          "file": "A05b.dxf",
+          "native_dimensions": 2
+        },
+        {
+          "file": "A06.dxf",
+          "native_dimensions": 6
+        },
+        {
+          "file": "A07.dxf",
+          "native_dimensions": 5
+        },
+        {
+          "file": "A08.dxf",
+          "native_dimensions": 6
+        },
+        {
+          "file": "A09.dxf",
+          "native_dimensions": 7
+        },
+        {
+          "file": "A10.dxf",
+          "native_dimensions": 5
+        },
+        {
+          "file": "A10b.dxf",
+          "native_dimensions": 4
+        },
+        {
+          "file": "A11.dxf",
+          "native_dimensions": 2
+        },
+        {
+          "file": "A12.dxf",
+          "native_dimensions": 0
+        },
+        {
+          "file": "A13.dxf",
+          "native_dimensions": 2
+        },
+        {
+          "file": "A13b.dxf",
+          "native_dimensions": 2
+        },
+        {
+          "file": "A14.dxf",
+          "native_dimensions": 4
+        },
+        {
+          "file": "A15.dxf",
+          "native_dimensions": 0
+        },
+        {
+          "file": "A16.dxf",
+          "native_dimensions": 0
+        },
+        {
+          "file": "D01.dxf",
+          "native_dimensions": 6
+        },
+        {
+          "file": "D02.dxf",
+          "native_dimensions": 7
+        },
+        {
+          "file": "D03.dxf",
+          "native_dimensions": 7
+        },
+        {
+          "file": "D04.dxf",
+          "native_dimensions": 10
+        },
+        {
+          "file": "D05.dxf",
+          "native_dimensions": 9
+        },
+        {
+          "file": "D05b.dxf",
+          "native_dimensions": 10
+        },
+        {
+          "file": "D06.dxf",
+          "native_dimensions": 8
+        },
+        {
+          "file": "D07.dxf",
+          "native_dimensions": 9
+        },
+        {
+          "file": "D08.dxf",
+          "native_dimensions": 6
+        },
+        {
+          "file": "D09.dxf",
+          "native_dimensions": 10
+        },
+        {
+          "file": "D10.dxf",
+          "native_dimensions": 4
+        },
+        {
+          "file": "D11.dxf",
+          "native_dimensions": 8
+        }
+      ]
+    }
+  ]
+}

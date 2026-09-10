@@ -2,16 +2,16 @@
 <rect width="594" height="420" fill="white"/>
 <polygon points="10.0000,10.0000 584.0000,10.0000 584.0000,410.0000 10.0000,410.0000" fill="none" stroke="#172b35" stroke-width="0.35"/>
 <text x="18.0000" y="21.0000" font-family="Arial" font-size="4.8" font-weight="bold" fill="#172b35" text-anchor="start">CASA DE CAMPO</text>
-<text x="18.0000" y="28.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#6f7e83" text-anchor="start">VIRREY DEL PINO - BUENOS AIRES | CALLE CEDRO MISIONERO</text>
+<text x="18.0000" y="28.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#6f7e83" text-anchor="start">VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO</text>
 <text x="577.0000" y="21.0000" font-family="Arial" font-size="4.2" font-weight="bold" fill="#172b35" text-anchor="end">A16 | Superficies y trazabilidad</text>
 <text x="577.0000" y="28.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#6f7e83" text-anchor="end">Registro F / G / P | superficies geometricas no catastrales</text>
 <line x1="10.0000" y1="34.0000" x2="584.0000" y2="34.0000" stroke="#172b35" stroke-width="0.25"/>
 <line x1="10.0000" y1="384.0000" x2="584.0000" y2="384.0000" stroke="#172b35" stroke-width="0.3"/>
-<text x="18.0000" y="393.0000" font-family="Arial" font-size="3" font-weight="bold" fill="#ac5b27" text-anchor="start">EN REVISION | NO APTO PARA CONSTRUCCION</text>
-<text x="18.0000" y="401.0000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#6f7e83" text-anchor="start">Modelo: Casa_de_Campo_95_Pass1c.blend | SHA256 fba22fb65c02f4e8 | 10/09/2026</text>
+<text x="18.0000" y="393.0000" font-family="Arial" font-size="3" font-weight="bold" fill="#ac5b27" text-anchor="start">EN REVISION / SIN APROBACION 9,5 | NO APTO PARA CONSTRUCCION</text>
+<text x="18.0000" y="401.0000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#6f7e83" text-anchor="start">Modelo: Casa_de_Campo_95_R6K.blend | SHA256 a3663a5081dac391 | 10/09/2026</text>
 <text x="375.0000" y="393.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">A2 594 x 420 mm | imprimir al 100 %</text>
 <text x="375.0000" y="401.0000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#6f7e83" text-anchor="start">Metros salvo indicacion | cotas prevalecen al escalimetro</text>
-<text x="577.0000" y="407.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#172b35" text-anchor="end">19</text>
+<text x="577.0000" y="407.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#172b35" text-anchor="end">21</text>
 <polygon points="24.0000,55.0000 345.0000,55.0000 345.0000,68.0000 24.0000,68.0000" fill="#172b35" stroke="#172b35" stroke-width="0.18"/>
 <text x="26.0000" y="61.0000" font-family="Arial" font-size="2.7" font-weight="bold" fill="#ffffff" text-anchor="start">Area / pieza</text>
 <text x="126.0000" y="61.0000" font-family="Arial" font-size="2.7" font-weight="bold" fill="#ffffff" text-anchor="start">m2</text>
@@ -42,27 +42,27 @@
 <text x="162.0000" y="138.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Proyeccion real de la pieza; puede solapar otras</text>
 <polygon points="24.0000,146.0000 345.0000,146.0000 345.0000,159.0000 24.0000,159.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
 <text x="26.0000" y="151.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Piso vivienda G</text>
-<text x="126.0000" y="151.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">41.89</text>
+<text x="126.0000" y="151.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">36.40</text>
 <text x="162.0000" y="151.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Proyeccion real de la pieza; puede solapar otras</text>
 <polygon points="24.0000,159.0000 345.0000,159.0000 345.0000,172.0000 24.0000,172.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
 <text x="26.0000" y="164.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Piso monoambiente G</text>
-<text x="126.0000" y="164.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">43.21</text>
+<text x="126.0000" y="164.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">39.12</text>
 <text x="162.0000" y="164.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Proyeccion real de la pieza; puede solapar otras</text>
 <polygon points="24.0000,172.0000 345.0000,172.0000 345.0000,185.0000 24.0000,185.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
 <text x="26.0000" y="177.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Piso baño mono G</text>
-<text x="126.0000" y="177.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">4.26</text>
+<text x="126.0000" y="177.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">2.42</text>
 <text x="162.0000" y="177.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Proyeccion real de la pieza; puede solapar otras</text>
 <polygon points="24.0000,185.0000 345.0000,185.0000 345.0000,198.0000 24.0000,198.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
 <text x="26.0000" y="190.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Piso baño vivienda G</text>
-<text x="126.0000" y="190.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">5.28</text>
+<text x="126.0000" y="190.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">5.71</text>
 <text x="162.0000" y="190.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Proyeccion real de la pieza; puede solapar otras</text>
 <polygon points="24.0000,198.0000 345.0000,198.0000 345.0000,211.0000 24.0000,211.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
 <text x="26.0000" y="203.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Piso quincho G</text>
-<text x="126.0000" y="203.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">47.99</text>
+<text x="126.0000" y="203.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">45.42</text>
 <text x="162.0000" y="203.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Proyeccion real de la pieza; puede solapar otras</text>
 <polygon points="24.0000,211.0000 345.0000,211.0000 345.0000,224.0000 24.0000,224.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
 <text x="26.0000" y="216.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Piso baño quincho G</text>
-<text x="126.0000" y="216.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">2.61</text>
+<text x="126.0000" y="216.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1.81</text>
 <text x="162.0000" y="216.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Proyeccion real de la pieza; puede solapar otras</text>
 <polygon points="24.0000,224.0000 345.0000,224.0000 345.0000,237.0000 24.0000,237.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
 <text x="26.0000" y="229.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Balcón lateral G</text>
@@ -79,12 +79,12 @@
 <text x="375.0000" y="55.0000" font-family="Arial" font-size="3.7" font-weight="bold" fill="#236a86" text-anchor="start">FUENTES Y REVISION</text>
 <text x="375.0000" y="62.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">F: source/scene.json, configuracion y geometria original. Coordenadas fuente X / Z horizontal; Y altura. Blender X / -Z / Y.</text>
 <text x="375.0000" y="69.4000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">F: docs/DECISIONES.md: estudio 3,20 m libres, vivienda 2,60 m y video pausado.</text>
-<text x="375.0000" y="76.8000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">G: modelo Casa_de_Campo_95_Pass1c.blend; SHA256 fba22fb65c02f4e82e400abb...</text>
+<text x="375.0000" y="76.8000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">G: modelo Casa_de_Campo_95_R6K.blend; SHA256 a3663a5081dac391303f25b8...</text>
 <text x="375.0000" y="84.2000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">G: extraccion de mallas evaluadas a cuadro 150, con puertas en su pose de documentacion. Los detalles omiten microgeometria menor para permitir</text>
 <text x="375.0000" y="88.6000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">lectura.</text>
 <text x="375.0000" y="96.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">P: desarrollos constructivos y sistemas inferidos se identifican en sus hojas. No se presentan como verificacion profesional.</text>
-<text x="375.0000" y="103.4000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Las superficies de piezas no son utiles netas de recintos. Existen superposiciones: no sumar pisos de banos a pisos generales sin descontar</text>
-<text x="375.0000" y="107.8000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">intersecciones.</text>
+<text x="375.0000" y="103.4000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Las superficies de piezas no son utiles netas de recintos. Comprobar uniones y areas comunes antes de sumar; los pisos PB de banos se recortaron de las</text>
+<text x="375.0000" y="107.8000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">superficies generales.</text>
 <text x="375.0000" y="279.0000" font-family="Arial" font-size="3.7" font-weight="bold" fill="#236a86" text-anchor="start">PENDIENTES PARA EMISION FINAL</text>
 <text x="375.0000" y="286.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Mensura y topografia; servicios y cotas exactas; suelos; calculo de estructura, instalaciones, seguridad, clima y acustica.</text>
 <text x="375.0000" y="293.4000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Cierre de observaciones de la auditoria y coherencia con modelo / visor congelados. Umbral critico 9,5 y realismo fotografico siguen siendo condiciones de</text>

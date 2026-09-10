@@ -1,0 +1,293 @@
+{
+  "source_model": "Casa_de_Campo_95_R6K.blend",
+  "source_sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+  "status": "CANDIDATO EN REVISIÓN · aprobación global9.5 pendiente",
+  "video": "PAUSED_PENDING_EXPLICIT_APPROVAL",
+  "images": [
+    {
+      "file": "exterior.jpg",
+      "title": "Casa y paisaje",
+      "camera": "CAM | Presentación verticales corregidas",
+      "frame": 1,
+      "pixels": [
+        2400,
+        1800
+      ],
+      "samples": 192,
+      "seconds": 56.75,
+      "source_png_sha256": "1e30183bb58eb35742a64d80f6a1a67e5be1d48965e042abfcc220aefe551050",
+      "sha256": "af9e70e5f1d1b072075e74da8ca6f92eb09f330559395ca9a70b8a15918c42ec",
+      "bytes": 1376989
+    },
+    {
+      "file": "pileta.jpg",
+      "title": "Pileta y playa húmeda",
+      "camera": "CAM | Pileta & playa húmeda",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 33.77,
+      "source_png_sha256": "53e41dc62cb94a9e76eda1bcd6aea5a9c7784e840b90b2836df2cef54da41bf3",
+      "sha256": "17e5eec5d4c57a7aff986ef66ef0f0469d0be40972087a12a31987367fbe1887",
+      "bytes": 680323
+    },
+    {
+      "file": "huerta.jpg",
+      "title": "Huerta y jardín",
+      "camera": "CAM | Huerta",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 21.2,
+      "source_png_sha256": "822d5d2b281c4f64aea185ba3252a57e66f6d7889b79f873fbee8ec3aef0e40e",
+      "sha256": "7d3ea30e41c2a71ad659753d83c6c5dfe3e1d3a98a0df4a00b41299d58e60a04",
+      "bytes": 653800
+    },
+    {
+      "file": "estudio.jpg",
+      "title": "Estudio de grabación",
+      "camera": "REV | Estudio y cubierta",
+      "frame": 150,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 34.91,
+      "source_png_sha256": "1b3c79ea1f26e2619007c5af2021dd1e382da7bb0a88d32a092cace91da563ae",
+      "sha256": "e0b709892054979a8a41e1f74566e9889e3444311ff80b548da1656eaf0712d2",
+      "bytes": 605799
+    },
+    {
+      "file": "cocina.jpg",
+      "title": "Cocina de la vivienda",
+      "camera": "REV | Cocina comedor",
+      "frame": 150,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 48.03,
+      "source_png_sha256": "e8bf865e0ff59dca2c548737085da0b3b644a10235dcd45413dfec56598d2d7f",
+      "sha256": "6608f47539840d2688a8884b65c798cdb5f9f935af04cacb56dfbd939b5ea1e5",
+      "bytes": 415101
+    },
+    {
+      "file": "quincho.jpg",
+      "title": "Quincho y línea de fuego",
+      "camera": "REV | Quincho y extracción",
+      "frame": 150,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 37.83,
+      "source_png_sha256": "3bdf62a5b7256c4bf78cd8400a030723d3f79f21fea560b7e4811cd17611f291",
+      "sha256": "61438737c441bf1183b55c06d9707e60ce45196d178c2cfc8d9b98390ef01ccd",
+      "bytes": 558663
+    },
+    {
+      "file": "dormitorio.jpg",
+      "title": "Dormitorio",
+      "camera": "REV | Dormitorio completo",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 40.07,
+      "source_png_sha256": "966db7a1ecc7a653b20b5674f46d565db0ab97de068bc672f8100cf558fd7029",
+      "sha256": "d97406d46ddacc57b339fc7e652e2e9372dc728c077d972e3c5e50c0cf9ad2d9",
+      "bytes": 390365
+    },
+    {
+      "file": "dormitorio_acceso.jpg",
+      "title": "Acceso al dormitorio",
+      "camera": "REV | Dormitorio acceso",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 38.61,
+      "source_png_sha256": "a7b2df0af25c9c6b9d4e726547488b3c94a64a826522a72d7b1f5d828ee26c98",
+      "sha256": "d838f256953882506cd32da1725299108263ae098767e6f122a84a497775021a",
+      "bytes": 252893
+    },
+    {
+      "file": "vestidor.jpg",
+      "title": "Vestidor",
+      "camera": "REV | Vestidor circulación",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 34.41,
+      "source_png_sha256": "6995275ebc4b64ac8cc32cc0b649bf049157b4220b32062de1a55f4eb61e375c",
+      "sha256": "4cd1069ca6899c41296848d32245742cfa7f40ec15f8aa3cae1a3bdd2b21e22c",
+      "bytes": 358795
+    },
+    {
+      "file": "bano.jpg",
+      "title": "Baño de la vivienda",
+      "camera": "REV | Baño completo",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 36.81,
+      "source_png_sha256": "528643f2c11350f1958c5e6562ea3d79deb796dd3af8ece70f92b2d6c8bf5ec8",
+      "sha256": "eb6f024642bb8e7111f5ef01e807e3b45618971b66e192a11e93f48b531ea73f",
+      "bytes": 651317
+    },
+    {
+      "file": "bano_acceso.jpg",
+      "title": "Baño desde el acceso",
+      "camera": "REV | Baño desde acceso",
+      "frame": 150,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 44.04,
+      "source_png_sha256": "a3a300003028596495cdc6a68c6c1c37e4284bb384c78be039f316201cb404c2",
+      "sha256": "913f6baac5ebf795f5a5f5db5815929f100a129356c963323649ec309b58b865",
+      "bytes": 631028
+    },
+    {
+      "file": "puerta_bano.jpg",
+      "title": "Comunicación entre baño y comedor",
+      "camera": "REV | Baño acceso comedor",
+      "frame": 150,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 41.77,
+      "source_png_sha256": "352b45f7508db4558544dbc1fe1bef36cc4be3483c512f5b00dc574864f4faca",
+      "sha256": "74f599d1186b6c18075a6be2d072dd8c6ff81f85e9ff3fc5806756becf1bd4bf",
+      "bytes": 430610
+    },
+    {
+      "file": "mono_cocina.jpg",
+      "title": "Cocina e isla del monoambiente",
+      "camera": "REV | Mono cocina e isla",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 41.44,
+      "source_png_sha256": "184eca808cb16b92732b2e5b3eda49ae9ba53f11c9dde496654d809d46dbb5b9",
+      "sha256": "06ce50b7f38053abf81ff51c6a26dee5b6f4325d6e7c64c8978b5153b238626f",
+      "bytes": 549602
+    },
+    {
+      "file": "mono_distribucion.jpg",
+      "title": "Distribución del monoambiente",
+      "camera": "REV | Mono distribución",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 36.71,
+      "source_png_sha256": "6cef2608642b6d2e2ae520fbb11bbc37dc92bee54476dee22d15c731e007fcaa",
+      "sha256": "523ec996c1497f21078627f2dfd5ef81b47dcd2e09df13be714d59a86716f5b2",
+      "bytes": 632424
+    },
+    {
+      "file": "bano_mono.jpg",
+      "title": "Ducha del monoambiente",
+      "camera": "REV | Baño mono",
+      "frame": 150,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 39.35,
+      "source_png_sha256": "40f08de50c5aabfe56ecb8ca6fc81a923e01bfdcc8db4a43b6e9e3a052dda57f",
+      "sha256": "2269c06f33d62a0a137259df47a2a44d5def49e2c79a4f86e699308169b7ff08",
+      "bytes": 770827
+    },
+    {
+      "file": "bano_mono_sanitarios.jpg",
+      "title": "Sanitarios del monoambiente",
+      "camera": "REV | Baño mono sanitarios",
+      "frame": 150,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 38.29,
+      "source_png_sha256": "e825f6c3419d685aafffbc53e18fc4a383d3d84e2750d5af3a25c4eff3dfd1ac",
+      "sha256": "a0fd1638f7e107e3effd8385372edd41f04441ee234e25dd28f03db3129a09c6",
+      "bytes": 521567
+    },
+    {
+      "file": "bano_quincho.jpg",
+      "title": "Baño del quincho",
+      "camera": "REV | Baño quincho",
+      "frame": 150,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 30.3,
+      "source_png_sha256": "61496fdbcac2935cf63e2cd53640684e2402b5b05f84ea9e2864c72448308b5f",
+      "sha256": "09e2a81996b8ac7930bd8a32d5033e1c34a5393689b849018f363c3255111f56",
+      "bytes": 861370
+    },
+    {
+      "file": "escalera.jpg",
+      "title": "Escalera y desembarco",
+      "camera": "REV | Escalera y desembarco",
+      "frame": 150,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 33.85,
+      "source_png_sha256": "ffb2c7d2612ca107f7fa745b35dc732287fbc991b12f35d194f9fccffd043b7b",
+      "sha256": "f66ada02484bbb1a314a4797ad073972838dd6b702d5796ded9433b49b983598",
+      "bytes": 893210
+    },
+    {
+      "file": "cubiertas.jpg",
+      "title": "Cubiertas a distinta altura",
+      "camera": "REV | Cubierta escalonada",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 18.67,
+      "source_png_sha256": "124db1a1df59fe5b64b306ff17d0137d59798c53c6a704e63f62a3ee1edd7bc7",
+      "sha256": "f649d576db9d697ecfbae7741846cfc696646b96ad6af49dc6b206a8663e19c1",
+      "bytes": 755877
+    }
+  ]
+}

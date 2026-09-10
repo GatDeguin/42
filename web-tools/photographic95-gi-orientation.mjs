@@ -1,0 +1,4 @@
+import {chromium} from 'playwright';const browser=await chromium.launch({channel:'chrome',headless:true,args:['--enable-webgl','--ignore-gpu-blocklist']});
+try{const p=await browser.newPage({viewport:{width:1440,height:1000}});await p.goto('http://127.0.0.1:8420/preview95/?gi=1');await p.waitForFunction(()=>window.__viewer?.ready,null,{timeout:120000});await p.evaluate(()=>__viewer.selectView('estudio',true));await p.waitForTimeout(1200);
+for(const flip of [false,true]){await p.evaluate(value=>__viewer.scene.traverse(o=>{if(o.isMesh)for(const m of Array.isArray(o.material)?o.material:[o.material])if(m.lightMap){m.lightMap.flipY=value;m.lightMap.needsUpdate=true;}}),flip);await p.waitForTimeout(300);await p.screenshot({path:'docs/preview95/screenshots/gi-flip-'+flip+'.jpg',quality:85});}
+}finally{await browser.close();}

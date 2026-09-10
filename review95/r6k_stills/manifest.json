@@ -1,0 +1,236 @@
+{
+  "source_model": "Casa_de_Campo_95_R6K.blend",
+  "source_sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+  "status": "CANDIDATO EN REVISIÓN · aprobación global9.5 pendiente",
+  "video": "PAUSED_PENDING_EXPLICIT_APPROVAL",
+  "images": [
+    {
+      "file": "exterior.png",
+      "title": "Casa y paisaje",
+      "camera": "CAM | Presentación verticales corregidas",
+      "frame": 1,
+      "pixels": [
+        2400,
+        1800
+      ],
+      "samples": 192,
+      "seconds": 56.75
+    },
+    {
+      "file": "pileta.png",
+      "title": "Pileta y playa húmeda",
+      "camera": "CAM | Pileta & playa húmeda",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 33.77
+    },
+    {
+      "file": "huerta.png",
+      "title": "Huerta y jardín",
+      "camera": "CAM | Huerta",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 21.2
+    },
+    {
+      "file": "estudio.png",
+      "title": "Estudio de grabación",
+      "camera": "REV | Estudio y cubierta",
+      "frame": 150,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 34.91
+    },
+    {
+      "file": "cocina.png",
+      "title": "Cocina de la vivienda",
+      "camera": "REV | Cocina comedor",
+      "frame": 150,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 48.03
+    },
+    {
+      "file": "quincho.png",
+      "title": "Quincho y línea de fuego",
+      "camera": "REV | Quincho y extracción",
+      "frame": 150,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 37.83
+    },
+    {
+      "file": "dormitorio.png",
+      "title": "Dormitorio",
+      "camera": "REV | Dormitorio completo",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 40.07
+    },
+    {
+      "file": "dormitorio_acceso.png",
+      "title": "Acceso al dormitorio",
+      "camera": "REV | Dormitorio acceso",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 38.61
+    },
+    {
+      "file": "vestidor.png",
+      "title": "Vestidor",
+      "camera": "REV | Vestidor circulación",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 34.41
+    },
+    {
+      "file": "bano.png",
+      "title": "Baño de la vivienda",
+      "camera": "REV | Baño completo",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 36.81
+    },
+    {
+      "file": "bano_acceso.png",
+      "title": "Baño desde el acceso",
+      "camera": "REV | Baño desde acceso",
+      "frame": 150,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 44.04
+    },
+    {
+      "file": "puerta_bano.png",
+      "title": "Comunicación entre baño y comedor",
+      "camera": "REV | Baño acceso comedor",
+      "frame": 150,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 41.77
+    },
+    {
+      "file": "mono_cocina.png",
+      "title": "Cocina e isla del monoambiente",
+      "camera": "REV | Mono cocina e isla",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 41.44
+    },
+    {
+      "file": "mono_distribucion.png",
+      "title": "Distribución del monoambiente",
+      "camera": "REV | Mono distribución",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 36.71
+    },
+    {
+      "file": "bano_mono.png",
+      "title": "Ducha del monoambiente",
+      "camera": "REV | Baño mono",
+      "frame": 150,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 39.35
+    },
+    {
+      "file": "bano_mono_sanitarios.png",
+      "title": "Sanitarios del monoambiente",
+      "camera": "REV | Baño mono sanitarios",
+      "frame": 150,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 38.29
+    },
+    {
+      "file": "bano_quincho.png",
+      "title": "Baño del quincho",
+      "camera": "REV | Baño quincho",
+      "frame": 150,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 30.3
+    },
+    {
+      "file": "escalera.png",
+      "title": "Escalera y desembarco",
+      "camera": "REV | Escalera y desembarco",
+      "frame": 150,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 33.85
+    },
+    {
+      "file": "cubiertas.png",
+      "title": "Cubiertas a distinta altura",
+      "camera": "REV | Cubierta escalonada",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "samples": 192,
+      "seconds": 18.67
+    }
+  ]
+}

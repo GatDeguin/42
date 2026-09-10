@@ -1,0 +1,11 @@
+import {chromium} from 'playwright';import fs from 'node:fs';
+const browser=await chromium.launch({channel:'chrome',headless:true,args:['--enable-webgl','--ignore-gpu-blocklist']});
+try{const page=await browser.newPage({viewport:{width:960,height:680}});page.on('pageerror',e=>console.log('ERROR',e.message));await page.goto('http://127.0.0.1:8420/preview95/?mode=raster');await page.waitForFunction(()=>window.__viewer?.ready,null,{timeout:120000});await page.evaluate(()=>{__viewer.selectView('estudio',true);__viewer.photo.setEnabled(true);const pt=__viewer.photo.pathTracer;pt.renderScale=.4;pt.minSamples=1;pt.renderToCanvasCallback=(target,r,quad)=>{const old=r.autoClear;r.autoClear=false;quad.render(r);r.autoClear=old;};});
+await page.waitForFunction(()=>__viewer.photo.samples>=12,null,{timeout:120000});
+console.log('DIAG',await page.evaluate(async()=>{const T=await import('three'),pt=__viewer.photo.pathTracer,g=pt._generator.geometry;return {bounds:new T.Box3().setFromBufferAttribute(g.attributes.position),rays:pt._generator.bvh.raycastFirst(new T.Ray(__viewer.camera.position,__viewer.camera.getWorldDirection(new T.Vector3())),2),NaNs:Object.fromEntries(Object.entries(g.attributes).map(([k,a])=>[k,Array.from(a.array).filter(Number.isNaN).length])),ptCamera:pt.camera.position.toArray(),matNs:Array.from(pt._pathTracer.material.materials.image.data).filter(Number.isNaN).length};}));
+async function shot(name){await page.waitForFunction(()=>__viewer.photo.samples>=12,null,{timeout:30000});await page.screenshot({path:'docs/preview95/screenshots/diagnose-'+name+'.jpg',quality:72});}
+await shot('initial');
+await page.evaluate(()=>{__viewer.camera.far=400;__viewer.camera.updateProjectionMatrix();__viewer.photo.pathTracer.updateCamera();});await shot('far400');
+await page.evaluate(()=>{for(const m of __viewer.photo.pathTracer._materials){m.normalMap=null;m.roughnessMap=null;}__viewer.photo.pathTracer.updateMaterials();});await shot('no-normals');
+await page.evaluate(()=>{for(const m of __viewer.photo.pathTracer._materials){m.map=null;m.transmission=0;m.opacity=1;m.color.setRGB(.7,.7,.7);m.emissive.setRGB(.1,.1,.1);m.emissiveIntensity=1;}__viewer.photo.pathTracer.updateMaterials();});await shot('constant');
+}finally{await browser.close();}

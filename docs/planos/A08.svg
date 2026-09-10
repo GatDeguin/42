@@ -2,16 +2,16 @@
 <rect width="594" height="420" fill="white"/>
 <polygon points="10.0000,10.0000 584.0000,10.0000 584.0000,410.0000 10.0000,410.0000" fill="none" stroke="#172b35" stroke-width="0.35"/>
 <text x="18.0000" y="21.0000" font-family="Arial" font-size="4.8" font-weight="bold" fill="#172b35" text-anchor="start">CASA DE CAMPO</text>
-<text x="18.0000" y="28.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#6f7e83" text-anchor="start">VIRREY DEL PINO - BUENOS AIRES | CALLE CEDRO MISIONERO</text>
+<text x="18.0000" y="28.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#6f7e83" text-anchor="start">VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO</text>
 <text x="577.0000" y="21.0000" font-family="Arial" font-size="4.2" font-weight="bold" fill="#172b35" text-anchor="end">A08 | Pileta y borde pavimentado</text>
 <text x="577.0000" y="28.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#6f7e83" text-anchor="end">Vaso nominal de fuente 7,00 x 3,00 m | borde 1,00 m</text>
 <line x1="10.0000" y1="34.0000" x2="584.0000" y2="34.0000" stroke="#172b35" stroke-width="0.25"/>
 <line x1="10.0000" y1="384.0000" x2="584.0000" y2="384.0000" stroke="#172b35" stroke-width="0.3"/>
-<text x="18.0000" y="393.0000" font-family="Arial" font-size="3" font-weight="bold" fill="#ac5b27" text-anchor="start">EN REVISION | NO APTO PARA CONSTRUCCION</text>
-<text x="18.0000" y="401.0000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#6f7e83" text-anchor="start">Modelo: Casa_de_Campo_95_Pass1c.blend | SHA256 fba22fb65c02f4e8 | 10/09/2026</text>
+<text x="18.0000" y="393.0000" font-family="Arial" font-size="3" font-weight="bold" fill="#ac5b27" text-anchor="start">EN REVISION / SIN APROBACION 9,5 | NO APTO PARA CONSTRUCCION</text>
+<text x="18.0000" y="401.0000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#6f7e83" text-anchor="start">Modelo: Casa_de_Campo_95_R6K.blend | SHA256 a3663a5081dac391 | 10/09/2026</text>
 <text x="375.0000" y="393.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">A2 594 x 420 mm | imprimir al 100 %</text>
 <text x="375.0000" y="401.0000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#6f7e83" text-anchor="start">Metros salvo indicacion | cotas prevalecen al escalimetro</text>
-<text x="577.0000" y="407.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#172b35" text-anchor="end">10</text>
+<text x="577.0000" y="407.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#172b35" text-anchor="end">11</text>
 <text x="43.0000" y="67.0000" font-family="Arial" font-size="3.2" font-weight="bold" fill="#236a86" text-anchor="start">01 Planta del vaso y playa humeda | 1:25</text>
 <polygon points="103.0000,253.8200 103.0758,253.9667 382.8200,254.0000 382.9667,253.9242 383.0000,134.1800 382.9242,134.0332 103.1800,134.0000 103.0000,134.1800 103.0000,253.8200" fill="#ffffff" stroke="#172b35" stroke-width="0.17"/>
 <polygon points="106.8000,219.5618 106.9800,219.8000 148.6200,219.8000 148.7668,219.6997 148.8000,202.0382 148.6200,201.8000 106.9800,201.8000 106.8000,202.0382 106.8000,219.5618" fill="#ffffff" stroke="#172b35" stroke-width="0.17"/>
@@ -83,11 +83,14 @@
 <text x="467.0000" y="68.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">G: pavimento perimetral +0,09 m; borde vertical del vaso hasta +0,07 m.</text>
 <text x="467.0000" y="75.4000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">G: fondo del vaso entre -1,57 y -1,39 m; espesor representado 0,18 m.</text>
 <text x="467.0000" y="82.8000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">G: tres escalones con caras superiores -0,14 / -0,43 / -0,72 m.</text>
-<text x="467.0000" y="90.2000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">G: playa humeda superior -0,08 m; escalon intermedio -0,31 m.</text>
-<text x="467.0000" y="97.6000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Agua es un volumen de visualizacion. Nivel operativo, rebalse y resguardo</text>
-<text x="467.0000" y="102.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">deben definirse en proyecto de pileta.</text>
-<text x="467.0000" y="109.4000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">P: skimmer, retornos, toma de fondo, equipo de filtrado y desague requieren</text>
-<text x="467.0000" y="113.8000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">ubicacion, dimensionado y seguridad especifica. Esquema en A15.</text>
+<text x="467.0000" y="90.2000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">G: playa humeda -0,080 m; agua -0.030 m; profundidad actual 50 mm.</text>
+<text x="467.0000" y="94.6000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Escalon intermedio -0,31 m.</text>
+<text x="467.0000" y="102.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">G cresta de agua -0.030 m; resguardo geometrico 100 mm al borde. P nivel</text>
+<text x="467.0000" y="106.4000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">operativo sujeto a proyecto hidraulico.</text>
+<text x="467.0000" y="113.8000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">G pendiente de correccion: volumen de agua hasta -1.504 m; invade 114</text>
+<text x="467.0000" y="118.2000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">mm del fondo de hormigon. No representa un volumen hidraulico resuelto.</text>
+<text x="467.0000" y="125.6000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">P: skimmer, retornos, filtrado y desague por dimensionar y coordinar.</text>
+<text x="467.0000" y="130.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Esquema en A15.</text>
 <text x="49.0000" y="329.0000" font-family="Arial" font-size="3.2" font-weight="bold" fill="#236a86" text-anchor="start">02 Corte transversal al largo / Z=16,50 | 1:50</text>
 <line x1="58.9785" y1="343.9679" x2="58.9736" y2="343.9736" stroke="#6f7e83" stroke-width="0.16"/>
 <line x1="58.9834" y1="343.9621" x2="58.9785" y2="343.9679" stroke="#6f7e83" stroke-width="0.16"/>

@@ -1,0 +1,56 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_95_R6J.blend",
+  "source_sha256": "980fc72b7186bfb5ae4c58d6059c6eb40982f7d2d15dc87a8e4d087aec66c3fc",
+  "dining_group_shift_source_z_m": 0.01,
+  "dining_objects": [
+    "Cable lámpara comedor 17.69",
+    "Cable lámpara comedor 18.61",
+    "Florero comedor",
+    "LED | Lámpara comedor",
+    "Lámpara comedor",
+    "Mesa comedor pata -0.64-0.29",
+    "Mesa comedor pata -0.640.29",
+    "Mesa comedor pata 0.64-0.29",
+    "Mesa comedor pata 0.640.29",
+    "Mesa comedor tapa",
+    "Silla comedor norte -0.49 asiento",
+    "Silla comedor norte -0.49 pata -1-1",
+    "Silla comedor norte -0.49 pata -11",
+    "Silla comedor norte -0.49 pata 1-1",
+    "Silla comedor norte -0.49 pata 11",
+    "Silla comedor norte -0.49 respaldo",
+    "Silla comedor norte 0.49 asiento",
+    "Silla comedor norte 0.49 pata -1-1",
+    "Silla comedor norte 0.49 pata -11",
+    "Silla comedor norte 0.49 pata 1-1",
+    "Silla comedor norte 0.49 pata 11",
+    "Silla comedor norte 0.49 respaldo",
+    "Silla comedor sur -0.49 asiento",
+    "Silla comedor sur -0.49 pata -1-1",
+    "Silla comedor sur -0.49 pata -11",
+    "Silla comedor sur -0.49 pata 1-1",
+    "Silla comedor sur -0.49 pata 11",
+    "Silla comedor sur -0.49 respaldo",
+    "Silla comedor sur 0.49 asiento",
+    "Silla comedor sur 0.49 pata -1-1",
+    "Silla comedor sur 0.49 pata -11",
+    "Silla comedor sur 0.49 pata 1-1",
+    "Silla comedor sur 0.49 pata 11",
+    "Silla comedor sur 0.49 respaldo"
+  ],
+  "grass_exclusions": [
+    {
+      "object": "Paisaje | pradera de transición",
+      "vertices_before": 68823,
+      "vertices_removed": 24,
+      "vertices_after": 68799
+    }
+  ],
+  "pad_objects": [
+    "Banco huerta | loseta hormigón P -1 -1",
+    "Banco huerta | loseta hormigón P -1 1",
+    "Banco huerta | loseta hormigón P 1 -1",
+    "Banco huerta | loseta hormigón P 1 1"
+  ],
+  "note": "0.80m dining passage is a project objective, not a claim of regulatory compliance; each drawing measures evaluated geometry."
+}

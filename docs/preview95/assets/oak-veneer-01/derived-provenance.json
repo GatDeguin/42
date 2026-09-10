@@ -1,0 +1,62 @@
+{
+  "sourceAsset": "oak_veneer_01",
+  "originalLinearMean": [
+    0.3613398477463001,
+    0.21155398678018267,
+    0.09853097242190383
+  ],
+  "calibrationFactors": [
+    0.8817184210020808,
+    0.8882838979312652,
+    0.9536087759051927
+  ],
+  "calibratedLinearTarget": [
+    0.3186,
+    0.18792,
+    0.09396
+  ],
+  "clearBaseFactor": [
+    0.9259259259259258,
+    0.9259259259259258,
+    0.9259259259259258,
+    1
+  ],
+  "darkBaseFactor": [
+    0.3688010043942247,
+    0.33524904214559387,
+    0.3246062154108131,
+    1
+  ],
+  "parquetTileMetres": [
+    1.44,
+    2.8
+  ],
+  "parquetBoardsMetres": [
+    0.18,
+    1.4
+  ],
+  "parquetJointMetres": 0.0015,
+  "notes": "Derived from the photographed asset, with per-channel linear colour calibration to existing light/dark timber means. Parquet rearranges photographic crops into existing board dimensions; joins remain material-only. No geometry changes.",
+  "files": [
+    {
+      "file": "oak-calibrated-diffuse-2k.jpg",
+      "bytes": 1806923,
+      "SHA256": "365804dac49cac082868aa3b2d984c769c3be2eab137746f9dcfb6ad8ee3725a"
+    },
+    {
+      "file": "oak-parquet-diffuse-2k.jpg",
+      "bytes": 1872186,
+      "SHA256": "1a732c09af425e41234fa601fbf785871bdf52035ac78331973961016fb4e960"
+    },
+    {
+      "file": "oak-parquet-roughness-2k.png",
+      "bytes": 4776076,
+      "SHA256": "396a737c36b2621b3de87dff1874bfafd0727306e7eae1d4f325963dfafd93d0"
+    },
+    {
+      "file": "oak-parquet-normalGL-2k.png",
+      "bytes": 5873778,
+      "SHA256": "aa21a73401bd0132e4598e1dea1dbdb7bbe5f26bb227c80c1434e8bd119ff02e"
+    }
+  ]
+}

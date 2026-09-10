@@ -1,0 +1,61 @@
+{
+  "asset": "oak_veneer_01",
+  "url": "https://polyhaven.com/a/oak_veneer_01",
+  "author": "Jenelle van Heerden",
+  "license": "CC0",
+  "licenseURL": "https://polyhaven.com/license",
+  "downloaded": "2026-09-10T20:04:56.813Z",
+  "apiInfoURL": "https://api.polyhaven.com/info/oak_veneer_01",
+  "apiFilesURL": "https://api.polyhaven.com/files/oak_veneer_01",
+  "tileMetres": [
+    1.830000043,
+    1.830000043
+  ],
+  "files": [
+    {
+      "role": "Diffuse",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/oak_veneer_01/oak_veneer_01_diff_2k.png",
+      "sourceMD5": "c227c78642f62f54e92d74ee22a4f0f5",
+      "sourceSHA256": "dc760fa4e771d21810391aba7adeef62c0ce7359323a9c0c3ba26e59c41ca940",
+      "sourceBytes": 21878855,
+      "file": "oak_veneer_01_diff_2k.png",
+      "bytes": 8569586,
+      "SHA256": "808e6d7db3e9cbe40331fbbe917aa9c104f72dd7fe43babd29be4acbf5ec3631",
+      "width": 2048,
+      "height": 2048,
+      "originalDepth": "ushort",
+      "operation": "PNG8 lossless recompression; exact equality of decoded 8-bit pixels",
+      "colorSpace": "sRGB"
+    },
+    {
+      "role": "Rough",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/oak_veneer_01/oak_veneer_01_rough_2k.png",
+      "sourceMD5": "6870047fdf4ea7ab97e523119f8d04d1",
+      "sourceSHA256": "c721fe5abff3c3ec04281803e8477f3fc348d8b5882f5830c50709e838977e6f",
+      "sourceBytes": 10588499,
+      "file": "oak_veneer_01_rough_2k.png",
+      "bytes": 5338932,
+      "SHA256": "698a213a7512db8b1f70a4b2f060e1c8eb19ffe8bc68dd1fe6d78d62fa8b8d1c",
+      "width": 2048,
+      "height": 2048,
+      "originalDepth": "ushort",
+      "operation": "PNG8 lossless recompression; exact equality of decoded 8-bit pixels",
+      "colorSpace": "Non-Color"
+    },
+    {
+      "role": "nor_gl",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/oak_veneer_01/oak_veneer_01_nor_gl_2k.png",
+      "sourceMD5": "c67eef8573d4beb46519c89200b79a1e",
+      "sourceSHA256": "c26f922a75022c11243f351d348d1b5615e713f3787c76657fdb06047879b960",
+      "sourceBytes": 20978522,
+      "file": "oak_veneer_01_nor_gl_2k.png",
+      "bytes": 6533070,
+      "SHA256": "f682abcd52459c9eaca9f98b7eaf4e046cd75a75102d8163c3dd67d71a56c2d6",
+      "width": 2048,
+      "height": 2048,
+      "originalDepth": "ushort",
+      "operation": "PNG8 lossless recompression; exact equality of decoded 8-bit pixels",
+      "colorSpace": "Non-Color"
+    }
+  ]
+}

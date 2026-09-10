@@ -1,0 +1,61 @@
+{
+  "asset": "red_bricks_04",
+  "url": "https://polyhaven.com/a/red_bricks_04",
+  "author": "Rob Tuytel",
+  "license": "CC0",
+  "licenseURL": "https://polyhaven.com/license",
+  "downloaded": "2026-09-10T21:17:24.459Z",
+  "apiInfoURL": "https://api.polyhaven.com/info/red_bricks_04",
+  "apiFilesURL": "https://api.polyhaven.com/files/red_bricks_04",
+  "tileMetres": [
+    2.5,
+    2.5
+  ],
+  "files": [
+    {
+      "role": "Diffuse",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/red_bricks_04/red_bricks_04_diff_2k.png",
+      "sourceMD5": "69b25c273a6207db4ad7fb21b4b71c0f",
+      "sourceSHA256": "6cec6c7aceb3131b60d6ca370078e3424a9ee2c46e54c0f1cb9b18e250b4b048",
+      "sourceBytes": 25622383,
+      "file": "red_bricks_04_diff_2k.png",
+      "bytes": 10271388,
+      "SHA256": "7f4481dacd4c4085fc2d77d100f442e02c1061a3d0527a0f4aa967157e85e675",
+      "width": 2048,
+      "height": 2048,
+      "originalDepth": "ushort",
+      "operation": "PNG8 lossless recompression; exact equality of decoded 8-bit pixels",
+      "colorSpace": "sRGB"
+    },
+    {
+      "role": "Rough",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/red_bricks_04/red_bricks_04_rough_2k.png",
+      "sourceMD5": "b5ec9ba8477038ea350d2c687204906f",
+      "sourceSHA256": "7792b6cb9840d6b601e2a8874eccc43e1683dca34be5820492291f3bec1ec240",
+      "sourceBytes": 9252368,
+      "file": "red_bricks_04_rough_2k.png",
+      "bytes": 3887541,
+      "SHA256": "d1860d357ce9e6b1b03a7b2af6b95dddd4a5314c1b9eba3f57aa5d66ecb7ec71",
+      "width": 2048,
+      "height": 2048,
+      "originalDepth": "ushort",
+      "operation": "PNG8 lossless recompression; exact equality of decoded 8-bit pixels",
+      "colorSpace": "Non-Color"
+    },
+    {
+      "role": "nor_gl",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/red_bricks_04/red_bricks_04_nor_gl_2k.png",
+      "sourceMD5": "d80d442021b08cd05dfb4f1fb24d0d72",
+      "sourceSHA256": "675dbc08c22478e9b1b818c5facc6b0d53c198805a214e179583ffecf7165bb7",
+      "sourceBytes": 25396332,
+      "file": "red_bricks_04_nor_gl_2k.png",
+      "bytes": 10330072,
+      "SHA256": "e1291a7fde0c09876d23d16d623622c166034c7d0cba30644b7f643faab30ec3",
+      "width": 2048,
+      "height": 2048,
+      "originalDepth": "ushort",
+      "operation": "PNG8 lossless recompression; exact equality of decoded 8-bit pixels",
+      "colorSpace": "Non-Color"
+    }
+  ]
+}

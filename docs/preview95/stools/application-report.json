@@ -1,0 +1,319 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_95_R6H.blend",
+  "sourceSHA256": "d586a3503e2bf3ffa2e8766412894cbcdee81bccc3e302cce3d20427bffcfbc6",
+  "families": [
+    {
+      "name": "Taburete isla mono A",
+      "sourceBounds": [
+        [
+          16.1299991607666,
+          -3.239999771118164,
+          0.21000000834465027
+        ],
+        [
+          16.510000228881836,
+          -2.859999895095825,
+          0.85999995470047
+        ]
+      ],
+      "newBounds": [
+        [
+          16.1299991607666,
+          -3.239999771118164,
+          0.21000000834465027
+        ],
+        [
+          16.510000228881836,
+          -2.859999656677246,
+          0.8600000143051147
+        ]
+      ],
+      "centerXY": [
+        16.31999969482422,
+        -3.049999713897705
+      ],
+      "footprint": [
+        0.3800010681152344,
+        0.37999987602233887
+      ],
+      "parts": [
+        "Taburete isla mono A | asiento 30 mm",
+        "Taburete isla mono A | pata izq frente",
+        "Taburete isla mono A | apoyo elastomérico izq frente",
+        "Taburete isla mono A | pata izq dorso",
+        "Taburete isla mono A | apoyo elastomérico izq dorso",
+        "Taburete isla mono A | pata der frente",
+        "Taburete isla mono A | apoyo elastomérico der frente",
+        "Taburete isla mono A | pata der dorso",
+        "Taburete isla mono A | apoyo elastomérico der dorso",
+        "Taburete isla mono A | faldón unión X -1",
+        "Taburete isla mono A | faldón unión Y -1",
+        "Taburete isla mono A | reposapiés X -1",
+        "Taburete isla mono A | travesaño Y -1",
+        "Taburete isla mono A | faldón unión X 1",
+        "Taburete isla mono A | faldón unión Y 1",
+        "Taburete isla mono A | reposapiés X 1",
+        "Taburete isla mono A | travesaño Y 1"
+      ],
+      "seatThickness": 0.03,
+      "seatAboveFloor": 0.65,
+      "legSection": [
+        0.035,
+        0.035
+      ],
+      "footrestAboveFloor": 0.2,
+      "footPads": 4,
+      "material": "PHOTO95 | oak_veneer_01 | light | SourceUV",
+      "uv0": "SourceUV",
+      "sourceMatrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          16.31999969482422
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -3.049999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.4699999988079071
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "proposedFoundation": [],
+      "foundationStatus": null
+    },
+    {
+      "name": "Taburete isla mono B",
+      "sourceBounds": [
+        [
+          17.189998626708984,
+          -3.239999771118164,
+          0.21000000834465027
+        ],
+        [
+          17.56999969482422,
+          -2.859999895095825,
+          0.85999995470047
+        ]
+      ],
+      "newBounds": [
+        [
+          17.189998626708984,
+          -3.239999771118164,
+          0.21000000834465027
+        ],
+        [
+          17.56999969482422,
+          -2.859999656677246,
+          0.8600000143051147
+        ]
+      ],
+      "centerXY": [
+        17.3799991607666,
+        -3.049999713897705
+      ],
+      "footprint": [
+        0.3800010681152344,
+        0.37999987602233887
+      ],
+      "parts": [
+        "Taburete isla mono B | asiento 30 mm",
+        "Taburete isla mono B | pata izq frente",
+        "Taburete isla mono B | apoyo elastomérico izq frente",
+        "Taburete isla mono B | pata izq dorso",
+        "Taburete isla mono B | apoyo elastomérico izq dorso",
+        "Taburete isla mono B | pata der frente",
+        "Taburete isla mono B | apoyo elastomérico der frente",
+        "Taburete isla mono B | pata der dorso",
+        "Taburete isla mono B | apoyo elastomérico der dorso",
+        "Taburete isla mono B | faldón unión X -1",
+        "Taburete isla mono B | faldón unión Y -1",
+        "Taburete isla mono B | reposapiés X -1",
+        "Taburete isla mono B | travesaño Y -1",
+        "Taburete isla mono B | faldón unión X 1",
+        "Taburete isla mono B | faldón unión Y 1",
+        "Taburete isla mono B | reposapiés X 1",
+        "Taburete isla mono B | travesaño Y 1"
+      ],
+      "seatThickness": 0.03,
+      "seatAboveFloor": 0.65,
+      "legSection": [
+        0.035,
+        0.035
+      ],
+      "footrestAboveFloor": 0.2,
+      "footPads": 4,
+      "material": "PHOTO95 | oak_veneer_01 | light | SourceUV",
+      "uv0": "SourceUV",
+      "sourceMatrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          17.3799991607666
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -3.049999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.4699999988079071
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "proposedFoundation": [],
+      "foundationStatus": null
+    },
+    {
+      "name": "Banco huerta",
+      "sourceBounds": [
+        [
+          7.324999809265137,
+          -6.760000228881836,
+          0.050000011920928955
+        ],
+        [
+          8.574999809265137,
+          -6.340000152587891,
+          0.6100000143051147
+        ]
+      ],
+      "newBounds": [
+        [
+          7.324999809265137,
+          -6.760000228881836,
+          0.04999999701976776
+        ],
+        [
+          8.574999809265137,
+          -6.340000152587891,
+          0.5
+        ]
+      ],
+      "centerXY": [
+        7.949999809265137,
+        -6.550000190734863
+      ],
+      "footprint": [
+        1.25,
+        0.4200000762939453
+      ],
+      "parts": [
+        "Banco huerta | tablón asiento 1",
+        "Banco huerta | tablón asiento 2",
+        "Banco huerta | tablón asiento 3",
+        "Banco huerta | tablón asiento 4",
+        "Banco huerta | pata izq frente",
+        "Banco huerta | apoyo elastomérico izq frente",
+        "Banco huerta | pata izq dorso",
+        "Banco huerta | apoyo elastomérico izq dorso",
+        "Banco huerta | pata der frente",
+        "Banco huerta | apoyo elastomérico der frente",
+        "Banco huerta | pata der dorso",
+        "Banco huerta | apoyo elastomérico der dorso",
+        "Banco huerta | faldón unión X -1",
+        "Banco huerta | faldón unión Y -1",
+        "Banco huerta | faldón unión X 1",
+        "Banco huerta | faldón unión Y 1",
+        "Banco huerta | travesaño central bajo tablones",
+        "Banco huerta | loseta hormigón P -1 -1",
+        "Banco huerta | lecho granular P -1 -1",
+        "Banco huerta | loseta hormigón P -1 1",
+        "Banco huerta | lecho granular P -1 1",
+        "Banco huerta | loseta hormigón P 1 -1",
+        "Banco huerta | lecho granular P 1 -1",
+        "Banco huerta | loseta hormigón P 1 1",
+        "Banco huerta | lecho granular P 1 1"
+      ],
+      "seatThickness": 0.04,
+      "seatAboveFloor": 0.45,
+      "legSection": [
+        0.05,
+        0.05
+      ],
+      "footrestAboveFloor": null,
+      "footPads": 4,
+      "material": "PHOTO95 | oak_veneer_01 | dark | SourceUV",
+      "uv0": "SourceUV",
+      "sourceMatrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          7.949999809265137
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -6.550000190734863
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.33000001311302185
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "proposedFoundation": [
+        "Banco huerta | loseta hormigón P -1 -1",
+        "Banco huerta | lecho granular P -1 -1",
+        "Banco huerta | loseta hormigón P -1 1",
+        "Banco huerta | lecho granular P -1 1",
+        "Banco huerta | loseta hormigón P 1 -1",
+        "Banco huerta | lecho granular P 1 -1",
+        "Banco huerta | loseta hormigón P 1 1",
+        "Banco huerta | lecho granular P 1 1"
+      ],
+      "foundationStatus": "P"
+    }
+  ],
+  "removedDuplicateSupports": [
+    {
+      "name": "Apoyo banco huerta",
+      "bounds": [
+        [
+          7.424999713897705,
+          -6.710000038146973,
+          0.07999999821186066
+        ],
+        [
+          8.47499942779541,
+          -6.390000343322754,
+          0.25999999046325684
+        ]
+      ]
+    }
+  ],
+  "newMeshes": 59,
+  "untouchedObjects": 5214,
+  "untouchedGeometryTransformsMaterials": true
+}

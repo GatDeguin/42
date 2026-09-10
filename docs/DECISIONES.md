@@ -1,20 +1,31 @@
 # Fuente, decisiones y alcance técnico
 
-| Tema | Base conservada / decisión |
+| Tema | Base conservada o decisión |
 |---|---|
-| Fuente | HTML/JavaScript analizado:1233 objetos,305 geometrías y 16 cámaras de la escena. |
-| Coordenadas | HTML(X,Y,Z)→Blender(X,−Z,Y), metros. |
-| Implantación | Lote 22×20; casa 8×12 enX14/Z0, dos módulos de 6 m; piscina 7×3 y posición de fuente. |
-| Planta alta | Losa estructural+3,00..+3,20; piso terminado general+3,25, baño+3,30. |
-| Altura estudio |3,20 m libres autorizados; cara inferior del cielorraso y acústicos+6,45. |
-| Altura vivienda | Aproximadamente 2,60 m autorizados; cielorraso general+5,85 y baño+5,90. |
-| Cubiertas | Estudio más alto según usuario. Desnivel exterior 0,60 m inferido de la diferencia interior; pendientes y huella de fuente conservadas. |
-| Escalera | Exterior,18 peldaños, ancho 1 m, recorrido 3,80 m, descanso 1×1; sin escalera interior. |
-| Carpintería | Vanos de fuente y DVH de dos paños; herrajes y mecanismos completados. Sentidos/planos de desplazamiento ajustados donde la fuente generaba cruces. |
-| Portón | Hoja 3 m, luz entre pilares existentes 2,75 m, carrera 3,05 m. |
-| Instalaciones | Trazados de extracción independientes añadidos porque faltaban en HTML. Pasos y patinillo coordinados geométricamente. |
-| Construcción añadida | Apoyos, correas, cielorrasos, aislamiento, fijaciones, relleno de barandas, juntas y remates son desarrollo del modelo. |
-| Vegetación | Seis centros originales conservados; arboleda y pradera periféricas de ambientación. |
-| Video | Pausado hasta aprobación explícita del propietario. Cámara y poses editables incluidas. |
+| Fuente | HTML/JavaScript original y correcciones posteriores del propietario. |
+| Coordenadas | HTML(X,Y,Z)→Blender(X,−Z,Y), metros, factor de unidad1. |
+| Ubicación | Virrey del Pino, La Matanza, Buenos Aires, informada por el propietario. |
+| Norte | Abajo a la izquierda con Cedro Misionero arriba: vector fuente(-X,+Z). Orientativo, sin levantamiento topográfico. |
+| Servicios | Todos disponibles según propietario. Puntos y niveles de conexión no relevados. |
+| Implantación | Lote22×20; casa8×12 enX14/Z0, dos módulos de6m; pileta7×3 nominal exterior del vaso. |
+| Planta alta | Losa estructural+3,00..+3,20; piso terminado general y baño+3,25. |
+| Altura estudio | 3,20m libres; cielorraso y límite inferior de tratamiento acústico+6,45. |
+| Altura vivienda | 2,60m libres; cielorraso general y baño+5,85. |
+| Cubiertas | Estudio más alto:0,60m de desnivel, derivado de las alturas interiores autorizadas. Pendientes y huella de fuente conservadas. |
+| Escalera | Exterior,18 peldaños, ancho nominal1m, recorrido3,80m, descanso1×1. Contrahuellas177,22mm desde arranque+0,06 hasta acabado+3,25. Huella de avance211,11mm. Sin escalera interior. |
+| Quincho | Barra paralela a parrilla; mesa/sillas hacia jardín, apoyadas en piso acabado. |
+| Dormitorio | Cabecera al muroZ6,10; ventana a la derecha de quien está acostado, dirección−X. Se conserva vestidor y se desactiva armario duplicado del dormitorio. |
+| Baño/comedor | Nuevo vano y corredera con luz900mm, altura libre2220mm; baño enrasado y retorno de mesada reordenado. |
+| Mobiliario | Medidas desde pisos acabados; apoyos, espacio de rodillas y equipos coordinados. El objetivo de paso de0,80m en comedor es proyectual, no una afirmación normativa. |
+| Carpintería | Vanos y doble vidrio conservados. Galces, juntas, perfiles, asientos y herrajes propuestos;13 mecanismos independientes. |
+| Portón | Hoja3m, luz entre pilares2,75m, carrera3,05m. |
+| Baños | Capas y pendientes modeladas. Bañera1,25×0,74 clasificada compacta/asiento; producto aún por seleccionar. |
+| Pileta | Cota máxima modelada del agua−0,030; coronamiento del vaso+0,070, resguardo100mm. Operación/filtrado requieren proyecto específico. |
+| Construcción añadida | Apoyos, correas, cielorrasos, aislamiento, fijaciones, juntas y remates son desarrollo de la reconstrucción. |
+| Instalaciones | Trazados y reservas propuestos, no dimensionamiento definitivo ni redes de servicio verificadas en sitio. |
+| Vegetación | Seis posiciones de árboles del lote conservadas; entorno adicional de ambientación. |
+| Video | Pausado hasta autorización explícita. Cámaras/poses y recorrido editado incluidos. |
 
-La documentación permite revisar geometría, proporciones, circulación, materiales y detalles del modelo. No se asignaron capacidades portantes ni dimensionamiento reglamentario: estructura, fundaciones, acústica e instalaciones deben calcularse con datos de sitio y por los profesionales correspondientes antes de una obra.
+Las cotas de planos se distinguen según su base: fuente, geometría evaluada o propuesta. No se deben convertir medidas de envolventes ni visualizaciones en tolerancias de fabricación sin el detalle correspondiente.
+
+La documentación permite revisar geometría, circulación, materiales y encuentros. Capacidad de suelo/fundaciones, estructura, estanqueidad, desempeño térmico/acústico, redes y cumplimiento normativo requieren datos de sitio y verificación profesional antes de construir.

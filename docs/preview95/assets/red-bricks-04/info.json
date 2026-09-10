@@ -1,0 +1,52 @@
+{
+  "type": 1,
+  "tags": [
+    "textured",
+    "bricks",
+    "baked",
+    "rough",
+    "uneven",
+    "urban",
+    "clean",
+    "red"
+  ],
+  "name": "Red Bricks 04",
+  "categories": [
+    "outdoor",
+    "man made",
+    "wall",
+    "brick"
+  ],
+  "authors": {
+    "Rob Tuytel": "All"
+  },
+  "date_published": 1633392000,
+  "staging": null,
+  "sponsors": [
+    "3267566",
+    "20953239"
+  ],
+  "dimensions": [
+    2500,
+    2500
+  ],
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "d014230a431d9cd4cb59000dc50e6da35144054c",
+  "description": "Free 8K texture of red, uneven baked bricks with rough surface, weathered edges and clean mortar; urban, detailed wall material.",
+  "category_id": "9ef0955b-87fa-5826-aa87-98b047ad9143",
+  "category": "Brick & Block/Clay Brick/Running-Bond",
+  "attributes": {
+    "surface_use": "wall",
+    "condition": [
+      "weathered"
+    ],
+    "origin": "man_made",
+    "setting": "outdoor"
+  },
+  "img_version": "dc99f93b",
+  "download_count": 102584,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/red_bricks_04.png?width=256&height=256&v=dc99f93b"
+}

@@ -1,17 +1,20 @@
 {
   "project": "Casa de Campo",
-  "place": "Virrey del Pino, Buenos Aires",
-  "status": "EN REVISION",
-  "model": "D:\\2026\\42\\output\\Casa_de_Campo_95_Pass1c.blend",
-  "model_sha256": "fba22fb65c02f4e82e400abb6b0914d45813397d17cd76fa96fef809a4d39227",
+  "place": "Virrey del Pino, Partido de La Matanza, Buenos Aires",
+  "status": "EN REVISION / SIN APROBACION 9,5",
+  "revision": "R6K",
+  "model": "Casa_de_Campo_95_R6K.blend",
+  "model_sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
   "source_sha256": "48e4b0624f62460f5d401f92e9d23f2bfb92911f80b780db6e1d528cf3112980",
-  "created_utc": "2026-09-10T18:24:45.537750+00:00",
+  "created_utc": "2026-09-10T22:46:10.882668+00:00",
   "pdf": "Casa_de_Campo_Planos_A2.pdf",
+  "zip": "Casa_de_Campo_Planos_Editables.zip",
   "paper_mm": [
     594,
     420
   ],
   "dxf_units": "metres",
+  "pages": 33,
   "sheets": [
     {
       "id": "A00",
@@ -36,6 +39,12 @@
       "title": "Planta alta",
       "svg": "A03.svg",
       "dxf": "A03.dxf"
+    },
+    {
+      "id": "A03b",
+      "title": "Circulacion y uso en vivienda",
+      "svg": "A03b.svg",
+      "dxf": "A03b.dxf"
     },
     {
       "id": "A04",
@@ -86,6 +95,12 @@
       "dxf": "A10.dxf"
     },
     {
+      "id": "A10b",
+      "title": "Monoambiente: uso y medidas",
+      "svg": "A10b.svg",
+      "dxf": "A10b.dxf"
+    },
+    {
       "id": "A11",
       "title": "Estudio y estrategia acustica",
       "svg": "A11.svg",
@@ -126,15 +141,497 @@
       "title": "Superficies y trazabilidad",
       "svg": "A16.svg",
       "dxf": "A16.dxf"
+    },
+    {
+      "id": "D01",
+      "title": "Alero, capas y union de remates",
+      "svg": "D01.svg",
+      "dxf": "D01.dxf"
+    },
+    {
+      "id": "D02",
+      "title": "Escalon de cubierta y penetraciones",
+      "svg": "D02.svg",
+      "dxf": "D02.dxf"
+    },
+    {
+      "id": "D03",
+      "title": "DVH: galces y juntas",
+      "svg": "D03.svg",
+      "dxf": "D03.dxf"
+    },
+    {
+      "id": "D04",
+      "title": "Baranda: placa, apoyo y anclajes",
+      "svg": "D04.svg",
+      "dxf": "D04.dxf"
+    },
+    {
+      "id": "D05",
+      "title": "Escalera: placas, bulones y apoyo",
+      "svg": "D05.svg",
+      "dxf": "D05.dxf"
+    },
+    {
+      "id": "D05b",
+      "title": "Escalera: arranque y plantilla",
+      "svg": "D05b.svg",
+      "dxf": "D05b.dxf"
+    },
+    {
+      "id": "D06",
+      "title": "Acustica: panel, cielorraso y fijaciones",
+      "svg": "D06.svg",
+      "dxf": "D06.dxf"
+    },
+    {
+      "id": "D07",
+      "title": "Sellos, pasos y relieve acustico",
+      "svg": "D07.svg",
+      "dxf": "D07.dxf"
+    },
+    {
+      "id": "D08",
+      "title": "Ventilacion silenciosa y mantenimiento",
+      "svg": "D08.svg",
+      "dxf": "D08.dxf"
+    },
+    {
+      "id": "D09",
+      "title": "Baño: piso continuo y corredera",
+      "svg": "D09.svg",
+      "dxf": "D09.dxf"
+    },
+    {
+      "id": "D10",
+      "title": "Corredizas: pistas, vidrio y drenaje",
+      "svg": "D10.svg",
+      "dxf": "D10.dxf"
+    },
+    {
+      "id": "D11",
+      "title": "Ducha: pendientes y conexiones",
+      "svg": "D11.svg",
+      "dxf": "D11.dxf"
     }
   ],
-  "notes": [
-    "North indicative from owner; no surveyed azimuth",
-    "Network services available per owner; exact connection locations pending",
-    "Not a construction-certified project"
-  ],
-  "metrics": {
-    "dimension_count": 90,
-    "view_count": 35
-  }
+  "checks": {
+    "consistent_model_sha": true,
+    "general_validation_pass": true,
+    "detail_validation_pass": true,
+    "pages": 33,
+    "general_pages": 21,
+    "detail_pages": 12,
+    "vector_only": true,
+    "a2_all_pages": true,
+    "native_dxf_dimensions": 195,
+    "dxf_files": 33,
+    "svg_files": 33,
+    "anchor_evidence_matches": true,
+    "minimum_font_mm": 2.5
+  },
+  "legend": {
+    "F": "Referencia de fuente",
+    "G": "Geometria medida",
+    "P": "Propuesta dimensional"
+  },
+  "sources": {
+    "R1": [
+      "Lysaght: Roofing & Walling Installation Manual, §§7.9 y11",
+      "https://cdn.dcs.lysaght.com/download/lysaght-roofing-walling-installation-manual"
+    ],
+    "R2": [
+      "Vitro TD-140: Large Insulating Glass Units, p.4",
+      "https://www.vitroglazings.com/media/fzzavcjr/tech_doc_140.pdf"
+    ],
+    "R3": [
+      "GIK Acoustics: How to Hang Acoustic Panels",
+      "https://www.gikacoustics.net/en-gb/blogs/knowledge-base/how-to-hang-acoustic-panels"
+    ],
+    "R4": [
+      "TROX: Splitter sound attenuator, installation manual",
+      "https://cdn.trox.de/46e8cdbf6ec5f664/8d90dc4ef7b3/XS_MS_XK_MK_RK_IM_A00000090240_V2_2024_11_GB_en.pdf"
+    ],
+    "R5": [
+      "Hilti: Base plates - design considerations",
+      "https://www.hilti.com.sg/content/hilti/A2/SG/en/engineering/design-center/anchor-systems/typical-applications/base-plate.html"
+    ],
+    "R6": [
+      "ROCKWOOL: Acoustic insulation - installation and flanking",
+      "https://www.rockwool.com/north-america/applications/acoustic-insulation/"
+    ]
+  },
+  "known_coordination_issue": "A08: 50 mm actuales sobre playa humeda; volumen de agua invade 114 mm del fondo de hormigon. Correccion pendiente.",
+  "files": [
+    {
+      "path": "Casa_de_Campo_Planos_A2.pdf",
+      "bytes": 927985,
+      "sha256": "022d777fc96771d43fd5f2813b187c0057beb7de9e89445daacab8779909798a"
+    },
+    {
+      "path": "A00.svg",
+      "bytes": 16813,
+      "sha256": "89d53dc1d9ebe43b129f8fac8b46eb4de952281131b1a165c593ef21f2be42f1"
+    },
+    {
+      "path": "A00.dxf",
+      "bytes": 19248,
+      "sha256": "22a01f3c9697e5c31dfffd3ff1416b98208fa47dc5ffdab2529fbbe456f51797"
+    },
+    {
+      "path": "A01.svg",
+      "bytes": 30862,
+      "sha256": "029ee24df024b73e357e8ad0c0249e3da99c1007667b7b15b2e6072fa344b5f6"
+    },
+    {
+      "path": "A01.dxf",
+      "bytes": 77987,
+      "sha256": "3ff0ed9f20ea711b991d2f7b835e8b50cbcee05057b6b8c5c36ffc8a785c4b39"
+    },
+    {
+      "path": "A02.svg",
+      "bytes": 212090,
+      "sha256": "d0929dabe92bf17b611ab61eefbc527c1692d1c599223a4e277276d13dab0481"
+    },
+    {
+      "path": "A02.dxf",
+      "bytes": 382915,
+      "sha256": "1abd9b5736d37d0c098e87aa8cb3bf888c7f5abc4c1365db7a6a550d27746278"
+    },
+    {
+      "path": "A03.svg",
+      "bytes": 348315,
+      "sha256": "3a6e3d531e113ef6370558011f9726a0392d1b848f6f9f11f07077fb6aeaeb1b"
+    },
+    {
+      "path": "A03.dxf",
+      "bytes": 647432,
+      "sha256": "5a5972238a15034028b14677ee7a7fced4775d5ebc77f70479cb0422399eb679"
+    },
+    {
+      "path": "A03b.svg",
+      "bytes": 179981,
+      "sha256": "8f2bdb834911797938d73121ab72192d8ecafdcfc17535c162ed905a2099e93a"
+    },
+    {
+      "path": "A03b.dxf",
+      "bytes": 350585,
+      "sha256": "2f0fe95c6465a915627649434f11fc273604e8d6027cdd05721757352bb206c5"
+    },
+    {
+      "path": "A04.svg",
+      "bytes": 37963,
+      "sha256": "f69820fe782b35d853e882be90db3a9c22c388f662b7780120223c06dd1a0d5c"
+    },
+    {
+      "path": "A04.dxf",
+      "bytes": 71691,
+      "sha256": "82ca0243e64750de98c43a620ca07bde96e45d64d1e3313598573547db6c03a9"
+    },
+    {
+      "path": "A05a.svg",
+      "bytes": 683236,
+      "sha256": "be54b259220e3656b79912c3f3a918178534922821e7cd71cf740d8206ccaf8d"
+    },
+    {
+      "path": "A05a.dxf",
+      "bytes": 1076159,
+      "sha256": "f5bc73b5dd45c61001d9c0db241779e8560d47fd99477ce5432cde740e66f894"
+    },
+    {
+      "path": "A05b.svg",
+      "bytes": 657085,
+      "sha256": "5acac5cd65c832e26508e3c43f2c3cb2d43e6a4046740f66ed1364c1aff22bb1"
+    },
+    {
+      "path": "A05b.dxf",
+      "bytes": 1011045,
+      "sha256": "2a17ac1d7261d2628394fc3baa12a9fb299de5f4b1c7be0626d114a72c42f8df"
+    },
+    {
+      "path": "A06.svg",
+      "bytes": 285524,
+      "sha256": "6dfb240eb1adbe546ab10d83cd698c6d56486ff54eee12812d4ff33afdfef617"
+    },
+    {
+      "path": "A06.dxf",
+      "bytes": 505583,
+      "sha256": "709a82df3e0c4935596ec2cb1bd6762298d69e02e42dc0b8ea03001933a72a2a"
+    },
+    {
+      "path": "A07.svg",
+      "bytes": 207234,
+      "sha256": "8e1205f036ddde7f053ad1882409913213e2da6a8bfff771db507299688c4d22"
+    },
+    {
+      "path": "A07.dxf",
+      "bytes": 341221,
+      "sha256": "0c38b5fbd8528cb77fa50c9366130a25622f28e99526e3bfc4048d68566cbedd"
+    },
+    {
+      "path": "A08.svg",
+      "bytes": 24458,
+      "sha256": "452811655bdece7d675143ed84f9df25191a41a941a9a37e9e485f92223cbb85"
+    },
+    {
+      "path": "A08.dxf",
+      "bytes": 57119,
+      "sha256": "bf45393de31e1d6ce976e19c9ed397812d591e1a90428c491b60592735ce6609"
+    },
+    {
+      "path": "A09.svg",
+      "bytes": 126815,
+      "sha256": "dcf2aefd6b7372ab1424fa2292bec8ce54df69ebf64f50b7bdd68ab4a752df88"
+    },
+    {
+      "path": "A09.dxf",
+      "bytes": 231073,
+      "sha256": "30bb8ea7f3848d40b8e84c614374a22153887a76b8e6818ade5afc901a370272"
+    },
+    {
+      "path": "A10.svg",
+      "bytes": 98394,
+      "sha256": "4b5ef7f32683783a8eb11d6b7f3e93fa9045fc18d7931526a043d2fcad8681a3"
+    },
+    {
+      "path": "A10.dxf",
+      "bytes": 186383,
+      "sha256": "a8d68377a4d3eff04d6730954ea0c2ee30f26d4a8c9b4e664100b1ab869e24c6"
+    },
+    {
+      "path": "A10b.svg",
+      "bytes": 115609,
+      "sha256": "6cf9e4c45d4b144b54527fefe030e6c390f74dcc84688e2d5c24167c65840868"
+    },
+    {
+      "path": "A10b.dxf",
+      "bytes": 214856,
+      "sha256": "867a83fbd36e1ce1d158dfbce7b5274d80c82c425db6170d6c2f4cb332f67f3a"
+    },
+    {
+      "path": "A11.svg",
+      "bytes": 139589,
+      "sha256": "f8700d02cace6346d9fdaa0781f7fbcc85d7658edae6b516c549dd2a2cac36fa"
+    },
+    {
+      "path": "A11.dxf",
+      "bytes": 263468,
+      "sha256": "2ee05193a06834f4637ca4a8e998fd952cda87bf6271af58f91a02494c494555"
+    },
+    {
+      "path": "A12.svg",
+      "bytes": 21885,
+      "sha256": "f550558b61b0634f95477f80cfd2b7e7c14d58aef08cf447f921d29bd0de7eb9"
+    },
+    {
+      "path": "A12.dxf",
+      "bytes": 19248,
+      "sha256": "ca5e0e698ecdd8233ab48bb217efdd8495551501725f0bb683f4f4acce9c324f"
+    },
+    {
+      "path": "A13.svg",
+      "bytes": 12390,
+      "sha256": "01fe77b32e98e83f0c66d44add1dc5ee85dcbb4928fae4ce947bb4c128b6086d"
+    },
+    {
+      "path": "A13.dxf",
+      "bytes": 36082,
+      "sha256": "8840b73e640ba63075bbeeed356c09d65484c559d846bce75d1d0a4d76263c09"
+    },
+    {
+      "path": "A13b.svg",
+      "bytes": 19160,
+      "sha256": "71b01c1c60edc3aa04ad58f801be77b74269d48dc445215bb3a1696c998d82e0"
+    },
+    {
+      "path": "A13b.dxf",
+      "bytes": 44745,
+      "sha256": "b3165ec617a8828379e75b264281d3ca29d34fbd5195ab2884f41c2000e6a5a3"
+    },
+    {
+      "path": "A14.svg",
+      "bytes": 56808,
+      "sha256": "00da1b5354ef1b7b091489030b670f29a3afae7d86d8eee99d468c2ec2e82e31"
+    },
+    {
+      "path": "A14.dxf",
+      "bytes": 113887,
+      "sha256": "be4f86ae917423114294b8e8ce50889dff12f8ca1da6266799a27e6738cccacf"
+    },
+    {
+      "path": "A15.svg",
+      "bytes": 10210,
+      "sha256": "f307880ac3d04533afbc5cd835cfc6e34050441e8197a54de449c20b93a1a24e"
+    },
+    {
+      "path": "A15.dxf",
+      "bytes": 23818,
+      "sha256": "17abd7b4adc24286121244ef8a5ab25f3b4cc70bdaa17702b65bb1b338eee206"
+    },
+    {
+      "path": "A16.svg",
+      "bytes": 14941,
+      "sha256": "f0e6753f5590b62962f7ad345b6350c8912b39f19f57b89dd9533897cec644fa"
+    },
+    {
+      "path": "A16.dxf",
+      "bytes": 19248,
+      "sha256": "abc044487cb6936fedc37c06a606eaefd93357da624474f611b0b5b2a513aa72"
+    },
+    {
+      "path": "D01.svg",
+      "bytes": 17205,
+      "sha256": "20253fd49b393d9d273a4aec92363a86c30dba81fd78159c139831b2d48d64ec"
+    },
+    {
+      "path": "D01.dxf",
+      "bytes": 45482,
+      "sha256": "ac846fd6f860ab31b94cf6fe3d9017ad45df4e46f0e2696bd5fac50292964fe8"
+    },
+    {
+      "path": "D02.svg",
+      "bytes": 16522,
+      "sha256": "63e4e04645a38706aefced7d2e752821757909733281109302efcf4d3c50178a"
+    },
+    {
+      "path": "D02.dxf",
+      "bytes": 47909,
+      "sha256": "1199724db79860f209bdf06033495dd5be4283c5fd6f1f71af38d858c7568d9d"
+    },
+    {
+      "path": "D03.svg",
+      "bytes": 39298,
+      "sha256": "35813023c6c43189fbd18135a301bedeea7b8d29b9b15a569488d7ad54886a93"
+    },
+    {
+      "path": "D03.dxf",
+      "bytes": 85443,
+      "sha256": "f83f3bda69d09d14f3b8b872997ee534ec522d72186563c45103301844b2ef7e"
+    },
+    {
+      "path": "D04.svg",
+      "bytes": 23880,
+      "sha256": "ccc040e471d26233f344a72902fb206a79663c628f825a680bbaba46e4e85291"
+    },
+    {
+      "path": "D04.dxf",
+      "bytes": 69494,
+      "sha256": "8583ba34abf9f068af95d53bb922354f51f3ac8b194c770e950b7572bbc0f7a0"
+    },
+    {
+      "path": "D05.svg",
+      "bytes": 14473,
+      "sha256": "2c9021dcf0531594d04703f3b3fdeb4b3586cfeffba995ad8ce3eb28fa07708f"
+    },
+    {
+      "path": "D05.dxf",
+      "bytes": 48045,
+      "sha256": "3cf606fd8a22047ba0b872af1497c8cdc28ca5fe324413a61fe5b40515065599"
+    },
+    {
+      "path": "D05b.svg",
+      "bytes": 17855,
+      "sha256": "4fcbcbc6395b67c501fdf73117ff552e619f992aef2ce0376e1a5a9fa2329f4a"
+    },
+    {
+      "path": "D05b.dxf",
+      "bytes": 57363,
+      "sha256": "c3531e4815f202338f2bc574a8194a23fb08a0f7b2bf2b782d00a6601c46790b"
+    },
+    {
+      "path": "D06.svg",
+      "bytes": 18921,
+      "sha256": "f46c31f514beb459185b593ff0619da5528454c45903d03bfd93c105a58c28b6"
+    },
+    {
+      "path": "D06.dxf",
+      "bytes": 50108,
+      "sha256": "6bd0ad3e3d5378d86761906b7769acb0cad22fec807fadcc6fa1043e25859261"
+    },
+    {
+      "path": "D07.svg",
+      "bytes": 18525,
+      "sha256": "d1ce716af316e8520765ba1d0c39a90b1c326d4b88edfdb7579e2b41c5952183"
+    },
+    {
+      "path": "D07.dxf",
+      "bytes": 50795,
+      "sha256": "51c4386935d3357438c0f4fd757d80cbfdd230bf7371377fefa7a4c3053db75e"
+    },
+    {
+      "path": "D08.svg",
+      "bytes": 13329,
+      "sha256": "01a3e6823cb0ed318330a940580ee9ce61d777dfdb23a3d0064d54e0b9ba0427"
+    },
+    {
+      "path": "D08.dxf",
+      "bytes": 38868,
+      "sha256": "45683ad81916369d71487c6aa9024c1305bfd5fcee0ac59d02f97f622c6dbc98"
+    },
+    {
+      "path": "D09.svg",
+      "bytes": 24840,
+      "sha256": "2ef4f91c393fa9d00d0b09de917a202bd9e18f9a4a3873b490a2e7007ac70c0e"
+    },
+    {
+      "path": "D09.dxf",
+      "bytes": 62649,
+      "sha256": "810574f1644e7ac165ad7cd5d1162c5e9c832d2719a7fe5c60a927b52cadb14c"
+    },
+    {
+      "path": "D10.svg",
+      "bytes": 153265,
+      "sha256": "95d3211837ebad93b4a0e18b8595c796f54255a2de16f7c625b0565f2c55899c"
+    },
+    {
+      "path": "D10.dxf",
+      "bytes": 256316,
+      "sha256": "86c67f7360230c7c9b769f99bd9128c4aa1f25f8ebff7f8c7f44b617f7b0e9cb"
+    },
+    {
+      "path": "D11.svg",
+      "bytes": 52494,
+      "sha256": "4581907dfed59bb06b9b729db90fbe78e8af447652ab628a63a52e50840f878d"
+    },
+    {
+      "path": "D11.dxf",
+      "bytes": 100944,
+      "sha256": "ba15cb9c2e024c5563092323c005fee33f28e69a069eb80bf9922f77f5bd8fa2"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1056,
+      "sha256": "f7d693b33aea95a475d2f38467d5dce9ac290789f872f253fe6828fa23ce7ffc"
+    },
+    {
+      "path": "measurements.json",
+      "bytes": 51707,
+      "sha256": "fedb28cdfb9916893d2594622e485f65d22aaf5d84e8d15071e638fb30285f3d"
+    },
+    {
+      "path": "verification.json",
+      "bytes": 5382,
+      "sha256": "f29374534f1e429ff0323300d4a8428f1ff9fdcd0d41f5bb8ad24869b1b59970"
+    },
+    {
+      "path": "print_validation.json",
+      "bytes": 3684,
+      "sha256": "b6e0ae688cb98932b904183e4a1d3a26d3c3cf94f415e0e4061be1bb4888645e"
+    },
+    {
+      "path": "package_validation.json",
+      "bytes": 500,
+      "sha256": "5fdd201a3878e2b2626e0ac3ed8da4413d7946f80bc3605ee840ad7c6fcaffa4"
+    },
+    {
+      "path": "anclajes_medidos.json",
+      "bytes": 19921,
+      "sha256": "924407009ddffd503892f394ca37f709bc11af3c46725cb5f4d69885d5eacb1a"
+    },
+    {
+      "path": "fuentes.md",
+      "bytes": 1034,
+      "sha256": "e96be1c8a22ae7ec2f7113184294f302b9266c5836a9f60ea0b62edf30ec4dc4"
+    }
+  ]
 }

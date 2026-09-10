@@ -1,0 +1,2182 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_95_R6K.blend",
+  "sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+  "families": [
+    {
+      "family": "Sofá cama mono",
+      "members": [
+        "Sofá cama mono base",
+        "Sofá cama mono respaldo",
+        "Sofá cama mono brazo -1",
+        "Sofá cama mono brazo 1",
+        "Sofá cama mono cojín 0",
+        "Sofá cama mono costura cojín 0",
+        "Sofá cama mono cojín 1",
+        "Sofá cama mono costura cojín 1",
+        "Sofá cama mono cojín 2",
+        "Sofá cama mono costura cojín 2",
+        "Sofá cama mono pata -1-1",
+        "Sofá cama mono pata -11",
+        "Sofá cama mono pata 1-1",
+        "Sofá cama mono pata 11"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Sofá cama mono ",
+      "floor_reference": "Piso monoambiente",
+      "declared_floor_m": 0.21,
+      "measured_reference_floor_m": 0.20999999344348907,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        14.619999885559082,
+        0.21000000834465027,
+        1.0
+      ],
+      "bbox_source_max": [
+        16.68000030517578,
+        1.0699999332427979,
+        1.880000114440918
+      ],
+      "envelope_m": [
+        2.060000419616699,
+        0.8599999248981476,
+        0.880000114440918
+      ],
+      "lowest_point_above_floor_m": 1.4901161193847656e-08,
+      "highest_point_above_floor_m": 0.8599999397993088,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Sofá cama mono cojín 0": 0.4500000327825546,
+        "Sofá cama mono cojín 1": 0.4500000327825546,
+        "Sofá cama mono cojín 2": 0.4500000327825546
+      }
+    },
+    {
+      "family": "Mesa mono",
+      "members": [
+        "Mesa mono tapa",
+        "Mesa mono pata 0",
+        "Mesa mono pata 1",
+        "Mesa mono pata 2",
+        "Mesa mono pata 3",
+        "MOB95 | faldón mesa mono longitudinal",
+        "MOB95 | faldón mesa mono longitudinal.001",
+        "MOB95 | faldón mesa mono transversal",
+        "MOB95 | faldón mesa mono transversal.001"
+      ],
+      "foundation_members_separate": [],
+      "query": "^(Mesa mono |MOB95 \\| faldón mesa mono)",
+      "floor_reference": "Piso monoambiente",
+      "declared_floor_m": 0.21,
+      "measured_reference_floor_m": 0.20999999344348907,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        18.624998092651367,
+        0.20999997854232788,
+        1.7000000476837158
+      ],
+      "bbox_source_max": [
+        19.774999618530273,
+        0.9600000381469727,
+        2.419999837875366
+      ],
+      "envelope_m": [
+        1.1500015258789062,
+        0.7500000596046448,
+        0.7199997901916504
+      ],
+      "lowest_point_above_floor_m": -1.4901161193847656e-08,
+      "highest_point_above_floor_m": 0.7500000447034836,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Mesa mono tapa": 0.7500000447034836
+      }
+    },
+    {
+      "family": "Silla mono 1",
+      "members": [
+        "Silla mono 1 asiento",
+        "Silla mono 1 respaldo",
+        "Silla mono 1 pata 0",
+        "Silla mono 1 pata 1",
+        "Silla mono 1 pata 2",
+        "Silla mono 1 pata 3"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Silla mono 1 ",
+      "floor_reference": "Piso monoambiente",
+      "declared_floor_m": 0.21,
+      "measured_reference_floor_m": 0.20999999344348907,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        18.420000076293945,
+        0.20999999344348907,
+        1.2100000381469727
+      ],
+      "bbox_source_max": [
+        18.8799991607666,
+        1.0750000476837158,
+        1.6700000762939453
+      ],
+      "envelope_m": [
+        0.45999908447265625,
+        0.8650000542402267,
+        0.46000003814697266
+      ],
+      "lowest_point_above_floor_m": 0.0,
+      "highest_point_above_floor_m": 0.8650000542402267,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Silla mono 1 asiento": 0.46000002324581146
+      }
+    },
+    {
+      "family": "Silla mono 2",
+      "members": [
+        "Silla mono 2 asiento",
+        "Silla mono 2 respaldo",
+        "Silla mono 2 pata 0",
+        "Silla mono 2 pata 1",
+        "Silla mono 2 pata 2",
+        "Silla mono 2 pata 3"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Silla mono 2 ",
+      "floor_reference": "Piso monoambiente",
+      "declared_floor_m": 0.21,
+      "measured_reference_floor_m": 0.20999999344348907,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        19.520000457763672,
+        0.20999999344348907,
+        2.4100000858306885
+      ],
+      "bbox_source_max": [
+        19.979999542236328,
+        1.0750000476837158,
+        2.870000123977661
+      ],
+      "envelope_m": [
+        0.45999908447265625,
+        0.8650000542402267,
+        0.46000003814697266
+      ],
+      "lowest_point_above_floor_m": 0.0,
+      "highest_point_above_floor_m": 0.8650000542402267,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Silla mono 2 asiento": 0.46000002324581146
+      }
+    },
+    {
+      "family": "Taburete isla A",
+      "members": [
+        "Taburete isla mono A | asiento 30 mm",
+        "Taburete isla mono A | pata izq frente",
+        "Taburete isla mono A | apoyo elastomérico izq frente",
+        "Taburete isla mono A | pata izq dorso",
+        "Taburete isla mono A | apoyo elastomérico izq dorso",
+        "Taburete isla mono A | pata der frente",
+        "Taburete isla mono A | apoyo elastomérico der frente",
+        "Taburete isla mono A | pata der dorso",
+        "Taburete isla mono A | apoyo elastomérico der dorso",
+        "Taburete isla mono A | faldón unión X -1",
+        "Taburete isla mono A | faldón unión Y -1",
+        "Taburete isla mono A | reposapiés X -1",
+        "Taburete isla mono A | travesaño Y -1",
+        "Taburete isla mono A | faldón unión X 1",
+        "Taburete isla mono A | faldón unión Y 1",
+        "Taburete isla mono A | reposapiés X 1",
+        "Taburete isla mono A | travesaño Y 1"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Taburete isla mono A \\| ",
+      "floor_reference": "Piso monoambiente",
+      "declared_floor_m": 0.21,
+      "measured_reference_floor_m": 0.20999999344348907,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        16.1299991607666,
+        0.21000000601634383,
+        2.8599997758865356
+      ],
+      "bbox_source_max": [
+        16.510000228881836,
+        0.8600000282749534,
+        3.2399996519088745
+      ],
+      "envelope_m": [
+        0.3800010681152344,
+        0.6500000222586095,
+        0.37999987602233887
+      ],
+      "lowest_point_above_floor_m": 1.257285475730896e-08,
+      "highest_point_above_floor_m": 0.6500000348314643,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Taburete isla mono A | asiento 30 mm": 0.6500000348314643
+      }
+    },
+    {
+      "family": "Taburete isla B",
+      "members": [
+        "Taburete isla mono B | asiento 30 mm",
+        "Taburete isla mono B | pata izq frente",
+        "Taburete isla mono B | apoyo elastomérico izq frente",
+        "Taburete isla mono B | pata izq dorso",
+        "Taburete isla mono B | apoyo elastomérico izq dorso",
+        "Taburete isla mono B | pata der frente",
+        "Taburete isla mono B | apoyo elastomérico der frente",
+        "Taburete isla mono B | pata der dorso",
+        "Taburete isla mono B | apoyo elastomérico der dorso",
+        "Taburete isla mono B | faldón unión X -1",
+        "Taburete isla mono B | faldón unión Y -1",
+        "Taburete isla mono B | reposapiés X -1",
+        "Taburete isla mono B | travesaño Y -1",
+        "Taburete isla mono B | faldón unión X 1",
+        "Taburete isla mono B | faldón unión Y 1",
+        "Taburete isla mono B | reposapiés X 1",
+        "Taburete isla mono B | travesaño Y 1"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Taburete isla mono B \\| ",
+      "floor_reference": "Piso monoambiente",
+      "declared_floor_m": 0.21,
+      "measured_reference_floor_m": 0.20999999344348907,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        17.189998626708984,
+        0.21000000601634383,
+        2.8599997758865356
+      ],
+      "bbox_source_max": [
+        17.56999969482422,
+        0.8600000282749534,
+        3.2399996519088745
+      ],
+      "envelope_m": [
+        0.3800010681152344,
+        0.6500000222586095,
+        0.37999987602233887
+      ],
+      "lowest_point_above_floor_m": 1.257285475730896e-08,
+      "highest_point_above_floor_m": 0.6500000348314643,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Taburete isla mono B | asiento 30 mm": 0.6500000348314643
+      }
+    },
+    {
+      "family": "Mesada cocina mono L",
+      "members": [
+        "Mesada cocina mono lateral"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Mesada cocina mono lateral$",
+      "floor_reference": "Piso monoambiente",
+      "declared_floor_m": 0.21,
+      "measured_reference_floor_m": 0.20999999344348907,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        14.239824295043945,
+        1.0750000476837158,
+        3.200000047683716
+      ],
+      "bbox_source_max": [
+        15.779999732971191,
+        1.1100000143051147,
+        5.820000171661377
+      ],
+      "envelope_m": [
+        1.540175437927246,
+        0.034999966621398926,
+        2.620000123977661
+      ],
+      "lowest_point_above_floor_m": 0.8650000542402267,
+      "highest_point_above_floor_m": 0.9000000208616257,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Isla mono",
+      "members": [
+        "Isla cocina mono tapa",
+        "Isla cocina mono base | fondo",
+        "Isla cocina mono base | piso",
+        "Isla cocina mono base | costilla",
+        "Isla cocina mono base | costilla.001",
+        "Isla cocina mono base | costilla.002",
+        "Isla cocina mono base | travesaño",
+        "Isla cocina mono base | travesaño.001",
+        "Isla cocina mono base | zócalo",
+        "Isla cocina mono frente 0",
+        "Isla cocina mono tirador",
+        "Isla cocina mono frente 1",
+        "Isla cocina mono tirador.001",
+        "Isla cocina mono frente 2",
+        "Isla cocina mono tirador.002",
+        "Isla cocina mono frente 3",
+        "Isla cocina mono tirador.003"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Isla cocina mono (base|tapa|frente|tirador)",
+      "floor_reference": "Piso monoambiente",
+      "declared_floor_m": 0.21,
+      "measured_reference_floor_m": 0.20999999344348907,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        15.959999680519104,
+        0.20999998971819878,
+        3.32000008225441
+      ],
+      "bbox_source_max": [
+        17.679999709129333,
+        1.1099999714642763,
+        4.000000089406967
+      ],
+      "envelope_m": [
+        1.7200000286102295,
+        0.8999999817460775,
+        0.6800000071525574
+      ],
+      "lowest_point_above_floor_m": -3.725290298461914e-09,
+      "highest_point_above_floor_m": 0.8999999780207872,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Isla cocina mono tapa": 0.8999999780207872
+      }
+    },
+    {
+      "family": "Heladera mono",
+      "members": [
+        "Heladera mono",
+        "Heladera mono puerta superior",
+        "Heladera mono puerta congelador",
+        "Heladera mono | junta",
+        "Heladera mono | junta.001",
+        "Heladera mono | junta.002",
+        "Heladera mono | soporte tirador",
+        "Heladera mono | soporte tirador.001",
+        "Heladera mono | tirador"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Heladera mono",
+      "floor_reference": "Piso monoambiente",
+      "declared_floor_m": 0.21,
+      "measured_reference_floor_m": 0.20999999344348907,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        15.840000540018082,
+        0.21000003814697266,
+        5.075999851338565
+      ],
+      "bbox_source_max": [
+        16.540000528097153,
+        2.2799999713897705,
+        5.819999784231186
+      ],
+      "envelope_m": [
+        0.699999988079071,
+        2.069999933242798,
+        0.7439999328926206
+      ],
+      "lowest_point_above_floor_m": 4.470348358154297e-08,
+      "highest_point_above_floor_m": 2.0699999779462814,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Bacha mono",
+      "members": [
+        "Bacha cocina mono"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Bacha cocina mono$",
+      "floor_reference": "Piso monoambiente",
+      "declared_floor_m": 0.21,
+      "measured_reference_floor_m": 0.20999999344348907,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        14.34000015258789,
+        0.875,
+        3.8350002765655518
+      ],
+      "bbox_source_max": [
+        14.779999732971191,
+        1.1150000095367432,
+        4.435000419616699
+      ],
+      "envelope_m": [
+        0.4399995803833008,
+        0.24000000953674316,
+        0.6000001430511475
+      ],
+      "lowest_point_above_floor_m": 0.6650000065565109,
+      "highest_point_above_floor_m": 0.9050000160932541,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Lavatorio mono",
+      "members": [
+        "Lavatorio mono"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Lavatorio mono$",
+      "floor_reference": "Piso baño mono",
+      "declared_floor_m": 0.21,
+      "measured_reference_floor_m": 0.20999999344348907,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        20.229999542236328,
+        0.8799999952316284,
+        4.360000133514404
+      ],
+      "bbox_source_max": [
+        20.850000381469727,
+        1.059999942779541,
+        4.679999828338623
+      ],
+      "envelope_m": [
+        0.6200008392333984,
+        0.1799999475479126,
+        0.31999969482421875
+      ],
+      "lowest_point_above_floor_m": 0.6700000017881393,
+      "highest_point_above_floor_m": 0.8499999493360519,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Inodoro mono",
+      "members": [
+        "Inodoro mono",
+        "Inodoro mono | asiento",
+        "Inodoro mono | mochila compacta",
+        "Inodoro mono | pulsador"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Inodoro mono",
+      "floor_reference": "Piso baño mono",
+      "declared_floor_m": 0.21,
+      "measured_reference_floor_m": 0.20999999344348907,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        19.639999389648438,
+        0.20999999344348907,
+        5.130000114440918
+      ],
+      "bbox_source_max": [
+        20.059999465942383,
+        0.9939999580383301,
+        5.765399932861328
+      ],
+      "envelope_m": [
+        0.4200000762939453,
+        0.783999964594841,
+        0.6353998184204102
+      ],
+      "lowest_point_above_floor_m": 0.0,
+      "highest_point_above_floor_m": 0.783999964594841,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Inodoro mono | asiento": 0.45499996840953827
+      }
+    },
+    {
+      "family": "Ducha mono rociador",
+      "members": [
+        "Ducha baño mono"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Ducha baño mono$",
+      "floor_reference": "Piso baño mono",
+      "declared_floor_m": 0.21,
+      "measured_reference_floor_m": 0.20999999344348907,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        21.25,
+        2.309999942779541,
+        4.5
+      ],
+      "bbox_source_max": [
+        21.450000762939453,
+        2.322000026702881,
+        4.699999809265137
+      ],
+      "envelope_m": [
+        0.20000076293945312,
+        0.012000083923339844,
+        0.19999980926513672
+      ],
+      "lowest_point_above_floor_m": 2.099999949336052,
+      "highest_point_above_floor_m": 2.112000033259392,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {},
+      "lowest_head_clearance_above_floor_m": 2.099999949336052
+    },
+    {
+      "family": "Horno quincho volumen",
+      "members": [
+        "Cúpula horno",
+        "Base horno",
+        "Boca horno"
+      ],
+      "foundation_members_separate": [],
+      "query": "^(Base horno|Cúpula horno|Boca horno)$",
+      "floor_reference": "Piso quincho",
+      "declared_floor_m": 0.18,
+      "measured_reference_floor_m": 0.18000000715255737,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        20.439999543130398,
+        0.0,
+        6.136310696601868
+      ],
+      "bbox_source_max": [
+        21.74000084400177,
+        1.8899999856948853,
+        7.363689303398132
+      ],
+      "envelope_m": [
+        1.3000013008713722,
+        1.8899999856948853,
+        1.2273786067962646
+      ],
+      "lowest_point_above_floor_m": -0.18000000715255737,
+      "highest_point_above_floor_m": 1.7099999785423279,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Mesada lavado quincho",
+      "members": [
+        "Mesada bacha"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Mesada bacha$",
+      "floor_reference": "Piso quincho",
+      "declared_floor_m": 0.18,
+      "measured_reference_floor_m": 0.18000000715255737,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        20.09000074863434,
+        0.9599999822676182,
+        7.499999642372131
+      ],
+      "bbox_source_max": [
+        21.810000777244568,
+        1.0799999795854092,
+        8.799999594688416
+      ],
+      "envelope_m": [
+        1.7200000286102295,
+        0.11999999731779099,
+        1.2999999523162842
+      ],
+      "lowest_point_above_floor_m": 0.7799999751150608,
+      "highest_point_above_floor_m": 0.8999999724328518,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Bachas dobles quincho",
+      "members": [
+        "Bacha doble A",
+        "Bacha doble B"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Bacha doble [AB]$",
+      "floor_reference": "Piso quincho",
+      "declared_floor_m": 0.18,
+      "measured_reference_floor_m": 0.18000000715255737,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        20.459999084472656,
+        0.8450000286102295,
+        7.650000095367432
+      ],
+      "bbox_source_max": [
+        20.920000076293945,
+        1.090000033378601,
+        8.649999618530273
+      ],
+      "envelope_m": [
+        0.46000099182128906,
+        0.24500000476837158,
+        0.9999995231628418
+      ],
+      "lowest_point_above_floor_m": 0.6650000214576721,
+      "highest_point_above_floor_m": 0.9100000262260437,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Barra quincho tapa",
+      "members": [
+        "Mesada apoyo quincho"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Mesada apoyo quincho$",
+      "floor_reference": "Piso quincho",
+      "declared_floor_m": 0.18,
+      "measured_reference_floor_m": 0.18000000715255737,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        18.33999948955549,
+        1.0399999618530273,
+        7.400000072567105
+      ],
+      "bbox_source_max": [
+        18.959998436202913,
+        1.0799999237060547,
+        9.980000041873913
+      ],
+      "envelope_m": [
+        0.6199989466474243,
+        0.039999961853027344,
+        2.579999969306808
+      ],
+      "lowest_point_above_floor_m": 0.85999995470047,
+      "highest_point_above_floor_m": 0.8999999165534973,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Parrilla volumen",
+      "members": [
+        "Parrilla base",
+        "Parrilla campana",
+        "Parrilla rejilla"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Parrilla (base|campana|rejilla)$",
+      "floor_reference": "Piso quincho",
+      "declared_floor_m": 0.18,
+      "measured_reference_floor_m": 0.18000000715255737,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        20.274999260902405,
+        0.0,
+        8.889999568462372
+      ],
+      "bbox_source_max": [
+        21.845000088214874,
+        2.730000078678131,
+        9.98999959230423
+      ],
+      "envelope_m": [
+        1.5700008273124695,
+        2.730000078678131,
+        1.100000023841858
+      ],
+      "lowest_point_above_floor_m": -0.18000000715255737,
+      "highest_point_above_floor_m": 2.5500000715255737,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Mesa quincho",
+      "members": [
+        "Mesa quincho tapa tabla 0",
+        "Mesa quincho tapa tabla 1",
+        "Mesa quincho tapa tabla 2",
+        "Mesa quincho tapa tabla 3",
+        "Mesa quincho tapa tabla 4",
+        "Mesa quincho pata",
+        "Mesa quincho pata.001",
+        "Mesa quincho pata.002",
+        "Mesa quincho pata.003"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Mesa quincho ",
+      "floor_reference": "Piso quincho",
+      "declared_floor_m": 0.18,
+      "measured_reference_floor_m": 0.18000000715255737,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        15.375000715255737,
+        0.18000003695487976,
+        9.84100016206503
+      ],
+      "bbox_source_max": [
+        17.52500081062317,
+        0.9300000257790089,
+        10.759000219404697
+      ],
+      "envelope_m": [
+        2.1500000953674316,
+        0.7499999888241291,
+        0.9180000573396683
+      ],
+      "lowest_point_above_floor_m": 2.9802322387695312e-08,
+      "highest_point_above_floor_m": 0.7500000186264515,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Mesa quincho tapa tabla 0": 0.7500000186264515,
+        "Mesa quincho tapa tabla 1": 0.7500000186264515,
+        "Mesa quincho tapa tabla 2": 0.7500000186264515,
+        "Mesa quincho tapa tabla 3": 0.7500000186264515,
+        "Mesa quincho tapa tabla 4": 0.7500000186264515
+      }
+    },
+    {
+      "family": "Silla quincho 1",
+      "members": [
+        "Silla quincho 1 asiento tabla 0",
+        "Silla quincho 1 asiento tabla 1",
+        "Silla quincho 1 asiento tabla 2",
+        "Silla quincho 1 estructura",
+        "Silla quincho 1 regatón",
+        "Silla quincho 1 estructura.001",
+        "Silla quincho 1 regatón.001",
+        "Silla quincho 1 estructura.002",
+        "Silla quincho 1 regatón.002",
+        "Silla quincho 1 estructura.003",
+        "Silla quincho 1 regatón.003",
+        "Silla quincho 1 respaldo listón 0",
+        "Silla quincho 1 respaldo listón 1",
+        "Silla quincho 1 respaldo listón 2",
+        "Silla quincho 1 travesaño asiento",
+        "Silla quincho 1 travesaño asiento.001"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Silla quincho 1 ",
+      "floor_reference": "Piso quincho",
+      "declared_floor_m": 0.18,
+      "measured_reference_floor_m": 0.18000000715255737,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        15.519999995827675,
+        0.17999999620951712,
+        9.294414090459837
+      ],
+      "bbox_source_max": [
+        15.980000004172325,
+        1.0907937586307526,
+        9.763999581336975
+      ],
+      "envelope_m": [
+        0.46000000834465027,
+        0.9107937624212354,
+        0.4695854908771384
+      ],
+      "lowest_point_above_floor_m": -1.0943040251731873e-08,
+      "highest_point_above_floor_m": 0.9107937514781952,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Silla quincho 1 asiento tabla 0": 0.45999998040497303,
+        "Silla quincho 1 asiento tabla 1": 0.45999998040497303,
+        "Silla quincho 1 asiento tabla 2": 0.45999998040497303
+      }
+    },
+    {
+      "family": "Silla quincho 2",
+      "members": [
+        "Silla quincho 2 asiento tabla 0",
+        "Silla quincho 2 asiento tabla 1",
+        "Silla quincho 2 asiento tabla 2",
+        "Silla quincho 2 estructura",
+        "Silla quincho 2 regatón",
+        "Silla quincho 2 estructura.001",
+        "Silla quincho 2 regatón.001",
+        "Silla quincho 2 estructura.002",
+        "Silla quincho 2 regatón.002",
+        "Silla quincho 2 estructura.003",
+        "Silla quincho 2 regatón.003",
+        "Silla quincho 2 respaldo listón 0",
+        "Silla quincho 2 respaldo listón 1",
+        "Silla quincho 2 respaldo listón 2",
+        "Silla quincho 2 travesaño asiento",
+        "Silla quincho 2 travesaño asiento.001"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Silla quincho 2 ",
+      "floor_reference": "Piso quincho",
+      "declared_floor_m": 0.18,
+      "measured_reference_floor_m": 0.18000000715255737,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        16.91999961435795,
+        0.17999999620951712,
+        9.294414090459837
+      ],
+      "bbox_source_max": [
+        17.3799996227026,
+        1.0907937586307526,
+        9.763999581336975
+      ],
+      "envelope_m": [
+        0.46000000834465027,
+        0.9107937624212354,
+        0.4695854908771384
+      ],
+      "lowest_point_above_floor_m": -1.0943040251731873e-08,
+      "highest_point_above_floor_m": 0.9107937514781952,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Silla quincho 2 asiento tabla 0": 0.45999998040497303,
+        "Silla quincho 2 asiento tabla 1": 0.45999998040497303,
+        "Silla quincho 2 asiento tabla 2": 0.45999998040497303
+      }
+    },
+    {
+      "family": "Silla quincho 3",
+      "members": [
+        "Silla quincho 3 asiento tabla 0",
+        "Silla quincho 3 asiento tabla 1",
+        "Silla quincho 3 asiento tabla 2",
+        "Silla quincho 3 estructura",
+        "Silla quincho 3 regatón",
+        "Silla quincho 3 estructura.001",
+        "Silla quincho 3 regatón.001",
+        "Silla quincho 3 estructura.002",
+        "Silla quincho 3 regatón.002",
+        "Silla quincho 3 estructura.003",
+        "Silla quincho 3 regatón.003",
+        "Silla quincho 3 respaldo listón 0",
+        "Silla quincho 3 respaldo listón 1",
+        "Silla quincho 3 respaldo listón 2",
+        "Silla quincho 3 travesaño asiento",
+        "Silla quincho 3 travesaño asiento.001"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Silla quincho 3 ",
+      "floor_reference": "Piso quincho",
+      "declared_floor_m": 0.18,
+      "measured_reference_floor_m": 0.18000000715255737,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        15.519999995827675,
+        0.17999999620951712,
+        10.835999846458435
+      ],
+      "bbox_source_max": [
+        15.980000004172325,
+        1.0907937586307526,
+        11.305585337335573
+      ],
+      "envelope_m": [
+        0.46000000834465027,
+        0.9107937624212354,
+        0.4695854908771384
+      ],
+      "lowest_point_above_floor_m": -1.0943040251731873e-08,
+      "highest_point_above_floor_m": 0.9107937514781952,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Silla quincho 3 asiento tabla 0": 0.45999998040497303,
+        "Silla quincho 3 asiento tabla 1": 0.45999998040497303,
+        "Silla quincho 3 asiento tabla 2": 0.45999998040497303
+      }
+    },
+    {
+      "family": "Silla quincho 4",
+      "members": [
+        "Silla quincho 4 asiento tabla 0",
+        "Silla quincho 4 asiento tabla 1",
+        "Silla quincho 4 asiento tabla 2",
+        "Silla quincho 4 estructura",
+        "Silla quincho 4 regatón",
+        "Silla quincho 4 estructura.001",
+        "Silla quincho 4 regatón.001",
+        "Silla quincho 4 estructura.002",
+        "Silla quincho 4 regatón.002",
+        "Silla quincho 4 estructura.003",
+        "Silla quincho 4 regatón.003",
+        "Silla quincho 4 respaldo listón 0",
+        "Silla quincho 4 respaldo listón 1",
+        "Silla quincho 4 respaldo listón 2",
+        "Silla quincho 4 travesaño asiento",
+        "Silla quincho 4 travesaño asiento.001"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Silla quincho 4 ",
+      "floor_reference": "Piso quincho",
+      "declared_floor_m": 0.18,
+      "measured_reference_floor_m": 0.18000000715255737,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        16.91999961435795,
+        0.17999999620951712,
+        10.835999846458435
+      ],
+      "bbox_source_max": [
+        17.3799996227026,
+        1.0907937586307526,
+        11.305585337335573
+      ],
+      "envelope_m": [
+        0.46000000834465027,
+        0.9107937624212354,
+        0.4695854908771384
+      ],
+      "lowest_point_above_floor_m": -1.0943040251731873e-08,
+      "highest_point_above_floor_m": 0.9107937514781952,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Silla quincho 4 asiento tabla 0": 0.45999998040497303,
+        "Silla quincho 4 asiento tabla 1": 0.45999998040497303,
+        "Silla quincho 4 asiento tabla 2": 0.45999998040497303
+      }
+    },
+    {
+      "family": "Lavatorio quincho",
+      "members": [
+        "Lavatorio quincho"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Lavatorio quincho$",
+      "floor_reference": "Piso baño quincho",
+      "declared_floor_m": 0.21,
+      "measured_reference_floor_m": 0.20999999344348907,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        20.764999389648438,
+        0.8799999952316284,
+        10.180000305175781
+      ],
+      "bbox_source_max": [
+        21.225000381469727,
+        1.059999942779541,
+        10.5600004196167
+      ],
+      "envelope_m": [
+        0.46000099182128906,
+        0.1799999475479126,
+        0.38000011444091797
+      ],
+      "lowest_point_above_floor_m": 0.6700000017881393,
+      "highest_point_above_floor_m": 0.8499999493360519,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Inodoro quincho",
+      "members": [
+        "Inodoro quincho",
+        "Inodoro quincho | asiento",
+        "Inodoro quincho | mochila compacta",
+        "Inodoro quincho | pulsador"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Inodoro quincho",
+      "floor_reference": "Piso baño quincho",
+      "declared_floor_m": 0.21,
+      "measured_reference_floor_m": 0.20999999344348907,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        21.31999969482422,
+        0.20999999344348907,
+        10.254599571228027
+      ],
+      "bbox_source_max": [
+        21.739999771118164,
+        0.9939999580383301,
+        10.889999389648438
+      ],
+      "envelope_m": [
+        0.4200000762939453,
+        0.783999964594841,
+        0.6353998184204102
+      ],
+      "lowest_point_above_floor_m": 0.0,
+      "highest_point_above_floor_m": 0.783999964594841,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Inodoro quincho | asiento": 0.45499996840953827
+      }
+    },
+    {
+      "family": "Consola estudio",
+      "members": [
+        "Consola estudio",
+        "Base consola estudio",
+        "MOB95 | apoyo consola",
+        "MOB95 | apoyo consola.001",
+        "MOB95 | apoyo consola.002",
+        "MOB95 | apoyo consola.003"
+      ],
+      "foundation_members_separate": [],
+      "query": "^(Consola estudio$|Base consola estudio$|MOB95 \\| apoyo consola)",
+      "floor_reference": "Piso estudio",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        17.583456177910698,
+        3.25,
+        1.3250000216340927
+      ],
+      "bbox_source_max": [
+        18.776544432440865,
+        4.08942871245336,
+        4.674999978365907
+      ],
+      "envelope_m": [
+        1.193088254530167,
+        0.8394287124533601,
+        3.349999956731814
+      ],
+      "lowest_point_above_floor_m": 9.499490261077881e-08,
+      "highest_point_above_floor_m": 0.8394288074482628,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Silla estudio",
+      "members": [
+        "Silla estudio asiento",
+        "Silla estudio respaldo",
+        "Silla estudio pata -1-1",
+        "Silla estudio pata -11",
+        "Silla estudio pata 1-1",
+        "Silla estudio pata 11"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Silla estudio ",
+      "floor_reference": "Piso estudio",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        18.880000844597852,
+        3.25,
+        2.76500059664251
+      ],
+      "bbox_source_max": [
+        19.345633319252382,
+        4.112352110466657,
+        3.2350003868341632
+      ],
+      "envelope_m": [
+        0.46563247465453017,
+        0.8623521104666567,
+        0.46999979019165306
+      ],
+      "lowest_point_above_floor_m": 9.499490261077881e-08,
+      "highest_point_above_floor_m": 0.8623522054615593,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Silla estudio asiento": 0.4700001236051321
+      }
+    },
+    {
+      "family": "Monitor izquierdo",
+      "members": [
+        "Monitor izquierdo"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Monitor izquierdo$",
+      "floor_reference": "Piso estudio",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        17.17999915778637,
+        4.1370000541210175,
+        1.6099999696016312
+      ],
+      "bbox_source_max": [
+        17.579999163746834,
+        4.717000037431717,
+        1.9499999731779099
+      ],
+      "envelope_m": [
+        0.4000000059604645,
+        0.5799999833106995,
+        0.3400000035762787
+      ],
+      "lowest_point_above_floor_m": 0.8870001491159201,
+      "highest_point_above_floor_m": 1.4670001324266195,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Monitor derecho",
+      "members": [
+        "Monitor derecho"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Monitor derecho$",
+      "floor_reference": "Piso estudio",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        17.17999915778637,
+        4.1370000541210175,
+        4.049999788403511
+      ],
+      "bbox_source_max": [
+        17.579999163746834,
+        4.717000037431717,
+        4.38999979197979
+      ],
+      "envelope_m": [
+        0.4000000059604645,
+        0.5799999833106995,
+        0.3400000035762787
+      ],
+      "lowest_point_above_floor_m": 0.8870001491159201,
+      "highest_point_above_floor_m": 1.4670001324266195,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Pantalla DAW",
+      "members": [
+        "Pantalla estudio"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Pantalla estudio$",
+      "floor_reference": "Piso estudio",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        17.492500457912683,
+        4.197000175714493,
+        2.4100000262260437
+      ],
+      "bbox_source_max": [
+        17.54750045761466,
+        4.87700018286705,
+        3.5899999737739563
+      ],
+      "envelope_m": [
+        0.054999999701976776,
+        0.6800000071525574,
+        1.1799999475479126
+      ],
+      "lowest_point_above_floor_m": 0.9470002707093954,
+      "highest_point_above_floor_m": 1.6270002778619528,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Sofá estudio",
+      "members": [
+        "Sofá estudio base",
+        "Sofá estudio respaldo",
+        "Sofá estudio brazo -1",
+        "Sofá estudio brazo 1",
+        "Sofá estudio cojín 0",
+        "Sofá estudio costura cojín 0",
+        "Sofá estudio cojín 1",
+        "Sofá estudio costura cojín 1",
+        "Sofá estudio cojín 2",
+        "Sofá estudio costura cojín 2",
+        "Sofá estudio pata -1-1",
+        "Sofá estudio pata -11",
+        "Sofá estudio pata 1-1",
+        "Sofá estudio pata 11"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Sofá estudio ",
+      "floor_reference": "Piso estudio",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        20.47999924421311,
+        3.25,
+        2.2850007116794715
+      ],
+      "bbox_source_max": [
+        21.360000371932834,
+        4.110000133514404,
+        4.015000730752968
+      ],
+      "envelope_m": [
+        0.8800011277197228,
+        0.8600001335144043,
+        1.7300000190734965
+      ],
+      "lowest_point_above_floor_m": 9.499490261077881e-08,
+      "highest_point_above_floor_m": 0.8600002285093069,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Sofá estudio cojín 0": 0.45000014267861843,
+        "Sofá estudio cojín 1": 0.45000014267861843,
+        "Sofá estudio cojín 2": 0.45000014267861843
+      }
+    },
+    {
+      "family": "Rack estudio",
+      "members": [
+        "Rack audio | unidad 0",
+        "Rack audio | display 0",
+        "Rack audio | indicador 0",
+        "Rack audio | unidad 1",
+        "Rack audio | display 1",
+        "Rack audio | indicador 1",
+        "Rack audio | unidad 2",
+        "Rack audio | display 2",
+        "Rack audio | indicador 2",
+        "Rack audio | unidad 3",
+        "Rack audio | display 3",
+        "Rack audio | indicador 3",
+        "Rack audio | unidad 4",
+        "Rack audio | display 4",
+        "Rack audio | indicador 4",
+        "Rack audio | unidad 5",
+        "Rack audio | display 5",
+        "Rack audio | indicador 5",
+        "Rack audio | unidad 6",
+        "Rack audio | display 6",
+        "Rack audio | indicador 6",
+        "Rack audio | unidad 7",
+        "Rack audio | display 7",
+        "Rack audio | indicador 7",
+        "Subsuelo rack estudio",
+        "Rack lateral estudio | chapa lateral",
+        "Rack lateral estudio | chapa lateral.001",
+        "Rack estudio inferior | bandeja",
+        "Rack estudio inferior | bandeja.001",
+        "Rack estudio inferior | fondo ventilado",
+        "Rack estudio frente | montante19p",
+        "Rack estudio frente | montante19p.001",
+        "Rack audio | chasis unidad00",
+        "Rack audio | tornillo fijación",
+        "Rack audio | tornillo fijación.001",
+        "Rack audio | tornillo fijación.002",
+        "Rack audio | tornillo fijación.003",
+        "Rack audio | chasis unidad01",
+        "Rack audio | tornillo fijación.004",
+        "Rack audio | tornillo fijación.005",
+        "Rack audio | tornillo fijación.006",
+        "Rack audio | tornillo fijación.007",
+        "Rack audio | chasis unidad02",
+        "Rack audio | tornillo fijación.008",
+        "Rack audio | tornillo fijación.009",
+        "Rack audio | tornillo fijación.010",
+        "Rack audio | tornillo fijación.011",
+        "Rack audio | chasis unidad03",
+        "Rack audio | tornillo fijación.012",
+        "Rack audio | tornillo fijación.013",
+        "Rack audio | tornillo fijación.014",
+        "Rack audio | tornillo fijación.015",
+        "Rack audio | chasis unidad04",
+        "Rack audio | tornillo fijación.016",
+        "Rack audio | tornillo fijación.017",
+        "Rack audio | tornillo fijación.018",
+        "Rack audio | tornillo fijación.019",
+        "Rack audio | chasis unidad05",
+        "Rack audio | tornillo fijación.020",
+        "Rack audio | tornillo fijación.021",
+        "Rack audio | tornillo fijación.022",
+        "Rack audio | tornillo fijación.023",
+        "Rack audio | chasis unidad06",
+        "Rack audio | tornillo fijación.024",
+        "Rack audio | tornillo fijación.025",
+        "Rack audio | tornillo fijación.026",
+        "Rack audio | tornillo fijación.027",
+        "Rack audio | chasis unidad07",
+        "Rack audio | tornillo fijación.028",
+        "Rack audio | tornillo fijación.029",
+        "Rack audio | tornillo fijación.030",
+        "Rack audio | tornillo fijación.031"
+      ],
+      "foundation_members_separate": [],
+      "query": "^(Rack (audio|lateral estudio|estudio)|Subsuelo rack)",
+      "floor_reference": "Piso estudio",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        20.432999725453556,
+        3.2499999720603228,
+        1.239999947603792
+      ],
+      "bbox_source_max": [
+        21.11000069975853,
+        4.640000228770077,
+        1.8599999570287764
+      ],
+      "envelope_m": [
+        0.6770009743049741,
+        1.3900002567097545,
+        0.6200000094249845
+      ],
+      "lowest_point_above_floor_m": 6.705522537231445e-08,
+      "highest_point_above_floor_m": 1.3900003237649798,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Vestidor guardado",
+      "members": [
+        "Vestidor lateral módulo 17.73",
+        "Vestidor lateral módulo 18.28",
+        "Vestidor lateral módulo 18.81",
+        "Vestidor lateral módulo 19.31",
+        "Vestidor estante 3.29",
+        "Vestidor estante 3.64",
+        "Vestidor estante 5.31",
+        "Vestidor estante 5.65",
+        "Vestidor cajón 0",
+        "Vestidor cajón 1",
+        "Vestidor cajón 2"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Vestidor (estante|cajón|lateral|fondo)",
+      "floor_reference": "Piso vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        17.716999541968107,
+        3.277499961666763,
+        6.18000003695488
+      ],
+      "bbox_source_max": [
+        19.322999466210604,
+        5.662500095553696,
+        6.7400000393390656
+      ],
+      "envelope_m": [
+        1.6059999242424965,
+        2.3850001338869333,
+        0.5600000023841858
+      ],
+      "lowest_point_above_floor_m": 0.02750005666166544,
+      "highest_point_above_floor_m": 2.4125001905485988,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Cocina PA mesada",
+      "members": [
+        "Cocina lineal mesada"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Cocina lineal mesada$",
+      "floor_reference": "Piso vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        20.7400004863739,
+        4.10250011458993,
+        8.800000429153442
+      ],
+      "bbox_source_max": [
+        21.790000319480896,
+        4.157500114291906,
+        10.820000410079956
+      ],
+      "envelope_m": [
+        1.0499998331069946,
+        0.054999999701976776,
+        2.0199999809265137
+      ],
+      "lowest_point_above_floor_m": 0.8525002095848322,
+      "highest_point_above_floor_m": 0.907500209286809,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Heladera PA",
+      "members": [
+        "Heladera tirador",
+        "Heladera puerta congelador",
+        "Heladera puerta superior",
+        "Heladera"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Heladera( |$)(?!mono)",
+      "floor_reference": "Piso vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        21.053499984554946,
+        3.2549999952316284,
+        10.885000228881836
+      ],
+      "bbox_source_max": [
+        21.78499984741211,
+        5.404999852180481,
+        11.594999313354492
+      ],
+      "envelope_m": [
+        0.731499862857163,
+        2.1499998569488525,
+        0.7099990844726562
+      ],
+      "lowest_point_above_floor_m": 0.005000090226531029,
+      "highest_point_above_floor_m": 2.1549999471753836,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Horno PA",
+      "members": [
+        "Horno empotrado cocina",
+        "Horno cocina tirador",
+        "Horno cocina vidrio",
+        "MOB95 | chasis horno"
+      ],
+      "foundation_members_separate": [],
+      "query": "^(Horno (empotrado cocina|cocina)|MOB95 \\| chasis horno)",
+      "floor_reference": "Piso vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        21.03250007610768,
+        3.450000047683716,
+        10.059999704360962
+      ],
+      "bbox_source_max": [
+        21.679999947547913,
+        3.950000047683716,
+        10.579999685287476
+      ],
+      "envelope_m": [
+        0.6474998714402318,
+        0.5,
+        0.5199999809265137
+      ],
+      "lowest_point_above_floor_m": 0.20000014267861843,
+      "highest_point_above_floor_m": 0.7000001426786184,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Alacena PA",
+      "members": [
+        "Alacena cocina fondo",
+        "Alacena cocina costado",
+        "Alacena cocina costado.001",
+        "Alacena cocina costado.002",
+        "Alacena cocina estante",
+        "Alacena cocina estante.001",
+        "Alacena cocina estante.002",
+        "Alacena cocina puerta 0",
+        "Alacena cocina tirador 0",
+        "Alacena cocina puerta 1",
+        "Alacena cocina tirador 1"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Alacena cocina ",
+      "floor_reference": "Piso vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        21.395000427030027,
+        4.839999977499247,
+        9.179999709129333
+      ],
+      "bbox_source_max": [
+        21.784999618306756,
+        5.550000160932541,
+        9.960000213235617
+      ],
+      "envelope_m": [
+        0.3899991912767291,
+        0.7100001834332943,
+        0.7800005041062832
+      ],
+      "lowest_point_above_floor_m": 1.5900000724941492,
+      "highest_point_above_floor_m": 2.3000002559274435,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Mesa comedor",
+      "members": [
+        "Mesa comedor tapa",
+        "Mesa comedor pata -0.64-0.29",
+        "Mesa comedor pata -0.640.29",
+        "Mesa comedor pata 0.64-0.29",
+        "Mesa comedor pata 0.640.29"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Mesa comedor ",
+      "floor_reference": "Piso vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        17.29499991527117,
+        3.25,
+        9.875000866640107
+      ],
+      "bbox_source_max": [
+        18.20500008472883,
+        4.0,
+        11.544999209653838
+      ],
+      "envelope_m": [
+        0.9100001694576605,
+        0.75,
+        1.6699983430137308
+      ],
+      "lowest_point_above_floor_m": 9.499490261077881e-08,
+      "highest_point_above_floor_m": 0.7500000949949026,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Mesa comedor tapa": 0.7500000949949026
+      }
+    },
+    {
+      "family": "Silla comedor norte -0.49",
+      "members": [
+        "Silla comedor norte -0.49 asiento",
+        "Silla comedor norte -0.49 respaldo",
+        "Silla comedor norte -0.49 pata -1-1",
+        "Silla comedor norte -0.49 pata -11",
+        "Silla comedor norte -0.49 pata 1-1",
+        "Silla comedor norte -0.49 pata 11"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Silla comedor norte -0\\.49 ",
+      "floor_reference": "Piso vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        18.16999912261963,
+        3.25,
+        9.984999656677246
+      ],
+      "bbox_source_max": [
+        18.635632206772122,
+        4.1123521154669085,
+        10.455000877380371
+      ],
+      "envelope_m": [
+        0.4656330841524934,
+        0.8623521154669085,
+        0.470001220703125
+      ],
+      "lowest_point_above_floor_m": 9.499490261077881e-08,
+      "highest_point_above_floor_m": 0.8623522104618111,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Silla comedor norte -0.49 asiento": 0.4700001236051321
+      }
+    },
+    {
+      "family": "Silla comedor norte 0.49",
+      "members": [
+        "Silla comedor norte 0.49 asiento",
+        "Silla comedor norte 0.49 respaldo",
+        "Silla comedor norte 0.49 pata -1-1",
+        "Silla comedor norte 0.49 pata -11",
+        "Silla comedor norte 0.49 pata 1-1",
+        "Silla comedor norte 0.49 pata 11"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Silla comedor norte 0\\.49 ",
+      "floor_reference": "Piso vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        18.16999912261963,
+        3.25,
+        10.964999198913574
+      ],
+      "bbox_source_max": [
+        18.635632206772037,
+        4.1123521154669085,
+        11.4350004196167
+      ],
+      "envelope_m": [
+        0.4656330841524081,
+        0.8623521154669085,
+        0.470001220703125
+      ],
+      "lowest_point_above_floor_m": 9.499490261077881e-08,
+      "highest_point_above_floor_m": 0.8623522104618111,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Silla comedor norte 0.49 asiento": 0.4700001236051321
+      }
+    },
+    {
+      "family": "Silla comedor sur -0.49",
+      "members": [
+        "Silla comedor sur -0.49 asiento",
+        "Silla comedor sur -0.49 respaldo",
+        "Silla comedor sur -0.49 pata -1-1",
+        "Silla comedor sur -0.49 pata -11",
+        "Silla comedor sur -0.49 pata 1-1",
+        "Silla comedor sur -0.49 pata 11"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Silla comedor sur -0\\.49 ",
+      "floor_reference": "Piso vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        16.864368088879583,
+        3.25,
+        9.984999880194627
+      ],
+      "bbox_source_max": [
+        17.329999163746876,
+        4.112351390689752,
+        10.455001100897762
+      ],
+      "envelope_m": [
+        0.46563107486729294,
+        0.862351390689752,
+        0.47000122070313566
+      ],
+      "lowest_point_above_floor_m": 9.499490261077881e-08,
+      "highest_point_above_floor_m": 0.8623514856846546,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Silla comedor sur -0.49 asiento": 0.4700001236051321
+      }
+    },
+    {
+      "family": "Silla comedor sur 0.49",
+      "members": [
+        "Silla comedor sur 0.49 asiento",
+        "Silla comedor sur 0.49 respaldo",
+        "Silla comedor sur 0.49 pata -1-1",
+        "Silla comedor sur 0.49 pata -11",
+        "Silla comedor sur 0.49 pata 1-1",
+        "Silla comedor sur 0.49 pata 11"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Silla comedor sur 0\\.49 ",
+      "floor_reference": "Piso vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        16.8643679391558,
+        3.25,
+        10.96500132977961
+      ],
+      "bbox_source_max": [
+        17.329999014735264,
+        4.112351402773719,
+        11.435002550482748
+      ],
+      "envelope_m": [
+        0.4656310755794628,
+        0.8623514027737187,
+        0.47000122070313743
+      ],
+      "lowest_point_above_floor_m": 9.499490261077881e-08,
+      "highest_point_above_floor_m": 0.8623514977686213,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Silla comedor sur 0.49 asiento": 0.4700001236051321
+      }
+    },
+    {
+      "family": "Sofá vivienda",
+      "members": [
+        "Sofá vivienda base",
+        "Sofá vivienda respaldo",
+        "Sofá vivienda brazo -1",
+        "Sofá vivienda brazo 1",
+        "Sofá vivienda cojín 0",
+        "Sofá vivienda costura cojín 0",
+        "Sofá vivienda cojín 1",
+        "Sofá vivienda costura cojín 1",
+        "Sofá vivienda cojín 2",
+        "Sofá vivienda costura cojín 2",
+        "Sofá vivienda pata -1-1",
+        "Sofá vivienda pata -11",
+        "Sofá vivienda pata 1-1",
+        "Sofá vivienda pata 11"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Sofá vivienda ",
+      "floor_reference": "Piso vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        14.77500057220459,
+        3.25,
+        9.09000015258789
+      ],
+      "bbox_source_max": [
+        16.42500114440918,
+        4.110000133514404,
+        9.970000267028809
+      ],
+      "envelope_m": [
+        1.6500005722045898,
+        0.8600001335144043,
+        0.880000114440918
+      ],
+      "lowest_point_above_floor_m": 9.499490261077881e-08,
+      "highest_point_above_floor_m": 0.8600002285093069,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Sofá vivienda cojín 0": 0.45000014267861843,
+        "Sofá vivienda cojín 1": 0.45000014267861843,
+        "Sofá vivienda cojín 2": 0.45000014267861843
+      }
+    },
+    {
+      "family": "Mesa baja vivienda",
+      "members": [
+        "Mesa baja vivienda",
+        "MOB95 | pata mesa baja estar",
+        "MOB95 | pata mesa baja estar.001",
+        "MOB95 | pata mesa baja estar.002",
+        "MOB95 | pata mesa baja estar.003"
+      ],
+      "foundation_members_separate": [],
+      "query": "^(Mesa baja vivienda$|MOB95 \\| pata mesa baja estar)",
+      "floor_reference": "Piso vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        15.179998545876648,
+        3.250000074505806,
+        10.379999358605982
+      ],
+      "bbox_source_max": [
+        15.699999005564576,
+        3.6499998569488525,
+        11.16000006680522
+      ],
+      "envelope_m": [
+        0.5200004596879282,
+        0.39999978244304657,
+        0.7800007081992373
+      ],
+      "lowest_point_above_floor_m": 1.695007085800171e-07,
+      "highest_point_above_floor_m": 0.39999995194375515,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Mesa baja vivienda": 0.39999995194375515
+      }
+    },
+    {
+      "family": "TV",
+      "members": [
+        "Pantalla TV"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Pantalla TV$",
+      "floor_reference": "Piso vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        15.025000393390656,
+        4.035000145435333,
+        11.622500343248248
+      ],
+      "bbox_source_max": [
+        16.175000369548798,
+        4.685000121593475,
+        11.65750034339726
+      ],
+      "envelope_m": [
+        1.149999976158142,
+        0.6499999761581421,
+        0.03500000014901161
+      ],
+      "lowest_point_above_floor_m": 0.7850002404302359,
+      "highest_point_above_floor_m": 1.435000216588378,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Cama conjunto",
+      "members": [
+        "Cama dormitorio base",
+        "Cama dormitorio colchón",
+        "Cama dormitorio costura colchón",
+        "MOB95 | pata cama",
+        "MOB95 | pata cama.001",
+        "MOB95 | pata cama.002",
+        "MOB95 | pata cama.003",
+        "Cama dormitorio manta",
+        "Cama dormitorio almohada 1",
+        "Cama dormitorio almohada 2"
+      ],
+      "foundation_members_separate": [],
+      "query": "^(Cama dormitorio |MOB95 \\| pata cama)",
+      "floor_reference": "Piso vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        14.892106056213379,
+        3.249999962747097,
+        6.164999961853027
+      ],
+      "bbox_source_max": [
+        16.743919372558594,
+        4.019946098327637,
+        8.15087890625
+      ],
+      "envelope_m": [
+        1.8518133163452148,
+        0.7699461355805397,
+        1.9858789443969727
+      ],
+      "lowest_point_above_floor_m": 5.774199962615967e-08,
+      "highest_point_above_floor_m": 0.7699461933225393,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Cama dormitorio colchón": 0.6050001140683889
+      }
+    },
+    {
+      "family": "Mesita luz izquierda",
+      "members": [
+        "Mesa de luz suite izq",
+        "MOB95 | pata mesa de luz",
+        "MOB95 | pata mesa de luz.001",
+        "MOB95 | pata mesa de luz.002",
+        "MOB95 | pata mesa de luz.003"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Mesa de luz suite izq$",
+      "floor_reference": "Piso vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        16.880001068115234,
+        3.25,
+        6.279999732971191
+      ],
+      "bbox_source_max": [
+        17.299999237060547,
+        3.7799999713897705,
+        6.699999809265137
+      ],
+      "envelope_m": [
+        0.4199981689453125,
+        0.5299999713897705,
+        0.4200000762939453
+      ],
+      "lowest_point_above_floor_m": 9.499490261077881e-08,
+      "highest_point_above_floor_m": 0.5300000663846731,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Mesita luz derecha",
+      "members": [
+        "Mesa de luz suite der",
+        "MOB95 | pata mesa de luz.004",
+        "MOB95 | pata mesa de luz.005",
+        "MOB95 | pata mesa de luz.006",
+        "MOB95 | pata mesa de luz.007"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Mesa de luz suite der$",
+      "floor_reference": "Piso vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499999050050974,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        14.34000015258789,
+        3.25,
+        6.279999732971191
+      ],
+      "bbox_source_max": [
+        14.760000228881836,
+        3.7799999713897705,
+        6.699999809265137
+      ],
+      "envelope_m": [
+        0.4200000762939453,
+        0.5299999713897705,
+        0.4200000762939453
+      ],
+      "lowest_point_above_floor_m": 9.499490261077881e-08,
+      "highest_point_above_floor_m": 0.5300000663846731,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Vanitory PA mesada",
+      "members": [
+        "Mesada baño suite"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Mesada baño suite$",
+      "floor_reference": "Piso baño vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499998854473233,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        19.495000690221786,
+        3.980000000447035,
+        6.349999785423279
+      ],
+      "bbox_source_max": [
+        20.06500068306923,
+        4.019999999552965,
+        7.089999794960022
+      ],
+      "envelope_m": [
+        0.5699999928474426,
+        0.03999999910593033,
+        0.7400000095367432
+      ],
+      "lowest_point_above_floor_m": 0.7300001149997115,
+      "highest_point_above_floor_m": 0.7700001141056418,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Bacha apoyo PA",
+      "members": [
+        "Bacha apoyo suite"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Bacha apoyo suite$",
+      "floor_reference": "Piso baño vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499998854473233,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        19.520000457763672,
+        4.019999980926514,
+        6.550000190734863
+      ],
+      "bbox_source_max": [
+        19.8799991607666,
+        4.119999885559082,
+        6.909999847412109
+      ],
+      "envelope_m": [
+        0.3599987030029297,
+        0.09999990463256836,
+        0.3599996566772461
+      ],
+      "lowest_point_above_floor_m": 0.7700000954791903,
+      "highest_point_above_floor_m": 0.8700000001117587,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Bañera PA",
+      "members": [
+        "Bañera vivienda"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Bañera vivienda$",
+      "floor_reference": "Piso baño vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499998854473233,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        20.454999923706055,
+        3.25,
+        6.449999809265137
+      ],
+      "bbox_source_max": [
+        21.704999923706055,
+        3.7899999618530273,
+        7.190000057220459
+      ],
+      "envelope_m": [
+        1.25,
+        0.5399999618530273,
+        0.7400002479553223
+      ],
+      "lowest_point_above_floor_m": 1.1455267667770386e-07,
+      "highest_point_above_floor_m": 0.540000076405704,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Inodoro PA",
+      "members": [
+        "Inodoro vivienda",
+        "Inodoro suite | asiento",
+        "Inodoro suite | mochila compacta",
+        "Inodoro suite | pulsador"
+      ],
+      "foundation_members_separate": [],
+      "query": "^(Inodoro vivienda|Inodoro suite)",
+      "floor_reference": "Piso baño vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499998854473233,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        21.114999771118164,
+        3.25,
+        7.800000190734863
+      ],
+      "bbox_source_max": [
+        21.565000534057617,
+        4.034000109881163,
+        8.472199440002441
+      ],
+      "envelope_m": [
+        0.4500007629394531,
+        0.7840001098811626,
+        0.6721992492675781
+      ],
+      "lowest_point_above_floor_m": 1.1455267667770386e-07,
+      "highest_point_above_floor_m": 0.7840002244338393,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Inodoro suite | asiento": 0.4550002282485366
+      }
+    },
+    {
+      "family": "Bidet PA",
+      "members": [
+        "Bidet vivienda"
+      ],
+      "foundation_members_separate": [],
+      "query": "^Bidet vivienda$",
+      "floor_reference": "Piso baño vivienda",
+      "declared_floor_m": 3.25,
+      "measured_reference_floor_m": 3.2499998854473233,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        20.440000534057617,
+        3.25,
+        7.840000152587891
+      ],
+      "bbox_source_max": [
+        20.85999870300293,
+        3.6700000762939453,
+        8.420000076293945
+      ],
+      "envelope_m": [
+        0.4199981689453125,
+        0.4200000762939453,
+        0.5799999237060547
+      ],
+      "lowest_point_above_floor_m": 1.1455267667770386e-07,
+      "highest_point_above_floor_m": 0.420000190846622,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {}
+    },
+    {
+      "family": "Banco huerta",
+      "members": [
+        "Banco huerta | tablón asiento 1",
+        "Banco huerta | tablón asiento 2",
+        "Banco huerta | tablón asiento 3",
+        "Banco huerta | tablón asiento 4",
+        "Banco huerta | pata izq frente",
+        "Banco huerta | apoyo elastomérico izq frente",
+        "Banco huerta | pata izq dorso",
+        "Banco huerta | apoyo elastomérico izq dorso",
+        "Banco huerta | pata der frente",
+        "Banco huerta | apoyo elastomérico der frente",
+        "Banco huerta | pata der dorso",
+        "Banco huerta | apoyo elastomérico der dorso",
+        "Banco huerta | faldón unión X -1",
+        "Banco huerta | faldón unión Y -1",
+        "Banco huerta | faldón unión X 1",
+        "Banco huerta | faldón unión Y 1",
+        "Banco huerta | travesaño central bajo tablones"
+      ],
+      "foundation_members_separate": [
+        "Banco huerta | loseta hormigón P -1 -1",
+        "Banco huerta | lecho granular P -1 -1",
+        "Banco huerta | loseta hormigón P -1 1",
+        "Banco huerta | lecho granular P -1 1",
+        "Banco huerta | loseta hormigón P 1 -1",
+        "Banco huerta | lecho granular P 1 -1",
+        "Banco huerta | loseta hormigón P 1 1",
+        "Banco huerta | lecho granular P 1 1"
+      ],
+      "query": "^Banco huerta \\| ",
+      "floor_reference": "Top of measured proposed concrete pads",
+      "declared_floor_m": 0.05,
+      "measured_reference_floor_m": 0.04999999888241291,
+      "classification": "G measured / P unbranded assembly; no commercial product identity",
+      "scope": "Envelope includes listed components only; lowest point alone is not proof of every support.",
+      "bbox_source_min": [
+        7.324999809265137,
+        0.04999999841675162,
+        6.340000197291374
+      ],
+      "bbox_source_max": [
+        8.574999809265137,
+        0.4999999888241291,
+        6.760000184178352
+      ],
+      "envelope_m": [
+        1.25,
+        0.4499999904073775,
+        0.41999998688697815
+      ],
+      "lowest_point_above_floor_m": -4.656612873077393e-10,
+      "highest_point_above_floor_m": 0.4499999899417162,
+      "functional_query_missing": false,
+      "functional_surface_heights_above_floor_m": {
+        "Banco huerta | tablón asiento 1": 0.4499999899417162,
+        "Banco huerta | tablón asiento 2": 0.4499999899417162,
+        "Banco huerta | tablón asiento 3": 0.4499999899417162,
+        "Banco huerta | tablón asiento 4": 0.4499999899417162
+      }
+    }
+  ],
+  "count": 54,
+  "missing": []
+}

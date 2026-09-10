@@ -1,0 +1,319 @@
+{
+  "source_loaded": "D:\\2026\\42\\output\\Casa_de_Campo_95_R6K_geometry.blend",
+  "status": "P local hidden rebates; no change to frame/glass/sourceopening envelopes; capacity and weathering require project",
+  "families": [
+    {
+      "id": "E",
+      "prefix": "Ventana DVH estudio",
+      "sill": "Ventana DVH estudio alféizar",
+      "frame_bottom_m": 4.019000053405762,
+      "original_sill_top_m": 4.027500152587891,
+      "old_overlap_mm": 8.500099182128906,
+      "rebate_bottom_m": 4.016000053405762,
+      "seat_thickness_mm": 3,
+      "clearance_lip_mm": 1,
+      "sill_outer_envelope_error_m": 0.0,
+      "seat_common_footprint_source_m": {
+        "x": [
+          13.922499656677246,
+          14.047499656677246
+        ],
+        "z": [
+          1.4630999565124512,
+          4.536900043487549
+        ]
+      },
+      "new_pieces": [
+        "GL95 | E asiento alféizar EPDM3",
+        "GL95 | E junta labio exterior1",
+        "GL95 | E junta labio interior1"
+      ],
+      "reservations": [
+        {
+          "member": "Ventana DVH estudio vidrio",
+          "reservation_source_m": {
+            "x": [
+              13.964499732971191,
+              13.979500511169434
+            ],
+            "y": [
+              4.056999942779541,
+              5.78300020980835
+            ],
+            "z": [
+              1.497,
+              4.503
+            ]
+          },
+          "hosts": []
+        },
+        {
+          "member": "Ventana DVH estudio Vidrio interior",
+          "reservation_source_m": {
+            "x": [
+              13.990499755859375,
+              14.005500534057617
+            ],
+            "y": [
+              4.059580108642578,
+              5.780420043945313
+            ],
+            "z": [
+              1.5015000314712525,
+              4.498500087738037
+            ]
+          },
+          "hosts": [
+            "Estudio dintel ventana"
+          ]
+        },
+        {
+          "member": "Ventana DVH estudio marco superior",
+          "reservation_source_m": {
+            "x": [
+              13.921499656677247,
+              14.048499656677246
+            ],
+            "y": [
+              5.73800032043457,
+              5.822000099182129
+            ],
+            "z": [
+              1.4169999828338624,
+              4.582999778747559
+            ]
+          },
+          "hosts": [
+            "Estudio dintel ventana",
+            "Estudio lateral frente",
+            "Estudio paño entre ventana y puerta"
+          ]
+        },
+        {
+          "member": "Ventana DVH estudio marco inferior",
+          "reservation_source_m": {
+            "x": [
+              13.921499656677247,
+              14.048499656677246
+            ],
+            "y": [
+              4.016000053405762,
+              4.101999832153321
+            ],
+            "z": [
+              1.4169999828338624,
+              4.582999778747559
+            ]
+          },
+          "hosts": [
+            "Estudio antepecho ventana",
+            "Estudio lateral frente",
+            "Estudio paño entre ventana y puerta",
+            "Vierteaguas DVH estudio",
+            "Ventana DVH estudio alféizar"
+          ]
+        },
+        {
+          "member": "Ventana DVH estudio marco frente",
+          "reservation_source_m": {
+            "x": [
+              13.921499656677247,
+              14.048499656677246
+            ],
+            "y": [
+              4.058999942779541,
+              5.78100020980835
+            ],
+            "z": [
+              1.4579999914169313,
+              1.5420000085830687
+            ]
+          },
+          "hosts": [
+            "Estudio dintel ventana",
+            "Estudio lateral frente"
+          ]
+        },
+        {
+          "member": "Ventana DVH estudio marco fondo",
+          "reservation_source_m": {
+            "x": [
+              13.921499656677247,
+              14.048499656677246
+            ],
+            "y": [
+              4.058999942779541,
+              5.78100020980835
+            ],
+            "z": [
+              4.45800011062622,
+              4.54199988937378
+            ]
+          },
+          "hosts": [
+            "Estudio dintel ventana",
+            "Estudio paño entre ventana y puerta"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D",
+      "prefix": "Puerta ventana dormitorio",
+      "sill": "Puerta ventana dormitorio alféizar",
+      "frame_bottom_m": 3.7990000247955322,
+      "original_sill_top_m": 3.807500123977661,
+      "old_overlap_mm": 8.500099182128906,
+      "rebate_bottom_m": 3.796000024795532,
+      "seat_thickness_mm": 3,
+      "clearance_lip_mm": 1,
+      "sill_outer_envelope_error_m": 0.0,
+      "seat_common_footprint_source_m": {
+        "x": [
+          13.922499656677246,
+          14.047499656677246
+        ],
+        "z": [
+          6.663100242614746,
+          8.43690013885498
+        ]
+      },
+      "new_pieces": [
+        "GL95 | D asiento alféizar EPDM3",
+        "GL95 | D junta labio exterior1",
+        "GL95 | D junta labio interior1"
+      ],
+      "reservations": [
+        {
+          "member": "Puerta ventana dormitorio vidrio",
+          "reservation_source_m": {
+            "x": [
+              13.964499732971191,
+              13.979500511169434
+            ],
+            "y": [
+              3.8370001525878905,
+              5.923000076293945
+            ],
+            "z": [
+              6.697000286102295,
+              8.40300057220459
+            ]
+          },
+          "hosts": []
+        },
+        {
+          "member": "Puerta ventana dormitorio Vidrio interior",
+          "reservation_source_m": {
+            "x": [
+              13.990499755859375,
+              14.005500534057617
+            ],
+            "y": [
+              3.8401200981140136,
+              5.919880130767822
+            ],
+            "z": [
+              6.699549934387207,
+              8.40045044708252
+            ]
+          },
+          "hosts": [
+            "Dormitorio antepecho lateral",
+            "Dormitorio dintel lateral"
+          ]
+        },
+        {
+          "member": "Puerta ventana dormitorio marco superior",
+          "reservation_source_m": {
+            "x": [
+              13.921499656677247,
+              14.048499656677246
+            ],
+            "y": [
+              5.878000186920166,
+              5.961999965667725
+            ],
+            "z": [
+              6.617000030517578,
+              8.483000350952148
+            ]
+          },
+          "hosts": [
+            "Dormitorio dintel lateral",
+            "Paño lateral medio vivienda",
+            "Vivienda lateral junto estudio"
+          ]
+        },
+        {
+          "member": "Puerta ventana dormitorio marco inferior",
+          "reservation_source_m": {
+            "x": [
+              13.921499656677247,
+              14.048499656677246
+            ],
+            "y": [
+              3.796000024795532,
+              3.8819998035430907
+            ],
+            "z": [
+              6.617000030517578,
+              8.483000350952148
+            ]
+          },
+          "hosts": [
+            "Dormitorio antepecho lateral",
+            "Paño lateral medio vivienda",
+            "Vivienda lateral junto estudio",
+            "Puerta ventana dormitorio alféizar"
+          ]
+        },
+        {
+          "member": "Puerta ventana dormitorio marco frente",
+          "reservation_source_m": {
+            "x": [
+              13.921499656677247,
+              14.048499656677246
+            ],
+            "y": [
+              3.8390001525878907,
+              5.921000076293946
+            ],
+            "z": [
+              6.657999919891357,
+              6.741999698638916
+            ]
+          },
+          "hosts": [
+            "Dormitorio antepecho lateral",
+            "Dormitorio dintel lateral"
+          ]
+        },
+        {
+          "member": "Puerta ventana dormitorio marco fondo",
+          "reservation_source_m": {
+            "x": [
+              13.921499656677247,
+              14.048499656677246
+            ],
+            "y": [
+              3.8390001525878907,
+              5.921000076293946
+            ],
+            "z": [
+              8.357999252319336,
+              8.44199998474121
+            ]
+          },
+          "hosts": [
+            "Dormitorio antepecho lateral",
+            "Dormitorio dintel lateral"
+          ]
+        }
+      ]
+    }
+  ],
+  "non_host_meshes_and_uv_preserved": true,
+  "rig_definitions_preserved": true,
+  "rig_count": 13
+}

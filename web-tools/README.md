@@ -1,55 +1,34 @@
 # Visor web de Casa de Campo
 
-Sitio público: https://gatdeguin.github.io/42/
+Candidata R6K en revisión; aprobación 9,5 pendiente. GitHub Pages publica main:/docs. Sin servidor de aplicación ni CDN. [Documentación y límites](../docs/preview95/README.md).
 
-El directorio docs es el sitio estático completo: HTML, CSS, Three.js, modelo GLB y texturas locales. GitHub Pages publica main:/docs después de cada push. No requiere servidor de aplicación, claves ni CDN.
+Fuente actual: output/Casa_de_Campo_95_R6K.blend, SHA-256 a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90; GLB 97.1 MiB. El paquete conserva 13 mecanismos de puerta, escala métrica y cámaras de la fuente. La selección muestra dimensiones envolventes; no cotas libres. Vídeo pausado.
 
-## Uso
+## Desarrollo
 
-- Arrastrar para orbitar; rueda o pellizco para acercar; botón derecho o dos dedos para desplazar.
-- Botones de plantas y diez ambientes para cambiar de cámara.
-- Ocultar cubiertas/vegetación y regular el corte horizontal.
-- Seleccionar piezas para consultar su nombre y dimensiones envolventes.
-- Abrir las doce puertas juntas o seleccionar una y moverla por separado.
-- Inicio recupera el encuadre exterior, adaptado a la orientación de pantalla.
+Desde la raíz: npm ci --prefix web-tools. Servir docs por HTTP, por ejemplo python -m http.server 8420 --bind 127.0.0.1 --directory docs. Abrir http://127.0.0.1:8420/.
 
-Las vistas de planta son perspectivas seccionadas. Las dimensiones seleccionadas son envolventes del objeto visible, no cotas de un plano ejecutivo.
+## Exportación y QA
 
-## Desarrollo local
-
-Desde la raíz del repositorio, con Node.js y Python instalados:
-
-    npm ci --prefix web-tools
-    python -m http.server 8420 --bind 127.0.0.1 --directory docs
-
-Abrir http://127.0.0.1:8420/. No abrir index.html mediante file://, ya que el navegador necesita servir módulos y GLB por HTTP.
-
-## Regenerar los recursos del modelo
-
-Con Git LFS y Blender 5.2:
+Con Git LFS, Blender 5.2 y Node:
 
     git lfs pull
-    node web-tools/sync-assets.mjs
-    blender -b output/Casa_de_Campo_Final.blend --python scripts/export_web_model.py
-    node web-tools/optimize.mjs
-    blender -b output/Casa_de_Campo_Final.blend --python scripts/bake_web_wood.py
+    blender -b output/Casa_de_Campo_95_R6K.blend --python scripts/web95_optics_export.py -- --candidate
+    node web-tools/photographic95-optimize.mjs
+    node web-tools/photographic95-assets-verify.mjs
+    node web-tools/photographic95-dimensions-verify.mjs
+    node web-tools/photographic95-final-qa.mjs
 
-El exportador trabaja en memoria y no guarda cambios en el archivo Blender. Mantiene geometría arquitectónica y metadatos de las doce puertas; reduce solo paisaje. El optimizador aplica Meshopt y cuantización. La preparación de maderas hornea color del material original y conserva un mapa de direcciones por objeto. No genera vídeo.
+Exportación sólo en memoria: no altera el Blender. Conserva UV0/PBR y reduce botánica por componentes completos. Meshopt con posiciones de 16 bits; el control de escala decodifica atributos normalizados y compara envolventes con Blender.
 
-El GLB vigente ocupa 10.021.880 bytes. El visor combina mallas estáticas por material/categoría para reducir llamadas de dibujo y mantiene las piezas originales para selección. Las geometrías comprimidas se expanden antes de transformar sus vértices.
+photographic95-build.mjs reconstruye el prototipo aislado y photographic95-promotion.mjs prepara la portada con base ./preview95/. La promoción a docs/index.html reutiliza el mismo GLB. photographic95-documentation.mjs y photographic95-publication.mjs se ejecutan sólo tras QA final del mismo SHA. La lista publication-files.json evita incorporar ensayos históricos.
 
-## Verificación
+photographic95-qa.mjs mide también el trazador optativo; puede bloquear durante su preparación. photographic95-final-qa.mjs verifica la navegación raster predeterminada, 13 puertas, selección, órbita, corte y emulación móvil. PHOTO95_URL permite probar otra URL. No representa una prueba de teléfono físico.
 
-Con Chrome instalado y el servidor local activo:
+## GI experimental
 
-    node web-tools/qa.mjs
-    node web-tools/interactions.mjs
-    node web-tools/revision-checks.mjs
+No se publica GI como parte de esta candidata: el ensayo previo pertenece a otro SHA. Se conserva como prueba histórica fuera del paquete web; GTAO aporta contacto local y no equivale a iluminación global.
 
-VIEWER_URL permite ejecutar las pruebas contra otra URL, incluida la pública. Los informes y capturas se guardan en review/. Se comprueban carga, vistas, errores, destinos de puertas, selección real, órbita, estados de corte, maderas y orientación de pantalla. Las auditorías independientes están en audit/critica_visor_web_*.md.
+Para regenerar: misma fuente con docs/preview95/gi/bake.py, después gi/denoise.py y photographic95-gi-uv.mjs / photographic95-gi-qa.mjs. No se promete GI completa de la vivienda.
 
-## Publicar actualizaciones
-
-Modificar docs, verificar, incorporar los cambios a main y subirlos a origin. GitHub Pages vuelve a desplegar automáticamente. Los cambios de geometría requieren repetir exportación y optimización; los de materiales procedurales requieren hornear las texturas.
-
-La animación de puertas es interacción en tiempo real. El renderizado de vídeo permanece pausado hasta aprobación explícita del propietario.
+Los antiguos optimize.mjs/export_web_model.py y sus reportes pertenecen al visor anterior; no regeneran R6K completo. Ensayos Pass3b (SHA fd477337c188777079fc9fa5f630958edb077f655237074cd189aa3e698266af, 12 puertas) y Pass3d (GI) se conservan como historia identificada, fuera de la lista publicada.

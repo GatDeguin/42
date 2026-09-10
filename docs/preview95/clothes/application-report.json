@@ -1,0 +1,302 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_95_R6K_geometry.blend",
+  "sourceSHA256": "5e4e3634440e6166fb648d37027b6d6baeac3296c5ca7213111008ee074c1fcf",
+  "garments": [
+    {
+      "name": "Vestidor prenda 0",
+      "sourceBounds": [
+        [
+          18.302499771118164,
+          -6.625,
+          4.475000381469727
+        ],
+        [
+          18.357500076293945,
+          -6.335000038146973,
+          5.045000076293945
+        ]
+      ],
+      "newBounds": [
+        [
+          18.30105972290039,
+          -6.718537330627441,
+          4.280600070953369
+        ],
+        [
+          18.36028480529785,
+          -6.254495143890381,
+          5.143997669219971
+        ]
+      ],
+      "originalHangerXRetained": true,
+      "hangerRotationDegrees": 3.5,
+      "minimumPanelClearanceMetres": 0.008058547973632812,
+      "garmentDepthMetres": 0.46404218673706055,
+      "garmentLengthMetres": 0.7480000762939456,
+      "hangerWidthMetres": 0.42,
+      "cabinetDepthMetres": 0.547,
+      "frontClearanceMetres": 0.021462669372558807,
+      "backClearanceMetres": 0.06149514389038124,
+      "rodTop": 5.141000270843506,
+      "hookInnerTop": 5.141000270843506,
+      "hookContactToleranceMetres": 1e-07,
+      "parts": 10,
+      "hemZ": 4.285
+    },
+    {
+      "name": "Vestidor prenda 1",
+      "sourceBounds": [
+        [
+          18.412500381469727,
+          -6.625,
+          4.475000381469727
+        ],
+        [
+          18.467500686645508,
+          -6.335000038146973,
+          5.045000076293945
+        ]
+      ],
+      "newBounds": [
+        [
+          18.40751075744629,
+          -6.71334171295166,
+          4.3016228675842285
+        ],
+        [
+          18.470762252807617,
+          -6.24761438369751,
+          5.143997669219971
+        ]
+      ],
+      "originalHangerXRetained": true,
+      "hangerRotationDegrees": -4.0,
+      "minimumPanelClearanceMetres": 0.11450958251953125,
+      "garmentDepthMetres": 0.4657273292541504,
+      "garmentLengthMetres": 0.7270000762939457,
+      "hangerWidthMetres": 0.42,
+      "cabinetDepthMetres": 0.547,
+      "frontClearanceMetres": 0.026658287048340057,
+      "backClearanceMetres": 0.05461438369751015,
+      "rodTop": 5.141000270843506,
+      "hookInnerTop": 5.141000270843506,
+      "hookContactToleranceMetres": 1e-07,
+      "parts": 10,
+      "hemZ": 4.306
+    },
+    {
+      "name": "Vestidor prenda 2",
+      "sourceBounds": [
+        [
+          18.522499084472656,
+          -6.625,
+          4.475000381469727
+        ],
+        [
+          18.577499389648438,
+          -6.335000038146973,
+          5.045000076293945
+        ]
+      ],
+      "newBounds": [
+        [
+          18.516202926635742,
+          -6.70724630355835,
+          4.324689865112305
+        ],
+        [
+          18.580907821655273,
+          -6.241509437561035,
+          5.143997669219971
+        ]
+      ],
+      "originalHangerXRetained": true,
+      "hangerRotationDegrees": 4.5,
+      "minimumPanelClearanceMetres": 0.21609115600585938,
+      "garmentDepthMetres": 0.46573686599731445,
+      "garmentLengthMetres": 0.704000076293946,
+      "hangerWidthMetres": 0.42,
+      "cabinetDepthMetres": 0.547,
+      "frontClearanceMetres": 0.032753696441650604,
+      "backClearanceMetres": 0.04850943756103554,
+      "rodTop": 5.141000270843506,
+      "hookInnerTop": 5.141000270843506,
+      "hookContactToleranceMetres": 1e-07,
+      "parts": 10,
+      "hemZ": 4.329
+    },
+    {
+      "name": "Vestidor prenda 3",
+      "sourceBounds": [
+        [
+          18.63249969482422,
+          -6.625,
+          4.475000381469727
+        ],
+        [
+          18.6875,
+          -6.335000038146973,
+          5.045000076293945
+        ]
+      ],
+      "newBounds": [
+        [
+          18.63210678100586,
+          -6.709780693054199,
+          4.2957444190979
+        ],
+        [
+          18.688671112060547,
+          -6.244752407073975,
+          5.143997669219971
+        ]
+      ],
+      "originalHangerXRetained": true,
+      "hangerRotationDegrees": -3.0000000000000004,
+      "minimumPanelClearanceMetres": 0.10832786560058594,
+      "garmentDepthMetres": 0.4650282859802246,
+      "garmentLengthMetres": 0.7330000762939459,
+      "hangerWidthMetres": 0.42,
+      "cabinetDepthMetres": 0.547,
+      "frontClearanceMetres": 0.030219306945800994,
+      "backClearanceMetres": 0.05175240707397499,
+      "rodTop": 5.141000270843506,
+      "hookInnerTop": 5.141000270843506,
+      "hookContactToleranceMetres": 1e-07,
+      "parts": 10,
+      "hemZ": 4.3
+    },
+    {
+      "name": "Vestidor prenda 4",
+      "sourceBounds": [
+        [
+          18.74250030517578,
+          -6.625,
+          4.475000381469727
+        ],
+        [
+          18.797500610351562,
+          -6.335000038146973,
+          5.045000076293945
+        ]
+      ],
+      "newBounds": [
+        [
+          18.75105857849121,
+          -6.718048572540283,
+          4.317653656005859
+        ],
+        [
+          18.790231704711914,
+          -6.250271320343018,
+          5.143997669219971
+        ]
+      ],
+      "originalHangerXRetained": true,
+      "hangerRotationDegrees": 0.5,
+      "minimumPanelClearanceMetres": 0.00676727294921875,
+      "garmentDepthMetres": 0.4677772521972656,
+      "garmentLengthMetres": 0.7110000762939457,
+      "hangerWidthMetres": 0.42,
+      "cabinetDepthMetres": 0.547,
+      "frontClearanceMetres": 0.02195142745971701,
+      "backClearanceMetres": 0.05727132034301796,
+      "rodTop": 5.141000270843506,
+      "hookInnerTop": 5.141000270843506,
+      "hookContactToleranceMetres": 1e-07,
+      "parts": 10,
+      "hemZ": 4.322
+    },
+    {
+      "name": "Vestidor prenda 5",
+      "sourceBounds": [
+        [
+          18.85249900817871,
+          -6.625,
+          4.475000381469727
+        ],
+        [
+          18.907499313354492,
+          -6.335000038146973,
+          5.045000076293945
+        ]
+      ],
+      "newBounds": [
+        [
+          18.840667724609375,
+          -6.716276168823242,
+          4.335607051849365
+        ],
+        [
+          18.918062210083008,
+          -6.2541704177856445,
+          5.143997669219971
+        ]
+      ],
+      "originalHangerXRetained": true,
+      "hangerRotationDegrees": 6.000000000000001,
+      "minimumPanelClearanceMetres": 0.017667770385742188,
+      "garmentDepthMetres": 0.46210575103759766,
+      "garmentLengthMetres": 0.6930000762939459,
+      "hangerWidthMetres": 0.42,
+      "cabinetDepthMetres": 0.547,
+      "frontClearanceMetres": 0.023723831176758026,
+      "backClearanceMetres": 0.061170417785644915,
+      "rodTop": 5.141000270843506,
+      "hookInnerTop": 5.141000270843506,
+      "hookContactToleranceMetres": 1e-07,
+      "parts": 10,
+      "hemZ": 4.34
+    },
+    {
+      "name": "Vestidor prenda 6",
+      "sourceBounds": [
+        [
+          18.962499618530273,
+          -6.625,
+          4.475000381469727
+        ],
+        [
+          19.017499923706055,
+          -6.335000038146973,
+          5.045000076293945
+        ]
+      ],
+      "newBounds": [
+        [
+          18.944456100463867,
+          -6.709897041320801,
+          4.292604923248291
+        ],
+        [
+          19.032546997070312,
+          -6.2459716796875,
+          5.143997669219971
+        ]
+      ],
+      "originalHangerXRetained": true,
+      "hangerRotationDegrees": 8.0,
+      "minimumPanelClearanceMetres": 0.12145614624023438,
+      "garmentDepthMetres": 0.4639253616333008,
+      "garmentLengthMetres": 0.736000076293946,
+      "hangerWidthMetres": 0.42,
+      "cabinetDepthMetres": 0.547,
+      "frontClearanceMetres": 0.030102958679199432,
+      "backClearanceMetres": 0.052971679687500384,
+      "rodTop": 5.141000270843506,
+      "hookInnerTop": 5.141000270843506,
+      "hookContactToleranceMetres": 1e-07,
+      "parts": 10,
+      "hemZ": 4.297
+    }
+  ],
+  "count": 7,
+  "parts": 70,
+  "unrelatedObjectsUnchanged": 5392,
+  "savedBlend": false,
+  "sourceGeometryOutsideSevenGarmentsUnchanged": true,
+  "originalHangerXRetained": true,
+  "cabinetClearancePassed": true,
+  "wireDiameterMetres": 0.003,
+  "note": "Hook contact adds 0.1 m above the original disconnected capsules, below the unchanged shelf. Adult hanging silhouettes fit measured cabinet clearances."
+}

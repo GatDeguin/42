@@ -1,5 +1,5 @@
 """Independent measurements of candidate95; never saves or changes the blend file."""
-import bpy,os,json,math,hashlib,numpy as np
+import bpy,os,json,math,hashlib,sys,numpy as np
 from mathutils import Vector
 from mathutils.bvhtree import BVHTree
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -25,9 +25,9 @@ risers=np.diff([.06]+tops)
 check('18 risers equal from +0.06 to +3.25',len(tops)==18 and max(abs(risers-(3.25-.06)/18))<.0001,{'tops':tops,'risers':list(risers),'going':3.8/18,'slope_deg':math.degrees(math.atan((3.25-.06)/3.8))})
 a,b=bbox(bpy.data.objects['AC95 | acabado descanso al umbral'])
 check('Landing highest finish matches studio threshold',abs(b[2]-3.25)<.0001,{'landing_bounds':[list(a),list(b)]})
-for ceiling,floor,h in [('Cielorraso estudio | cota inferior 6.45m',3.25,3.2),('Cielorraso vivienda | 2.60m sobre piso general',3.25,2.6),('Cielorraso baño | 2.60m sobre porcelanato',3.3,2.6)]:
+for ceiling,floor,h in [('Cielorraso estudio | cota inferior 6.45m',3.25,3.2),('Cielorraso vivienda | 2.60m sobre piso general',3.25,2.6),('Cielorraso baño | 2.60m sobre porcelanato',3.25 if 'bath_dining_layout95' in S else 3.3,2.6)]:
  a,b=bbox(bpy.data.objects[ceiling]);check(ceiling,abs(a[2]-floor-h)<.0001,{'underside':float(a[2]),'clear':float(a[2]-floor)})
-new=[o for o in S.objects if o.type=='MESH' and o.name.startswith(('PL95 |','AC95 |'))]
+new=[o for o in S.objects if o.type=='MESH' and o.name.startswith(('PL95 |','AC95 |','FIX95 |'))]
 ng={o.name:geometry(o) for o in new}
 for name,z,low,outlet in [('PL95 | canaleta frontal abierta',-.08,6.895,13.8),('PL95 | canaleta posterior abierta',12.08,6.295,21.78)]:
  ob=bpy.data.objects[name];g=ng[name];results=[]
@@ -47,7 +47,7 @@ for nm,a,b in [
  check(nm+' unobstructed centerline at junction',hit is None,{'hit':list(hit) if hit else None})
 # New collectors vs real structural and enclosure meshes. Intended sleeves/chamber connectors are excluded here.
 tokens=['muro','tabique','medianera','fachada','losa','cielorraso','cabio','correa','viga','pilar','columna','cimiento','zapata','cubierta pendiente','balcón posterior','recrecido']
-targets=[o for o in S.objects if o.type=='MESH' and not o.hide_render and not o.parent and not o.name.startswith(('PL95 |','AC95 |')) and any(t in o.name.lower() for t in tokens)]
+targets=[o for o in S.objects if o.type=='MESH' and not o.hide_render and not o.parent and not o.name.startswith(('PL95 |','AC95 |','FIX95 |')) and any(t in o.name.lower() for t in tokens)]
 tg={o.name:geometry(o) for o in targets}
 pipes=[o for o in new if any(v in o.name for v in ['bajada frontal continua','bajada posterior continua','colector enterrado','enlace cámara'])]
 hits=[]
@@ -74,5 +74,6 @@ source=os.path.join(ROOT,'output','Casa_de_Campo_Final.blend')
 sourcehash=hashlib.sha256(open(source,'rb').read()).hexdigest()
 check('Audited source remains unchanged',sourcehash=='58223d78f71dc0c1d4f33034aaaf0be96a1bd420f72f2231468003e942c2bbfe',sourcehash)
 result={'model':bpy.data.filepath,'sha256':hashlib.sha256(open(bpy.data.filepath,'rb').read()).hexdigest(),'checks':checks,'all_pass':all(c['pass'] for c in checks),'scope':'Geometric coordination only. No structural capacity, hydraulic sizing, acoustical performance or municipal compliance certification.'}
-json.dump(result,open(os.path.join(ROOT,'review95','construccion_checks.json'),'w',encoding='utf8'),ensure_ascii=False,indent=2,default=lambda o:o.item() if hasattr(o,'item') else str(o))
+outname=sys.argv[sys.argv.index('--out')+1] if '--out' in sys.argv else 'construccion_checks.json'
+json.dump(result,open(os.path.join(ROOT,'review95',outname),'w',encoding='utf8'),ensure_ascii=False,indent=2,default=lambda o:o.item() if hasattr(o,'item') else str(o))
 print(json.dumps({'all_pass':result['all_pass'],'checks':[(c['name'],c['pass']) for c in checks],'structure_hits':hits,'door_hits_count':len(dh),'door_hits_sample':dh[:15]},ensure_ascii=False),flush=True)

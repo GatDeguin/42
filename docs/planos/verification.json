@@ -1,242 +1,304 @@
 {
-  "pages": 19,
-  "page_sizes_mm": [
-    [
-      594.0,
-      420.0
+  "model_sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+  "review_status": "EN REVISION / SIN APROBACION 9,5",
+  "combined": {
+    "consistent_model_sha": true,
+    "general_validation_pass": true,
+    "detail_validation_pass": true,
+    "pages": 33,
+    "general_pages": 21,
+    "detail_pages": 12,
+    "vector_only": true,
+    "a2_all_pages": true,
+    "native_dxf_dimensions": 195,
+    "dxf_files": 33,
+    "svg_files": 33,
+    "anchor_evidence_matches": true,
+    "minimum_font_mm": 2.5
+  },
+  "general": {
+    "pages": 21,
+    "page_sizes_mm": [
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ]
     ],
-    [
-      594.0,
-      420.0
+    "raster_images": 0,
+    "text_characters": [
+      2485,
+      1324,
+      1771,
+      1583,
+      1890,
+      1610,
+      1028,
+      1019,
+      1071,
+      1390,
+      1237,
+      892,
+      1646,
+      1517,
+      1552,
+      2474,
+      1541,
+      1540,
+      1571,
+      1985,
+      2759
     ],
-    [
-      594.0,
-      420.0
+    "vector_drawings": [
+      23,
+      161,
+      1361,
+      2058,
+      961,
+      202,
+      6271,
+      6145,
+      2096,
+      1752,
+      127,
+      802,
+      603,
+      770,
+      875,
+      20,
+      44,
+      100,
+      439,
+      30,
+      19
     ],
-    [
-      594.0,
-      420.0
+    "dxf": [
+      {
+        "file": "A00.dxf",
+        "units": 6,
+        "entities": 0,
+        "errors": 0
+      },
+      {
+        "file": "A01.dxf",
+        "units": 6,
+        "entities": 91,
+        "errors": 0
+      },
+      {
+        "file": "A02.dxf",
+        "units": 6,
+        "entities": 1092,
+        "errors": 0
+      },
+      {
+        "file": "A03.dxf",
+        "units": 6,
+        "entities": 1485,
+        "errors": 0
+      },
+      {
+        "file": "A03b.dxf",
+        "units": 6,
+        "entities": 708,
+        "errors": 0
+      },
+      {
+        "file": "A04.dxf",
+        "units": 6,
+        "entities": 117,
+        "errors": 0
+      },
+      {
+        "file": "A05a.dxf",
+        "units": 6,
+        "entities": 3870,
+        "errors": 0
+      },
+      {
+        "file": "A05b.dxf",
+        "units": 6,
+        "entities": 3706,
+        "errors": 0
+      },
+      {
+        "file": "A06.dxf",
+        "units": 6,
+        "entities": 2040,
+        "errors": 0
+      },
+      {
+        "file": "A07.dxf",
+        "units": 6,
+        "entities": 1446,
+        "errors": 0
+      },
+      {
+        "file": "A08.dxf",
+        "units": 6,
+        "entities": 86,
+        "errors": 0
+      },
+      {
+        "file": "A09.dxf",
+        "units": 6,
+        "entities": 526,
+        "errors": 0
+      },
+      {
+        "file": "A10.dxf",
+        "units": 6,
+        "entities": 421,
+        "errors": 0
+      },
+      {
+        "file": "A10b.dxf",
+        "units": 6,
+        "entities": 663,
+        "errors": 0
+      },
+      {
+        "file": "A11.dxf",
+        "units": 6,
+        "entities": 691,
+        "errors": 0
+      },
+      {
+        "file": "A12.dxf",
+        "units": 6,
+        "entities": 0,
+        "errors": 0
+      },
+      {
+        "file": "A13.dxf",
+        "units": 6,
+        "entities": 28,
+        "errors": 0
+      },
+      {
+        "file": "A13b.dxf",
+        "units": 6,
+        "entities": 91,
+        "errors": 0
+      },
+      {
+        "file": "A14.dxf",
+        "units": 6,
+        "entities": 422,
+        "errors": 0
+      },
+      {
+        "file": "A15.dxf",
+        "units": 6,
+        "entities": 27,
+        "errors": 0
+      },
+      {
+        "file": "A16.dxf",
+        "units": 6,
+        "entities": 0,
+        "errors": 0
+      }
     ],
-    [
-      594.0,
-      420.0
-    ],
-    [
-      594.0,
-      420.0
-    ],
-    [
-      594.0,
-      420.0
-    ],
-    [
-      594.0,
-      420.0
-    ],
-    [
-      594.0,
-      420.0
-    ],
-    [
-      594.0,
-      420.0
-    ],
-    [
-      594.0,
-      420.0
-    ],
-    [
-      594.0,
-      420.0
-    ],
-    [
-      594.0,
-      420.0
-    ],
-    [
-      594.0,
-      420.0
-    ],
-    [
-      594.0,
-      420.0
-    ],
-    [
-      594.0,
-      420.0
-    ],
-    [
-      594.0,
-      420.0
-    ],
-    [
-      594.0,
-      420.0
-    ],
-    [
-      594.0,
-      420.0
+    "minimum_font_mm": 2.5,
+    "dimension_count": 101
+  },
+  "details": {
+    "pages": 12,
+    "dimensions": 94,
+    "native_dxf_dimensions": 94,
+    "raster_images": 0,
+    "paths": 3105,
+    "text_outside_frame": [],
+    "minimum_font_mm": 2.5,
+    "dxf_errors": [],
+    "svg_size_errors": [],
+    "model_sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+    "dv_h_gap_mm": 16.999244689941406,
+    "anchor_count": 68,
+    "anchor_evidence_matches": true,
+    "limitations": [
+      "Proposals not incorporated into the model by this script",
+      "No performance, load, code or statutory certification"
     ]
-  ],
-  "raster_images": 0,
-  "text_characters": [
-    2308,
-    1299,
-    1746,
-    1584,
-    1585,
-    973,
-    964,
-    1046,
-    1420,
-    1091,
-    872,
-    1620,
-    1487,
-    2379,
-    1509,
-    1510,
-    1520,
-    1965,
-    2718
-  ],
-  "vector_drawings": [
-    20,
-    115,
-    1112,
-    1935,
-    207,
-    3955,
-    3819,
-    2133,
-    687,
-    127,
-    268,
-    431,
-    609,
-    19,
-    44,
-    104,
-    398,
-    30,
-    19
-  ],
-  "dxf": [
-    {
-      "file": "A00.dxf",
-      "units": 6,
-      "entities": 0,
-      "errors": 0
-    },
-    {
-      "file": "A01.dxf",
-      "units": 6,
-      "entities": 45,
-      "errors": 0
-    },
-    {
-      "file": "A02.dxf",
-      "units": 6,
-      "entities": 966,
-      "errors": 0
-    },
-    {
-      "file": "A03.dxf",
-      "units": 6,
-      "entities": 1766,
-      "errors": 0
-    },
-    {
-      "file": "A04.dxf",
-      "units": 6,
-      "entities": 118,
-      "errors": 0
-    },
-    {
-      "file": "A05a.dxf",
-      "units": 6,
-      "entities": 2754,
-      "errors": 0
-    },
-    {
-      "file": "A05b.dxf",
-      "units": 6,
-      "entities": 2620,
-      "errors": 0
-    },
-    {
-      "file": "A06.dxf",
-      "units": 6,
-      "entities": 2076,
-      "errors": 0
-    },
-    {
-      "file": "A07.dxf",
-      "units": 6,
-      "entities": 507,
-      "errors": 0
-    },
-    {
-      "file": "A08.dxf",
-      "units": 6,
-      "entities": 86,
-      "errors": 0
-    },
-    {
-      "file": "A09.dxf",
-      "units": 6,
-      "entities": 195,
-      "errors": 0
-    },
-    {
-      "file": "A10.dxf",
-      "units": 6,
-      "entities": 354,
-      "errors": 0
-    },
-    {
-      "file": "A11.dxf",
-      "units": 6,
-      "entities": 544,
-      "errors": 0
-    },
-    {
-      "file": "A12.dxf",
-      "units": 6,
-      "entities": 0,
-      "errors": 0
-    },
-    {
-      "file": "A13.dxf",
-      "units": 6,
-      "entities": 28,
-      "errors": 0
-    },
-    {
-      "file": "A13b.dxf",
-      "units": 6,
-      "entities": 95,
-      "errors": 0
-    },
-    {
-      "file": "A14.dxf",
-      "units": 6,
-      "entities": 382,
-      "errors": 0
-    },
-    {
-      "file": "A15.dxf",
-      "units": 6,
-      "entities": 27,
-      "errors": 0
-    },
-    {
-      "file": "A16.dxf",
-      "units": 6,
-      "entities": 0,
-      "errors": 0
-    }
-  ],
-  "minimum_font_mm": 2.5,
-  "dimension_count": 90
+  }
 }

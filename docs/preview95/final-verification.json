@@ -1,0 +1,836 @@
+{
+  "created": "2026-09-10T22:53:04.243Z",
+  "sourceURL": "http://127.0.0.1:8420/",
+  "sourceSHA": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+  "glbSHA256": "7144f32e811e53511c5ca0d706ae4a96dbe98d83e00ea8a07ed723a2e894be03",
+  "sourceModel": "Casa_de_Campo_95_R6K.blend",
+  "errors": [],
+  "views": [
+    {
+      "key": "estudio",
+      "label": "Estudio de grabación",
+      "camera": [
+        20.200000762939453,
+        5.019999980926514,
+        5.28000020980835
+      ],
+      "target": [
+        17.2174072265625,
+        4.950406551361084,
+        2.6155505180358887
+      ],
+      "fov": 67.5642182454562,
+      "source": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90"
+    },
+    {
+      "key": "cocina",
+      "label": "Cocina y comedor",
+      "camera": [
+        15.050000190734863,
+        4.929999828338623,
+        11.46000003814697
+      ],
+      "target": [
+        18.899494171142578,
+        4.5416436195373535,
+        10.444824218749998
+      ],
+      "fov": 60.68649776847916,
+      "source": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90"
+    },
+    {
+      "key": "dormitorio",
+      "label": "Dormitorio",
+      "camera": [
+        17.1200008392334,
+        4.860000133514404,
+        8.539999961853027
+      ],
+      "target": [
+        14.463781356811523,
+        3.5942859649658203,
+        5.830301284790039
+      ],
+      "fov": 65.12305015473247,
+      "source": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90"
+    },
+    {
+      "key": "bano",
+      "label": "Baño de la vivienda",
+      "camera": [
+        19.84000015258789,
+        4.900000095367432,
+        8.550000190734863
+      ],
+      "target": [
+        21.607614517211914,
+        3.666351079940796,
+        5.180481910705566
+      ],
+      "fov": 75.94320752210079,
+      "source": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90"
+    },
+    {
+      "key": "bathDining",
+      "label": "Baño/comedor",
+      "camera": [
+        19.920000076293945,
+        4.920000076293945,
+        10
+      ],
+      "target": [
+        20.1988525390625,
+        3.959510564804077,
+        6.1270551681518555
+      ],
+      "fov": 58.66772715614654,
+      "source": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90"
+    },
+    {
+      "key": "vestidor",
+      "label": "Vestidor pasante",
+      "camera": [
+        18.520000457763672,
+        4.860000133514404,
+        8.600000381469727
+      ],
+      "target": [
+        18.520000457763672,
+        4.061582565307617,
+        4.68049430847168
+      ],
+      "fov": 65.12305015473247,
+      "source": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90"
+    },
+    {
+      "key": "quincho",
+      "label": "Quincho y línea de fuego",
+      "camera": [
+        15,
+        1.9199999570846555,
+        11.399999618530273
+      ],
+      "target": [
+        18.52769660949707,
+        1.8303136825561523,
+        9.516569137573242
+      ],
+      "fov": 62.834550809666005,
+      "source": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90"
+    },
+    {
+      "key": "pileta",
+      "label": "Pileta y jardín",
+      "camera": [
+        10.500000000000002,
+        3.5999999046325684,
+        21.700000762939453
+      ],
+      "target": [
+        13.593400955200197,
+        2.2801504135131836,
+        19.53462028503418
+      ],
+      "fov": 58.66772715614654,
+      "source": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90"
+    },
+    {
+      "key": "huerta",
+      "label": "Huerta y acceso",
+      "camera": [
+        1.100000023841858,
+        3.0999999046325684,
+        1.9999999999999982
+      ],
+      "target": [
+        3.608861446380615,
+        1.2059860229492188,
+        4.473525047302245
+      ],
+      "fov": 56.76805156276051,
+      "source": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90"
+    },
+    {
+      "key": "mono",
+      "label": "Monoambiente de planta baja",
+      "camera": [
+        19.079999923706055,
+        1.8600000143051147,
+        5.449999809265137
+      ],
+      "target": [
+        16.504667282104492,
+        1.0566855669021606,
+        2.496638059616089
+      ],
+      "fov": 65.12305015473247,
+      "source": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90"
+    },
+    {
+      "key": "pb",
+      "label": "Planta baja · corte a 2,80 m",
+      "camera": [
+        14,
+        19,
+        22.999999999999996
+      ],
+      "target": [
+        15,
+        0,
+        7
+      ],
+      "fov": 43,
+      "source": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90"
+    },
+    {
+      "key": "pa",
+      "label": "Planta alta · corte a 5,60 m",
+      "camera": [
+        16,
+        20,
+        22
+      ],
+      "target": [
+        17.5,
+        3.2000000000000006,
+        6.000000000000002
+      ],
+      "fov": 43,
+      "source": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90"
+    },
+    {
+      "key": "acceso",
+      "label": "Fachada y acceso",
+      "camera": [
+        8.49999999999999,
+        3.5000000000000018,
+        -6.000000000000012
+      ],
+      "target": [
+        15,
+        2.5,
+        3
+      ],
+      "fov": 58,
+      "source": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90"
+    }
+  ],
+  "screenshots": [
+    "docs/preview95/final-qa/exterior.jpg",
+    "docs/preview95/final-qa/estudio.jpg",
+    "docs/preview95/final-qa/cocina.jpg",
+    "docs/preview95/final-qa/bathDining.jpg",
+    "docs/preview95/final-qa/vestidor.jpg",
+    "docs/preview95/final-qa/mono.jpg",
+    "docs/preview95/final-qa/cut.jpg",
+    "docs/preview95/final-qa/mobile-exterior.jpg",
+    "docs/preview95/final-qa/mobile-menu.jpg",
+    "docs/preview95/final-qa/mobile-mono.jpg"
+  ],
+  "scope": "Raster navigation and authored PBR, no progressive-path benchmark in this run",
+  "mobileScope": "Chrome desktop viewport/touch emulation; no physical phone test",
+  "videoRendered": false,
+  "readyMs": 21287,
+  "initial": {
+    "stats": {
+      "drawCalls": 1586,
+      "triangles": 11273309,
+      "doors": 13,
+      "meshes": 5047,
+      "sourceModel": "Casa_de_Campo_95_R6K.blend",
+      "sourceSHA": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+      "downloadBytes": 101838536
+    },
+    "metrics": {
+      "sourceLights": 33,
+      "rasterAreaLightLimit": 8,
+      "loadMilliseconds": 277.40000000596046,
+      "builds": [],
+      "frameIntervals": [
+        8918,
+        6.700000000000728,
+        11600.599999999999,
+        16.600000000002183,
+        16.799999999999272,
+        16.700000000000728,
+        16.69999999999709,
+        49.900000000001455,
+        100.09999999999854,
+        33.30000000000291,
+        16.5,
+        16.69999999999709,
+        16.700000000000728,
+        16.600000000002183,
+        16.69999999999709,
+        16.700000000000728,
+        16.600000000002183,
+        16.69999999999709,
+        16.600000000002183,
+        16.799999999999272,
+        16.599999999998545,
+        16.700000000000728,
+        16.600000000002183,
+        16.69999999999709,
+        16.700000000000728,
+        16.600000000002183,
+        16.69999999999709,
+        16.600000000002183,
+        16.799999999999272,
+        16.599999999998545,
+        16.700000000000728,
+        16.600000000002183,
+        16.69999999999709,
+        16.700000000000728,
+        16.600000000002183,
+        16.69999999999709,
+        16.700000000000728,
+        16.700000000000728,
+        16.599999999998545,
+        16.700000000000728,
+        16.600000000002183,
+        16.69999999999709,
+        16.700000000000728,
+        16.600000000002183,
+        16.69999999999709,
+        16.700000000000728,
+        16.600000000002183,
+        16.69999999999709,
+        16.700000000000728,
+        16.700000000000728,
+        16.599999999998545,
+        16.600000000002183,
+        16.700000000000728,
+        16.69999999999709,
+        16.600000000002183,
+        16.799999999999272,
+        16.599999999998545,
+        16.700000000000728,
+        16.700000000000728,
+        16.599999999998545,
+        16.700000000000728,
+        16.700000000000728,
+        16.700000000000728,
+        16.5,
+        16.799999999999272,
+        16.599999999998545,
+        16.700000000000728,
+        16.700000000000728,
+        16.599999999998545,
+        16.700000000000728,
+        16.700000000000728,
+        16.700000000000728,
+        16.599999999998545,
+        16.700000000000728,
+        16.700000000000728,
+        16.599999999998545,
+        16.600000000002183,
+        16.69999999999709,
+        16.700000000000728,
+        16.700000000000728,
+        16.599999999998545,
+        16.80000000000291,
+        16.599999999998545,
+        16.700000000000728,
+        16.700000000000728,
+        16.599999999998545,
+        16.700000000000728,
+        16.599999999998545,
+        16.700000000000728,
+        16.700000000000728,
+        16.599999999998545,
+        16.700000000000728,
+        16.700000000000728,
+        16.700000000000728,
+        16.599999999998545,
+        16.700000000000728,
+        16.599999999998545,
+        16.700000000000728,
+        16.700000000000728,
+        16.700000000000728,
+        16.599999999998545,
+        16.700000000000728,
+        16.700000000000728
+      ],
+      "longTasks": [
+        {
+          "start": 1050.7999999821186,
+          "duration": 273
+        },
+        {
+          "start": 1547.4000000059605,
+          "duration": 1813
+        },
+        {
+          "start": 9685.5,
+          "duration": 11596
+        }
+      ],
+      "error": null,
+      "rasterCompileMs": 6453.800000011921,
+      "precompiledMeshes": 643,
+      "bake": null,
+      "compiling": false,
+      "enabled": false,
+      "building": false,
+      "sceneDirty": true,
+      "samples": 0,
+      "materials": 66,
+      "authoredProceduralFinishes": [
+        {
+          "name": "WEB | Hormigón | concrete · óptica 95",
+          "color": [
+            0.4699999988079071,
+            0.4599999934434891,
+            0.42499999701976776
+          ],
+          "roughness": 0.6200000047683716,
+          "source": {
+            "scaleMetres": 0.0019230769230769232,
+            "albedoVariationPercent": 2,
+            "albedoRange": [
+              [
+                0.46059998869895935,
+                0.45080000162124634,
+                0.4165000021457672,
+                1
+              ],
+              [
+                0.47940000891685486,
+                0.4691999852657318,
+                0.4334999918937683,
+                1
+              ]
+            ],
+            "bumpDistance": 0.00015999999595806003,
+            "bumpStrength": 0.2199999988079071
+          }
+        },
+        {
+          "name": "WEB | Hormigón oscuro | concreteDark · óptica 95",
+          "color": [
+            0.19999999552965164,
+            0.19500000029802322,
+            0.17999999970197678
+          ],
+          "roughness": 0.75,
+          "source": {
+            "scaleMetres": 0.002631578947368421,
+            "albedoVariationPercent": 2,
+            "albedoRange": [
+              [
+                0.19599999487400055,
+                0.19110000133514404,
+                0.17640000581741333,
+                1
+              ],
+              [
+                0.20399999618530273,
+                0.1988999992609024,
+                0.18359999358654022,
+                1
+              ]
+            ],
+            "bumpDistance": 0.00023999999393709004,
+            "bumpStrength": 0.2199999988079071
+          }
+        },
+        {
+          "name": "WEB | Revoque cálido | whitePlaster · óptica 95",
+          "color": [
+            0.6500000059604645,
+            0.625,
+            0.5649999976158142
+          ],
+          "roughness": 0.7900000214576721,
+          "source": {
+            "scaleMetres": 0.002857142857142857,
+            "albedoVariationPercent": 2,
+            "albedoRange": [
+              [
+                0.6370000243186951,
+                0.612500011920929,
+                0.5536999702453613,
+                1
+              ],
+              [
+                0.6629999876022339,
+                0.637499988079071,
+                0.5763000249862671,
+                1
+              ]
+            ],
+            "bumpDistance": 0.00019999999494757503,
+            "bumpStrength": 0.2199999988079071
+          }
+        },
+        {
+          "name": "WEB | Cemento alisado | cement · óptica 95",
+          "color": [
+            0.3400000035762787,
+            0.3349999934434891,
+            0.3149999976158142
+          ],
+          "roughness": 0.6100000143051147,
+          "source": {
+            "scaleMetres": 0.005263157894736842,
+            "albedoVariationPercent": 2,
+            "albedoRange": [
+              [
+                0.33320000767707825,
+                0.32829999923706055,
+                0.30869999527931213,
+                1
+              ],
+              [
+                0.3467999994754791,
+                0.3416999876499176,
+                0.3212999999523163,
+                1
+              ]
+            ],
+            "bumpDistance": 0.0003499999875202775,
+            "bumpStrength": 0.2199999988079071
+          }
+        }
+      ],
+      "normalMaps": 36,
+      "roughnessMaps": 28,
+      "transmission": [
+        {
+          "name": "WEB | Agua | water · óptica 95",
+          "ior": 1.333,
+          "transmission": 1,
+          "opacity": 1
+        },
+        {
+          "name": "WEB | DVH | glass · óptica 95",
+          "ior": 1.52,
+          "transmission": 1,
+          "opacity": 1
+        }
+      ],
+      "contact": true
+    },
+    "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 Ti (0x00002489) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "pathEnabled": false,
+    "frames": {
+      "count": 100,
+      "median": 16.700000000000728,
+      "p95": 16.799999999999272
+    }
+  },
+  "orbitDelta": 1.8243329854449304,
+  "doors": [
+    {
+      "state": 1,
+      "rows": [
+        {
+          "key": "balconyRear_A",
+          "positionError": 0.0008183230500584671,
+          "angleError": 0,
+          "parts": [
+            {
+              "name": "SL95 | A rodillo1 diámetro20",
+              "positionError": 0,
+              "angleError": 0.0002866679242840763
+            },
+            {
+              "name": "SL95 | A rodillo2 diámetro20",
+              "positionError": 0,
+              "angleError": 0.0002866679242840763
+            }
+          ]
+        },
+        {
+          "key": "balconyRear_B",
+          "positionError": 0.0010750508779366896,
+          "angleError": 0,
+          "parts": [
+            {
+              "name": "SL95 | B rodillo1 diámetro20",
+              "positionError": 0,
+              "angleError": 0.0011899451238436046
+            },
+            {
+              "name": "SL95 | B rodillo2 diámetro20",
+              "positionError": 0,
+              "angleError": 0.0011899451238436046
+            }
+          ]
+        },
+        {
+          "key": "balconySide",
+          "positionError": 0.0007701859319872995,
+          "angleError": 0,
+          "parts": [
+            {
+              "name": "SL95 | L rodillo1 diámetro20",
+              "positionError": 1.7814131059297864e-20,
+              "angleError": 0.0003975853927361668
+            },
+            {
+              "name": "SL95 | L rodillo2 diámetro20",
+              "positionError": 1.7814131059297864e-20,
+              "angleError": 0.0003975853927361668
+            }
+          ]
+        },
+        {
+          "key": "bathDining",
+          "positionError": 0.0006546584400481947,
+          "angleError": 0,
+          "parts": []
+        },
+        {
+          "key": "bathLink",
+          "positionError": 0,
+          "angleError": 0.0011358254567398138,
+          "parts": []
+        },
+        {
+          "key": "bathroomMono",
+          "positionError": 0,
+          "angleError": 0.000778228849458496,
+          "parts": []
+        },
+        {
+          "key": "bedroomLink",
+          "positionError": 0,
+          "angleError": 0.0011358254567398138,
+          "parts": []
+        },
+        {
+          "key": "gate",
+          "positionError": 0.001957556344032163,
+          "angleError": 0,
+          "parts": []
+        },
+        {
+          "key": "mono_L",
+          "positionError": 0.0005006213760694322,
+          "angleError": 0,
+          "parts": []
+        },
+        {
+          "key": "mono_R",
+          "positionError": 0.0005006213760694322,
+          "angleError": 0,
+          "parts": []
+        },
+        {
+          "key": "poolBath",
+          "positionError": 0,
+          "angleError": 0.0011358254567398138,
+          "parts": []
+        },
+        {
+          "key": "studio",
+          "positionError": 0,
+          "angleError": 0.0011358254567398138,
+          "parts": []
+        },
+        {
+          "key": "suiteEntry",
+          "positionError": 0,
+          "angleError": 0.0011358254567398138,
+          "parts": []
+        }
+      ]
+    },
+    {
+      "state": 0,
+      "rows": [
+        {
+          "key": "balconyRear_A",
+          "positionError": 0.0008185341819153535,
+          "angleError": 0,
+          "parts": [
+            {
+              "name": "SL95 | A rodillo1 diámetro20",
+              "positionError": 0,
+              "angleError": 0.0002867418939986255
+            },
+            {
+              "name": "SL95 | A rodillo2 diámetro20",
+              "positionError": 0,
+              "angleError": 0.0002867418939986255
+            }
+          ]
+        },
+        {
+          "key": "balconyRear_B",
+          "positionError": 0.001075328246987084,
+          "angleError": 0,
+          "parts": [
+            {
+              "name": "SL95 | B rodillo1 diámetro20",
+              "positionError": 0,
+              "angleError": 0.0011902521558723352
+            },
+            {
+              "name": "SL95 | B rodillo2 diámetro20",
+              "positionError": 0,
+              "angleError": 0.0011902521558723352
+            }
+          ]
+        },
+        {
+          "key": "balconySide",
+          "positionError": 0.0007703846442019824,
+          "angleError": 0,
+          "parts": [
+            {
+              "name": "SL95 | L rodillo1 diámetro20",
+              "positionError": 1.7818727203264483e-20,
+              "angleError": 0.000397687963861281
+            },
+            {
+              "name": "SL95 | L rodillo2 diámetro20",
+              "positionError": 1.7818727203264483e-20,
+              "angleError": 0.000397687963861281
+            }
+          ]
+        },
+        {
+          "key": "bathDining",
+          "positionError": 0.0006548273455315723,
+          "angleError": 0,
+          "parts": []
+        },
+        {
+          "key": "bathLink",
+          "positionError": 0,
+          "angleError": 0.0010084313233408061,
+          "parts": []
+        },
+        {
+          "key": "bathroomMono",
+          "positionError": 0,
+          "angleError": 0.0010285998534907597,
+          "parts": []
+        },
+        {
+          "key": "bedroomLink",
+          "positionError": 0,
+          "angleError": 0.0010084313233408061,
+          "parts": []
+        },
+        {
+          "key": "gate",
+          "positionError": 0.0019580614043555045,
+          "angleError": 0,
+          "parts": []
+        },
+        {
+          "key": "mono_L",
+          "positionError": 0.0005007505391425582,
+          "angleError": 0,
+          "parts": []
+        },
+        {
+          "key": "mono_R",
+          "positionError": 0.0005007505391425582,
+          "angleError": 0,
+          "parts": []
+        },
+        {
+          "key": "poolBath",
+          "positionError": 0,
+          "angleError": 0.0010084313233408061,
+          "parts": []
+        },
+        {
+          "key": "studio",
+          "positionError": 0,
+          "angleError": 0.0010084313233408061,
+          "parts": []
+        },
+        {
+          "key": "suiteEntry",
+          "positionError": 0,
+          "angleError": 0.0010084313233408061,
+          "parts": []
+        }
+      ]
+    }
+  ],
+  "cut": 4.5,
+  "selection": {
+    "visible": true,
+    "name": "Corrediza posterior B Vidrio interior"
+  },
+  "links": [
+    {
+      "text": "42CASA DE CAMPOCEDRO MISIONERO",
+      "href": "http://127.0.0.1:8420/",
+      "hidden": false
+    },
+    {
+      "text": "Planos ↗",
+      "href": "http://127.0.0.1:8420/planos/",
+      "hidden": false
+    },
+    {
+      "text": "Renders ↗",
+      "href": "http://127.0.0.1:8420/renders/",
+      "hidden": false
+    },
+    {
+      "text": "Proyecto ↗",
+      "href": "https://github.com/GatDeguin/42",
+      "hidden": false
+    },
+    {
+      "text": "Cómo recorrer la casa ↗",
+      "href": "http://127.0.0.1:8420/preview95/controles.html",
+      "hidden": false
+    },
+    {
+      "text": "Descargar modelo 3D · GLB ↧",
+      "href": "http://127.0.0.1:8420/preview95/assets/house.glb",
+      "hidden": false
+    },
+    {
+      "text": "Descargar fuente Blender ↧",
+      "href": "https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_95_R6K.blend",
+      "hidden": false
+    },
+    {
+      "text": "Fuente de esta candidata ↗",
+      "href": "http://127.0.0.1:8420/preview95/README.md",
+      "hidden": false
+    },
+    {
+      "text": "Ver el proyecto en GitHub ↗",
+      "href": "https://github.com/GatDeguin/42",
+      "hidden": false
+    }
+  ],
+  "mobile": {
+    "width": 390,
+    "scrollWidth": 390,
+    "view": "Monoambiente de planta baja",
+    "sourceSHA": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+    "doors": 13,
+    "menuOpen": false
+  },
+  "pass": true,
+  "documentLinks": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/renders/",
+      "status": 200
+    },
+    {
+      "path": "/planos/",
+      "status": 200
+    },
+    {
+      "path": "/preview95/controles.html",
+      "status": 200
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_95_R6K.blend",
+  "sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+  "bench": [
+    {
+      "leg": "Banco huerta | pata izq frente",
+      "top_y": 0.4599999785423279,
+      "contact_areas": [
+        {
+          "seat": "Banco huerta | tablón asiento 1",
+          "coplanar_contact_m2": 0.0010138679172086995
+        },
+        {
+          "seat": "Banco huerta | tablón asiento 2",
+          "coplanar_contact_m2": 0.0006806481251260266
+        }
+      ],
+      "total_contact_m2": 0.001694516042334726,
+      "pass_geometric_contact": true
+    },
+    {
+      "leg": "Banco huerta | pata izq dorso",
+      "top_y": 0.4599999785423279,
+      "contact_areas": [
+        {
+          "seat": "Banco huerta | tablón asiento 3",
+          "coplanar_contact_m2": 0.0006806481251260266
+        },
+        {
+          "seat": "Banco huerta | tablón asiento 4",
+          "coplanar_contact_m2": 0.0010138679172086995
+        }
+      ],
+      "total_contact_m2": 0.001694516042334726,
+      "pass_geometric_contact": true
+    },
+    {
+      "leg": "Banco huerta | pata der frente",
+      "top_y": 0.4599999785423279,
+      "contact_areas": [
+        {
+          "seat": "Banco huerta | tablón asiento 1",
+          "coplanar_contact_m2": 0.0010138696413832804
+        },
+        {
+          "seat": "Banco huerta | tablón asiento 2",
+          "coplanar_contact_m2": 0.0006806481251260266
+        }
+      ],
+      "total_contact_m2": 0.001694517766509307,
+      "pass_geometric_contact": true
+    },
+    {
+      "leg": "Banco huerta | pata der dorso",
+      "top_y": 0.4599999785423279,
+      "contact_areas": [
+        {
+          "seat": "Banco huerta | tablón asiento 3",
+          "coplanar_contact_m2": 0.0006806481251260266
+        },
+        {
+          "seat": "Banco huerta | tablón asiento 4",
+          "coplanar_contact_m2": 0.0010138679172086995
+        }
+      ],
+      "total_contact_m2": 0.001694516042334726,
+      "pass_geometric_contact": true
+    }
+  ],
+  "bench_classification": "Central ray meets 3mm rounded slat edge; positive contact over actual leg footprint means central-ray gap alone is not a floating leg. Capacity not assessed.",
+  "water_base_intersection_m3": 2.1487166079470503
+}

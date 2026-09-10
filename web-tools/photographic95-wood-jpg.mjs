@@ -1,0 +1,1 @@
+import sharp from 'sharp';import fs from 'node:fs';for(const f of fs.readdirSync('docs/preview95/wood').filter(f=>f.endsWith('.png')&&/before|after/.test(f)))await sharp('docs/preview95/wood/'+f).jpeg({quality:90}).toFile('docs/preview95/wood/'+f.replace('.png','.jpg'));

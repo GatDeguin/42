@@ -1,0 +1,5005 @@
+{
+  "wardrobeGarments": [
+    "Vestidor prenda 0 | cloth body",
+    "Vestidor prenda 0 | collar seam",
+    "Vestidor prenda 0 | cuff 1",
+    "Vestidor prenda 0 | cuff -1",
+    "Vestidor prenda 0 | hanger hook",
+    "Vestidor prenda 0 | hanger shoulders",
+    "Vestidor prenda 0 | placket stitching",
+    "Vestidor prenda 0 | sewn hem",
+    "Vestidor prenda 0 | sleeve 1",
+    "Vestidor prenda 0 | sleeve -1",
+    "Vestidor prenda 1 | cloth body",
+    "Vestidor prenda 1 | collar seam",
+    "Vestidor prenda 1 | cuff 1",
+    "Vestidor prenda 1 | cuff -1",
+    "Vestidor prenda 1 | hanger hook",
+    "Vestidor prenda 1 | hanger shoulders",
+    "Vestidor prenda 1 | placket stitching",
+    "Vestidor prenda 1 | sewn hem",
+    "Vestidor prenda 1 | sleeve 1",
+    "Vestidor prenda 1 | sleeve -1",
+    "Vestidor prenda 2 | cloth body",
+    "Vestidor prenda 2 | collar seam",
+    "Vestidor prenda 2 | cuff 1",
+    "Vestidor prenda 2 | cuff -1",
+    "Vestidor prenda 2 | hanger hook",
+    "Vestidor prenda 2 | hanger shoulders",
+    "Vestidor prenda 2 | placket stitching",
+    "Vestidor prenda 2 | sewn hem",
+    "Vestidor prenda 2 | sleeve 1",
+    "Vestidor prenda 2 | sleeve -1",
+    "Vestidor prenda 3 | cloth body",
+    "Vestidor prenda 3 | collar seam",
+    "Vestidor prenda 3 | cuff 1",
+    "Vestidor prenda 3 | cuff -1",
+    "Vestidor prenda 3 | hanger hook",
+    "Vestidor prenda 3 | hanger shoulders",
+    "Vestidor prenda 3 | placket stitching",
+    "Vestidor prenda 3 | sewn hem",
+    "Vestidor prenda 3 | sleeve 1",
+    "Vestidor prenda 3 | sleeve -1",
+    "Vestidor prenda 4 | cloth body",
+    "Vestidor prenda 4 | collar seam",
+    "Vestidor prenda 4 | cuff 1",
+    "Vestidor prenda 4 | cuff -1",
+    "Vestidor prenda 4 | hanger hook",
+    "Vestidor prenda 4 | hanger shoulders",
+    "Vestidor prenda 4 | placket stitching",
+    "Vestidor prenda 4 | sewn hem",
+    "Vestidor prenda 4 | sleeve 1",
+    "Vestidor prenda 4 | sleeve -1",
+    "Vestidor prenda 5 | cloth body",
+    "Vestidor prenda 5 | collar seam",
+    "Vestidor prenda 5 | cuff 1",
+    "Vestidor prenda 5 | cuff -1",
+    "Vestidor prenda 5 | hanger hook",
+    "Vestidor prenda 5 | hanger shoulders",
+    "Vestidor prenda 5 | placket stitching",
+    "Vestidor prenda 5 | sewn hem",
+    "Vestidor prenda 5 | sleeve 1",
+    "Vestidor prenda 5 | sleeve -1",
+    "Vestidor prenda 6 | cloth body",
+    "Vestidor prenda 6 | collar seam",
+    "Vestidor prenda 6 | cuff 1",
+    "Vestidor prenda 6 | cuff -1",
+    "Vestidor prenda 6 | hanger hook",
+    "Vestidor prenda 6 | hanger shoulders",
+    "Vestidor prenda 6 | placket stitching",
+    "Vestidor prenda 6 | sewn hem",
+    "Vestidor prenda 6 | sleeve 1",
+    "Vestidor prenda 6 | sleeve -1"
+  ],
+  "photographicWood": [
+    {
+      "name": "PHOTO95 | oak_veneer_01 | dark | WoodUV",
+      "base": [
+        0.3688009977340698,
+        0.33524903655052185,
+        0.3246062099933624,
+        1
+      ],
+      "maps": [
+        {
+          "name": "oak-calibrated-diffuse-2k",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "oak_veneer_01_nor_gl_2k",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "oak_veneer_01_rough_2k",
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "uv": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "PHOTO95 | oak_veneer_01 | dark parquet | WoodUV",
+      "base": [
+        0.3688009977340698,
+        0.33524903655052185,
+        0.3246062099933624,
+        1
+      ],
+      "maps": [
+        {
+          "name": "oak-parquet-diffuse-2k",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "oak-parquet-normalGL-2k",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "oak-parquet-roughness-2k",
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "uv": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "PHOTO95 | oak_veneer_01 | light | MapaUV",
+      "base": [
+        0.9259259104728699,
+        0.9259259104728699,
+        0.9259259104728699,
+        1
+      ],
+      "maps": [
+        {
+          "name": "oak-calibrated-diffuse-2k",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "oak_veneer_01_nor_gl_2k",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "oak_veneer_01_rough_2k",
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "uv": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "PHOTO95 | oak_veneer_01 | light parquet | SourceUV",
+      "base": [
+        0.9259259104728699,
+        0.9259259104728699,
+        0.9259259104728699,
+        1
+      ],
+      "maps": [
+        {
+          "name": "oak-parquet-diffuse-2k",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "oak-parquet-normalGL-2k",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "oak-parquet-roughness-2k",
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "uv": [
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "photographicMasonry": [
+    {
+      "name": "PHOTO95 | red_bricks_04 | brickDarkPhoto | SourceUV",
+      "base": [
+        0.800000011920929,
+        0.7799999713897705,
+        0.7300000190734863,
+        1
+      ],
+      "normalScale": 0.6499999761581421,
+      "emissive": [
+        0,
+        0,
+        0
+      ],
+      "maps": [
+        {
+          "name": "red_bricks_04_calibrated_diffuse_2k",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "red_bricks_04_nor_gl_2k",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "red_bricks_04_rough_2k",
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "uv": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "PHOTO95 | red_bricks_04 | brickPhoto | SourceUV",
+      "base": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "normalScale": 0.6499999761581421,
+      "emissive": [
+        0,
+        0,
+        0
+      ],
+      "maps": [
+        {
+          "name": "red_bricks_04_calibrated_diffuse_2k",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "red_bricks_04_nor_gl_2k",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "red_bricks_04_rough_2k",
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "uv": [
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "sceneCount": 1,
+  "authoredMinerals": [
+    {
+      "name": "Cemento alisado | cement",
+      "key": "cement",
+      "color": [
+        0.3400000035762787,
+        0.3349999934434891,
+        0.3149999976158142,
+        1
+      ],
+      "proceduralFinish": {
+        "scaleMetres": 0.005263157894736842,
+        "albedoVariationPercent": 2,
+        "albedoRange": [
+          [
+            0.33320000767707825,
+            0.32829999923706055,
+            0.30869999527931213,
+            1
+          ],
+          [
+            0.3467999994754791,
+            0.3416999876499176,
+            0.3212999999523163,
+            1
+          ]
+        ],
+        "bumpDistance": 0.0003499999875202775,
+        "bumpStrength": 0.2199999988079071
+      },
+      "roughness": 0.6100000143051147,
+      "metalness": 0,
+      "ior": 1.5,
+      "transmission": 0,
+      "textures": []
+    },
+    {
+      "name": "Hormigón oscuro | concreteDark",
+      "key": "concreteDark",
+      "color": [
+        0.19999999552965164,
+        0.19500000029802322,
+        0.17999999970197678,
+        1
+      ],
+      "proceduralFinish": {
+        "scaleMetres": 0.002631578947368421,
+        "albedoVariationPercent": 2,
+        "albedoRange": [
+          [
+            0.19599999487400055,
+            0.19110000133514404,
+            0.17640000581741333,
+            1
+          ],
+          [
+            0.20399999618530273,
+            0.1988999992609024,
+            0.18359999358654022,
+            1
+          ]
+        ],
+        "bumpDistance": 0.00023999999393709004,
+        "bumpStrength": 0.2199999988079071
+      },
+      "roughness": 0.75,
+      "metalness": 0,
+      "ior": 1.5,
+      "transmission": 0,
+      "textures": []
+    },
+    {
+      "name": "Hormigón | concrete",
+      "key": "concrete",
+      "color": [
+        0.4699999988079071,
+        0.4599999934434891,
+        0.42499999701976776,
+        1
+      ],
+      "proceduralFinish": {
+        "scaleMetres": 0.0019230769230769232,
+        "albedoVariationPercent": 2,
+        "albedoRange": [
+          [
+            0.46059998869895935,
+            0.45080000162124634,
+            0.4165000021457672,
+            1
+          ],
+          [
+            0.47940000891685486,
+            0.4691999852657318,
+            0.4334999918937683,
+            1
+          ]
+        ],
+        "bumpDistance": 0.00015999999595806003,
+        "bumpStrength": 0.2199999988079071
+      },
+      "roughness": 0.6200000047683716,
+      "metalness": 0,
+      "ior": 1.5,
+      "transmission": 0,
+      "textures": []
+    },
+    {
+      "name": "Revoque cálido | whitePlaster",
+      "key": "whitePlaster",
+      "color": [
+        0.6500000059604645,
+        0.625,
+        0.5649999976158142,
+        1
+      ],
+      "proceduralFinish": {
+        "scaleMetres": 0.002857142857142857,
+        "albedoVariationPercent": 2,
+        "albedoRange": [
+          [
+            0.6370000243186951,
+            0.612500011920929,
+            0.5536999702453613,
+            1
+          ],
+          [
+            0.6629999876022339,
+            0.637499988079071,
+            0.5763000249862671,
+            1
+          ]
+        ],
+        "bumpDistance": 0.00019999999494757503,
+        "bumpStrength": 0.2199999988079071
+      },
+      "roughness": 0.7900000214576721,
+      "metalness": 0,
+      "ior": 1.5,
+      "transmission": 0,
+      "textures": []
+    }
+  ],
+  "textureFootprint": [
+    {
+      "name": "tree_small_02_nor_gl",
+      "mime": "image/png",
+      "bytes": 10936648,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "red_bricks_04_nor_gl_2k",
+      "mime": "image/png",
+      "bytes": 10330072,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "tree_small_02_leaves_nor_gl_2k",
+      "mime": "image/png",
+      "bytes": 8105973,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "red_bricks_04_calibrated_diffuse_2k",
+      "mime": "image/png",
+      "bytes": 7813786,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "oak_veneer_01_nor_gl_2k",
+      "mime": "image/png",
+      "bytes": 6533070,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "oak-parquet-normalGL-2k",
+      "mime": "image/png",
+      "bytes": 5873778,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "oak_veneer_01_rough_2k",
+      "mime": "image/png",
+      "bytes": 5246385,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "tree_small_02_branch_nor_gl_2k",
+      "mime": "image/png",
+      "bytes": 5229212,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "oak-parquet-roughness-2k",
+      "mime": "image/png",
+      "bytes": 5039817,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "red_bricks_04_rough_2k",
+      "mime": "image/png",
+      "bytes": 4227943,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "tree_small_02_rough",
+      "mime": "image/png",
+      "bytes": 3249851,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "tree_small_02_diff_2k",
+      "mime": "image/jpeg",
+      "bytes": 3170612,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "tree_small_02_branch_diff_2k",
+      "mime": "image/png",
+      "bytes": 2714537,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "tree_small_02_leaves_diff-tree_small_02_leaves_alpha",
+      "mime": "image/png",
+      "bytes": 2347683,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "oak-parquet-diffuse-2k",
+      "mime": "image/jpeg",
+      "bytes": 1872186,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "oak-calibrated-diffuse-2k",
+      "mime": "image/jpeg",
+      "bytes": 1806923,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "tree_small_02_leaves_rough_2k",
+      "mime": "image/png",
+      "bytes": 1764037,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "tree_small_02_branch_rough_2k",
+      "mime": "image/png",
+      "bytes": 1140395,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "tile_albedo",
+      "mime": "image/png",
+      "bytes": 278305,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "soil_albedo",
+      "mime": "image/png",
+      "bytes": 193225,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "acoustic_albedo",
+      "mime": "image/png",
+      "bytes": 42670,
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "clothWhite_normal",
+      "mime": "image/png",
+      "bytes": 3867,
+      "size": [
+        512,
+        512
+      ]
+    }
+  ],
+  "created": "2026-09-10T22:46:33.507Z",
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_95_R6K.blend",
+  "sha": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+  "sourceVerified": true,
+  "bytes": 101838536,
+  "doors": 13,
+  "lights": 33,
+  "environment": {
+    "type": "HDR",
+    "strength": 0.550000011920929,
+    "rotationZ": 1.9547687768936157,
+    "threeEnvironmentRotationY": -1.9547687768936157,
+    "exposureEV": 0.3499999940395355,
+    "look": "AgX - Medium High Contrast"
+  },
+  "triangles": 5976273,
+  "treeObjects": 70,
+  "sharedTreeMeshes": 2,
+  "treeLOD": [
+    {
+      "name": "BOT95 | árbol 00",
+      "lod": "foreground",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 376
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 20000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 214170,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 01",
+      "lod": "foreground",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 376
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 20000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 214170,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 02",
+      "lod": "foreground",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 376
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 20000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 214170,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 03",
+      "lod": "foreground",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 376
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 20000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 214170,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 04",
+      "lod": "foreground",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 376
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 20000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 214170,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 05",
+      "lod": "foreground",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 376
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 20000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 214170,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 06",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 07",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 08",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 09",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 10",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 11",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 12",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 13",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 14",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 15",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 16",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 17",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 18",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 19",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 20",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 21",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 22",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 23",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 24",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 25",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 26",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 27",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 28",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 29",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 30",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 31",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 32",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 33",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 34",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 35",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 36",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 37",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 38",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 39",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 40",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 41",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 42",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 43",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 44",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 45",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 46",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 47",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 48",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 49",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 50",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 51",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 52",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 53",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 54",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 55",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 56",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 57",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 58",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 59",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 60",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 61",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 62",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 63",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 64",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 65",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 66",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 67",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 68",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 69",
+      "lod": "background",
+      "components": [
+        {
+          "material": "tree_small_02_branches",
+          "sourceComponents": 752,
+          "webComponents": 112
+        },
+        {
+          "material": "tree_small_02_leaves",
+          "sourceComponents": 63152,
+          "webComponents": 4000
+        },
+        {
+          "material": "tree_small_02_trunk",
+          "sourceComponents": 1,
+          "webComponents": 1
+        }
+      ],
+      "vertices": 51869,
+      "sourceVertices": 626249,
+      "completeUnits": true,
+      "uvLayers": [
+        "UVMap",
+        "UV_map_01"
+      ]
+    }
+  ],
+  "treeAttributes": [
+    {
+      "name": "BOT95 | árbol 00",
+      "primitives": [
+        {
+          "triangles": 47050,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 122206,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 01",
+      "primitives": [
+        {
+          "triangles": 47050,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 122206,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 02",
+      "primitives": [
+        {
+          "triangles": 47050,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 122206,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 03",
+      "primitives": [
+        {
+          "triangles": 47050,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 122206,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 04",
+      "primitives": [
+        {
+          "triangles": 47050,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 122206,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 05",
+      "primitives": [
+        {
+          "triangles": 47050,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 122206,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 06",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 07",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 08",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 09",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 10",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 11",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 12",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 13",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 14",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 15",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 16",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 17",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 18",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 19",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 20",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 21",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 22",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 23",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 24",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 25",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 26",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 27",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 28",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 29",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 30",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 31",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 32",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 33",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 34",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 35",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 36",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 37",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 38",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 39",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 40",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 41",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 42",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 43",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 44",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 45",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 46",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 47",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 48",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 49",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 50",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 51",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 52",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 53",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 54",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 55",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 56",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 57",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 58",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 59",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 60",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 61",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 62",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 63",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 64",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 65",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 66",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 67",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 68",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    },
+    {
+      "name": "BOT95 | árbol 69",
+      "primitives": [
+        {
+          "triangles": 13868,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_branches"
+        },
+        {
+          "triangles": 24737,
+          "attributes": [
+            "NORMAL",
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_leaves"
+        },
+        {
+          "triangles": 14145,
+          "attributes": [
+            "POSITION",
+            "NORMAL",
+            "TEXCOORD_0"
+          ],
+          "material": "WEB | tree_small_02_trunk"
+        }
+      ]
+    }
+  ],
+  "convertedObjects": [
+    "DIM95 | soldadura cartela 1 exterior | web mesh",
+    "DIM95 | soldadura cartela 1 interior | web mesh",
+    "DIM95 | soldadura cartela 2 exterior | web mesh",
+    "DIM95 | soldadura cartela 2 interior | web mesh",
+    "DIM95 | soldadura cartela 3 exterior | web mesh",
+    "DIM95 | soldadura cartela 3 interior | web mesh",
+    "DIM95 | soldadura cartela 4 exterior | web mesh",
+    "DIM95 | soldadura cartela 4 interior | web mesh",
+    "DIM95 | soldadura cartela 5 exterior | web mesh",
+    "DIM95 | soldadura cartela 5 interior | web mesh",
+    "DIM95 | soldadura cartela 6 exterior | web mesh",
+    "DIM95 | soldadura cartela 6 interior | web mesh",
+    "DIM95 | soldadura cartela 7 exterior | web mesh",
+    "DIM95 | soldadura cartela 7 interior | web mesh",
+    "DIM95 | soldadura cartela 8 exterior | web mesh",
+    "DIM95 | soldadura cartela 8 interior | web mesh",
+    "DIM95 | soldadura cartela 9 exterior | web mesh",
+    "DIM95 | soldadura cartela 9 interior | web mesh",
+    "DIM95 | soldadura cartela 10 exterior | web mesh",
+    "DIM95 | soldadura cartela 10 interior | web mesh",
+    "DIM95 | soldadura cartela 11 exterior | web mesh",
+    "DIM95 | soldadura cartela 11 interior | web mesh",
+    "DIM95 | soldadura cartela 12 exterior | web mesh",
+    "DIM95 | soldadura cartela 12 interior | web mesh",
+    "DIM95 | soldadura cartela 13 exterior | web mesh",
+    "DIM95 | soldadura cartela 13 interior | web mesh",
+    "DIM95 | soldadura cartela 14 exterior | web mesh",
+    "DIM95 | soldadura cartela 14 interior | web mesh",
+    "DIM95 | soldadura cartela 15 exterior | web mesh",
+    "DIM95 | soldadura cartela 15 interior | web mesh",
+    "DIM95 | soldadura cartela 16 exterior | web mesh",
+    "DIM95 | soldadura cartela 16 interior | web mesh",
+    "DIM95 | soldadura cartela 17 exterior | web mesh",
+    "DIM95 | soldadura cartela 17 interior | web mesh",
+    "DIM95 | soldadura cartela 18 exterior | web mesh",
+    "DIM95 | soldadura cartela 18 interior | web mesh",
+    "FIT95 | aro serigrafiado inducción | web mesh",
+    "FIT95 | aro serigrafiado inducción.001 | web mesh",
+    "FIT95 | aro serigrafiado inducción.002 | web mesh",
+    "FIT95 | aro serigrafiado inducción.003 | web mesh",
+    "Grifería cocina mono | caño | web mesh",
+    "MAT95 | cable balanceado 0 | web mesh",
+    "MAT95 | cable balanceado 1 | web mesh",
+    "MAT95 | cable balanceado 2 | web mesh",
+    "MAT95 | cable balanceado 3 | web mesh",
+    "MAT95 | número canal | web mesh",
+    "MAT95 | número canal.001 | web mesh",
+    "MAT95 | número canal.002 | web mesh",
+    "MAT95 | número canal.003 | web mesh",
+    "MAT95 | número canal.004 | web mesh",
+    "MAT95 | número canal.005 | web mesh",
+    "MAT95 | número canal.006 | web mesh",
+    "MAT95 | número canal.007 | web mesh",
+    "MAT95 | número canal.008 | web mesh",
+    "MAT95 | número canal.009 | web mesh",
+    "MAT95 | número canal.010 | web mesh",
+    "MAT95 | número canal.011 | web mesh",
+    "MAT95 | número canal.012 | web mesh",
+    "MAT95 | número canal.013 | web mesh",
+    "MAT95 | número canal.014 | web mesh",
+    "MAT95 | número canal.015 | web mesh",
+    "MAT95 | número canal.016 | web mesh",
+    "MAT95 | número canal.017 | web mesh",
+    "MAT95 | número canal.018 | web mesh",
+    "MAT95 | número canal.019 | web mesh",
+    "MAT95 | número canal.020 | web mesh",
+    "MAT95 | número canal.021 | web mesh",
+    "MAT95 | número canal.022 | web mesh",
+    "MAT95 | número canal.023 | web mesh",
+    "MAT95 | número canal.024 | web mesh",
+    "MAT95 | número canal.025 | web mesh",
+    "MAT95 | número canal.026 | web mesh",
+    "MAT95 | número canal.027 | web mesh",
+    "MAT95 | número canal.028 | web mesh",
+    "MAT95 | número canal.029 | web mesh",
+    "MAT95 | número canal.030 | web mesh",
+    "MAT95 | número canal.031 | web mesh",
+    "MOB95 | costura funda almohada | web mesh",
+    "MOB95 | costura funda almohada.001 | web mesh",
+    "MOB95 | dobladillo cortina | web mesh",
+    "MOB95 | dobladillo cortina.001 | web mesh",
+    "MOB95 | dobladillo cortina.002 | web mesh",
+    "MOB95 | dobladillo cortina.003 | web mesh",
+    "MOB95 | dobladillo manta | web mesh",
+    "MOB95 | dobladillo manta.001 | web mesh",
+    "MOB95 | dobladillo manta.002 | web mesh",
+    "MOB95 | inducción mono serigrafía | web mesh",
+    "MOB95 | inducción mono serigrafía.001 | web mesh",
+    "MOB95 | inducción mono serigrafía.002 | web mesh",
+    "MOB95 | inducción mono serigrafía.003 | web mesh",
+    "MOB95 | sifón propuesto bacha mono | web mesh",
+    "Pasamanos pileta | acero curvado | web mesh",
+    "Placa calle | Cedro Misionero | web mesh"
+  ],
+  "botanicalMaterials": [
+    {
+      "name": "WEB | tree_small_02_branches",
+      "alpha": "OPAQUE",
+      "baseTexture": true,
+      "normalTexture": true,
+      "roughnessTexture": true,
+      "baseUV": 0,
+      "normalUV": 0,
+      "roughnessUV": 0
+    },
+    {
+      "name": "WEB | tree_small_02_leaves",
+      "alpha": "MASK",
+      "baseTexture": true,
+      "normalTexture": true,
+      "roughnessTexture": true,
+      "baseUV": 0,
+      "normalUV": 0,
+      "roughnessUV": 0
+    },
+    {
+      "name": "WEB | tree_small_02_trunk",
+      "alpha": "OPAQUE",
+      "baseTexture": true,
+      "normalTexture": true,
+      "roughnessTexture": true,
+      "baseUV": 0,
+      "normalUV": 0,
+      "roughnessUV": 0
+    }
+  ],
+  "uvNote": "Original UVMap preserved for trunk/leaves; original UV_map_01 copied to UV0 on branch faces with its authored (3,0.6) transform, to support the path tracer single UV channel."
+}

@@ -1,0 +1,61 @@
+{
+  "views": [
+    {
+      "key": "exterior",
+      "label": "Casa y paisaje",
+      "camera": "CAM | Presentación verticales corregidas"
+    },
+    {
+      "key": "estudio",
+      "label": "Estudio de grabación",
+      "camera": "REV | Estudio y cubierta"
+    },
+    {
+      "key": "quincho",
+      "label": "Quincho y línea de fuego",
+      "camera": "REV | Quincho y extracción"
+    },
+    {
+      "key": "cocina",
+      "label": "Cocina y comedor",
+      "camera": "REV | Cocina comedor"
+    },
+    {
+      "key": "dormitorio",
+      "label": "Dormitorio",
+      "camera": "REV | Dormitorio completo"
+    },
+    {
+      "key": "vestidor",
+      "label": "Vestidor pasante",
+      "camera": "REV | Vestidor circulación"
+    },
+    {
+      "key": "bano",
+      "label": "Baño de la vivienda",
+      "camera": "REV | Baño completo"
+    },
+    {
+      "key": "mono",
+      "label": "Monoambiente de planta baja",
+      "camera": "REV | Mono distribución"
+    },
+    {
+      "key": "bathDining",
+      "label": "Baño/comedor",
+      "camera": "REV | Baño acceso comedor"
+    },
+    {
+      "key": "pileta",
+      "label": "Pileta y jardín",
+      "camera": "CAM | Pileta & playa húmeda"
+    },
+    {
+      "key": "huerta",
+      "label": "Huerta y acceso",
+      "camera": "CAM | Huerta"
+    }
+  ],
+  "blenderDownloadURL": "https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_95_R6K.blend",
+  "note": "Apply only when exporting the coordinated R6K source. Camera positions, frusta and presentation frames are read anew from that source, never copied from old metadata."
+}

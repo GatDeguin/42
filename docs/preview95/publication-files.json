@@ -1,0 +1,751 @@
+{
+  "created": "2026-09-10T22:54:58.132Z",
+  "status": "source-matched candidate in review; 9.5 approval pending",
+  "sourceModel": "Casa_de_Campo_95_R6K.blend",
+  "sourceSHA": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+  "totalBytes": 180654495,
+  "files": [
+    {
+      "path": "docs/preview95/asset-verification.json",
+      "category": "final source-matched QA",
+      "bytes": 115955,
+      "sha256": "2712c32023ff446d30dfd74872f6d98078b68c4e596dc597e400c4acaa557860"
+    },
+    {
+      "path": "docs/preview95/assets/belfast_sunset_2k.hdr",
+      "category": "model, environment, material definitions and provenance",
+      "bytes": 6283260,
+      "sha256": "b065f1046196c884d76d851d9d33b7a20176f7509721d98cea779cbfb39f245a"
+    },
+    {
+      "path": "docs/preview95/assets/botanical-lod.json",
+      "category": "model, environment, material definitions and provenance",
+      "bytes": 43905,
+      "sha256": "ee0d1ab378657a28eec5c12fabf9465ec74bbfdaf4db23a21bee223da2043372"
+    },
+    {
+      "path": "docs/preview95/assets/house.glb",
+      "category": "model, environment, material definitions and provenance",
+      "bytes": 101838536,
+      "sha256": "7144f32e811e53511c5ca0d706ae4a96dbe98d83e00ea8a07ed723a2e894be03"
+    },
+    {
+      "path": "docs/preview95/assets/leaf-lod.json",
+      "category": "model, environment, material definitions and provenance",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "docs/preview95/assets/material-profiles.json",
+      "category": "model, environment, material definitions and provenance",
+      "bytes": 12366,
+      "sha256": "a5b6e26e27228322c24a7398be77ed094b6cb80eaa6d81338e16ded48a167963"
+    },
+    {
+      "path": "docs/preview95/assets/model-info.json",
+      "category": "model, environment, material definitions and provenance",
+      "bytes": 47858,
+      "sha256": "00efee22a7d005ca1c631901f51b41c12e1fc8ce4c87f531777861f19daefe21"
+    },
+    {
+      "path": "docs/preview95/assets/oak-veneer-01/derived-provenance.json",
+      "category": "final PBR reproducibility and CC0 provenance",
+      "bytes": 1585,
+      "sha256": "6b525024dcc0726c65dfab7a2a8381fc6fa41f71989451a22f5f375a4191f21c"
+    },
+    {
+      "path": "docs/preview95/assets/oak-veneer-01/files.json",
+      "category": "final PBR reproducibility and CC0 provenance",
+      "bytes": 44321,
+      "sha256": "03f40de9f04912c14b38d676ce886bc806f718bd108b0d4ab58eb54f68e72d05"
+    },
+    {
+      "path": "docs/preview95/assets/oak-veneer-01/info.json",
+      "category": "final PBR reproducibility and CC0 provenance",
+      "bytes": 1097,
+      "sha256": "e1c0f9ae741c6e7ef44b3be2c468975b6eb0920f7bead0ccd5f8525a8c74431b"
+    },
+    {
+      "path": "docs/preview95/assets/oak-veneer-01/oak_veneer_01_nor_gl_2k.png",
+      "category": "final PBR reproducibility and CC0 provenance",
+      "bytes": 6533070,
+      "sha256": "f682abcd52459c9eaca9f98b7eaf4e046cd75a75102d8163c3dd67d71a56c2d6"
+    },
+    {
+      "path": "docs/preview95/assets/oak-veneer-01/oak_veneer_01_rough_2k.png",
+      "category": "final PBR reproducibility and CC0 provenance",
+      "bytes": 5338932,
+      "sha256": "698a213a7512db8b1f70a4b2f060e1c8eb19ffe8bc68dd1fe6d78d62fa8b8d1c"
+    },
+    {
+      "path": "docs/preview95/assets/oak-veneer-01/oak-calibrated-diffuse-2k.jpg",
+      "category": "final PBR reproducibility and CC0 provenance",
+      "bytes": 1806923,
+      "sha256": "365804dac49cac082868aa3b2d984c769c3be2eab137746f9dcfb6ad8ee3725a"
+    },
+    {
+      "path": "docs/preview95/assets/oak-veneer-01/oak-parquet-diffuse-2k.jpg",
+      "category": "final PBR reproducibility and CC0 provenance",
+      "bytes": 1872186,
+      "sha256": "1a732c09af425e41234fa601fbf785871bdf52035ac78331973961016fb4e960"
+    },
+    {
+      "path": "docs/preview95/assets/oak-veneer-01/oak-parquet-normalGL-2k.png",
+      "category": "final PBR reproducibility and CC0 provenance",
+      "bytes": 5873778,
+      "sha256": "aa21a73401bd0132e4598e1dea1dbdb7bbe5f26bb227c80c1434e8bd119ff02e"
+    },
+    {
+      "path": "docs/preview95/assets/oak-veneer-01/oak-parquet-roughness-2k.png",
+      "category": "final PBR reproducibility and CC0 provenance",
+      "bytes": 4776076,
+      "sha256": "396a737c36b2621b3de87dff1874bfafd0727306e7eae1d4f325963dfafd93d0"
+    },
+    {
+      "path": "docs/preview95/assets/oak-veneer-01/provenance.json",
+      "category": "final PBR reproducibility and CC0 provenance",
+      "bytes": 2454,
+      "sha256": "cd39825e30deb2ef8d2a74303ff44f825770b19a148862db2e542cbb7ded6128"
+    },
+    {
+      "path": "docs/preview95/assets/optics-original.json",
+      "category": "model, environment, material definitions and provenance",
+      "bytes": 37151,
+      "sha256": "9d563b6a1d194a231dd76d0b0ae7f952bcd917ff04bd51bd602d890b18731196"
+    },
+    {
+      "path": "docs/preview95/assets/optics.json",
+      "category": "model, environment, material definitions and provenance",
+      "bytes": 66732,
+      "sha256": "4efcb28b4a9dff3f2b9dadb98dd150a00ffc52246cf621733392e38abe3ca743"
+    },
+    {
+      "path": "docs/preview95/assets/red-bricks-04/calibration-provenance.json",
+      "category": "final PBR reproducibility and CC0 provenance",
+      "bytes": 1518,
+      "sha256": "4e272d2ce3699c8a09187fbdcadb4a92ad6025409b82579f6b39907367cc05d5"
+    },
+    {
+      "path": "docs/preview95/assets/red-bricks-04/files.json",
+      "category": "final PBR reproducibility and CC0 provenance",
+      "bytes": 34355,
+      "sha256": "01d8556bc3499947d81742567807e8fe1a2a1d3441cad0bf78276e276200f44b"
+    },
+    {
+      "path": "docs/preview95/assets/red-bricks-04/info.json",
+      "category": "final PBR reproducibility and CC0 provenance",
+      "bytes": 1115,
+      "sha256": "f787f12f07ec0236ece3df3fc661428ea110df552e08b29bb3a04e09348447c5"
+    },
+    {
+      "path": "docs/preview95/assets/red-bricks-04/provenance.json",
+      "category": "final PBR reproducibility and CC0 provenance",
+      "bytes": 2430,
+      "sha256": "8d5c2dbf1252e2e672ee2019debb89f52183c73f0c0df16da3891b6f42980732"
+    },
+    {
+      "path": "docs/preview95/assets/red-bricks-04/red_bricks_04_calibrated_diffuse_2k.png",
+      "category": "final PBR reproducibility and CC0 provenance",
+      "bytes": 7813786,
+      "sha256": "d066692239c58afb86970dbc52386543c5e93cb47bd48da24bc0fc6914a6a039"
+    },
+    {
+      "path": "docs/preview95/assets/red-bricks-04/red_bricks_04_nor_gl_2k.png",
+      "category": "final PBR reproducibility and CC0 provenance",
+      "bytes": 10330072,
+      "sha256": "e1291a7fde0c09876d23d16d623622c166034c7d0cba30644b7f643faab30ec3"
+    },
+    {
+      "path": "docs/preview95/assets/red-bricks-04/red_bricks_04_rough_2k.png",
+      "category": "final PBR reproducibility and CC0 provenance",
+      "bytes": 3887541,
+      "sha256": "d1860d357ce9e6b1b03a7b2af6b95dddd4a5314c1b9eba3f57aa5d66ecb7ec71"
+    },
+    {
+      "path": "docs/preview95/assets/source-envelopes.json",
+      "category": "model, environment, material definitions and provenance",
+      "bytes": 2514173,
+      "sha256": "8528531edafcb1d2cf1667214cfca4fdeba5f4d08775dd773ef5b12fd34d80b4"
+    },
+    {
+      "path": "docs/preview95/assets/texture-recoding.json",
+      "category": "model, environment, material definitions and provenance",
+      "bytes": 524,
+      "sha256": "40ae3cff99936e16cfc1d7e3b9e80fbdeeda7d2366dc18e70766e2d42e9ec6ef"
+    },
+    {
+      "path": "docs/preview95/assets/textures/acoustic_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 42670,
+      "sha256": "85c76cf3b1b0257aaaf65f52a886bf4ca690aa660a0bde624bf8bf280abab154"
+    },
+    {
+      "path": "docs/preview95/assets/textures/acoustic_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 1146,
+      "sha256": "ce0f5c0b5e14a8be0546d3bd4cd1fc6a8d7bd6c96d044feba15955dcefd2fe59"
+    },
+    {
+      "path": "docs/preview95/assets/textures/acoustic_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 3647,
+      "sha256": "8c18e912a873ba5e5bdf6c3487d3e8563b0afc1e194f501cc760a077c8338a84"
+    },
+    {
+      "path": "docs/preview95/assets/textures/blackMetal_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 23529,
+      "sha256": "4644e13562c630eccc307cbb59f9fce63e288a362078a9584f41f090b0d6c62a"
+    },
+    {
+      "path": "docs/preview95/assets/textures/blackMetal_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 854,
+      "sha256": "909f71de8021707578a928e967c1edc1f12673b1f749e0bcf030562ffec3b997"
+    },
+    {
+      "path": "docs/preview95/assets/textures/blackMetal_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 38752,
+      "sha256": "a175faf6c4d04fa928dd04503d0fdb9eca9dc8ea62c461e82197c04ce14d7988"
+    },
+    {
+      "path": "docs/preview95/assets/textures/brick_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 909885,
+      "sha256": "03cb9ff5f74ace2b2a502ede171af47520498dfff6861ec4d7ce3e5f68195fac"
+    },
+    {
+      "path": "docs/preview95/assets/textures/brick_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 2063124,
+      "sha256": "330c767eabf40674de50888690b1d6cf6c55efb4ab21fecdfe6ce410a72e5f66"
+    },
+    {
+      "path": "docs/preview95/assets/textures/brick_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 441678,
+      "sha256": "8d8118b9abcbd29cb43b5d123fd07def46c2552005f471ee2afd1941cdf4ba8d"
+    },
+    {
+      "path": "docs/preview95/assets/textures/cement_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 205384,
+      "sha256": "8730a13c1f10e7c156899e77981428602101d5ab2a0434e83eb6c425493384f5"
+    },
+    {
+      "path": "docs/preview95/assets/textures/cement_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 228474,
+      "sha256": "0dc1aa9ba12583fbe1661c824846a2b5ca9c7a97311f4496fb1aa82ede75556f"
+    },
+    {
+      "path": "docs/preview95/assets/textures/cement_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 314279,
+      "sha256": "15a381b5969e32ec87bfeaad157be9cadee2683964f838e7b455a868e1166381"
+    },
+    {
+      "path": "docs/preview95/assets/textures/ceramic_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 58950,
+      "sha256": "23997e7f6fbfb20ebdde6047c2baa37dd51d831a5562af49489d389c0a13ac42"
+    },
+    {
+      "path": "docs/preview95/assets/textures/ceramic_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 854,
+      "sha256": "909f71de8021707578a928e967c1edc1f12673b1f749e0bcf030562ffec3b997"
+    },
+    {
+      "path": "docs/preview95/assets/textures/ceramic_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 15628,
+      "sha256": "2af9ef07fa65fd84c14c66d481bc685837197a7c5ac334121f72d4bf966932c3"
+    },
+    {
+      "path": "docs/preview95/assets/textures/clothWhite_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 285300,
+      "sha256": "3d102037e9a024fa29435451bc7ec49ec712b95338d69bd3701114b64699957b"
+    },
+    {
+      "path": "docs/preview95/assets/textures/clothWhite_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 3867,
+      "sha256": "a5756939e25f9fe38fcf9e597c9637b33fa131e9aafbe3778a7b308eeb7d1845"
+    },
+    {
+      "path": "docs/preview95/assets/textures/clothWhite_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 11961,
+      "sha256": "96608b0e5a51d35376f050aabb69a67b02ae3e43bdcac1dd42f460b61087baac"
+    },
+    {
+      "path": "docs/preview95/assets/textures/concrete_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 223096,
+      "sha256": "8a36917e6870a600dc06e5545e51d9f264d9bc0ccdee8abf5837cf4af8e04141"
+    },
+    {
+      "path": "docs/preview95/assets/textures/concrete_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 345190,
+      "sha256": "ca6641e6ce829c04b823b500245fff2aa6447c24e05462e2eb664a167b3270f0"
+    },
+    {
+      "path": "docs/preview95/assets/textures/concrete_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 314105,
+      "sha256": "bdb369573fb180d2b544ceddbd2f98c58cf0129526210d5e283663d55f9d6857"
+    },
+    {
+      "path": "docs/preview95/assets/textures/contactShadow_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 160,
+      "sha256": "7dbbac36658c678b22256ecb6f080bc76918563fad935b29b33b1f223788031b"
+    },
+    {
+      "path": "docs/preview95/assets/textures/contactShadow_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 75,
+      "sha256": "3fd1ae53812b96c2754498564b0dddd36ab297be0c3e5907d39004cd29f967eb"
+    },
+    {
+      "path": "docs/preview95/assets/textures/contactShadow_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 158,
+      "sha256": "7e2c58809ac205e57ecb6d27f6adb295e29c5da2737ee46c2ff18b8fb12e1e11"
+    },
+    {
+      "path": "docs/preview95/assets/textures/fabric_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 248456,
+      "sha256": "d2f36c0ed4d262b6d2b76d68e8d9c90fa8add72f8ecd68ce3692e6a0ed04cbde"
+    },
+    {
+      "path": "docs/preview95/assets/textures/fabric_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 3865,
+      "sha256": "806e5159af1488d6e75553dcdf27feab4ea57c9ca69d83d512090ae5f0bff5ab"
+    },
+    {
+      "path": "docs/preview95/assets/textures/fabric_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 11916,
+      "sha256": "0da5e72fa5ec6b7735c526151fc2c0e26c81bfc963dffbd62e3c112ea00f89f4"
+    },
+    {
+      "path": "docs/preview95/assets/textures/grass_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 151734,
+      "sha256": "19e6f572e624574c6c54a1bb3e6e35a4db4bfcebaa55643b79e1309941476391"
+    },
+    {
+      "path": "docs/preview95/assets/textures/grass_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 54805,
+      "sha256": "0759b07cb132fdfeede448cdb64d0c3af32f047ee0a0d804f35b51890ffd46ef"
+    },
+    {
+      "path": "docs/preview95/assets/textures/grass_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 70140,
+      "sha256": "ac461f83e69f0de120a9c516bc1c3e30054ec8be06eabdfcd2531ad77c1abe70"
+    },
+    {
+      "path": "docs/preview95/assets/textures/leaf_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 44927,
+      "sha256": "8d12381f6ceb36b5932c9dcfec0f76e29e755629cf87a42c501fe4b929ea3262"
+    },
+    {
+      "path": "docs/preview95/assets/textures/leaf_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 3244,
+      "sha256": "d8c775dfa336a491063753777947be14e9b92fa87a081de6119abd73dda7530d"
+    },
+    {
+      "path": "docs/preview95/assets/textures/leaf_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 41257,
+      "sha256": "b4cede84c845780cab71fd7338e8ee15b324cef3a1375a31b8ed529a1c6781ae"
+    },
+    {
+      "path": "docs/preview95/assets/textures/outerGrass_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 42382,
+      "sha256": "f88a83dd022512f32e0cee1699c42f4024ee18d03eee984b2d449c4885caca78"
+    },
+    {
+      "path": "docs/preview95/assets/textures/outerGrass_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 11830,
+      "sha256": "b88f9c333a4688655ca24101581eb9696a506ebeded953fee5c7684bdebc6d35"
+    },
+    {
+      "path": "docs/preview95/assets/textures/outerGrass_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 26856,
+      "sha256": "bc838a5d72853dfa6db706dfb8ce83dca80e2a9637a410069c59dd242426e6a3"
+    },
+    {
+      "path": "docs/preview95/assets/textures/paver_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 269556,
+      "sha256": "beae3c460811f41f8e949820ee9ac21e9af2971fac8f13491fb7334bed3cc283"
+    },
+    {
+      "path": "docs/preview95/assets/textures/paver_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 462981,
+      "sha256": "d38d351d6fb9e1d9821ff093dbc517955c4aeb2d2c59884cfc3edd01b9789493"
+    },
+    {
+      "path": "docs/preview95/assets/textures/paver_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 252835,
+      "sha256": "8bfef5a7e3ae56bf7eedf08ed548012144daade44dbdf2f6753798b8091ff53e"
+    },
+    {
+      "path": "docs/preview95/assets/textures/plaster_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 241454,
+      "sha256": "4ae07e8c299fd8d6eee0406dbf22891770275da368f65fe795d139fd06920155"
+    },
+    {
+      "path": "docs/preview95/assets/textures/plaster_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 301185,
+      "sha256": "dc3e44783e42005ed373a34848aba3bbfa8f26ebd868361f1a579bb47ab6ffa8"
+    },
+    {
+      "path": "docs/preview95/assets/textures/plaster_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 314413,
+      "sha256": "0386ecc9a0191fca632130669a7e4f21018a7ae86ec84ecff7417f0e2f1bf230"
+    },
+    {
+      "path": "docs/preview95/assets/textures/poolTile_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 264264,
+      "sha256": "34a4b27788b971762604ea710c1d34d6e2da7ff15a3fe59e01e7f036eb96671f"
+    },
+    {
+      "path": "docs/preview95/assets/textures/poolTile_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 510332,
+      "sha256": "1f9109b2b44f37d697168122e6d2ce7d4662f885bb2ecbf9df6f1b1f5b4216dd"
+    },
+    {
+      "path": "docs/preview95/assets/textures/poolTile_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 252875,
+      "sha256": "fe71caef11d70732759fc538a4e53016305fde608611c9e10539498f97bce001"
+    },
+    {
+      "path": "docs/preview95/assets/textures/roof_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 153758,
+      "sha256": "de60a878acbb3009141d7cb1d00e37464b5e7095558dda8d9b92ad55a3e5196b"
+    },
+    {
+      "path": "docs/preview95/assets/textures/roof_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 6155,
+      "sha256": "a174732a651c895a15cfdf966e91be7e3f699e53b84890e3f6b72003a4857d77"
+    },
+    {
+      "path": "docs/preview95/assets/textures/roof_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 63951,
+      "sha256": "7989fb672e33556dfe054b94118591024b24e87f66d8f55de597754d2b147105"
+    },
+    {
+      "path": "docs/preview95/assets/textures/soil_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 193225,
+      "sha256": "de8f23a0972af430bdc6cc70d4509b38d2d0daa155f47cfd70c0a302d6e945ab"
+    },
+    {
+      "path": "docs/preview95/assets/textures/soil_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 703366,
+      "sha256": "dd121b67649de9251996ac519288414e8926960f86832ccacd9cdb8849c23282"
+    },
+    {
+      "path": "docs/preview95/assets/textures/soil_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 251996,
+      "sha256": "6ff3c644459258a8a37dc6cbfe96b1ce40d698de3234bd6b36df88c4dd9036a6"
+    },
+    {
+      "path": "docs/preview95/assets/textures/stainless_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 1702,
+      "sha256": "8d592b0cdcced7d9b8304ae51afbe1a9641d60d8240613cf3cf187fe78d149d8"
+    },
+    {
+      "path": "docs/preview95/assets/textures/stainless_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 854,
+      "sha256": "909f71de8021707578a928e967c1edc1f12673b1f749e0bcf030562ffec3b997"
+    },
+    {
+      "path": "docs/preview95/assets/textures/stainless_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 1954,
+      "sha256": "dfdda6199ec74e27d68e775c531e75d886035444f15805976eb7f8f4a8231130"
+    },
+    {
+      "path": "docs/preview95/assets/textures/tile_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 278305,
+      "sha256": "ec560194d1a31543dc847da7e3d5cc40a383673cce6b83a911cac73ec78df87c"
+    },
+    {
+      "path": "docs/preview95/assets/textures/tile_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 400253,
+      "sha256": "4e843b3778a71f1c68175ec738e0bb9b7cdd1a09977fefd921aaed66b0295d3c"
+    },
+    {
+      "path": "docs/preview95/assets/textures/tile_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 255052,
+      "sha256": "bf14010e427b958c58265d60c2c678e3dc0d5f7d79fb20f2ffa43d86934ce578"
+    },
+    {
+      "path": "docs/preview95/assets/textures/white_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 160,
+      "sha256": "7dbbac36658c678b22256ecb6f080bc76918563fad935b29b33b1f223788031b"
+    },
+    {
+      "path": "docs/preview95/assets/textures/white_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 75,
+      "sha256": "3fd1ae53812b96c2754498564b0dddd36ab297be0c3e5907d39004cd29f967eb"
+    },
+    {
+      "path": "docs/preview95/assets/textures/white_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 158,
+      "sha256": "7e2c58809ac205e57ecb6d27f6adb295e29c5da2737ee46c2ff18b8fb12e1e11"
+    },
+    {
+      "path": "docs/preview95/assets/textures/wood_albedo.png",
+      "category": "runtime surface maps",
+      "bytes": 927125,
+      "sha256": "cdc3f0cf4dd19768f17a93a74950c4a79221ebce3ced7cf2124524768102a9a1"
+    },
+    {
+      "path": "docs/preview95/assets/textures/wood_normal.png",
+      "category": "runtime surface maps",
+      "bytes": 784442,
+      "sha256": "aba8d49da71e35bcd85e7befa50950107171922ed10b83611890591e17f0e103"
+    },
+    {
+      "path": "docs/preview95/assets/textures/wood_surface.png",
+      "category": "runtime surface maps",
+      "bytes": 966675,
+      "sha256": "fd56aec2b00f3dd89cf5582b6fe70d54057223971f7573a00360513abf2c7c9a"
+    },
+    {
+      "path": "docs/preview95/assets/textures/wood-surfaces.json",
+      "category": "runtime surface maps",
+      "bytes": 729,
+      "sha256": "531d4a3964027377a8a4a77987d11daef8de53119cd45fbd49940375c23d463c"
+    },
+    {
+      "path": "docs/preview95/assets/tree-small-02-provenance.json",
+      "category": "model, environment, material definitions and provenance",
+      "bytes": 3173,
+      "sha256": "594d3f52c81c62dd0e2ac527fd3b5c5f4c6e8223458fad15386176d10cab6580"
+    },
+    {
+      "path": "docs/preview95/assets/view-bindings.json",
+      "category": "model, environment, material definitions and provenance",
+      "bytes": 1611,
+      "sha256": "552e39ce84d0b6981a99fcc78da462f4ad5cc565a43dbb5193b4acd4de20e8ef"
+    },
+    {
+      "path": "docs/preview95/camera-optics.js",
+      "category": "runtime",
+      "bytes": 526,
+      "sha256": "bea5ffd7b3c433a20af3bd563881e4f4b9f4d7b004d73db53852b5a0574b7192"
+    },
+    {
+      "path": "docs/preview95/controles.html",
+      "category": "runtime",
+      "bytes": 3000,
+      "sha256": "069c8f6b798088f53a10610f6124a6f25743c811a58089e2f10dfca1fc79669b"
+    },
+    {
+      "path": "docs/preview95/dimension-verification.json",
+      "category": "final source-matched QA",
+      "bytes": 5062570,
+      "sha256": "a7c8f7f0855d5380a63d598f1c4bfaf7e90b72049640091caa2262863844bbc1"
+    },
+    {
+      "path": "docs/preview95/final-qa/bathDining.jpg",
+      "category": "final QA screenshots",
+      "bytes": 137480,
+      "sha256": "042d081c7bd249226b57051272f452b19060fc93923807dcce49338879c95204"
+    },
+    {
+      "path": "docs/preview95/final-qa/cocina.jpg",
+      "category": "final QA screenshots",
+      "bytes": 138632,
+      "sha256": "09b3f0269eb0865e32b17cf8ce87ca3a3a39759a5c1b5903e8f4c0b105f0d38b"
+    },
+    {
+      "path": "docs/preview95/final-qa/cut.jpg",
+      "category": "final QA screenshots",
+      "bytes": 137983,
+      "sha256": "aca849a360205b4fbbd2b7c40637e75a8c49172b66da2dcd872df10f12d0a147"
+    },
+    {
+      "path": "docs/preview95/final-qa/estudio.jpg",
+      "category": "final QA screenshots",
+      "bytes": 183967,
+      "sha256": "a6c4674699de8746af2514a2ee43ab60a678fa62af6d6a1c560a9e4ed226f040"
+    },
+    {
+      "path": "docs/preview95/final-qa/exterior.jpg",
+      "category": "final QA screenshots",
+      "bytes": 226200,
+      "sha256": "de0188373802b5f6bc864d44a3d4a4bec6c33863e62962254804a15810f56235"
+    },
+    {
+      "path": "docs/preview95/final-qa/mobile-exterior.jpg",
+      "category": "final QA screenshots",
+      "bytes": 50631,
+      "sha256": "5afecbb057c732951e35fa335b6e44fce855de376da3054518f85d493d26ce98"
+    },
+    {
+      "path": "docs/preview95/final-qa/mobile-menu.jpg",
+      "category": "final QA screenshots",
+      "bytes": 41421,
+      "sha256": "3a320a88117c833d194f813f192df302c456826dc2b9027fbd62643f33f0d9f7"
+    },
+    {
+      "path": "docs/preview95/final-qa/mobile-mono.jpg",
+      "category": "final QA screenshots",
+      "bytes": 39897,
+      "sha256": "8d7be13b58ec9ee1ddac51285c4570b4d6fe6fa8338db53def610e12065cce1e"
+    },
+    {
+      "path": "docs/preview95/final-qa/mono.jpg",
+      "category": "final QA screenshots",
+      "bytes": 180374,
+      "sha256": "5cccb64c6bcc74f868d1bbecbe689eee03f68c3a0fb4a776613d7b0edd297fdd"
+    },
+    {
+      "path": "docs/preview95/final-qa/vestidor.jpg",
+      "category": "final QA screenshots",
+      "bytes": 160438,
+      "sha256": "e937ac524952fe9e2fac68a485287c601acc2e3f29b14a8120574bec9a35fbe0"
+    },
+    {
+      "path": "docs/preview95/final-verification.json",
+      "category": "final source-matched QA",
+      "bytes": 22025,
+      "sha256": "db44f8d0dc91496dd1f957598d585d3838bfaff1c4c4236e20dafb2b9085c54f"
+    },
+    {
+      "path": "docs/preview95/index.html",
+      "category": "runtime",
+      "bytes": 6765,
+      "sha256": "4e964d6de7a997ba2a58987c259c80c5c86de3f3ee6eb4c4c4f5077e4ffb6409"
+    },
+    {
+      "path": "docs/preview95/photographic.js",
+      "category": "runtime",
+      "bytes": 18249,
+      "sha256": "caff8d4adbd109cd5ef65d5ca286d1644502098920cca607ef095921c06706cc"
+    },
+    {
+      "path": "docs/preview95/README.md",
+      "category": "runtime",
+      "bytes": 5326,
+      "sha256": "5035c28199837d165e983f8b9bbf8b1ec06698a9e3fca9570a59e01b7087f8e2"
+    },
+    {
+      "path": "docs/preview95/vendor/BVH-LICENSE.txt",
+      "category": "runtime dependencies and licenses",
+      "bytes": 1072,
+      "sha256": "b106ef6198a9862ed2b5b873e944ecf3583c631a84a7462d400ecc1910ce7fee"
+    },
+    {
+      "path": "docs/preview95/vendor/entry.js",
+      "category": "runtime dependencies and licenses",
+      "bytes": 707,
+      "sha256": "4d65bbdbb1f1bc732b82e7fe342f5b89ed4007a4096ab7e3179a94c3c70ec793"
+    },
+    {
+      "path": "docs/preview95/vendor/generateMeshBVH.worker.js",
+      "category": "runtime dependencies and licenses",
+      "bytes": 307264,
+      "sha256": "f18fd0bae916a7f145ffa1bee01bc8634c90c5581488f1e4fffcdf1e03a1632c"
+    },
+    {
+      "path": "docs/preview95/vendor/PATH-TRACER-LICENSE.txt",
+      "category": "runtime dependencies and licenses",
+      "bytes": 1072,
+      "sha256": "2df239f3787d174fbd6ead7bc4c748bee526564aa2e67315afcae47e15552e00"
+    },
+    {
+      "path": "docs/preview95/vendor/photographic-runtime.js",
+      "category": "runtime dependencies and licenses",
+      "bytes": 507249,
+      "sha256": "4a7b94ca39a08c00e227f9e7800ec4c40c0ff8d1bd7f28fce4386feb15894661"
+    },
+    {
+      "path": "docs/preview95/vendor/THREE-LICENSE.txt",
+      "category": "runtime dependencies and licenses",
+      "bytes": 1081,
+      "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+    },
+    {
+      "path": "docs/preview95/vendor/versions.json",
+      "category": "runtime dependencies and licenses",
+      "bytes": 113,
+      "sha256": "29fd63cb21ed3489772c822186d9b75868e3327bf94563ab4dd12381121f3448"
+    },
+    {
+      "path": "docs/preview95/viewer.css",
+      "category": "runtime",
+      "bytes": 9354,
+      "sha256": "0e7fc2d6327c57e0e247a38f67bf6251af3e7ac1421528302474c530a03e0ad0"
+    },
+    {
+      "path": "docs/preview95/viewer.js",
+      "category": "runtime",
+      "bytes": 20606,
+      "sha256": "c47e8d157ab4b0cf9d2f3312c4f25c0ea42b0a48898f8ef988a8e154dd9bc52b"
+    }
+  ],
+  "experimentalGI": null,
+  "sharedExistingDependencies": [
+    "docs/vendor/",
+    "docs/assets/textures/"
+  ],
+  "rootEntry": "docs/index.html (promoted separately from root-index-candidate.html)",
+  "relatedDocumentsOwnedByRoot": [
+    "docs/planos/",
+    "docs/renders/",
+    "output/Casa_de_Campo_95_R6K.blend via Git LFS"
+  ],
+  "excluded": [
+    "Historical comparison renders and PNG duplicates",
+    "Intermediate Blender copies",
+    "Old benchmarks, probe and rejected path screenshots",
+    "Temporary scripts, caches and raw downloaded duplicate PBR maps"
+  ],
+  "notes": [
+    "No source Blender or historical comparison is included in this web manifest.",
+    "PBR materials are embedded in the GLB; the final map set is also retained for reproducibility.",
+    "SHA values cover file content; the manifest does not include its own checksum."
+  ]
+}

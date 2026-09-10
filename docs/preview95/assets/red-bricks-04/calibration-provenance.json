@@ -1,0 +1,45 @@
+{
+  "asset": "red_bricks_04",
+  "sourceSHA256": "7f4481dacd4c4085fc2d77d100f442e02c1061a3d0527a0f4aa967157e85e675",
+  "file": "red_bricks_04_calibrated_diffuse_2k.png",
+  "SHA256": "d066692239c58afb86970dbc52386543c5e93cb47bd48da24bc0fc6914a6a039",
+  "bytes": 7813786,
+  "operation": "Base-color albedo only: linear RGB Cnew=0.82*Cphoto+0.18*[0.36,0.17,0.09], then encode sRGB PNG8. No emission, no spatial blur, no new noise or displacement. Roughness and normal maps unchanged.",
+  "clayLinearRGB": [
+    0.36,
+    0.17,
+    0.09
+  ],
+  "clayBlend": 0.18,
+  "originalDetailCoefficient": 0.8200000000000001,
+  "linearMeanBefore": [
+    0.11311219052478656,
+    0.05334229519943142,
+    0.023859986726592956
+  ],
+  "linearMeanAfter": [
+    0.15755199622976268,
+    0.07434068206389331,
+    0.03576518911556819
+  ],
+  "maxAlbedoBefore": 0.47353149614800955,
+  "maxAlbedoAfter": 0.45309582684136784,
+  "minAlbedoAfter": 0.016448892126510045,
+  "tileMetres": [
+    2.5,
+    2.5
+  ],
+  "before": {
+    "meanLuminance": 0.0639207522737404,
+    "broadHorizontalBandCV": 0.05261314272322404,
+    "broadBandP95minusP05OverMean": 0.17518716374116775,
+    "smoothingMetres": 0.313720703125
+  },
+  "after": {
+    "meanLuminance": 0.08924625686446766,
+    "broadHorizontalBandCV": 0.030900105618081722,
+    "broadBandP95minusP05OverMean": 0.10288877611838017,
+    "smoothingMetres": 0.313720703125
+  },
+  "limitation": "The original spatial variation and its 2.5m repetition remain; broad band contrast is reduced, not removed."
+}

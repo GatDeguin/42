@@ -1,0 +1,2 @@
+import fs from 'node:fs';const f='scripts/web95_optics_export.py';let s=fs.readFileSync(f,'utf8');s=s.replace('    # New authored leaf units',`    code=code.replace("bs=m.node_tree.nodes.get('Principled BSDF')", "bs=next((node for node in m.node_tree.nodes if node.type=='BSDF_PRINCIPLED'),None) or m.node_tree.nodes.new('ShaderNodeBsdfPrincipled')")
+    # New authored leaf units`);fs.writeFileSync(f,s);

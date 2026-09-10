@@ -1,0 +1,33 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_95_R6K.blend",
+  "sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+  "inventory_summary": {
+    "measured_objects": 5304,
+    "render_enabled_objects": 4851,
+    "non_unity_scale": 297,
+    "negative_world_determinant": 0,
+    "unmeasured": 68,
+    "evaluated_instance_envelopes": 93
+  },
+  "families": 54,
+  "missing_families": [],
+  "missing_functional_queries": [],
+  "geometry_checks": 239,
+  "failed_geometry_checks": [
+    {
+      "name": "Pool water volume above basin floor",
+      "measured": -1.5039999261498451,
+      "target": null,
+      "minimum": -1.3900000154972076,
+      "tolerance_m": 0.0001,
+      "pass_geometry": false,
+      "scope": "Bulk water mesh should not extend below concrete floor top; final exact overlap is reported in separate clarification probe."
+    }
+  ],
+  "outputs": [
+    "D:\\2026\\42\\audit\\integral95_02_r6k_dimension_families.json",
+    "D:\\2026\\42\\audit\\integral95_02_r6k_consolidated_dimensions.json"
+  ],
+  "file_integrity_unchanged": true,
+  "status": "Measurements prepared for independent judgment; no automatic architecture or image approval."
+}

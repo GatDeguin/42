@@ -1,0 +1,4184 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_95_R6K.blend",
+  "sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+  "architecture": {
+    "Césped del lote": {
+      "min": [
+        0.0,
+        0.03999999910593033,
+        -0.0
+      ],
+      "max": [
+        22.0,
+        0.03999999910593033,
+        20.0
+      ],
+      "size": [
+        22.0,
+        0.0,
+        20.0
+      ]
+    },
+    "Losa planta baja": {
+      "min": [
+        14.0,
+        0.0,
+        -0.0
+      ],
+      "max": [
+        22.0,
+        0.1599999964237213,
+        12.0
+      ],
+      "size": [
+        8.0,
+        0.1599999964237213,
+        12.0
+      ]
+    },
+    "Losa entre plantas": {
+      "min": [
+        14.0,
+        2.9999999031424522,
+        -0.0
+      ],
+      "max": [
+        22.0,
+        3.1999999061226845,
+        12.0
+      ],
+      "size": [
+        8.0,
+        0.20000000298023224,
+        12.0
+      ]
+    },
+    "Descanso escalera": {
+      "min": [
+        13.0,
+        3.0399998873472214,
+        5.0
+      ],
+      "max": [
+        14.0,
+        3.1999998837709427,
+        6.0
+      ],
+      "size": [
+        1.0,
+        0.1599999964237213,
+        1.0
+      ]
+    },
+    "Piso estudio": {
+      "min": [
+        14.224999904632568,
+        3.1999999042600393,
+        0.22499990463256836
+      ],
+      "max": [
+        21.77500009536743,
+        3.2499999050050974,
+        5.775000095367432
+      ],
+      "size": [
+        7.550000190734863,
+        0.05000000074505806,
+        5.550000190734863
+      ]
+    },
+    "Piso vivienda": {
+      "min": [
+        14.224999904632568,
+        3.1999999042600393,
+        6.224999904632568
+      ],
+      "max": [
+        21.77500009536743,
+        3.2499999050050974,
+        11.775000095367432
+      ],
+      "size": [
+        7.550000190734863,
+        0.05000000074505806,
+        5.550000190734863
+      ]
+    },
+    "Piso baño vivienda": {
+      "min": [
+        19.4900004863739,
+        3.2399998856708407,
+        6.100000023841858
+      ],
+      "max": [
+        21.800000429153442,
+        3.2499998854473233,
+        8.570000052452087
+      ],
+      "size": [
+        2.309999942779541,
+        0.009999999776482582,
+        2.4700000286102295
+      ]
+    },
+    "Cubierta pendiente Cedro Misionero": {
+      "min": [
+        13.699999809265137,
+        7.037081684239576,
+        -0.0984427870956619
+      ],
+      "max": [
+        22.300000190734863,
+        8.170327582505882,
+        6.078750984372958
+      ],
+      "size": [
+        8.600000381469727,
+        1.1332458982663063,
+        6.17719377146862
+      ]
+    },
+    "Cubierta pendiente pileta": {
+      "min": [
+        13.699999809265137,
+        6.4370817796070074,
+        5.921249015627042
+      ],
+      "max": [
+        22.300000190734863,
+        7.570327677873314,
+        12.098442787095662
+      ],
+      "size": [
+        8.600000381469727,
+        1.1332458982663063,
+        6.17719377146862
+      ]
+    },
+    "Cielorraso estudio | cota inferior 6.45m": {
+      "min": [
+        14.210000038146973,
+        6.450000111013651,
+        0.21000003814697266
+      ],
+      "max": [
+        21.789999961853027,
+        6.4680001102387905,
+        5.789999961853027
+      ],
+      "size": [
+        7.579999923706055,
+        0.017999999225139618,
+        5.579999923706055
+      ]
+    },
+    "Cielorraso vivienda | 2.60m sobre piso general": {
+      "min": [
+        14.200000047683716,
+        5.8500002063810825,
+        6.200000047683716
+      ],
+      "max": [
+        21.799999952316284,
+        5.868000205606222,
+        11.799999952316284
+      ],
+      "size": [
+        7.599999904632568,
+        0.017999999225139618,
+        5.599999904632568
+      ]
+    },
+    "Cielorraso baño | 2.60m sobre porcelanato": {
+      "min": [
+        19.524999618530273,
+        5.849999729543924,
+        6.125000238418579
+      ],
+      "max": [
+        21.774999618530273,
+        5.867999728769064,
+        8.475000143051147
+      ],
+      "size": [
+        2.25,
+        0.017999999225139618,
+        2.3499999046325684
+      ]
+    },
+    "Portón negro": {
+      "min": [
+        11.0,
+        0.08500003814697266,
+        0.1899999938905239
+      ],
+      "max": [
+        14.0,
+        2.0850000381469727,
+        0.28999999538064003
+      ],
+      "size": [
+        3.0,
+        2.0,
+        0.10000000149011612
+      ]
+    },
+    "Ventana DVH estudio vidrio": {
+      "min": [
+        13.967500122264028,
+        4.060000061988831,
+        1.5
+      ],
+      "max": [
+        13.976500121876597,
+        5.78000009059906,
+        4.5
+      ],
+      "size": [
+        0.008999999612569809,
+        1.7200000286102295,
+        3.0
+      ]
+    }
+  },
+  "stairs": [
+    {
+      "step": 18,
+      "wood_top": 0.23722223192453384,
+      "wood_bottom": 0.1622222289443016,
+      "tread_width": 1.0,
+      "board_depth": 0.2231111079454422,
+      "plan_center_z": 1.3055555820465088,
+      "support_gap_m": -9.313225746154785e-09,
+      "nose_projection_m": 0.001999996602535248,
+      "contacts": [
+        {
+          "side": "exterior",
+          "tube_plate": {
+            "x_plane": 13.0685,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.00025599841499257536
+          },
+          "plate_stringer": {
+            "x_plane": 13.0625,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010111039815027256
+          }
+        },
+        {
+          "side": "interior",
+          "tube_plate": {
+            "x_plane": 13.8915,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.0002559984155228179
+          },
+          "plate_stringer": {
+            "x_plane": 13.8975,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010111040871646493
+          }
+        }
+      ],
+      "rise_from_previous_m": 0.17722223326563835,
+      "going_from_previous_m": null,
+      "starting_pavement_reference_for_first": 0.05999999865889549
+    },
+    {
+      "step": 17,
+      "wood_top": 0.4144444540143013,
+      "wood_bottom": 0.33944445103406906,
+      "tread_width": 1.0,
+      "board_depth": 0.2231111079454422,
+      "plan_center_z": 1.5166666507720947,
+      "support_gap_m": 5.587935447692871e-09,
+      "nose_projection_m": 0.001999996602535248,
+      "contacts": [
+        {
+          "side": "exterior",
+          "tube_plate": {
+            "x_plane": 13.0685,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.0002559982957848206
+          },
+          "plate_stringer": {
+            "x_plane": 13.0625,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.01010931604027121
+          }
+        },
+        {
+          "side": "interior",
+          "tube_plate": {
+            "x_plane": 13.8915,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.0002559982957848206
+          },
+          "plate_stringer": {
+            "x_plane": 13.8975,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010109311938636623
+          }
+        }
+      ],
+      "rise_from_previous_m": 0.17722222208976746,
+      "going_from_previous_m": 0.21111106872558594,
+      "starting_pavement_reference_for_first": null
+    },
+    {
+      "step": 16,
+      "wood_top": 0.5916666761040688,
+      "wood_bottom": 0.5166666731238365,
+      "tread_width": 1.0,
+      "board_depth": 0.2231111079454422,
+      "plan_center_z": 1.7277777194976807,
+      "support_gap_m": 3.5390257835388184e-08,
+      "nose_projection_m": 0.001999996602535248,
+      "contacts": [
+        {
+          "side": "exterior",
+          "tube_plate": {
+            "x_plane": 13.0685,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.0002559974017160016
+          },
+          "plate_stringer": {
+            "x_plane": 13.0625,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010107584772066858
+          }
+        },
+        {
+          "side": "interior",
+          "tube_plate": {
+            "x_plane": 13.8915,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.0002559974017160016
+          },
+          "plate_stringer": {
+            "x_plane": 13.8975,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010107576984053068
+          }
+        }
+      ],
+      "rise_from_previous_m": 0.17722222208976746,
+      "going_from_previous_m": 0.21111106872558594,
+      "starting_pavement_reference_for_first": null
+    },
+    {
+      "step": 15,
+      "wood_top": 0.7688889279961586,
+      "wood_bottom": 0.6938889250159264,
+      "tread_width": 1.0,
+      "board_depth": 0.2231111079454422,
+      "plan_center_z": 1.9388889074325562,
+      "support_gap_m": 5.587935447692871e-09,
+      "nose_projection_m": 0.001999996602535248,
+      "contacts": [
+        {
+          "side": "exterior",
+          "tube_plate": {
+            "x_plane": 13.0685,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.0002560003223379681
+          },
+          "plate_stringer": {
+            "x_plane": 13.0625,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010105868449787891
+          }
+        },
+        {
+          "side": "interior",
+          "tube_plate": {
+            "x_plane": 13.8915,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.0002560003223379681
+          },
+          "plate_stringer": {
+            "x_plane": 13.8975,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010105877577430533
+          }
+        }
+      ],
+      "rise_from_previous_m": 0.17722225189208984,
+      "going_from_previous_m": 0.2111111879348755,
+      "starting_pavement_reference_for_first": null
+    },
+    {
+      "step": 14,
+      "wood_top": 0.9461111202836037,
+      "wood_bottom": 0.8711111173033714,
+      "tread_width": 1.0,
+      "board_depth": 0.2231111079454422,
+      "plan_center_z": 2.1500000953674316,
+      "support_gap_m": 5.587935447692871e-09,
+      "nose_projection_m": 0.001999996602535248,
+      "contacts": [
+        {
+          "side": "exterior",
+          "tube_plate": {
+            "x_plane": 13.0685,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.00025599316978741626
+          },
+          "plate_stringer": {
+            "x_plane": 13.0625,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.01010415916686469
+          }
+        },
+        {
+          "side": "interior",
+          "tube_plate": {
+            "x_plane": 13.8915,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.00025599316978741626
+          },
+          "plate_stringer": {
+            "x_plane": 13.8975,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010104160744837998
+          }
+        }
+      ],
+      "rise_from_previous_m": 0.17722219228744507,
+      "going_from_previous_m": 0.2111111879348755,
+      "starting_pavement_reference_for_first": null
+    },
+    {
+      "step": 13,
+      "wood_top": 1.1233333125710487,
+      "wood_bottom": 1.0483333095908165,
+      "tread_width": 1.0,
+      "board_depth": 0.2231111079454422,
+      "plan_center_z": 2.3611111640930176,
+      "support_gap_m": 6.51925802230835e-08,
+      "nose_projection_m": 0.0020001158118247986,
+      "contacts": [
+        {
+          "side": "exterior",
+          "tube_plate": {
+            "x_plane": 13.0685,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.00025598911668112123
+          },
+          "plate_stringer": {
+            "x_plane": 13.0625,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.01010242744482781
+          }
+        },
+        {
+          "side": "interior",
+          "tube_plate": {
+            "x_plane": 13.8915,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.00025598911668112123
+          },
+          "plate_stringer": {
+            "x_plane": 13.8975,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010102426769471151
+          }
+        }
+      ],
+      "rise_from_previous_m": 0.17722219228744507,
+      "going_from_previous_m": 0.21111106872558594,
+      "starting_pavement_reference_for_first": null
+    },
+    {
+      "step": 12,
+      "wood_top": 1.3005555644631386,
+      "wood_bottom": 1.2255555614829063,
+      "tread_width": 1.0,
+      "board_depth": 0.2231111079454422,
+      "plan_center_z": 2.5722222328186035,
+      "support_gap_m": 6.51925802230835e-08,
+      "nose_projection_m": 0.0020001158118247986,
+      "contacts": [
+        {
+          "side": "exterior",
+          "tube_plate": {
+            "x_plane": 13.0685,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.00025598911668112123
+          },
+          "plate_stringer": {
+            "x_plane": 13.0625,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010100684953201267
+          }
+        },
+        {
+          "side": "interior",
+          "tube_plate": {
+            "x_plane": 13.8915,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.00025598911668112123
+          },
+          "plate_stringer": {
+            "x_plane": 13.8975,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.01010068728062663
+          }
+        }
+      ],
+      "rise_from_previous_m": 0.17722225189208984,
+      "going_from_previous_m": 0.21111106872558594,
+      "starting_pavement_reference_for_first": null
+    },
+    {
+      "step": 11,
+      "wood_top": 1.4777778163552284,
+      "wood_bottom": 1.4027778133749962,
+      "tread_width": 1.0,
+      "board_depth": 0.2231111079454422,
+      "plan_center_z": 2.7833333015441895,
+      "support_gap_m": 6.51925802230835e-08,
+      "nose_projection_m": 0.0020001158118247986,
+      "contacts": [
+        {
+          "side": "exterior",
+          "tube_plate": {
+            "x_plane": 13.0685,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.00025598911668112123
+          },
+          "plate_stringer": {
+            "x_plane": 13.0625,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010098941979705955
+          }
+        },
+        {
+          "side": "interior",
+          "tube_plate": {
+            "x_plane": 13.8915,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.00025598911668112123
+          },
+          "plate_stringer": {
+            "x_plane": 13.8975,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010098941011975171
+          }
+        }
+      ],
+      "rise_from_previous_m": 0.17722225189208984,
+      "going_from_previous_m": 0.21111106872558594,
+      "starting_pavement_reference_for_first": null
+    },
+    {
+      "step": 10,
+      "wood_top": 1.6549999490380287,
+      "wood_bottom": 1.5799999460577965,
+      "tread_width": 1.0,
+      "board_depth": 0.2231111079454422,
+      "plan_center_z": 2.9944443702697754,
+      "support_gap_m": 6.51925802230835e-08,
+      "nose_projection_m": 0.0020001158118247986,
+      "contacts": [
+        {
+          "side": "exterior",
+          "tube_plate": {
+            "x_plane": 13.0685,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.00025598911668112123
+          },
+          "plate_stringer": {
+            "x_plane": 13.0625,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010097208550774894
+          }
+        },
+        {
+          "side": "interior",
+          "tube_plate": {
+            "x_plane": 13.8915,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.00025598911668112123
+          },
+          "plate_stringer": {
+            "x_plane": 13.8975,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010097206998707975
+          }
+        }
+      ],
+      "rise_from_previous_m": 0.1772221326828003,
+      "going_from_previous_m": 0.21111106872558594,
+      "starting_pavement_reference_for_first": null
+    },
+    {
+      "step": 9,
+      "wood_top": 1.8322222009301186,
+      "wood_bottom": 1.7572221979498863,
+      "tread_width": 1.0,
+      "board_depth": 0.2231111079454422,
+      "plan_center_z": 3.2055554389953613,
+      "support_gap_m": 6.51925802230835e-08,
+      "nose_projection_m": 0.0020001158118247986,
+      "contacts": [
+        {
+          "side": "exterior",
+          "tube_plate": {
+            "x_plane": 13.0685,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.00025598911668112123
+          },
+          "plate_stringer": {
+            "x_plane": 13.0625,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010095462775026931
+          }
+        },
+        {
+          "side": "interior",
+          "tube_plate": {
+            "x_plane": 13.8915,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.00025598911668112123
+          },
+          "plate_stringer": {
+            "x_plane": 13.8975,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010095455692621158
+          }
+        }
+      ],
+      "rise_from_previous_m": 0.17722225189208984,
+      "going_from_previous_m": 0.21111106872558594,
+      "starting_pavement_reference_for_first": null
+    },
+    {
+      "step": 8,
+      "wood_top": 2.0094444528222084,
+      "wood_bottom": 1.9344444498419762,
+      "tread_width": 1.0,
+      "board_depth": 0.2231111079454422,
+      "plan_center_z": 3.4166667461395264,
+      "support_gap_m": 6.51925802230835e-08,
+      "nose_projection_m": 0.0020001158118247986,
+      "contacts": [
+        {
+          "side": "exterior",
+          "tube_plate": {
+            "x_plane": 13.0685,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.00025598911668112123
+          },
+          "plate_stringer": {
+            "x_plane": 13.0625,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010093727557134002
+          }
+        },
+        {
+          "side": "interior",
+          "tube_plate": {
+            "x_plane": 13.8915,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.00025598911668112123
+          },
+          "plate_stringer": {
+            "x_plane": 13.8975,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010093729619683245
+          }
+        }
+      ],
+      "rise_from_previous_m": 0.17722225189208984,
+      "going_from_previous_m": 0.21111130714416504,
+      "starting_pavement_reference_for_first": null
+    },
+    {
+      "step": 7,
+      "wood_top": 2.1866665855050087,
+      "wood_bottom": 2.1116665825247765,
+      "tread_width": 1.0,
+      "board_depth": 0.2231111079454422,
+      "plan_center_z": 3.6277778148651123,
+      "support_gap_m": -1.73225998878479e-07,
+      "nose_projection_m": 0.001999996602535248,
+      "contacts": [
+        {
+          "side": "exterior",
+          "tube_plate": {
+            "x_plane": 13.0685,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.000255981964073726
+          },
+          "plate_stringer": {
+            "x_plane": 13.0625,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.01009198746014306
+          }
+        },
+        {
+          "side": "interior",
+          "tube_plate": {
+            "x_plane": 13.8915,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.000255981964073726
+          },
+          "plate_stringer": {
+            "x_plane": 13.8975,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010091992411418005
+          }
+        }
+      ],
+      "rise_from_previous_m": 0.1772221326828003,
+      "going_from_previous_m": 0.21111106872558594,
+      "starting_pavement_reference_for_first": null
+    },
+    {
+      "step": 6,
+      "wood_top": 2.3638888373970985,
+      "wood_bottom": 2.2888888344168663,
+      "tread_width": 1.0,
+      "board_depth": 0.2231111079454422,
+      "plan_center_z": 3.8388888835906982,
+      "support_gap_m": -1.73225998878479e-07,
+      "nose_projection_m": 0.001999996602535248,
+      "contacts": [
+        {
+          "side": "exterior",
+          "tube_plate": {
+            "x_plane": 13.0685,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.000255981964073726
+          },
+          "plate_stringer": {
+            "x_plane": 13.0625,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010090252563941249
+          }
+        },
+        {
+          "side": "interior",
+          "tube_plate": {
+            "x_plane": 13.8915,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.000255981964073726
+          },
+          "plate_stringer": {
+            "x_plane": 13.8975,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010090252323408322
+          }
+        }
+      ],
+      "rise_from_previous_m": 0.17722225189208984,
+      "going_from_previous_m": 0.21111106872558594,
+      "starting_pavement_reference_for_first": null
+    },
+    {
+      "step": 5,
+      "wood_top": 2.5411110892891884,
+      "wood_bottom": 2.466111086308956,
+      "tread_width": 1.0,
+      "board_depth": 0.2231111079454422,
+      "plan_center_z": 4.050000190734863,
+      "support_gap_m": -1.73225998878479e-07,
+      "nose_projection_m": 0.001999996602535248,
+      "contacts": [
+        {
+          "side": "exterior",
+          "tube_plate": {
+            "x_plane": 13.0685,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.0002560124817136966
+          },
+          "plate_stringer": {
+            "x_plane": 13.0625,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010088438101661268
+          }
+        },
+        {
+          "side": "interior",
+          "tube_plate": {
+            "x_plane": 13.8915,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.0002560124817136966
+          },
+          "plate_stringer": {
+            "x_plane": 13.8975,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010088431273743481
+          }
+        }
+      ],
+      "rise_from_previous_m": 0.17722225189208984,
+      "going_from_previous_m": 0.21111130714416504,
+      "starting_pavement_reference_for_first": null
+    },
+    {
+      "step": 4,
+      "wood_top": 2.7183333411812782,
+      "wood_bottom": 2.643333338201046,
+      "tread_width": 1.0,
+      "board_depth": 0.2231111079454422,
+      "plan_center_z": 4.261111259460449,
+      "support_gap_m": -1.73225998878479e-07,
+      "nose_projection_m": 0.001999996602535248,
+      "contacts": [
+        {
+          "side": "exterior",
+          "tube_plate": {
+            "x_plane": 13.0685,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.0002560124817136966
+          },
+          "plate_stringer": {
+            "x_plane": 13.0625,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010086692008371756
+          }
+        },
+        {
+          "side": "interior",
+          "tube_plate": {
+            "x_plane": 13.8915,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.0002560124817136966
+          },
+          "plate_stringer": {
+            "x_plane": 13.8975,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010086697429869673
+          }
+        }
+      ],
+      "rise_from_previous_m": 0.17722225189208984,
+      "going_from_previous_m": 0.21111106872558594,
+      "starting_pavement_reference_for_first": null
+    },
+    {
+      "step": 3,
+      "wood_top": 2.895555593073368,
+      "wood_bottom": 2.820555590093136,
+      "tread_width": 1.0,
+      "board_depth": 0.2231111079454422,
+      "plan_center_z": 4.472222328186035,
+      "support_gap_m": -1.73225998878479e-07,
+      "nose_projection_m": 0.001999996602535248,
+      "contacts": [
+        {
+          "side": "exterior",
+          "tube_plate": {
+            "x_plane": 13.0685,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.0002560124817136966
+          },
+          "plate_stringer": {
+            "x_plane": 13.0625,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010084948184385212
+          }
+        },
+        {
+          "side": "interior",
+          "tube_plate": {
+            "x_plane": 13.8915,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.0002560124817136966
+          },
+          "plate_stringer": {
+            "x_plane": 13.8975,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010084948853886999
+          }
+        }
+      ],
+      "rise_from_previous_m": 0.17722225189208984,
+      "going_from_previous_m": 0.21111106872558594,
+      "starting_pavement_reference_for_first": null
+    },
+    {
+      "step": 2,
+      "wood_top": 3.072777606546879,
+      "wood_bottom": 2.9977776035666466,
+      "tread_width": 1.0,
+      "board_depth": 0.2231111079454422,
+      "plan_center_z": 4.683333396911621,
+      "support_gap_m": -1.73225998878479e-07,
+      "nose_projection_m": 0.001999996602535248,
+      "contacts": [
+        {
+          "side": "exterior",
+          "tube_plate": {
+            "x_plane": 13.0685,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.0002560124817136966
+          },
+          "plate_stringer": {
+            "x_plane": 13.0625,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010083191985472695
+          }
+        },
+        {
+          "side": "interior",
+          "tube_plate": {
+            "x_plane": 13.8915,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.0002560124817136966
+          },
+          "plate_stringer": {
+            "x_plane": 13.8975,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010083179602133896
+          }
+        }
+      ],
+      "rise_from_previous_m": 0.17722201347351074,
+      "going_from_previous_m": 0.21111106872558594,
+      "starting_pavement_reference_for_first": null
+    },
+    {
+      "step": 1,
+      "wood_top": 3.2499998584389687,
+      "wood_bottom": 3.1749998554587364,
+      "tread_width": 1.0,
+      "board_depth": 0.2231111079454422,
+      "plan_center_z": 4.894444465637207,
+      "support_gap_m": -1.73225998878479e-07,
+      "nose_projection_m": 0.001999996602535248,
+      "contacts": [
+        {
+          "side": "exterior",
+          "tube_plate": {
+            "x_plane": 13.0685,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.0002560124817136966
+          },
+          "plate_stringer": {
+            "x_plane": 13.0625,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.010081440478813875
+          }
+        },
+        {
+          "side": "interior",
+          "tube_plate": {
+            "x_plane": 13.8915,
+            "triangles_a": 8,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.0002560124817136966
+          },
+          "plate_stringer": {
+            "x_plane": 13.8975,
+            "triangles_a": 2,
+            "triangles_b": 2,
+            "coplanar_overlap_m2": 0.01008143975747089
+          }
+        }
+      ],
+      "rise_from_previous_m": 0.17722225189208984,
+      "going_from_previous_m": 0.21111106872558594,
+      "starting_pavement_reference_for_first": null
+    }
+  ],
+  "console": [
+    {
+      "x": 18.19,
+      "z": 2.6,
+      "first_surface": {
+        "object": "Consola estudio",
+        "y": 3.9499998092651367
+      },
+      "clearance_m": 0.6999999042600393
+    },
+    {
+      "x": 18.19,
+      "z": 3.0,
+      "first_surface": {
+        "object": "Consola estudio",
+        "y": 3.9499998092651367
+      },
+      "clearance_m": 0.6999999042600393
+    },
+    {
+      "x": 18.19,
+      "z": 3.4,
+      "first_surface": {
+        "object": "Consola estudio",
+        "y": 3.9499998092651367
+      },
+      "clearance_m": 0.6999999042600393
+    },
+    {
+      "x": 18.35,
+      "z": 2.6,
+      "first_surface": {
+        "object": "Consola estudio",
+        "y": 3.9499998092651367
+      },
+      "clearance_m": 0.6999999042600393
+    },
+    {
+      "x": 18.35,
+      "z": 3.0,
+      "first_surface": {
+        "object": "Consola estudio",
+        "y": 3.9499998092651367
+      },
+      "clearance_m": 0.6999999042600393
+    },
+    {
+      "x": 18.35,
+      "z": 3.4,
+      "first_surface": {
+        "object": "Consola estudio",
+        "y": 3.9499998092651367
+      },
+      "clearance_m": 0.6999999042600393
+    },
+    {
+      "x": 18.55,
+      "z": 2.6,
+      "first_surface": {
+        "object": "Consola estudio",
+        "y": 3.9499998092651367
+      },
+      "clearance_m": 0.6999999042600393
+    },
+    {
+      "x": 18.55,
+      "z": 3.0,
+      "first_surface": {
+        "object": "Consola estudio",
+        "y": 3.9499998092651367
+      },
+      "clearance_m": 0.6999999042600393
+    },
+    {
+      "x": 18.55,
+      "z": 3.4,
+      "first_surface": {
+        "object": "Consola estudio",
+        "y": 3.9499998092651367
+      },
+      "clearance_m": 0.6999999042600393
+    },
+    {
+      "x": 18.72,
+      "z": 2.6,
+      "first_surface": {
+        "object": "Consola estudio",
+        "y": 3.9499998092651367
+      },
+      "clearance_m": 0.6999999042600393
+    },
+    {
+      "x": 18.72,
+      "z": 3.0,
+      "first_surface": {
+        "object": "Consola estudio",
+        "y": 3.9499998092651367
+      },
+      "clearance_m": 0.6999999042600393
+    },
+    {
+      "x": 18.72,
+      "z": 3.4,
+      "first_surface": {
+        "object": "Consola estudio",
+        "y": 3.9499998092651367
+      },
+      "clearance_m": 0.6999999042600393
+    }
+  ],
+  "seats": [
+    {
+      "family": "Taburete isla A",
+      "seat_members": [
+        "Taburete isla mono A | asiento 30 mm"
+      ],
+      "seat_thickness_m": {
+        "Taburete isla mono A | asiento 30 mm": 0.029999999329447746
+      },
+      "contact_chains": [
+        {
+          "foot": "Taburete isla mono A | apoyo elastomérico izq frente",
+          "leg": "Taburete isla mono A | pata izq frente",
+          "foot_to_finish_m": 1.257285475730896e-08,
+          "pad_to_leg_gap_m": -3.213062882423401e-08,
+          "leg_top": 0.8299999833106995,
+          "seat_underside_hits": [
+            {
+              "object": "Taburete isla mono A | asiento 30 mm",
+              "bottom_y": 0.8300000429153442
+            }
+          ]
+        },
+        {
+          "foot": "Taburete isla mono A | apoyo elastomérico izq dorso",
+          "leg": "Taburete isla mono A | pata izq dorso",
+          "foot_to_finish_m": 1.257285475730896e-08,
+          "pad_to_leg_gap_m": -3.213062882423401e-08,
+          "leg_top": 0.8299999833106995,
+          "seat_underside_hits": [
+            {
+              "object": "Taburete isla mono A | asiento 30 mm",
+              "bottom_y": 0.8300000429153442
+            }
+          ]
+        },
+        {
+          "foot": "Taburete isla mono A | apoyo elastomérico der frente",
+          "leg": "Taburete isla mono A | pata der frente",
+          "foot_to_finish_m": 1.257285475730896e-08,
+          "pad_to_leg_gap_m": -3.213062882423401e-08,
+          "leg_top": 0.8299999833106995,
+          "seat_underside_hits": [
+            {
+              "object": "Taburete isla mono A | asiento 30 mm",
+              "bottom_y": 0.8300000429153442
+            }
+          ]
+        },
+        {
+          "foot": "Taburete isla mono A | apoyo elastomérico der dorso",
+          "leg": "Taburete isla mono A | pata der dorso",
+          "foot_to_finish_m": 1.257285475730896e-08,
+          "pad_to_leg_gap_m": -3.213062882423401e-08,
+          "leg_top": 0.8299999833106995,
+          "seat_underside_hits": [
+            {
+              "object": "Taburete isla mono A | asiento 30 mm",
+              "bottom_y": 0.8300000429153442
+            }
+          ]
+        }
+      ],
+      "footrest_heights_m": {
+        "Taburete isla mono A | reposapiés X -1": 0.2000000150874257,
+        "Taburete isla mono A | reposapiés X 1": 0.2000000150874257
+      }
+    },
+    {
+      "family": "Taburete isla B",
+      "seat_members": [
+        "Taburete isla mono B | asiento 30 mm"
+      ],
+      "seat_thickness_m": {
+        "Taburete isla mono B | asiento 30 mm": 0.029999999329447746
+      },
+      "contact_chains": [
+        {
+          "foot": "Taburete isla mono B | apoyo elastomérico izq frente",
+          "leg": "Taburete isla mono B | pata izq frente",
+          "foot_to_finish_m": 1.257285475730896e-08,
+          "pad_to_leg_gap_m": -3.213062882423401e-08,
+          "leg_top": 0.8299999833106995,
+          "seat_underside_hits": [
+            {
+              "object": "Taburete isla mono B | asiento 30 mm",
+              "bottom_y": 0.8300000429153442
+            }
+          ]
+        },
+        {
+          "foot": "Taburete isla mono B | apoyo elastomérico izq dorso",
+          "leg": "Taburete isla mono B | pata izq dorso",
+          "foot_to_finish_m": 1.257285475730896e-08,
+          "pad_to_leg_gap_m": -3.213062882423401e-08,
+          "leg_top": 0.8299999833106995,
+          "seat_underside_hits": [
+            {
+              "object": "Taburete isla mono B | asiento 30 mm",
+              "bottom_y": 0.8300000429153442
+            }
+          ]
+        },
+        {
+          "foot": "Taburete isla mono B | apoyo elastomérico der frente",
+          "leg": "Taburete isla mono B | pata der frente",
+          "foot_to_finish_m": 1.257285475730896e-08,
+          "pad_to_leg_gap_m": -3.213062882423401e-08,
+          "leg_top": 0.8299999833106995,
+          "seat_underside_hits": [
+            {
+              "object": "Taburete isla mono B | asiento 30 mm",
+              "bottom_y": 0.8300000429153442
+            }
+          ]
+        },
+        {
+          "foot": "Taburete isla mono B | apoyo elastomérico der dorso",
+          "leg": "Taburete isla mono B | pata der dorso",
+          "foot_to_finish_m": 1.257285475730896e-08,
+          "pad_to_leg_gap_m": -3.213062882423401e-08,
+          "leg_top": 0.8299999833106995,
+          "seat_underside_hits": [
+            {
+              "object": "Taburete isla mono B | asiento 30 mm",
+              "bottom_y": 0.8300000429153442
+            }
+          ]
+        }
+      ],
+      "footrest_heights_m": {
+        "Taburete isla mono B | reposapiés X -1": 0.2000000150874257,
+        "Taburete isla mono B | reposapiés X 1": 0.2000000150874257
+      }
+    },
+    {
+      "family": "Banco huerta",
+      "seat_members": [
+        "Banco huerta | tablón asiento 1",
+        "Banco huerta | tablón asiento 2",
+        "Banco huerta | tablón asiento 3",
+        "Banco huerta | tablón asiento 4"
+      ],
+      "seat_thickness_m": {
+        "Banco huerta | tablón asiento 1": 0.03999999910593033,
+        "Banco huerta | tablón asiento 2": 0.03999999910593033,
+        "Banco huerta | tablón asiento 3": 0.03999999910593033,
+        "Banco huerta | tablón asiento 4": 0.03999999910593033
+      },
+      "contact_chains": [
+        {
+          "foot": "Banco huerta | apoyo elastomérico izq frente",
+          "leg": "Banco huerta | pata izq frente",
+          "foot_to_finish_m": -4.656612873077393e-10,
+          "pad_to_leg_gap_m": -6.05359673500061e-09,
+          "leg_top": 0.4599999934434891,
+          "seat_underside_hits": [
+            {
+              "object": "Banco huerta | tablón asiento 1",
+              "bottom_y": 0.46144524216651917
+            }
+          ]
+        },
+        {
+          "foot": "Banco huerta | apoyo elastomérico izq dorso",
+          "leg": "Banco huerta | pata izq dorso",
+          "foot_to_finish_m": -4.656612873077393e-10,
+          "pad_to_leg_gap_m": -6.05359673500061e-09,
+          "leg_top": 0.4599999934434891,
+          "seat_underside_hits": [
+            {
+              "object": "Banco huerta | tablón asiento 4",
+              "bottom_y": 0.46144524216651917
+            }
+          ]
+        },
+        {
+          "foot": "Banco huerta | apoyo elastomérico der frente",
+          "leg": "Banco huerta | pata der frente",
+          "foot_to_finish_m": -4.656612873077393e-10,
+          "pad_to_leg_gap_m": -6.05359673500061e-09,
+          "leg_top": 0.4599999934434891,
+          "seat_underside_hits": [
+            {
+              "object": "Banco huerta | tablón asiento 1",
+              "bottom_y": 0.46144524216651917
+            }
+          ]
+        },
+        {
+          "foot": "Banco huerta | apoyo elastomérico der dorso",
+          "leg": "Banco huerta | pata der dorso",
+          "foot_to_finish_m": -4.656612873077393e-10,
+          "pad_to_leg_gap_m": -6.05359673500061e-09,
+          "leg_top": 0.4599999934434891,
+          "seat_underside_hits": [
+            {
+              "object": "Banco huerta | tablón asiento 4",
+              "bottom_y": 0.46144524216651917
+            }
+          ]
+        }
+      ],
+      "footrest_heights_m": {}
+    }
+  ],
+  "pool": {
+    "water_min": [
+      13.109999656677246,
+      -1.5039999261498451,
+      15.109999656677246
+    ],
+    "water_max": [
+      19.889999389648438,
+      -0.029999971389770508,
+      17.889999389648438
+    ],
+    "cap_tops": {
+      "Borde pileta norte": 0.06999999284744263,
+      "Borde pileta sur": 0.06999999284744263,
+      "Borde pileta oeste": 0.06999999284744263,
+      "Borde pileta este": 0.06999999284744263
+    },
+    "freeboards_m": {
+      "Borde pileta norte": 0.09999996423721313,
+      "Borde pileta sur": 0.09999996423721313,
+      "Borde pileta oeste": 0.09999996423721313,
+      "Borde pileta este": 0.09999996423721313
+    },
+    "wet_ledge_samples": [
+      {
+        "x": 18.6,
+        "z": 15.5,
+        "surface_y": -0.08000004291534424,
+        "water_depth_m": 0.05000007152557373
+      },
+      {
+        "x": 18.6,
+        "z": 16.5,
+        "surface_y": -0.08000004291534424,
+        "water_depth_m": 0.05000007152557373
+      },
+      {
+        "x": 18.6,
+        "z": 17.5,
+        "surface_y": -0.08000016212463379,
+        "water_depth_m": 0.05000019073486328
+      },
+      {
+        "x": 19.0,
+        "z": 15.5,
+        "surface_y": -0.08000004291534424,
+        "water_depth_m": 0.05000007152557373
+      },
+      {
+        "x": 19.0,
+        "z": 16.5,
+        "surface_y": -0.08000004291534424,
+        "water_depth_m": 0.05000007152557373
+      },
+      {
+        "x": 19.0,
+        "z": 17.5,
+        "surface_y": -0.08000016212463379,
+        "water_depth_m": 0.05000019073486328
+      },
+      {
+        "x": 19.6,
+        "z": 15.5,
+        "surface_y": -0.08000004291534424,
+        "water_depth_m": 0.05000007152557373
+      },
+      {
+        "x": 19.6,
+        "z": 16.5,
+        "surface_y": -0.08000004291534424,
+        "water_depth_m": 0.05000007152557373
+      },
+      {
+        "x": 19.6,
+        "z": 17.5,
+        "surface_y": -0.08000004291534424,
+        "water_depth_m": 0.05000007152557373
+      }
+    ]
+  },
+  "showers": {
+    "mono_underside_y": 2.309999942779541,
+    "mono_floor_y": 0.20999999344348907,
+    "legacy_PA_shower_present": false,
+    "PA_head_bounds": {
+      "min": [
+        21.239999771118164,
+        5.319999884814024,
+        6.670000076293945
+      ],
+      "max": [
+        21.46000099182129,
+        5.3550002090632915,
+        6.890000343322754
+      ],
+      "size": [
+        0.220001220703125,
+        0.03500032424926758,
+        0.2200002670288086
+      ]
+    },
+    "compact_tub_bounds": {
+      "min": [
+        20.454999923706055,
+        3.25,
+        6.449999809265137
+      ],
+      "max": [
+        21.704999923706055,
+        3.7899999618530273,
+        7.190000057220459
+      ],
+      "size": [
+        1.25,
+        0.5399999618530273,
+        0.7400002479553223
+      ]
+    },
+    "compact_tub_label": "Bañera compacta/asiento 1.25x0.74m; producto a seleccionar. No inmersión adulta extendida."
+  },
+  "dining": {
+    "table_min": [
+      17.29499991527117,
+      3.9549999237060547,
+      9.875000866640107
+    ],
+    "table_max": [
+      18.20500008472883,
+      4.0,
+      11.544999209653838
+    ],
+    "center_source": [
+      17.75,
+      3.9774999618530273,
+      10.710000038146973
+    ],
+    "wardrobe_wall_rear_y_sourceZ": 9.070000000298023,
+    "table_to_wardrobe_wall_gap_m": 0.805000866342084,
+    "design_objective_not_regulation_m": 0.8,
+    "group_members": [
+      "Mesa comedor tapa",
+      "Mesa comedor pata -0.64-0.29",
+      "Mesa comedor pata -0.640.29",
+      "Mesa comedor pata 0.64-0.29",
+      "Mesa comedor pata 0.640.29",
+      "Silla comedor norte -0.49 asiento",
+      "Silla comedor norte -0.49 respaldo",
+      "Silla comedor norte -0.49 pata -1-1",
+      "Silla comedor norte -0.49 pata -11",
+      "Silla comedor norte -0.49 pata 1-1",
+      "Silla comedor norte -0.49 pata 11",
+      "Silla comedor sur -0.49 asiento",
+      "Silla comedor sur -0.49 respaldo",
+      "Silla comedor sur -0.49 pata -1-1",
+      "Silla comedor sur -0.49 pata -11",
+      "Silla comedor sur -0.49 pata 1-1",
+      "Silla comedor sur -0.49 pata 11",
+      "Silla comedor norte 0.49 asiento",
+      "Silla comedor norte 0.49 respaldo",
+      "Silla comedor norte 0.49 pata -1-1",
+      "Silla comedor norte 0.49 pata -11",
+      "Silla comedor norte 0.49 pata 1-1",
+      "Silla comedor norte 0.49 pata 11",
+      "Silla comedor sur 0.49 asiento",
+      "Silla comedor sur 0.49 respaldo",
+      "Silla comedor sur 0.49 pata -1-1",
+      "Silla comedor sur 0.49 pata -11",
+      "Silla comedor sur 0.49 pata 1-1",
+      "Silla comedor sur 0.49 pata 11"
+    ]
+  },
+  "rigs": [
+    {
+      "rig": "DOOR | studio",
+      "active_descendant_meshes": [
+        "Puerta acceso estudio",
+        "Puerta estudio | portaburlete inferior",
+        "Puerta estudio | labio elastomérico inferior",
+        "Herraje estudio | placa hoja",
+        "Herraje estudio | nudillo hoja",
+        "Herraje estudio | ala móvil",
+        "Herraje estudio | placa hoja.001",
+        "Herraje estudio | nudillo hoja.001",
+        "Herraje estudio | ala móvil.001",
+        "Herraje estudio | placa hoja.002",
+        "Herraje estudio | nudillo hoja.002",
+        "Herraje estudio | ala móvil.002",
+        "Manija puerta estudio exterior roseta",
+        "Manija puerta estudio exterior vástago",
+        "Manija puerta estudio exterior",
+        "Manija puerta estudio interior roseta",
+        "Manija puerta estudio interior vástago",
+        "Manija puerta estudio interior"
+      ],
+      "closed_group_bounds_source": {
+        "min": [
+          14.147999733220786,
+          3.2500000055879354,
+          4.884999990463257
+        ],
+        "max": [
+          14.307000190485269,
+          5.599999785423279,
+          5.755499999970198
+        ]
+      },
+      "note": "Group envelope includes hardware, not useful clear passage. Refer to independent opening/sweep evidence."
+    },
+    {
+      "rig": "DOOR | suiteEntry",
+      "active_descendant_meshes": [
+        "Puerta acceso vestidor",
+        "Puerta acceso vestidor manija"
+      ],
+      "closed_group_bounds_source": {
+        "min": [
+          18.105000466108322,
+          3.2500001192092896,
+          8.97749999910593
+        ],
+        "max": [
+          18.93500044941902,
+          5.430000185966492,
+          9.050000397488475
+        ]
+      },
+      "note": "Group envelope includes hardware, not useful clear passage. Refer to independent opening/sweep evidence."
+    },
+    {
+      "rig": "DOOR | bedroomLink",
+      "active_descendant_meshes": [
+        "Puerta dormitorio",
+        "Puerta dormitorio manija"
+      ],
+      "closed_group_bounds_source": {
+        "min": [
+          17.59750083833933,
+          3.2500001192092896,
+          7.269999831914902
+        ],
+        "max": [
+          17.66999932937324,
+          5.430000185966492,
+          8.089999824762344
+        ]
+      },
+      "note": "Group envelope includes hardware, not useful clear passage. Refer to independent opening/sweep evidence."
+    },
+    {
+      "rig": "DOOR | bathLink",
+      "active_descendant_meshes": [
+        "Puerta baño vivienda",
+        "Puerta baño vivienda manija"
+      ],
+      "closed_group_bounds_source": {
+        "min": [
+          19.397500075399876,
+          3.2500001192092896,
+          7.14999994635582
+        ],
+        "max": [
+          19.47000047378242,
+          5.430000185966492,
+          7.969999939203262
+        ]
+      },
+      "note": "Group envelope includes hardware, not useful clear passage. Refer to independent opening/sweep evidence."
+    },
+    {
+      "rig": "DOOR | poolBath",
+      "active_descendant_meshes": [
+        "Puerta baño quincho",
+        "Puerta baño quincho manija"
+      ],
+      "closed_group_bounds_source": {
+        "min": [
+          20.80999931693077,
+          0.2099999189376831,
+          11.897500075399876
+        ],
+        "max": [
+          21.629999309778214,
+          2.3899999856948853,
+          11.97000047378242
+        ]
+      },
+      "note": "Group envelope includes hardware, not useful clear passage. Refer to independent opening/sweep evidence."
+    },
+    {
+      "rig": "DOOR | mono_L",
+      "active_descendant_meshes": [
+        "Puerta doble mono izquierda vidrio",
+        "Puerta doble mono izquierda Vidrio interior",
+        "Puerta doble mono izquierda marco superior",
+        "Puerta doble mono izquierda marco inferior",
+        "Puerta doble mono izquierda marco izquierdo",
+        "Puerta doble mono izquierda marco derecho",
+        "GL95 | ML junta vidrio1 exterior base",
+        "GL95 | ML junta vidrio1 exterior cabeza",
+        "GL95 | ML junta vidrio1 exterior inicio",
+        "GL95 | ML junta vidrio1 exterior fin",
+        "GL95 | ML junta vidrio1 interior base",
+        "GL95 | ML junta vidrio1 interior cabeza",
+        "GL95 | ML junta vidrio1 interior inicio",
+        "GL95 | ML junta vidrio1 interior fin",
+        "GL95 | ML taco vidrio1-1100x6",
+        "GL95 | ML taco vidrio1-2100x6",
+        "GL95 | ML junta vidrio2 exterior base",
+        "GL95 | ML junta vidrio2 exterior cabeza",
+        "GL95 | ML junta vidrio2 exterior inicio",
+        "GL95 | ML junta vidrio2 exterior fin",
+        "GL95 | ML junta vidrio2 interior base",
+        "GL95 | ML junta vidrio2 interior cabeza",
+        "GL95 | ML junta vidrio2 interior inicio",
+        "GL95 | ML junta vidrio2 interior fin",
+        "GL95 | ML taco vidrio2-1100x6",
+        "GL95 | ML calzo apoyo vidrio2-1",
+        "GL95 | ML taco vidrio2-2100x6",
+        "GL95 | ML calzo apoyo vidrio2-2",
+        "GL95 | ML sellador cámara base",
+        "GL95 | ML sellador cámara cabeza",
+        "GL95 | ML sellador cámara inicio",
+        "GL95 | ML sellador cámara fin"
+      ],
+      "closed_group_bounds_source": {
+        "min": [
+          16.72799915075302,
+          0.2290000095963478,
+          6.157500267028809
+        ],
+        "max": [
+          18.031999170780182,
+          2.610999934375286,
+          6.282500267028809
+        ]
+      },
+      "note": "Group envelope includes hardware, not useful clear passage. Refer to independent opening/sweep evidence."
+    },
+    {
+      "rig": "DOOR | mono_R",
+      "active_descendant_meshes": [
+        "Puerta doble mono derecha vidrio",
+        "Puerta doble mono derecha Vidrio interior",
+        "Puerta doble mono derecha marco superior",
+        "Puerta doble mono derecha marco inferior",
+        "Puerta doble mono derecha marco izquierdo",
+        "Puerta doble mono derecha marco derecho",
+        "GL95 | MR junta vidrio1 exterior base",
+        "GL95 | MR junta vidrio1 exterior cabeza",
+        "GL95 | MR junta vidrio1 exterior inicio",
+        "GL95 | MR junta vidrio1 exterior fin",
+        "GL95 | MR junta vidrio1 interior base",
+        "GL95 | MR junta vidrio1 interior cabeza",
+        "GL95 | MR junta vidrio1 interior inicio",
+        "GL95 | MR junta vidrio1 interior fin",
+        "GL95 | MR taco vidrio1-1100x6",
+        "GL95 | MR taco vidrio1-2100x6",
+        "GL95 | MR junta vidrio2 exterior base",
+        "GL95 | MR junta vidrio2 exterior cabeza",
+        "GL95 | MR junta vidrio2 exterior inicio",
+        "GL95 | MR junta vidrio2 exterior fin",
+        "GL95 | MR junta vidrio2 interior base",
+        "GL95 | MR junta vidrio2 interior cabeza",
+        "GL95 | MR junta vidrio2 interior inicio",
+        "GL95 | MR junta vidrio2 interior fin",
+        "GL95 | MR taco vidrio2-1100x6",
+        "GL95 | MR calzo apoyo vidrio2-1",
+        "GL95 | MR taco vidrio2-2100x6",
+        "GL95 | MR calzo apoyo vidrio2-2",
+        "GL95 | MR sellador cámara base",
+        "GL95 | MR sellador cámara cabeza",
+        "GL95 | MR sellador cámara inicio",
+        "GL95 | MR sellador cámara fin"
+      ],
+      "closed_group_bounds_source": {
+        "min": [
+          17.968000829219818,
+          0.2290000095963478,
+          6.157500267028809
+        ],
+        "max": [
+          19.27200084924698,
+          2.610999934375286,
+          6.282500267028809
+        ]
+      },
+      "note": "Group envelope includes hardware, not useful clear passage. Refer to independent opening/sweep evidence."
+    },
+    {
+      "rig": "DOOR | balconySide",
+      "active_descendant_meshes": [
+        "Corrediza lateral A vidrio",
+        "Corrediza lateral A Vidrio interior",
+        "Corrediza lateral A marco superior",
+        "Corrediza lateral A marco inferior",
+        "Corrediza lateral A marco frente",
+        "Corrediza lateral A marco fondo",
+        "Manija corrediza lateral A",
+        "SL95 | L soporte manija",
+        "SL95 | L soporte manija.001",
+        "SL95 | L rodillo1 diámetro20",
+        "SL95 | L eje1 diámetro4",
+        "SL95 | L rodillo2 diámetro20",
+        "SL95 | L eje2 diámetro4",
+        "SL95 | L taco vidrio1-1 100mm",
+        "SL95 | L taco vidrio1-2 100mm",
+        "SL95 | L junta vidrio1 inferiora",
+        "SL95 | L junta vidrio1 superiora",
+        "SL95 | L junta vidrio1 lateralai",
+        "SL95 | L junta vidrio1 lateralaf",
+        "SL95 | L junta vidrio1 inferiorb",
+        "SL95 | L junta vidrio1 superiorb",
+        "SL95 | L junta vidrio1 lateralbi",
+        "SL95 | L junta vidrio1 lateralbf",
+        "SL95 | L taco vidrio2-1 100mm",
+        "SL95 | L taco vidrio2-2 100mm",
+        "SL95 | L junta vidrio2 inferiora",
+        "SL95 | L junta vidrio2 superiora",
+        "SL95 | L junta vidrio2 lateralai",
+        "SL95 | L junta vidrio2 lateralaf",
+        "SL95 | L junta vidrio2 inferiorb",
+        "SL95 | L junta vidrio2 superiorb",
+        "SL95 | L junta vidrio2 lateralbi",
+        "SL95 | L junta vidrio2 lateralbf",
+        "SL95 | L DVH sellador espaciador móvil base",
+        "SL95 | L DVH sellador espaciador móvil cabeza",
+        "SL95 | L DVH sellador espaciador móvil i",
+        "SL95 | L DVH sellador espaciador móvil f",
+        "SL95 | L tirador embutido respaldo",
+        "SL95 | L tirador embutido borde i",
+        "SL95 | L tirador embutido borde f",
+        "SL95 | L tirador embutido tapa i",
+        "SL95 | L tirador embutido tapa s",
+        "SL95 | L tirador embutido agarre",
+        "SL95 | L tirador embutido unión",
+        "SL95 | L tirador embutido unión.001"
+      ],
+      "closed_group_bounds_source": {
+        "min": [
+          13.710500076413155,
+          3.1760001087675565,
+          9.092999994754791
+        ],
+        "max": [
+          13.897500038146973,
+          5.801000230014324,
+          10.407000005245209
+        ]
+      },
+      "note": "Group envelope includes hardware, not useful clear passage. Refer to independent opening/sweep evidence."
+    },
+    {
+      "rig": "DOOR | balconyRear_A",
+      "active_descendant_meshes": [
+        "Corrediza posterior A vidrio",
+        "Corrediza posterior A Vidrio interior",
+        "Manija corrediza posterior A",
+        "Hoja posterior A | perfil móvil",
+        "Hoja posterior A | perfil móvil.001",
+        "Hoja posterior A | perfil móvil.002",
+        "Hoja posterior A | perfil móvil.003",
+        "Hoja posterior A | tirador",
+        "SL95 | A soporte manija",
+        "SL95 | A soporte manija.001",
+        "SL95 | A rodillo1 diámetro20",
+        "SL95 | A eje1 diámetro4",
+        "SL95 | A rodillo2 diámetro20",
+        "SL95 | A eje2 diámetro4",
+        "SL95 | A apoyo vidrio1 ménsula continua",
+        "SL95 | A taco vidrio1-1 100mm",
+        "SL95 | A taco vidrio1-2 100mm",
+        "SL95 | A junta vidrio1 inferiora",
+        "SL95 | A junta vidrio1 superiora",
+        "SL95 | A junta vidrio1 lateralai",
+        "SL95 | A junta vidrio1 lateralaf",
+        "SL95 | A junta vidrio1 inferiorb",
+        "SL95 | A junta vidrio1 superiorb",
+        "SL95 | A junta vidrio1 lateralbi",
+        "SL95 | A junta vidrio1 lateralbf",
+        "SL95 | A apoyo vidrio2 ménsula continua",
+        "SL95 | A taco vidrio2-1 100mm",
+        "SL95 | A taco vidrio2-2 100mm",
+        "SL95 | A junta vidrio2 inferiora",
+        "SL95 | A junta vidrio2 superiora",
+        "SL95 | A junta vidrio2 lateralai",
+        "SL95 | A junta vidrio2 lateralaf",
+        "SL95 | A junta vidrio2 inferiorb",
+        "SL95 | A junta vidrio2 superiorb",
+        "SL95 | A junta vidrio2 lateralbi",
+        "SL95 | A junta vidrio2 lateralbf",
+        "SL95 | A junquillo frente base",
+        "SL95 | A junquillo frente cabeza",
+        "SL95 | A junquillo frente i",
+        "SL95 | A junquillo frente f",
+        "SL95 | A junquillo dorso base",
+        "SL95 | A junquillo dorso cabeza",
+        "SL95 | A junquillo dorso i",
+        "SL95 | A junquillo dorso f",
+        "SL95 | A retorno montante i",
+        "SL95 | A retorno montante f",
+        "SL95 | A puente superior acristalamiento",
+        "SL95 | A DVH sellador espaciador móvil base",
+        "SL95 | A DVH sellador espaciador móvil cabeza",
+        "SL95 | A DVH sellador espaciador móvil i",
+        "SL95 | A DVH sellador espaciador móvil f"
+      ],
+      "closed_group_bounds_source": {
+        "min": [
+          14.725000381469727,
+          3.194499720622179,
+          11.852500274777412
+        ],
+        "max": [
+          16.040000915527344,
+          5.782499752938747,
+          12.01050090789795
+        ]
+      },
+      "note": "Group envelope includes hardware, not useful clear passage. Refer to independent opening/sweep evidence."
+    },
+    {
+      "rig": "DOOR | balconyRear_B",
+      "active_descendant_meshes": [
+        "Corrediza posterior B vidrio",
+        "Corrediza posterior B Vidrio interior",
+        "Manija corrediza posterior B",
+        "Hoja posterior B | perfil móvil",
+        "Hoja posterior B | perfil móvil.001",
+        "Hoja posterior B | perfil móvil.002",
+        "Hoja posterior B | perfil móvil.003",
+        "Hoja posterior B | tirador",
+        "SL95 | B soporte manija",
+        "SL95 | B soporte manija.001",
+        "SL95 | B rodillo1 diámetro20",
+        "SL95 | B eje1 diámetro4",
+        "SL95 | B rodillo2 diámetro20",
+        "SL95 | B eje2 diámetro4",
+        "SL95 | B apoyo vidrio1 ménsula continua",
+        "SL95 | B taco vidrio1-1 100mm",
+        "SL95 | B taco vidrio1-2 100mm",
+        "SL95 | B junta vidrio1 inferiora",
+        "SL95 | B junta vidrio1 superiora",
+        "SL95 | B junta vidrio1 lateralai",
+        "SL95 | B junta vidrio1 lateralaf",
+        "SL95 | B junta vidrio1 inferiorb",
+        "SL95 | B junta vidrio1 superiorb",
+        "SL95 | B junta vidrio1 lateralbi",
+        "SL95 | B junta vidrio1 lateralbf",
+        "SL95 | B apoyo vidrio2 ménsula continua",
+        "SL95 | B taco vidrio2-1 100mm",
+        "SL95 | B taco vidrio2-2 100mm",
+        "SL95 | B junta vidrio2 inferiora",
+        "SL95 | B junta vidrio2 superiora",
+        "SL95 | B junta vidrio2 lateralai",
+        "SL95 | B junta vidrio2 lateralaf",
+        "SL95 | B junta vidrio2 inferiorb",
+        "SL95 | B junta vidrio2 superiorb",
+        "SL95 | B junta vidrio2 lateralbi",
+        "SL95 | B junta vidrio2 lateralbf",
+        "SL95 | B junquillo frente base",
+        "SL95 | B junquillo frente cabeza",
+        "SL95 | B junquillo frente i",
+        "SL95 | B junquillo frente f",
+        "SL95 | B junquillo dorso base",
+        "SL95 | B junquillo dorso cabeza",
+        "SL95 | B junquillo dorso i",
+        "SL95 | B junquillo dorso f",
+        "SL95 | B retorno montante i",
+        "SL95 | B retorno montante f",
+        "SL95 | B puente superior acristalamiento",
+        "SL95 | B DVH sellador espaciador móvil base",
+        "SL95 | B DVH sellador espaciador móvil cabeza",
+        "SL95 | B DVH sellador espaciador móvil i",
+        "SL95 | B DVH sellador espaciador móvil f"
+      ],
+      "closed_group_bounds_source": {
+        "min": [
+          17.825000762939453,
+          3.194499720622179,
+          11.849500015377998
+        ],
+        "max": [
+          19.540000915527344,
+          5.782499752938747,
+          12.007500648498535
+        ]
+      },
+      "note": "Group envelope includes hardware, not useful clear passage. Refer to independent opening/sweep evidence."
+    },
+    {
+      "rig": "DOOR | bathroomMono",
+      "active_descendant_meshes": [
+        "Baño mono puerta",
+        "Baño mono | manija"
+      ],
+      "closed_group_bounds_source": {
+        "min": [
+          19.459999680519104,
+          0.2099999189376831,
+          4.223999770358205
+        ],
+        "max": [
+          20.179999709129333,
+          2.3600000143051147,
+          4.307500209659338
+        ]
+      },
+      "note": "Group envelope includes hardware, not useful clear passage. Refer to independent opening/sweep evidence."
+    },
+    {
+      "rig": "DOOR | gate",
+      "active_descendant_meshes": [
+        "Portón negro",
+        "Nervio portón 11.25",
+        "Nervio portón 11.57",
+        "Nervio portón 11.89",
+        "Nervio portón 12.21",
+        "Nervio portón 12.53",
+        "Nervio portón 12.85",
+        "Nervio portón 13.17",
+        "Nervio portón 13.49",
+        "Nervio portón 13.81",
+        "Portón | rueda de acero",
+        "Portón | rueda de acero.001"
+      ],
+      "closed_group_bounds_source": {
+        "min": [
+          11.0,
+          0.08199998635049632,
+          0.14999999664723873
+        ],
+        "max": [
+          14.0,
+          2.0850000381469727,
+          0.28999999538064003
+        ]
+      },
+      "note": "Group envelope includes hardware, not useful clear passage. Refer to independent opening/sweep evidence."
+    },
+    {
+      "rig": "DOOR | bathDining",
+      "active_descendant_meshes": [
+        "Puerta baño comedor",
+        "Puerta baño comedor | fondo tirador",
+        "Puerta baño comedor | fondo tirador.001",
+        "Puerta baño comedor | pletina carro",
+        "Puerta baño comedor | rueda carro",
+        "Puerta baño comedor | pletina carro.001",
+        "Puerta baño comedor | rueda carro.001",
+        "Puerta baño comedor | perno carro",
+        "Puerta baño comedor | perno carro.001",
+        "Puerta baño comedor | perno carro.002",
+        "Puerta baño comedor | perno carro.003"
+      ],
+      "closed_group_bounds_source": {
+        "min": [
+          19.509999871253967,
+          3.2600001096725464,
+          8.745000343769789
+        ],
+        "max": [
+          20.55999982357025,
+          5.632000060752034,
+          8.803000450134277
+        ]
+      },
+      "note": "Group envelope includes hardware, not useful clear passage. Refer to independent opening/sweep evidence."
+    }
+  ],
+  "checks": [
+    {
+      "name": "Functional top: Sofá cama mono cojín 0",
+      "measured": 0.4500000327825546,
+      "target": 0.45,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Sofá cama mono cojín 1",
+      "measured": 0.4500000327825546,
+      "target": 0.45,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Sofá cama mono cojín 2",
+      "measured": 0.4500000327825546,
+      "target": 0.45,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Mesa mono tapa",
+      "measured": 0.7500000447034836,
+      "target": 0.75,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Silla mono 1 asiento",
+      "measured": 0.46000002324581146,
+      "target": 0.46,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Silla mono 2 asiento",
+      "measured": 0.46000002324581146,
+      "target": 0.46,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Taburete isla mono A | asiento 30 mm",
+      "measured": 0.6500000348314643,
+      "target": 0.65,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Taburete isla mono B | asiento 30 mm",
+      "measured": 0.6500000348314643,
+      "target": 0.65,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Mesa quincho tapa tabla 0",
+      "measured": 0.7500000186264515,
+      "target": 0.75,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Mesa quincho tapa tabla 1",
+      "measured": 0.7500000186264515,
+      "target": 0.75,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Mesa quincho tapa tabla 2",
+      "measured": 0.7500000186264515,
+      "target": 0.75,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Mesa quincho tapa tabla 3",
+      "measured": 0.7500000186264515,
+      "target": 0.75,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Mesa quincho tapa tabla 4",
+      "measured": 0.7500000186264515,
+      "target": 0.75,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Silla quincho 1 asiento tabla 0",
+      "measured": 0.45999998040497303,
+      "target": 0.46,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Silla quincho 1 asiento tabla 1",
+      "measured": 0.45999998040497303,
+      "target": 0.46,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Silla quincho 1 asiento tabla 2",
+      "measured": 0.45999998040497303,
+      "target": 0.46,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Silla quincho 2 asiento tabla 0",
+      "measured": 0.45999998040497303,
+      "target": 0.46,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Silla quincho 2 asiento tabla 1",
+      "measured": 0.45999998040497303,
+      "target": 0.46,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Silla quincho 2 asiento tabla 2",
+      "measured": 0.45999998040497303,
+      "target": 0.46,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Silla quincho 3 asiento tabla 0",
+      "measured": 0.45999998040497303,
+      "target": 0.46,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Silla quincho 3 asiento tabla 1",
+      "measured": 0.45999998040497303,
+      "target": 0.46,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Silla quincho 3 asiento tabla 2",
+      "measured": 0.45999998040497303,
+      "target": 0.46,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Silla quincho 4 asiento tabla 0",
+      "measured": 0.45999998040497303,
+      "target": 0.46,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Silla quincho 4 asiento tabla 1",
+      "measured": 0.45999998040497303,
+      "target": 0.46,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Silla quincho 4 asiento tabla 2",
+      "measured": 0.45999998040497303,
+      "target": 0.46,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Silla estudio asiento",
+      "measured": 0.4700001236051321,
+      "target": 0.47,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Sofá estudio cojín 0",
+      "measured": 0.45000014267861843,
+      "target": 0.45,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Sofá estudio cojín 1",
+      "measured": 0.45000014267861843,
+      "target": 0.45,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Sofá estudio cojín 2",
+      "measured": 0.45000014267861843,
+      "target": 0.45,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Mesa comedor tapa",
+      "measured": 0.7500000949949026,
+      "target": 0.75,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Silla comedor norte -0.49 asiento",
+      "measured": 0.4700001236051321,
+      "target": 0.47,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Silla comedor norte 0.49 asiento",
+      "measured": 0.4700001236051321,
+      "target": 0.47,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Silla comedor sur -0.49 asiento",
+      "measured": 0.4700001236051321,
+      "target": 0.47,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Silla comedor sur 0.49 asiento",
+      "measured": 0.4700001236051321,
+      "target": 0.47,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Sofá vivienda cojín 0",
+      "measured": 0.45000014267861843,
+      "target": 0.45,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Sofá vivienda cojín 1",
+      "measured": 0.45000014267861843,
+      "target": 0.45,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Sofá vivienda cojín 2",
+      "measured": 0.45000014267861843,
+      "target": 0.45,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Banco huerta | tablón asiento 1",
+      "measured": 0.4499999899417162,
+      "target": 0.45,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Banco huerta | tablón asiento 2",
+      "measured": 0.4499999899417162,
+      "target": 0.45,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Banco huerta | tablón asiento 3",
+      "measured": 0.4499999899417162,
+      "target": 0.45,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Banco huerta | tablón asiento 4",
+      "measured": 0.4499999899417162,
+      "target": 0.45,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Inodoro mono | asiento",
+      "measured": 0.45499996840953827,
+      "target": 0.455,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Inodoro quincho | asiento",
+      "measured": 0.45499996840953827,
+      "target": 0.455,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Functional top: Inodoro suite | asiento",
+      "measured": 0.4550002282485366,
+      "target": 0.455,
+      "minimum": null,
+      "tolerance_m": 0.002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Lot X",
+      "measured": 22.0,
+      "target": 22,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Lot Z",
+      "measured": 20.0,
+      "target": 20,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Clear height Piso estudio",
+      "measured": 3.2000002060085535,
+      "target": 3.2,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Clear height Piso vivienda",
+      "measured": 2.600000301375985,
+      "target": 2.6,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Clear height Piso baño vivienda",
+      "measured": 2.599999844096601,
+      "target": 2.6,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Roof difference corresponding low exterior datums",
+      "measured": 0.5999999046325684,
+      "target": 0.6,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Roof difference corresponding high exterior datums",
+      "measured": 0.5999999046325684,
+      "target": 0.6,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair support gap 1",
+      "measured": -1.73225998878479e-07,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair nose projection 1",
+      "measured": 0.001999996602535248,
+      "target": 0.002,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair width 1",
+      "measured": 1.0,
+      "target": 1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Positive contact tube_plate 1 exterior",
+      "measured": 0.0002560124817136966,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 1 exterior",
+      "measured": 0.010081440478813875,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact tube_plate 1 interior",
+      "measured": 0.0002560124817136966,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 1 interior",
+      "measured": 0.01008143975747089,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Stair support gap 2",
+      "measured": -1.73225998878479e-07,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair nose projection 2",
+      "measured": 0.001999996602535248,
+      "target": 0.002,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair width 2",
+      "measured": 1.0,
+      "target": 1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Positive contact tube_plate 2 exterior",
+      "measured": 0.0002560124817136966,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 2 exterior",
+      "measured": 0.010083191985472695,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact tube_plate 2 interior",
+      "measured": 0.0002560124817136966,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 2 interior",
+      "measured": 0.010083179602133896,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Stair support gap 3",
+      "measured": -1.73225998878479e-07,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair nose projection 3",
+      "measured": 0.001999996602535248,
+      "target": 0.002,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair width 3",
+      "measured": 1.0,
+      "target": 1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Positive contact tube_plate 3 exterior",
+      "measured": 0.0002560124817136966,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 3 exterior",
+      "measured": 0.010084948184385212,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact tube_plate 3 interior",
+      "measured": 0.0002560124817136966,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 3 interior",
+      "measured": 0.010084948853886999,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Stair support gap 4",
+      "measured": -1.73225998878479e-07,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair nose projection 4",
+      "measured": 0.001999996602535248,
+      "target": 0.002,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair width 4",
+      "measured": 1.0,
+      "target": 1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Positive contact tube_plate 4 exterior",
+      "measured": 0.0002560124817136966,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 4 exterior",
+      "measured": 0.010086692008371756,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact tube_plate 4 interior",
+      "measured": 0.0002560124817136966,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 4 interior",
+      "measured": 0.010086697429869673,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Stair support gap 5",
+      "measured": -1.73225998878479e-07,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair nose projection 5",
+      "measured": 0.001999996602535248,
+      "target": 0.002,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair width 5",
+      "measured": 1.0,
+      "target": 1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Positive contact tube_plate 5 exterior",
+      "measured": 0.0002560124817136966,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 5 exterior",
+      "measured": 0.010088438101661268,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact tube_plate 5 interior",
+      "measured": 0.0002560124817136966,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 5 interior",
+      "measured": 0.010088431273743481,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Stair support gap 6",
+      "measured": -1.73225998878479e-07,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair nose projection 6",
+      "measured": 0.001999996602535248,
+      "target": 0.002,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair width 6",
+      "measured": 1.0,
+      "target": 1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Positive contact tube_plate 6 exterior",
+      "measured": 0.000255981964073726,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 6 exterior",
+      "measured": 0.010090252563941249,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact tube_plate 6 interior",
+      "measured": 0.000255981964073726,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 6 interior",
+      "measured": 0.010090252323408322,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Stair support gap 7",
+      "measured": -1.73225998878479e-07,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair nose projection 7",
+      "measured": 0.001999996602535248,
+      "target": 0.002,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair width 7",
+      "measured": 1.0,
+      "target": 1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Positive contact tube_plate 7 exterior",
+      "measured": 0.000255981964073726,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 7 exterior",
+      "measured": 0.01009198746014306,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact tube_plate 7 interior",
+      "measured": 0.000255981964073726,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 7 interior",
+      "measured": 0.010091992411418005,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Stair support gap 8",
+      "measured": 6.51925802230835e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair nose projection 8",
+      "measured": 0.0020001158118247986,
+      "target": 0.002,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair width 8",
+      "measured": 1.0,
+      "target": 1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Positive contact tube_plate 8 exterior",
+      "measured": 0.00025598911668112123,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 8 exterior",
+      "measured": 0.010093727557134002,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact tube_plate 8 interior",
+      "measured": 0.00025598911668112123,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 8 interior",
+      "measured": 0.010093729619683245,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Stair support gap 9",
+      "measured": 6.51925802230835e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair nose projection 9",
+      "measured": 0.0020001158118247986,
+      "target": 0.002,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair width 9",
+      "measured": 1.0,
+      "target": 1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Positive contact tube_plate 9 exterior",
+      "measured": 0.00025598911668112123,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 9 exterior",
+      "measured": 0.010095462775026931,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact tube_plate 9 interior",
+      "measured": 0.00025598911668112123,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 9 interior",
+      "measured": 0.010095455692621158,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Stair support gap 10",
+      "measured": 6.51925802230835e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair nose projection 10",
+      "measured": 0.0020001158118247986,
+      "target": 0.002,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair width 10",
+      "measured": 1.0,
+      "target": 1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Positive contact tube_plate 10 exterior",
+      "measured": 0.00025598911668112123,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 10 exterior",
+      "measured": 0.010097208550774894,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact tube_plate 10 interior",
+      "measured": 0.00025598911668112123,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 10 interior",
+      "measured": 0.010097206998707975,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Stair support gap 11",
+      "measured": 6.51925802230835e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair nose projection 11",
+      "measured": 0.0020001158118247986,
+      "target": 0.002,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair width 11",
+      "measured": 1.0,
+      "target": 1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Positive contact tube_plate 11 exterior",
+      "measured": 0.00025598911668112123,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 11 exterior",
+      "measured": 0.010098941979705955,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact tube_plate 11 interior",
+      "measured": 0.00025598911668112123,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 11 interior",
+      "measured": 0.010098941011975171,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Stair support gap 12",
+      "measured": 6.51925802230835e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair nose projection 12",
+      "measured": 0.0020001158118247986,
+      "target": 0.002,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair width 12",
+      "measured": 1.0,
+      "target": 1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Positive contact tube_plate 12 exterior",
+      "measured": 0.00025598911668112123,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 12 exterior",
+      "measured": 0.010100684953201267,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact tube_plate 12 interior",
+      "measured": 0.00025598911668112123,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 12 interior",
+      "measured": 0.01010068728062663,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Stair support gap 13",
+      "measured": 6.51925802230835e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair nose projection 13",
+      "measured": 0.0020001158118247986,
+      "target": 0.002,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair width 13",
+      "measured": 1.0,
+      "target": 1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Positive contact tube_plate 13 exterior",
+      "measured": 0.00025598911668112123,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 13 exterior",
+      "measured": 0.01010242744482781,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact tube_plate 13 interior",
+      "measured": 0.00025598911668112123,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 13 interior",
+      "measured": 0.010102426769471151,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Stair support gap 14",
+      "measured": 5.587935447692871e-09,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair nose projection 14",
+      "measured": 0.001999996602535248,
+      "target": 0.002,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair width 14",
+      "measured": 1.0,
+      "target": 1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Positive contact tube_plate 14 exterior",
+      "measured": 0.00025599316978741626,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 14 exterior",
+      "measured": 0.01010415916686469,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact tube_plate 14 interior",
+      "measured": 0.00025599316978741626,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 14 interior",
+      "measured": 0.010104160744837998,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Stair support gap 15",
+      "measured": 5.587935447692871e-09,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair nose projection 15",
+      "measured": 0.001999996602535248,
+      "target": 0.002,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair width 15",
+      "measured": 1.0,
+      "target": 1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Positive contact tube_plate 15 exterior",
+      "measured": 0.0002560003223379681,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 15 exterior",
+      "measured": 0.010105868449787891,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact tube_plate 15 interior",
+      "measured": 0.0002560003223379681,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 15 interior",
+      "measured": 0.010105877577430533,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Stair support gap 16",
+      "measured": 3.5390257835388184e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair nose projection 16",
+      "measured": 0.001999996602535248,
+      "target": 0.002,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair width 16",
+      "measured": 1.0,
+      "target": 1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Positive contact tube_plate 16 exterior",
+      "measured": 0.0002559974017160016,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 16 exterior",
+      "measured": 0.010107584772066858,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact tube_plate 16 interior",
+      "measured": 0.0002559974017160016,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 16 interior",
+      "measured": 0.010107576984053068,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Stair support gap 17",
+      "measured": 5.587935447692871e-09,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair nose projection 17",
+      "measured": 0.001999996602535248,
+      "target": 0.002,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair width 17",
+      "measured": 1.0,
+      "target": 1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Positive contact tube_plate 17 exterior",
+      "measured": 0.0002559982957848206,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 17 exterior",
+      "measured": 0.01010931604027121,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact tube_plate 17 interior",
+      "measured": 0.0002559982957848206,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 17 interior",
+      "measured": 0.010109311938636623,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Stair support gap 18",
+      "measured": -9.313225746154785e-09,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair nose projection 18",
+      "measured": 0.001999996602535248,
+      "target": 0.002,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Stair width 18",
+      "measured": 1.0,
+      "target": 1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Positive contact tube_plate 18 exterior",
+      "measured": 0.00025599841499257536,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 18 exterior",
+      "measured": 0.010111039815027256,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact tube_plate 18 interior",
+      "measured": 0.0002559984155228179,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Positive contact plate_stringer 18 interior",
+      "measured": 0.010111040871646493,
+      "target": null,
+      "minimum": 1e-07,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Positive evaluated contact area m2; does not prove weld, timber connection or load capacity"
+    },
+    {
+      "name": "Top tread finish datum",
+      "measured": 3.2499998584389687,
+      "target": 3.25,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Console knee 18.19/2.6",
+      "measured": 0.6999999042600393,
+      "target": null,
+      "minimum": 0.7,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Console knee 18.19/3.0",
+      "measured": 0.6999999042600393,
+      "target": null,
+      "minimum": 0.7,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Console knee 18.19/3.4",
+      "measured": 0.6999999042600393,
+      "target": null,
+      "minimum": 0.7,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Console knee 18.35/2.6",
+      "measured": 0.6999999042600393,
+      "target": null,
+      "minimum": 0.7,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Console knee 18.35/3.0",
+      "measured": 0.6999999042600393,
+      "target": null,
+      "minimum": 0.7,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Console knee 18.35/3.4",
+      "measured": 0.6999999042600393,
+      "target": null,
+      "minimum": 0.7,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Console knee 18.55/2.6",
+      "measured": 0.6999999042600393,
+      "target": null,
+      "minimum": 0.7,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Console knee 18.55/3.0",
+      "measured": 0.6999999042600393,
+      "target": null,
+      "minimum": 0.7,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Console knee 18.55/3.4",
+      "measured": 0.6999999042600393,
+      "target": null,
+      "minimum": 0.7,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Console knee 18.72/2.6",
+      "measured": 0.6999999042600393,
+      "target": null,
+      "minimum": 0.7,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Console knee 18.72/3.0",
+      "measured": 0.6999999042600393,
+      "target": null,
+      "minimum": 0.7,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Console knee 18.72/3.4",
+      "measured": 0.6999999042600393,
+      "target": null,
+      "minimum": 0.7,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Console front working height",
+      "measured": 0.7500601764768362,
+      "target": 0.75,
+      "minimum": null,
+      "tolerance_m": 0.01,
+      "pass_geometry": true,
+      "scope": "Nominal front worktop height; sloped console top varies with X"
+    },
+    {
+      "name": "Foot finish Taburete isla mono A | apoyo elastomérico izq frente",
+      "measured": 1.257285475730896e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Pad-leg Taburete isla mono A | pata izq frente",
+      "measured": -3.213062882423401e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Leg-seat Taburete isla mono A | pata izq frente",
+      "measured": 5.960464477539063e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Foot finish Taburete isla mono A | apoyo elastomérico izq dorso",
+      "measured": 1.257285475730896e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Pad-leg Taburete isla mono A | pata izq dorso",
+      "measured": -3.213062882423401e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Leg-seat Taburete isla mono A | pata izq dorso",
+      "measured": 5.960464477539063e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Foot finish Taburete isla mono A | apoyo elastomérico der frente",
+      "measured": 1.257285475730896e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Pad-leg Taburete isla mono A | pata der frente",
+      "measured": -3.213062882423401e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Leg-seat Taburete isla mono A | pata der frente",
+      "measured": 5.960464477539063e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Foot finish Taburete isla mono A | apoyo elastomérico der dorso",
+      "measured": 1.257285475730896e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Pad-leg Taburete isla mono A | pata der dorso",
+      "measured": -3.213062882423401e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Leg-seat Taburete isla mono A | pata der dorso",
+      "measured": 5.960464477539063e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Foot finish Taburete isla mono B | apoyo elastomérico izq frente",
+      "measured": 1.257285475730896e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Pad-leg Taburete isla mono B | pata izq frente",
+      "measured": -3.213062882423401e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Leg-seat Taburete isla mono B | pata izq frente",
+      "measured": 5.960464477539063e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Foot finish Taburete isla mono B | apoyo elastomérico izq dorso",
+      "measured": 1.257285475730896e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Pad-leg Taburete isla mono B | pata izq dorso",
+      "measured": -3.213062882423401e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Leg-seat Taburete isla mono B | pata izq dorso",
+      "measured": 5.960464477539063e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Foot finish Taburete isla mono B | apoyo elastomérico der frente",
+      "measured": 1.257285475730896e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Pad-leg Taburete isla mono B | pata der frente",
+      "measured": -3.213062882423401e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Leg-seat Taburete isla mono B | pata der frente",
+      "measured": 5.960464477539063e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Foot finish Taburete isla mono B | apoyo elastomérico der dorso",
+      "measured": 1.257285475730896e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Pad-leg Taburete isla mono B | pata der dorso",
+      "measured": -3.213062882423401e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Leg-seat Taburete isla mono B | pata der dorso",
+      "measured": 5.960464477539063e-08,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0002,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Foot finish Banco huerta | apoyo elastomérico izq frente",
+      "measured": -4.656612873077393e-10,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Pad-leg Banco huerta | pata izq frente",
+      "measured": -6.05359673500061e-09,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Leg-seat Banco huerta | pata izq frente",
+      "measured": 0.0014452487230300903,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0002,
+      "pass_geometry": false,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Foot finish Banco huerta | apoyo elastomérico izq dorso",
+      "measured": -4.656612873077393e-10,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Pad-leg Banco huerta | pata izq dorso",
+      "measured": -6.05359673500061e-09,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Leg-seat Banco huerta | pata izq dorso",
+      "measured": 0.0014452487230300903,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0002,
+      "pass_geometry": false,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Foot finish Banco huerta | apoyo elastomérico der frente",
+      "measured": -4.656612873077393e-10,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Pad-leg Banco huerta | pata der frente",
+      "measured": -6.05359673500061e-09,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Leg-seat Banco huerta | pata der frente",
+      "measured": 0.0014452487230300903,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0002,
+      "pass_geometry": false,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Foot finish Banco huerta | apoyo elastomérico der dorso",
+      "measured": -4.656612873077393e-10,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Pad-leg Banco huerta | pata der dorso",
+      "measured": -6.05359673500061e-09,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Leg-seat Banco huerta | pata der dorso",
+      "measured": 0.0014452487230300903,
+      "target": 0,
+      "minimum": null,
+      "tolerance_m": 0.0002,
+      "pass_geometry": false,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Pool crest",
+      "measured": -0.029999971389770508,
+      "target": -0.03,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Pool freeboard Borde pileta norte",
+      "measured": 0.09999996423721313,
+      "target": 0.1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Pool freeboard Borde pileta sur",
+      "measured": 0.09999996423721313,
+      "target": 0.1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Pool freeboard Borde pileta oeste",
+      "measured": 0.09999996423721313,
+      "target": 0.1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Pool freeboard Borde pileta este",
+      "measured": 0.09999996423721313,
+      "target": 0.1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Shower mono clear underside",
+      "measured": 2.099999949336052,
+      "target": 2.1,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Low legacy PA shower removed",
+      "pass_geometry": true,
+      "scope": "Presence of replaced duplicate, not sprinkler specification"
+    },
+    {
+      "name": "Dining center sourceZ after +10mm",
+      "measured": 10.710000038146973,
+      "target": 10.71,
+      "minimum": null,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Dining passage to wardrobe wall",
+      "measured": 0.805000866342084,
+      "target": null,
+      "minimum": 0.8,
+      "tolerance_m": 0.0001,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    },
+    {
+      "name": "Legacy solid glazing bars absent",
+      "pass_geometry": true,
+      "remaining": [],
+      "scope": "Named obsolete solid metal seals only; does not certify every glazing assembly."
+    },
+    {
+      "name": "Door rig count",
+      "measured": 13,
+      "target": 13,
+      "minimum": null,
+      "tolerance_m": 0,
+      "pass_geometry": true,
+      "scope": "Project geometry criterion, not regulation or product certification"
+    }
+  ],
+  "missing_families": [],
+  "limitations": [
+    "Only accepted project dimensions are treated as checks; no regulatory, structural, plumbing, acoustic or commercial-product certification.",
+    "Furniture envelopes and 54 functional categories do not prove every possible use scenario. Proposed equipment opening envelopes and live door sweeps remain separate evidence.",
+    "Human review and new photographs are indispensable before any overall score; a passing number of checks cannot establish photorealism."
+  ]
+}

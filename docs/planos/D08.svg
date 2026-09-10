@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="594mm" height="420mm" viewBox="0 0 594 420"><rect width="594" height="420" fill="white"/>
+<polygon points="10.0000,10.0000 584.0000,10.0000 584.0000,410.0000 10.0000,410.0000" stroke="#384c55" stroke-width="0.3" fill="none"/>
+<text x="19" y="22" fill="#384c55" font-family="Arial" font-size="4.8" font-weight="bold" text-anchor="start">CASA DE CAMPO / DETALLES 95</text>
+<text x="575" y="22" fill="#384c55" font-family="Arial" font-size="4.2" font-weight="bold" text-anchor="end">D08 | Ventilacion silenciosa y mantenimiento</text>
+<text x="19" y="30" fill="#75838a" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">VIRREY DEL PINO, BUENOS AIRES</text>
+<text x="575" y="30" fill="#75838a" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="end">Responde C5 / C6 | reserva geometrica P, sin caudal o atenuacion inventados</text>
+<line x1="10.0000" y1="37.0000" x2="584.0000" y2="37.0000" stroke="#384c55" stroke-width="0.25"/>
+<text x="20" y="47" fill="#384c55" font-family="Arial" font-size="2.7" font-weight="bold" text-anchor="start">G = medido / gris</text>
+<text x="112" y="47" fill="#1c6b92" font-family="Arial" font-size="2.7" font-weight="bold" text-anchor="start">P = propuesta dimensional / azul</text>
+<text x="288" y="47" fill="#75838a" font-family="Arial" font-size="2.7" font-weight="normal" text-anchor="start">Todas las cotas en mm salvo niveles en m</text>
+<line x1="10.0000" y1="383.0000" x2="584.0000" y2="383.0000" stroke="#384c55" stroke-width="0.3"/>
+<text x="20" y="391" fill="#a25228" font-family="Arial" font-size="2.9" font-weight="bold" text-anchor="start">EN REVISION - PROPUESTAS DE COORDINACION, SIN CALCULO DE CAPACIDAD</text>
+<text x="20" y="399" fill="#75838a" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="start">Base G: Casa_de_Campo_95_R6K.blend / a3663a5081dac391</text>
+<text x="20" y="406" fill="#75838a" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="start">G acredita geometria, no capacidad. P completa detalles aun no incorporados al modelo.</text>
+<text x="575" y="392" fill="#384c55" font-family="Arial" font-size="2.8" font-weight="normal" text-anchor="end">A2 / imprimir al 100 %</text>
+<text x="575" y="405" fill="#75838a" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="end">09 / 10-09-2026</text>
+<text x="31" y="76" fill="#1c6b92" font-family="Arial" font-size="3.2" font-weight="bold" text-anchor="start">16 Silenciador recto / planta P | 1:5</text>
+<polygon points="41.0000,217.0000 341.0000,217.0000 341.0000,97.0000 41.0000,97.0000" stroke="#1c6b92" stroke-width="0.35" fill="none"/>
+<polygon points="41.0000,217.0000 341.0000,217.0000 341.0000,207.0000 41.0000,207.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="41.0000,107.0000 341.0000,107.0000 341.0000,97.0000 41.0000,97.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="71.0000,167.0000 301.0000,167.0000 331.0000,157.0000 301.0000,147.0000 71.0000,147.0000 41.0000,157.0000" stroke="#1c6b92" stroke-width="0.3" fill="#e4f2f8"/>
+<line x1="45.0000" y1="187.0000" x2="335.0000" y2="187.0000" stroke="#1c6b92" stroke-width="0.4"/>
+<polygon points="335.0000,187.0000 332.0000,186.0000 332.0000,188.0000" stroke="#1c6b92" stroke-width="0.2" fill="#1c6b92"/>
+<line x1="45.0000" y1="127.0000" x2="335.0000" y2="127.0000" stroke="#1c6b92" stroke-width="0.4"/>
+<polygon points="335.0000,127.0000 332.0000,126.0000 332.0000,128.0000" stroke="#1c6b92" stroke-width="0.2" fill="#1c6b92"/>
+<polygon points="125.0000,220.0000 257.0000,220.0000 257.0000,217.0000 125.0000,217.0000" stroke="#1c6b92" stroke-width="0.25" fill="none"/>
+<polygon points="131.0000,222.0000 251.0000,222.0000 251.0000,220.0000 131.0000,220.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<line x1="131.0000" y1="223.0000" x2="131.0000" y2="303.0000" stroke="#1c6b92" stroke-width="0.2" stroke-dasharray="1.8 .9"/>
+<line x1="251.0000" y1="223.0000" x2="251.0000" y2="303.0000" stroke="#1c6b92" stroke-width="0.2" stroke-dasharray="1.8 .9"/>
+<line x1="131.0000" y1="303.0000" x2="251.0000" y2="303.0000" stroke="#1c6b92" stroke-width="0.2" stroke-dasharray="1.8 .9"/>
+<polygon points="174.4463,262.2000 207.5537,262.2000 207.5537,266.0000 174.4463,266.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="191.0" y="265.0" fill="#384c55" font-family="Arial" font-size="2.8" font-weight="normal" text-anchor="middle">600 P espacio de servicio</text>
+<line x1="41.0000" y1="87.0000" x2="341.0000" y2="87.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="40.0000" y1="88.0000" x2="42.0000" y2="86.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="340.0000" y1="88.0000" x2="342.0000" y2="86.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="186.2797,82.9000 195.7203,82.9000 195.7203,86.5000 186.2797,86.5000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="191.0" y="85.5" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="middle">1500 P</text>
+<line x1="353.0000" y1="217.0000" x2="353.0000" y2="97.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="352.0000" y1="218.0000" x2="354.0000" y2="216.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="352.0000" y1="98.0000" x2="354.0000" y2="96.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="354.4000,155.4000 362.3945,155.4000 362.3945,159.0000 354.4000,159.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="355.0" y="158.0" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">600 P</text>
+<line x1="30.0000" y1="207.0000" x2="30.0000" y2="167.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="29.0000" y1="208.0000" x2="31.0000" y2="206.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="29.0000" y1="168.0000" x2="31.0000" y2="166.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="31.4000,185.4000 45.0300,185.4000 45.0300,189.0000 31.4000,189.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="32.0" y="188.0" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">200 libre P</text>
+<line x1="30.0000" y1="167.0000" x2="30.0000" y2="147.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="29.0000" y1="168.0000" x2="31.0000" y2="166.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="29.0000" y1="148.0000" x2="31.0000" y2="146.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="31.4000,155.4000 39.3945,155.4000 39.3945,159.0000 31.4000,159.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="32.0" y="158.0" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">100 P</text>
+<line x1="30.0000" y1="147.0000" x2="30.0000" y2="107.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="29.0000" y1="148.0000" x2="31.0000" y2="146.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="29.0000" y1="108.0000" x2="31.0000" y2="106.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="31.4000,125.4000 45.0300,125.4000 45.0300,129.0000 31.4000,129.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="32.0" y="128.0" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">200 libre P</text>
+<line x1="131.0000" y1="230.0000" x2="251.0000" y2="230.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="130.0000" y1="231.0000" x2="132.0000" y2="229.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="250.0000" y1="231.0000" x2="252.0000" y2="229.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="178.8365,225.9000 203.1635,225.9000 203.1635,229.5000 178.8365,229.5000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="191.0" y="228.5" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="middle">600 P tapa extraible</text>
+<line x1="263.0000" y1="211.0000" x2="28.0000" y2="326.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<line x1="28.0000" y1="326.0000" x2="31.0000" y2="326.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<text x="32" y="327" fill="#1c6b92" font-family="Arial" font-size="2.7" font-weight="normal" text-anchor="start">P revestimiento absorbente50 retenido con velo y chapa perforada; divisor100. Paso paralelo continuo, sin bafles alternados que estrangulen el recorrido [R4].</text>
+<line x1="191.0000" y1="222.0000" x2="28.0000" y2="348.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<line x1="28.0000" y1="348.0000" x2="31.0000" y2="348.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<text x="32" y="349" fill="#1c6b92" font-family="Arial" font-size="2.7" font-weight="normal" text-anchor="start">P tapa600 x300 con junta cerrada, tornillos cautivos y acceso600. Dos apoyos de ancho completo, juntas flexibles100 en conexiones.</text>
+<text x="387" y="75" fill="#1c6b92" font-family="Arial" font-size="3.2" font-weight="bold" text-anchor="start">17 Reserva P en estudio / coordinacion | 1:50</text>
+<polygon points="391.0000,202.0000 543.0000,202.0000 543.0000,90.0000 391.0000,90.0000" stroke="#384c55" stroke-width="0.3" fill="none"/>
+<polygon points="391.0000,98.0000 403.0000,98.0000 403.0000,90.0000 391.0000,90.0000" stroke="#384c55" stroke-width="0.2" fill="none"/>
+<polygon points="532.4000,105.5000 542.6000,105.5000 542.6000,89.9000 532.4000,89.9000" stroke="#384c55" stroke-width="0.2" fill="#edf1f2"/>
+<polygon points="473.0000,150.0000 503.0000,150.0000 503.0000,138.0000 473.0000,138.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="487.0000,132.0000 517.0000,132.0000 517.0000,120.0000 487.0000,120.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<line x1="487.0000" y1="150.0000" x2="447.0000" y2="150.0000" stroke="#1c6b92" stroke-width="0.35"/>
+<line x1="447.0000" y1="150.0000" x2="447.0000" y2="198.0000" stroke="#1c6b92" stroke-width="0.35"/>
+<polygon points="441.0000,200.0000 453.0000,200.0000 453.0000,197.0000 441.0000,197.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<line x1="502.0000" y1="120.0000" x2="517.0000" y2="120.0000" stroke="#1c6b92" stroke-width="0.35"/>
+<line x1="517.0000" y1="120.0000" x2="517.0000" y2="95.0000" stroke="#1c6b92" stroke-width="0.35"/>
+<polygon points="511.0000,95.0000 523.0000,95.0000 523.0000,92.0000 511.0000,92.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="480.8692,157.5000 495.1308,157.5000 495.1308,161.0000 480.8692,161.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="488.0" y="160.0" fill="#1c6b92" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="middle">Impulsion P</text>
+<polygon points="495.7719,109.5000 508.2281,109.5000 508.2281,113.0000 495.7719,113.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="502.0" y="112.0" fill="#1c6b92" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="middle">Retorno P</text>
+<polygon points="514.7030,97.5000 527.2970,97.5000 527.2970,101.0000 514.7030,101.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="521.0" y="100.0" fill="#384c55" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="middle">Patinillo G</text>
+<text x="389" y="229" fill="#1c6b92" font-family="Arial" font-size="3.5" font-weight="bold" text-anchor="start">SECUENCIA FUNCIONAL P</text>
+<text x="389" y="236" fill="#384c55" font-family="Arial" font-size="2.8" font-weight="normal" text-anchor="start">Aire exterior -&gt; filtro -&gt; ventilador -&gt; silenciador -&gt; impulsion. Retorno -&gt; silenciador -&gt; expulsion. Mantener ambos circuitos diferenciados.</text>
+<text x="389" y="243.2" fill="#384c55" font-family="Arial" font-size="2.8" font-weight="normal" text-anchor="start">Reserva de cajas en plenum: X18,30..20,50; Z2,80..4,30; +6,68..+7,08. No ocupa la altura libre3,20; comprobar soportes y accesos antes</text>
+<text x="389" y="247.39999999999998" fill="#384c55" font-family="Arial" font-size="2.8" font-weight="normal" text-anchor="start">del modelado.</text>
+<text x="389" y="254.59999999999997" fill="#384c55" font-family="Arial" font-size="2.8" font-weight="normal" text-anchor="start">Ductos inicialesØ200, rejillas600 x150 y mangas flexibles100. Secciones P para coordinacion; velocidad, presion, caudal, ruido y</text>
+<text x="389" y="258.79999999999995" fill="#384c55" font-family="Arial" font-size="2.8" font-weight="normal" text-anchor="start">condensados se dimensionan con ocupacion y equipo.</text>
+<text x="389" y="265.99999999999994" fill="#384c55" font-family="Arial" font-size="2.8" font-weight="normal" text-anchor="start">Tomas exteriores y expulsion deben separarse de combustion y entre si; terminales y distancias finales necesitan la seleccion del sistema.</text>
+<text x="31" y="374" fill="#384c55" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="start">R4 | TROX: Splitter sound attenuator, installation manual</text>
+<a href="https://cdn.trox.de/46e8cdbf6ec5f664/8d90dc4ef7b3/XS_MS_XK_MK_RK_IM_A00000090240_V2_2024_11_GB_en.pdf"><rect x="31" y="371" width="330" height="5" fill="transparent"/></a>
+</svg>

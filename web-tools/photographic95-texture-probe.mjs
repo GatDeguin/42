@@ -1,0 +1,2 @@
+import sharp from 'sharp';import fs from 'node:fs';
+const file='source/assets/tree_small_02/textures/tree_small_02_leaves_nor_gl_2k.png',input=fs.readFileSync(file),meta=await sharp(input).metadata();const output=await sharp(input).png({compressionLevel:9}).toBuffer();const a=await sharp(input).raw().toBuffer(),b=await sharp(output).raw().toBuffer();console.log({input:input.length,output:output.length,depth:meta.depth,newDepth:(await sharp(output).metadata()).depth,sameDecodedPixels:a.equals(b),rawBytes:a.length});

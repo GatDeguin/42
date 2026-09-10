@@ -11,7 +11,7 @@ for o in s.objects:
  lo=[min(p[i] for p in bb) for i in range(3)];hi=[max(p[i] for p in bb) for i in range(3)]
  rec={'name':o.name,'collections':cs,'lo':[lo[0],-hi[1],lo[2]],'hi':[hi[0],-lo[1],hi[2]],'materials':[m.name for m in o.data.materials if m]}
  n=o.name.lower()
- if 'REFERENCE' in cs or 'LANDSCAPE' in cs or hi[0]<-1 or lo[0]>23 or hi[1]<-21 or lo[1]>2 or any(k in n for k in ['cielo ','entorno exterior','césped','terreno','calle cedro']):
+ if o.name.startswith('BOT95') or 'REFERENCE' in cs or 'LANDSCAPE' in cs or hi[0]<-1 or lo[0]>23 or hi[1]<-21 or lo[1]>2 or any(k in n for k in ['cielo ','entorno exterior','césped','terreno','calle cedro']):
   objects.append(rec);continue
  eo=o.evaluated_get(dg);me=eo.to_mesh()
  if len(me.vertices)<20000:

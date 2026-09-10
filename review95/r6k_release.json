@@ -1,0 +1,15 @@
+{
+  "model": "D:\\2026\\42\\output\\Casa_de_Campo_95_R6K.blend",
+  "sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+  "bytes": 250407519,
+  "status": "EN REVISION / GLOBAL9.5 PENDIENTE",
+  "doors": 13,
+  "video_rendered": false,
+  "source_geometry": "Casa_de_Campo_95_R6K_geometry.blend",
+  "patches": [
+    "DVH bearing reserves",
+    "flat shower head",
+    "adult garments",
+    "calibrated brick PBR"
+  ]
+}

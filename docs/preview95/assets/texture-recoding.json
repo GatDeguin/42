@@ -1,0 +1,26 @@
+[
+  {
+    "name": "tree_small_02_leaves_nor_gl_2k",
+    "before": 18978122,
+    "after": 8105973,
+    "width": 2048,
+    "height": 2048,
+    "decoded8bitPixelEquality": true
+  },
+  {
+    "name": "tree_small_02_nor_gl",
+    "before": 18976364,
+    "after": 10936648,
+    "width": 2048,
+    "height": 2048,
+    "decoded8bitPixelEquality": true
+  },
+  {
+    "name": "tree_small_02_branch_nor_gl_2k",
+    "before": 15596069,
+    "after": 5229212,
+    "width": 2048,
+    "height": 2048,
+    "decoded8bitPixelEquality": true
+  }
+]

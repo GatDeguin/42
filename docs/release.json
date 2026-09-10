@@ -1,0 +1,30 @@
+{
+  "version": "R6K",
+  "created_utc": "2026-09-10T22:53:06.518796+00:00",
+  "model_sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+  "glb_sha256": "7144f32e811e53511c5ca0d706ae4a96dbe98d83e00ea8a07ed723a2e894be03",
+  "pdf_sha256": "022d777fc96771d43fd5f2813b187c0057beb7de9e89445daacab8779909798a",
+  "status": "EN REVISION · aprobación integral9.5 pendiente",
+  "video": "PAUSADO HASTA APROBACION EXPLICITA",
+  "checks": {
+    "glb_dimensions_match_source": true,
+    "glb_bytes_match_checked_export": true,
+    "glb_under_github_single_file_limit": true,
+    "plans_share_model": true,
+    "photographs_share_model": true,
+    "door_sweeps_share_model": true,
+    "original_model_unchanged": true,
+    "photos_match_manifest": true,
+    "public_pdf_present": true,
+    "editable_plans_present": true,
+    "root_uses_candidate": true
+  },
+  "all_pass": true,
+  "doors": 13,
+  "still_images": 19,
+  "known_pending": [
+    "Pool water volume extends approximately114mm into basin bottom; correction pending, recorded in A08.",
+    "Independent global9.5/photographic approval pending."
+  ],
+  "limits": "Digital geometry and publication checks, not structural, hydraulic, acoustic or municipal certification."
+}

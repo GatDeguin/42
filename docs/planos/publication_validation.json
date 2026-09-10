@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "model_sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+  "review_status": "EN REVISION / SIN APROBACION 9,5",
+  "pages": 33,
+  "svg_files": 33,
+  "dxf_files": 33,
+  "native_dxf_dimensions": 195,
+  "gallery_cards": 33,
+  "unresolved_links": [],
+  "pdf_identical_to_emission": true,
+  "pdf_sha256": "022d777fc96771d43fd5f2813b187c0057beb7de9e89445daacab8779909798a",
+  "zip_sha256": "65700be62b3f4b12b3b32ae4050b39fa02e4497434734f476dd100110abbba58",
+  "zip_bytes": 2142670,
+  "model_unchanged": true,
+  "source_checks": {
+    "consistent_model_sha": true,
+    "general_validation_pass": true,
+    "detail_validation_pass": true,
+    "pages": 33,
+    "general_pages": 21,
+    "detail_pages": 12,
+    "vector_only": true,
+    "a2_all_pages": true,
+    "native_dxf_dimensions": 195,
+    "dxf_files": 33,
+    "svg_files": 33,
+    "anchor_evidence_matches": true,
+    "minimum_font_mm": 2.5
+  }
+}

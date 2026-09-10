@@ -1,43 +1,51 @@
-# Casa de campo · reconstrucción arquitectónica
+# Casa de campo · modelo y documentación arquitectónica
 
-**[Abrir el modelo 3D interactivo online](https://gatdeguin.github.io/42/)** · Vistas de ambientes, cortes, cubiertas y puertas interactivas. Compatible con escritorio y móvil. [Uso, desarrollo y publicación](web-tools/README.md). Revisión anterior del visor: **8/10**, con el criterio inicial. [Dictamen web anterior](audit/critica_visor_web_02.md).
+**[Explorar el modelo 3D](https://gatdeguin.github.io/42/)** · **[Ver las 19 imágenes](https://gatdeguin.github.io/42/renders/)** · **[Abrir los planos](https://gatdeguin.github.io/42/planos/)**
 
-Modelo editable en Blender 5.2, reconstruido a partir del HTML y JavaScript del proyecto. La revisión conserva implantación, dimensiones, distribución y cámaras originales, e incorpora las alturas indicadas por el propietario: **estudio 3,20 m libres y vivienda 2,60 m**, con la cubierta del estudio más alta.
+Reconstrucción editable del proyecto, basada en el HTML/JavaScript original y las correcciones del propietario. Ubicación indicada: **Virrey del Pino, La Matanza, Buenos Aires**.
 
-**Estado actual: 6,9/10 — NO APROBADO para el nuevo umbral de 9,5/10 y realismo fotográfico.** La [auditoría integral independiente](audit/critica_integral_95_01.md) revisa el sitio público, Blender, renders, planos, encuentros constructivos e instalaciones. Documenta los bloqueos y tres pasadas exigidas antes de otra calificación.
+**Candidato R6K en revisión. La aprobación integral de 9,5/10 y el realismo fotográfico exigidos siguen pendientes del agente crítico independiente.** La última auditoría integral publicada calificó la entrega inicial con6,9/10; las notas parciales posteriores no equivalen a aprobar esta versión. [Auditorías y evidencia](audit/).
 
-**Historial:** el modelo alcanzó 8,0/10 con el criterio inicial, tras las evaluaciones de 6/10 y 7/10. [Dictamen anterior del modelo](audit/critica_iteracion_03.md). El nuevo criterio es más estricto; los archivos evaluados no cambiaron. **El video permanece pausado hasta aprobación explícita del propietario.**
+**El video permanece pausado hasta autorización explícita.** El archivo conserva las cámaras y el recorrido editable, sin secuencia de video renderizada.
 
-**Planos disponibles en revisión:** [abrir las 19 láminas A2 online](https://gatdeguin.github.io/42/planos/) · [PDF a escala](docs/planos/Casa_de_Campo_Planos_A2.pdf) · [PDF + SVG + DXF editables](docs/planos/Casa_de_Campo_Planos_Editables.zip). Documentan el candidato constructivo Pass1c y los datos del propietario: Virrey del Pino, Buenos Aires; norte orientativo y redes disponibles. [Validación documental](docs/planos/print_validation.json).
+La auditoría R6K calificó dimensiones y encuentros con **9,0/10** y documentación con **9,2/10**: [dictamen parcial](audit/critica_dimensional_r6k.md). La nota integral sigue pendiente.
 
-**Avance de correcciones:** [candidato Pass1c](output/Casa_de_Campo_95_Pass1c.blend) con canaletas abiertas, bajadas continuas, colector comunicado y acabados de escalera/umbrales coordinados. [14 verificaciones geométricas pasan](review95/construccion_checks.json), incluido el barrido de todas las piezas móviles contra las nuevas piezas. El criterio9,5 todavía no ha sido aprobado; materiales, luz y visor continúan en desarrollo.
+## Entrega del candidato
 
-![Presentación al atardecer](output/Casa_de_Campo_Atardecer_Revision.png)
+- [Blender completo R6K — descarga directa](https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_95_R6K.blend), con materiales empaquetados, objetos y colecciones editables.
+- [19 imágenes Cycles, ambiente por ambiente](https://gatdeguin.github.io/42/renders/), calculadas desde esta misma escena; exterior2400×1800 e interiores1800×1350.
+- [33 láminas A2 en PDF](docs/planos/Casa_de_Campo_Planos_A2.pdf) y [paquete PDF +SVG +DXF](docs/planos/Casa_de_Campo_Planos_Editables.zip): plantas de toda la propiedad, cortes, fachadas, cubiertas y detalles.
+- [Criterios, medidas e inferencias](docs/DECISIONES.md).
+- [Uso y reproducción del visor](web-tools/README.md).
 
-## Entrega vigente
-- [Modelo completo: Casa_de_Campo_Final.blend](output/Casa_de_Campo_Final.blend), con materiales empaquetados, colecciones y objetos editables.
-- [Render principal, 2400 × 1800](output/Casa_de_Campo_Atardecer_Revision.png).
-- [Planos, cortes, detalles e imágenes interiores](review/README.md).
-- [Auditorías independientes](audit/) y [respuesta a las correcciones](audit/respuesta_constructor_02.md).
-- [Decisiones, dimensiones e inferencias](docs/DECISIONES.md).
-- [Validación geométrica](output/validation.json).
+SHA256 del modelo: `a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90`.
 
-El archivo Blender usa **Git LFS**. Para descargar la escena completa, clonar el repositorio con Git LFS y ejecutar git lfs pull. La escena vigente es Casa_de_Campo_Final.blend; el render vigente conserva el nombre Casa_de_Campo_Atardecer_Revision.png. Los archivos de las primeras iteraciones se mantienen como registro.
+![Casa y paisaje](docs/renders/exterior.jpg)
 
-## Contenido
-Lote 22 × 20 m; casa 8 × 12 m; pileta 7 × 3 m; quincho y línea de fuego; huerta; estudio; vivienda; baños; mobiliario; DVH; escalera exterior de 18 peldaños; balcones y paisajismo. La hoja del portón mide 3 m; la luz entre sus pilares de fuente es 2,75 m.
+## Correcciones incorporadas
 
-Las 16 cámaras del HTML se conservan. Se agregan cámaras de revisión y un recorrido editado de 1968 fotogramas a 24 fps. Las 12 puertas y correderas tienen la propiedad open: 0 cerrada, 1 abierta. Las muestras fijas del recorrido permiten revisarlo sin producir video.
+Estudio con3,20m libres y vivienda con2,60m; cubierta del estudio0,60m más alta. Barra del quincho paralela a la parrilla y comedor acercado al jardín. Cama orientada con la ventana a la derecha de quien está acostado. Nuevo acceso corredizo entre el baño y el comedor de planta alta, y mesada de cocina reordenada.
 
-## Revisión técnica
-Se comprobaron las dimensiones y alturas, los barridos de todas las piezas móviles contra muros y mobiliario, los conductos frente a cerramientos y estructura, las juntas acústicas y la persistencia de la cámara al reabrir el archivo.
+Se coordinan alturas de mobiliario, pasos, asientos y apoyos: mesa750mm, barra900mm y taburetes650mm. Los pasos se miden hasta la geometría real —incluidos tiradores— y los planos distinguen cotas del modelo de propuestas pendientes de definición.
 
-Las plantas, cortes y detalles derivan de la geometría del modelo. Los detalles ausentes en el HTML están documentados como desarrollo de la reconstrucción. La escena y su revisión no constituyen un cálculo estructural ni documentación ejecutiva para obra.
+Las13 puertas y correderas conservan mecanismos independientes. La revisión incluye barridos con41 estados, encuentros de carpinterías, soportes de18 peldaños, rodillas bajo consola, desagües representados y capas de baños. Cada prueba conserva su alcance; no demuestra por sí sola la totalidad del funcionamiento constructivo.
 
-## Fuente y herramientas
-- [HTML original](source/original.html) y [encargo](source/request.txt).
-- [Scripts de extracción, construcción y verificación](scripts/). La extracción se ejecuta con node scripts/extract_scene.cjs; las verificaciones usan Blender Python.
-- Conversión de ejes: HTML (X, Y, Z) → Blender (X, −Z, Y); unidades en metros.
-- Mapas de materiales generados por el HTML. Entorno opcional empaquetado: [Belfast Sunset, Poly Haven](https://polyhaven.com/a/belfast_sunset), CC0.
+Pendiente geométrico documentado en A08: el volumen de agua se prolonga unos 114 mm dentro del fondo del vaso. La corrección queda para la siguiente revisión; no se presenta R6K como aprobado.
 
-Los scripts de render y codificación mantienen un bloqueo explícito para el video. Solo se reanudará tras la aprobación del propietario.
+## Fuente y alcance
+
+Lote22×20m; edificio8×12m; pileta7×3m de envolvente nominal; huerta, jardín, quincho, estudio, vivienda, baños, balcones y escalera exterior. Sin escalera interior. La hoja del portón mide3m y la luz entre pilares de fuente es2,75m.
+
+El norte indicado por el propietario apunta abajo a la izquierda cuando Cedro Misionero queda arriba; es orientativo. Se informó disponibilidad de todos los servicios; las acometidas y el relevamiento del lote siguen pendientes.
+
+[HTML original](source/original.html) · [Encargo](source/request.txt). Conversión métrica: HTML(X,Y,Z) → Blender(X,−Z,Y). Las instrucciones posteriores del propietario prevalecen sobre las contradicciones de la fuente. El archivo original [Casa_de_Campo_Final.blend](output/Casa_de_Campo_Final.blend) se conserva como registro y **no es el candidato R6K**.
+
+Los detalles no definidos en la fuente se identifican como propuestas. La documentación permite revisar arquitectura y geometría; no constituye documentación ejecutiva habilitada ni cálculo estructural, hidráulico, acústico o reglamentario.
+
+## Materiales y reproducción
+
+Blender5.2/Cycles y visorThree.js con recursos locales. Modelos Blender mediante GitLFS: después de clonar, ejecutar `git lfs pull`.
+
+Recursos CC0 de PolyHaven: [Belfast Sunset](https://polyhaven.com/a/belfast_sunset), [Tree Small02](https://polyhaven.com/a/tree_small_02), [Oak Veneer01](https://polyhaven.com/a/oak_veneer_01) y [Red Bricks04](https://polyhaven.com/a/red_bricks_04). Se conservan atribución, escala física y trazabilidad de los archivos; el albedo del ladrillo tiene una calibración documentada.
+
+El visor usa geometría del modelo y materiales PBR. La navegación raster y el trazado progresivo opcional tienen límites distintos de los renders Cycles; sus verificaciones y fuentes se documentan [aquí](docs/preview95/README.md).

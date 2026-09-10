@@ -1,0 +1,16 @@
+{
+  "head_body_diameter_m": 0.2,
+  "head_body_thickness_m": 0.012,
+  "body_low_face": 2.31,
+  "nozzle_low_face": 2.3099,
+  "floor": 0.21,
+  "minimum_clearance_m": 2.0999,
+  "nozzles": 89,
+  "mount_center_source": [
+    21.35,
+    2.37,
+    4.6
+  ],
+  "column_mixer_wall_fixings": "unchanged",
+  "proposal": "Generic product visualization; no hydraulic or manufacturer certification"
+}

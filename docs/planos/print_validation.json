@@ -1,77 +1,123 @@
 {
-  "status": "PASS",
-  "model": "D:\\2026\\42\\output\\Casa_de_Campo_95_Pass1c.blend",
-  "model_sha256": "fba22fb65c02f4e82e400abb6b0914d45813397d17cd76fa96fef809a4d39227",
-  "checks": [
-    {
-      "name": "Model hash matches frozen input",
-      "pass": true,
-      "evidence": "fba22fb65c02f4e82e400abb6b0914d45813397d17cd76fa96fef809a4d39227"
-    },
-    {
-      "name": "PDF page count matches manifest",
-      "pass": true,
-      "evidence": 19
-    },
-    {
-      "name": "All PDF sheets are physical A2",
-      "pass": true,
-      "evidence": [
-        594,
-        420
-      ]
-    },
-    {
-      "name": "PDF graphics fully vector",
-      "pass": true,
-      "evidence": {
-        "images": 0,
-        "paths": 16032
+  "status": "PASS_DOCUMENTAL",
+  "review_status": "EN REVISION / SIN APROBACION 9,5",
+  "model": "Casa_de_Campo_95_R6K.blend",
+  "model_sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+  "pdf": "Casa_de_Campo_Planos_A2.pdf",
+  "checks": {
+    "consistent_model_sha": true,
+    "general_validation_pass": true,
+    "detail_validation_pass": true,
+    "pages": 33,
+    "general_pages": 21,
+    "detail_pages": 12,
+    "vector_only": true,
+    "a2_all_pages": true,
+    "native_dxf_dimensions": 195,
+    "dxf_files": 33,
+    "svg_files": 33,
+    "anchor_evidence_matches": true,
+    "minimum_font_mm": 2.5
+  },
+  "general": {
+    "status": "PASS",
+    "model": "D:\\2026\\42\\output\\Casa_de_Campo_95_R6K.blend",
+    "model_sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+    "checks": [
+      {
+        "name": "Model hash matches frozen input",
+        "pass": true,
+        "evidence": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90"
+      },
+      {
+        "name": "PDF page count matches manifest",
+        "pass": true,
+        "evidence": 21
+      },
+      {
+        "name": "All PDF sheets are physical A2",
+        "pass": true,
+        "evidence": [
+          594,
+          420
+        ]
+      },
+      {
+        "name": "PDF graphics fully vector",
+        "pass": true,
+        "evidence": {
+          "images": 0,
+          "paths": 24859
+        }
+      },
+      {
+        "name": "All text inside print frame",
+        "pass": true,
+        "evidence": []
+      },
+      {
+        "name": "Printed text at least 2.4 mm",
+        "pass": true,
+        "evidence": []
+      },
+      {
+        "name": "DXF opens with metre units and no audit errors",
+        "pass": true,
+        "evidence": []
+      },
+      {
+        "name": "Native CAD dimensions match drawing register",
+        "pass": true,
+        "evidence": 101
+      },
+      {
+        "name": "SVG sheets physically sized A2",
+        "pass": true,
+        "evidence": []
+      },
+      {
+        "name": "House footprint preserves 8 x 12 m",
+        "pass": true,
+        "evidence": [
+          8.0,
+          12.0
+        ]
+      },
+      {
+        "name": "18 source treads retained",
+        "pass": true,
+        "evidence": 18
       }
-    },
-    {
-      "name": "All text inside print frame",
-      "pass": true,
-      "evidence": []
-    },
-    {
-      "name": "Printed text at least 2.4 mm",
-      "pass": true,
-      "evidence": []
-    },
-    {
-      "name": "DXF opens with metre units and no audit errors",
-      "pass": true,
-      "evidence": []
-    },
-    {
-      "name": "Native CAD dimensions match drawing register",
-      "pass": true,
-      "evidence": 90
-    },
-    {
-      "name": "SVG sheets physically sized A2",
-      "pass": true,
-      "evidence": []
-    },
-    {
-      "name": "House footprint preserves 8 x 12 m",
-      "pass": true,
-      "evidence": [
-        8.0,
-        12.0
-      ]
-    },
-    {
-      "name": "18 source treads retained",
-      "pass": true,
-      "evidence": 18
-    }
-  ],
-  "not_checked": [
-    "Municipal approval or code compliance",
-    "Engineering capacity or system performance",
-    "Independent 9.5 photographic approval"
-  ],
-  "visual_review": "All sheets rendered; representative full-size sheets and complete contact sheet reviewed by author"
+    ],
+    "not_checked": [
+      "Municipal approval or code compliance",
+      "Engineering capacity or system performance",
+      "Independent 9.5 photographic approval"
+    ],
+    "visual_review": "All sheets rendered; representative full-size sheets and complete contact sheet reviewed by author"
+  },
+  "details": {
+    "pages": 12,
+    "dimensions": 94,
+    "native_dxf_dimensions": 94,
+    "raster_images": 0,
+    "paths": 3105,
+    "text_outside_frame": [],
+    "minimum_font_mm": 2.5,
+    "dxf_errors": [],
+    "svg_size_errors": [],
+    "model_sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+    "dv_h_gap_mm": 16.999244689941406,
+    "anchor_count": 68,
+    "anchor_evidence_matches": true,
+    "limitations": [
+      "Proposals not incorporated into the model by this script",
+      "No performance, load, code or statutory certification"
+    ]
+  },
+  "limits": [
+    "Documentary checks do not certify structural, hydraulic, acoustic, weather or statutory performance.",
+    "G records measured geometry; P records proposals. No approval at 9.5/10 is claimed.",
+    "A08 records water at -0.030 m, wet shelf at -0.080 m (50 mm water depth), and unresolved 114 mm overlap between the water volume and concrete floor."
+  ]
 }

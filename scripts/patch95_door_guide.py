@@ -1,0 +1,12 @@
+from pathlib import Path
+p=Path(r'D:\2026\42\scripts\correcciones95_bano_cocina.py');s=p.read_text(encoding='utf8')
+s=s.replace("parts=[leaf]","""groove=bx('Temporal ranura guía hoja',[19.509,20.561],[3.259,3.280],[8.759,8.769],col='REFERENCE',bev=0)
+cut(leaf,groove);bpy.data.objects.remove(groove,do_unlink=True)
+parts=[leaf]""")
+s=s.replace("[x,5.601,8.765],[x,5.601,8.795]","[x,5.611,8.765],[x,5.611,8.795]")
+s=s.replace("bx('MOB95 | guía inferior lateral baño',[20.523,20.551],[3.25,3.277],[8.727,8.753],'blackMetal','DOORS',.001)","""bx('MOB95 | guía inferior lateral baño base',[20.523,20.551],[3.25,3.257],[8.735,8.777],'blackMetal','DOORS',.001)
+bx('MOB95 | guía inferior lateral baño aleta',[20.523,20.551],[3.257,3.276],[8.762,8.766],'blackMetal','DOORS',.0005)""")
+p.write_text(s,encoding='utf8')
+p=Path(r'D:\2026\42\scripts\verificar95_construccion.py');s=p.read_text(encoding='utf8')
+s=s.replace("('Cielorraso baño | 2.60m sobre porcelanato',3.3,2.6)","('Cielorraso baño | 2.60m sobre porcelanato',3.25 if 'bath_dining_layout95' in S else 3.3,2.6)")
+p.write_text(s,encoding='utf8')

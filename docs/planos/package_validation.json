@@ -1,0 +1,17 @@
+{
+  "consistent_model_sha": true,
+  "general_validation_pass": true,
+  "detail_validation_pass": true,
+  "pages": 33,
+  "general_pages": 21,
+  "detail_pages": 12,
+  "vector_only": true,
+  "a2_all_pages": true,
+  "native_dxf_dimensions": 195,
+  "dxf_files": 33,
+  "svg_files": 33,
+  "anchor_evidence_matches": true,
+  "minimum_font_mm": 2.5,
+  "model_sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+  "review_status": "EN REVISION / SIN APROBACION 9,5"
+}

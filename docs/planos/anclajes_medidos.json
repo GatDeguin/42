@@ -1,0 +1,686 @@
+{
+  "model_sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+  "source": "D:\\2026\\42\\review95\\bearing_details_3c.json",
+  "anchors": [
+    {
+      "post": "Baranda lateral poste 0",
+      "rod": "FIX95 | vástago M10 continuo",
+      "x": 13.09,
+      "z": 5.09,
+      "substrate": "Descanso escalera",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 0",
+      "rod": "FIX95 | vástago M10 continuo.001",
+      "x": 13.09,
+      "z": 5.17,
+      "substrate": "Descanso escalera",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 0",
+      "rod": "FIX95 | vástago M10 continuo.002",
+      "x": 13.17,
+      "z": 5.09,
+      "substrate": "Descanso escalera",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 0",
+      "rod": "FIX95 | vástago M10 continuo.003",
+      "x": 13.17,
+      "z": 5.17,
+      "substrate": "Descanso escalera",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 1",
+      "rod": "FIX95 | vástago M10 continuo.004",
+      "x": 13.09,
+      "z": 5.9644999504089355,
+      "substrate": "Descanso escalera",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 1",
+      "rod": "FIX95 | vástago M10 continuo.005",
+      "x": 13.09,
+      "z": 6.0304999351501465,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 1",
+      "rod": "FIX95 | vástago M10 continuo.006",
+      "x": 13.17,
+      "z": 5.9644999504089355,
+      "substrate": "Descanso escalera",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 1",
+      "rod": "FIX95 | vástago M10 continuo.007",
+      "x": 13.17,
+      "z": 6.0304999351501465,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 2",
+      "rod": "FIX95 | vástago M10 continuo.008",
+      "x": 13.09,
+      "z": 6.961999893188477,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 2",
+      "rod": "FIX95 | vástago M10 continuo.009",
+      "x": 13.09,
+      "z": 7.0279998779296875,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 2",
+      "rod": "FIX95 | vástago M10 continuo.010",
+      "x": 13.17,
+      "z": 6.961999893188477,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 2",
+      "rod": "FIX95 | vástago M10 continuo.011",
+      "x": 13.17,
+      "z": 7.0279998779296875,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 3",
+      "rod": "FIX95 | vástago M10 continuo.012",
+      "x": 13.09,
+      "z": 7.959500312805176,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 3",
+      "rod": "FIX95 | vástago M10 continuo.013",
+      "x": 13.09,
+      "z": 8.025500297546387,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 3",
+      "rod": "FIX95 | vástago M10 continuo.014",
+      "x": 13.17,
+      "z": 7.959500312805176,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 3",
+      "rod": "FIX95 | vástago M10 continuo.015",
+      "x": 13.17,
+      "z": 8.025500297546387,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 4",
+      "rod": "FIX95 | vástago M10 continuo.016",
+      "x": 13.09,
+      "z": 8.956999778747559,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 4",
+      "rod": "FIX95 | vástago M10 continuo.017",
+      "x": 13.09,
+      "z": 9.02299976348877,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 4",
+      "rod": "FIX95 | vástago M10 continuo.018",
+      "x": 13.17,
+      "z": 8.956999778747559,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 4",
+      "rod": "FIX95 | vástago M10 continuo.019",
+      "x": 13.17,
+      "z": 9.02299976348877,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 5",
+      "rod": "FIX95 | vástago M10 continuo.020",
+      "x": 13.09,
+      "z": 9.954500198364258,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 5",
+      "rod": "FIX95 | vástago M10 continuo.021",
+      "x": 13.09,
+      "z": 10.020500183105469,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 5",
+      "rod": "FIX95 | vástago M10 continuo.022",
+      "x": 13.17,
+      "z": 9.954500198364258,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 5",
+      "rod": "FIX95 | vástago M10 continuo.023",
+      "x": 13.17,
+      "z": 10.020500183105469,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 6",
+      "rod": "FIX95 | vástago M10 continuo.024",
+      "x": 13.09,
+      "z": 10.95199966430664,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 6",
+      "rod": "FIX95 | vástago M10 continuo.025",
+      "x": 13.09,
+      "z": 11.017999649047852,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 6",
+      "rod": "FIX95 | vástago M10 continuo.026",
+      "x": 13.17,
+      "z": 10.95199966430664,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 6",
+      "rod": "FIX95 | vástago M10 continuo.027",
+      "x": 13.17,
+      "z": 11.017999649047852,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 7",
+      "rod": "FIX95 | vástago M10 continuo.028",
+      "x": 13.09,
+      "z": 11.94950008392334,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 7",
+      "rod": "FIX95 | vástago M10 continuo.029",
+      "x": 13.09,
+      "z": 12.01550006866455,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 7",
+      "rod": "FIX95 | vástago M10 continuo.030",
+      "x": 13.17,
+      "z": 11.94950008392334,
+      "substrate": "Balcón lateral",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 184.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 7",
+      "rod": "FIX95 | vástago M10 continuo.031",
+      "x": 13.17,
+      "z": 12.01550006866455,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 8",
+      "rod": "FIX95 | vástago M10 continuo.032",
+      "x": 13.09,
+      "z": 12.83,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 8",
+      "rod": "FIX95 | vástago M10 continuo.033",
+      "x": 13.09,
+      "z": 12.91,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 8",
+      "rod": "FIX95 | vástago M10 continuo.034",
+      "x": 13.17,
+      "z": 12.83,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda lateral poste 8",
+      "rod": "FIX95 | vástago M10 continuo.035",
+      "x": 13.17,
+      "z": 12.91,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 1",
+      "rod": "FIX95 | vástago M10 continuo.036",
+      "x": 14.107000350952148,
+      "z": 12.83,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 1",
+      "rod": "FIX95 | vástago M10 continuo.037",
+      "x": 14.107000350952148,
+      "z": 12.91,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 1",
+      "rod": "FIX95 | vástago M10 continuo.038",
+      "x": 14.17300033569336,
+      "z": 12.83,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 1",
+      "rod": "FIX95 | vástago M10 continuo.039",
+      "x": 14.17300033569336,
+      "z": 12.91,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 2",
+      "rod": "FIX95 | vástago M10 continuo.040",
+      "x": 15.22700023651123,
+      "z": 12.83,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 2",
+      "rod": "FIX95 | vástago M10 continuo.041",
+      "x": 15.22700023651123,
+      "z": 12.91,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 2",
+      "rod": "FIX95 | vástago M10 continuo.042",
+      "x": 15.293000221252441,
+      "z": 12.83,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 2",
+      "rod": "FIX95 | vástago M10 continuo.043",
+      "x": 15.293000221252441,
+      "z": 12.91,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 3",
+      "rod": "FIX95 | vástago M10 continuo.044",
+      "x": 16.34699821472168,
+      "z": 12.83,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 3",
+      "rod": "FIX95 | vástago M10 continuo.045",
+      "x": 16.34699821472168,
+      "z": 12.91,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 3",
+      "rod": "FIX95 | vástago M10 continuo.046",
+      "x": 16.413000106811523,
+      "z": 12.83,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 3",
+      "rod": "FIX95 | vástago M10 continuo.047",
+      "x": 16.413000106811523,
+      "z": 12.91,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 4",
+      "rod": "FIX95 | vástago M10 continuo.048",
+      "x": 17.466999053955078,
+      "z": 12.83,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 4",
+      "rod": "FIX95 | vástago M10 continuo.049",
+      "x": 17.466999053955078,
+      "z": 12.91,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 4",
+      "rod": "FIX95 | vástago M10 continuo.050",
+      "x": 17.533000946044922,
+      "z": 12.83,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 4",
+      "rod": "FIX95 | vástago M10 continuo.051",
+      "x": 17.533000946044922,
+      "z": 12.91,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 5",
+      "rod": "FIX95 | vástago M10 continuo.052",
+      "x": 18.586999893188477,
+      "z": 12.83,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 5",
+      "rod": "FIX95 | vástago M10 continuo.053",
+      "x": 18.586999893188477,
+      "z": 12.91,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 5",
+      "rod": "FIX95 | vástago M10 continuo.054",
+      "x": 18.65300178527832,
+      "z": 12.83,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 5",
+      "rod": "FIX95 | vástago M10 continuo.055",
+      "x": 18.65300178527832,
+      "z": 12.91,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 6",
+      "rod": "FIX95 | vástago M10 continuo.056",
+      "x": 19.706998825073242,
+      "z": 12.83,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 6",
+      "rod": "FIX95 | vástago M10 continuo.057",
+      "x": 19.706998825073242,
+      "z": 12.91,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 6",
+      "rod": "FIX95 | vástago M10 continuo.058",
+      "x": 19.773000717163086,
+      "z": 12.83,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 6",
+      "rod": "FIX95 | vástago M10 continuo.059",
+      "x": 19.773000717163086,
+      "z": 12.91,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 7",
+      "rod": "FIX95 | vástago M10 continuo.060",
+      "x": 20.82699966430664,
+      "z": 12.83,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 7",
+      "rod": "FIX95 | vástago M10 continuo.061",
+      "x": 20.82699966430664,
+      "z": 12.91,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 7",
+      "rod": "FIX95 | vástago M10 continuo.062",
+      "x": 20.893001556396484,
+      "z": 12.83,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 7",
+      "rod": "FIX95 | vástago M10 continuo.063",
+      "x": 20.893001556396484,
+      "z": 12.91,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 8",
+      "rod": "FIX95 | vástago M10 continuo.064",
+      "x": 21.83,
+      "z": 12.83,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 8",
+      "rod": "FIX95 | vástago M10 continuo.065",
+      "x": 21.83,
+      "z": 12.91,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 8",
+      "rod": "FIX95 | vástago M10 continuo.066",
+      "x": 21.91,
+      "z": 12.83,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    },
+    {
+      "post": "Baranda posterior poste 8",
+      "rod": "FIX95 | vástago M10 continuo.067",
+      "x": 21.91,
+      "z": 12.91,
+      "substrate": "Balcón posterior",
+      "embedment_mm": 100.0,
+      "rod_length_mm": 174.0,
+      "matches_evidence": true
+    }
+  ]
+}

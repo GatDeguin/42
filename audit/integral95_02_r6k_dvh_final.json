@@ -1,0 +1,766 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_95_R6K.blend",
+  "sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+  "method": "Independent evaluated mesh EXACT Boolean, plus rays to measured original faces of frame/EPDM/sill. Includes GL95 glazing parts versus neighbouring hosts, not only builder selected frames. Does not save the source.",
+  "pairs": [
+    {
+      "a": "Ventana DVH estudio Vidrio interior",
+      "b": "Estudio dintel ventana",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio marco superior",
+      "b": "Estudio dintel ventana",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio marco superior",
+      "b": "Estudio lateral frente",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio marco superior",
+      "b": "Estudio paño entre ventana y puerta",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio marco inferior",
+      "b": "Estudio antepecho ventana",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio marco inferior",
+      "b": "Estudio lateral frente",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio marco inferior",
+      "b": "Estudio paño entre ventana y puerta",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio marco inferior",
+      "b": "Vierteaguas DVH estudio",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio marco inferior",
+      "b": "Ventana DVH estudio alféizar",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio marco frente",
+      "b": "Estudio dintel ventana",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio marco frente",
+      "b": "Estudio lateral frente",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio marco fondo",
+      "b": "Estudio dintel ventana",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio marco fondo",
+      "b": "Estudio paño entre ventana y puerta",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | E junta vidrio2 interior cabeza",
+      "b": "Estudio dintel ventana",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | E junta vidrio2 interior inicio",
+      "b": "Estudio dintel ventana",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | E junta vidrio2 interior fin",
+      "b": "Estudio dintel ventana",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | E asiento alféizar EPDM3",
+      "b": "Estudio antepecho ventana",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | E asiento alféizar EPDM3",
+      "b": "Estudio lateral frente",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | E asiento alféizar EPDM3",
+      "b": "Estudio paño entre ventana y puerta",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | E asiento alféizar EPDM3",
+      "b": "Vierteaguas DVH estudio",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | E asiento alféizar EPDM3",
+      "b": "Ventana DVH estudio alféizar",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | E junta labio exterior1",
+      "b": "Vierteaguas DVH estudio",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | E junta labio exterior1",
+      "b": "Ventana DVH estudio alféizar",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | E junta labio interior1",
+      "b": "Estudio antepecho ventana",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | E junta labio interior1",
+      "b": "Estudio lateral frente",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | E junta labio interior1",
+      "b": "Estudio paño entre ventana y puerta",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | E junta labio interior1",
+      "b": "Ventana DVH estudio alféizar",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio vidrio",
+      "b": "Ventana DVH estudio marco superior",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio vidrio",
+      "b": "Ventana DVH estudio marco inferior",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio vidrio",
+      "b": "Ventana DVH estudio marco frente",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio vidrio",
+      "b": "Ventana DVH estudio marco fondo",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio Vidrio interior",
+      "b": "Ventana DVH estudio marco superior",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio Vidrio interior",
+      "b": "Ventana DVH estudio marco inferior",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio Vidrio interior",
+      "b": "Ventana DVH estudio marco frente",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Ventana DVH estudio Vidrio interior",
+      "b": "Ventana DVH estudio marco fondo",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio Vidrio interior",
+      "b": "Dormitorio antepecho lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio Vidrio interior",
+      "b": "Dormitorio dintel lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio marco superior",
+      "b": "Dormitorio dintel lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio marco superior",
+      "b": "Paño lateral medio vivienda",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio marco superior",
+      "b": "Vivienda lateral junto estudio",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio marco inferior",
+      "b": "Dormitorio antepecho lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio marco inferior",
+      "b": "Paño lateral medio vivienda",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio marco inferior",
+      "b": "Vivienda lateral junto estudio",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio marco inferior",
+      "b": "Puerta ventana dormitorio alféizar",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio marco frente",
+      "b": "Dormitorio antepecho lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio marco frente",
+      "b": "Dormitorio dintel lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio marco fondo",
+      "b": "Dormitorio antepecho lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio marco fondo",
+      "b": "Dormitorio dintel lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | D junta vidrio2 interior base",
+      "b": "Dormitorio antepecho lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | D junta vidrio2 interior cabeza",
+      "b": "Dormitorio dintel lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | D junta vidrio2 interior inicio",
+      "b": "Dormitorio antepecho lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | D junta vidrio2 interior inicio",
+      "b": "Dormitorio dintel lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | D junta vidrio2 interior fin",
+      "b": "Dormitorio antepecho lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | D junta vidrio2 interior fin",
+      "b": "Dormitorio dintel lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | D taco vidrio2-1100x6",
+      "b": "Dormitorio antepecho lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | D calzo apoyo vidrio2-1",
+      "b": "Dormitorio antepecho lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | D taco vidrio2-2100x6",
+      "b": "Dormitorio antepecho lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | D calzo apoyo vidrio2-2",
+      "b": "Dormitorio antepecho lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | D asiento alféizar EPDM3",
+      "b": "Dormitorio antepecho lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | D asiento alféizar EPDM3",
+      "b": "Puerta ventana dormitorio alféizar",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | D junta labio exterior1",
+      "b": "Puerta ventana dormitorio alféizar",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | D junta labio interior1",
+      "b": "Dormitorio antepecho lateral",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "GL95 | D junta labio interior1",
+      "b": "Puerta ventana dormitorio alféizar",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio vidrio",
+      "b": "Puerta ventana dormitorio marco superior",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio vidrio",
+      "b": "Puerta ventana dormitorio marco inferior",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio vidrio",
+      "b": "Puerta ventana dormitorio marco frente",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio vidrio",
+      "b": "Puerta ventana dormitorio marco fondo",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio Vidrio interior",
+      "b": "Puerta ventana dormitorio marco superior",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio Vidrio interior",
+      "b": "Puerta ventana dormitorio marco inferior",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio Vidrio interior",
+      "b": "Puerta ventana dormitorio marco frente",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    },
+    {
+      "a": "Puerta ventana dormitorio Vidrio interior",
+      "b": "Puerta ventana dormitorio marco fondo",
+      "intersection_volume_m3": 0.0,
+      "pass_geometry": true
+    }
+  ],
+  "contacts": [
+    {
+      "family": "E",
+      "point_source_xz": [
+        13.953749656677246,
+        4.075830030441284
+      ],
+      "faces_y": {
+        "sill_top": 4.016000270843506,
+        "pad_bottom": 4.016000270843506,
+        "pad_top": 4.019000053405762,
+        "frame_bottom": 4.019000053405762
+      },
+      "gaps_m": {
+        "sill_pad": 0.0,
+        "pad_frame": 0.0
+      },
+      "pass_geometry": true
+    },
+    {
+      "family": "E",
+      "point_source_xz": [
+        13.953749656677246,
+        3.0
+      ],
+      "faces_y": {
+        "sill_top": 4.016000270843506,
+        "pad_bottom": 4.016000270843506,
+        "pad_top": 4.019000053405762,
+        "frame_bottom": 4.019000053405762
+      },
+      "gaps_m": {
+        "sill_pad": 0.0,
+        "pad_frame": 0.0
+      },
+      "pass_geometry": true
+    },
+    {
+      "family": "E",
+      "point_source_xz": [
+        13.953749656677246,
+        1.924169969558716
+      ],
+      "faces_y": {
+        "sill_top": 4.016000270843506,
+        "pad_bottom": 4.016000270843506,
+        "pad_top": 4.019000053405762,
+        "frame_bottom": 4.019000053405762
+      },
+      "gaps_m": {
+        "sill_pad": 0.0,
+        "pad_frame": 0.0
+      },
+      "pass_geometry": true
+    },
+    {
+      "family": "E",
+      "point_source_xz": [
+        13.984999656677246,
+        4.075830030441284
+      ],
+      "faces_y": {
+        "sill_top": 4.016000270843506,
+        "pad_bottom": 4.016000270843506,
+        "pad_top": 4.019000053405762,
+        "frame_bottom": 4.019000053405762
+      },
+      "gaps_m": {
+        "sill_pad": 0.0,
+        "pad_frame": 0.0
+      },
+      "pass_geometry": true
+    },
+    {
+      "family": "E",
+      "point_source_xz": [
+        13.984999656677246,
+        3.0
+      ],
+      "faces_y": {
+        "sill_top": 4.016000270843506,
+        "pad_bottom": 4.016000270843506,
+        "pad_top": 4.019000053405762,
+        "frame_bottom": 4.019000053405762
+      },
+      "gaps_m": {
+        "sill_pad": 0.0,
+        "pad_frame": 0.0
+      },
+      "pass_geometry": true
+    },
+    {
+      "family": "E",
+      "point_source_xz": [
+        13.984999656677246,
+        1.924169969558716
+      ],
+      "faces_y": {
+        "sill_top": 4.016000270843506,
+        "pad_bottom": 4.016000270843506,
+        "pad_top": 4.019000053405762,
+        "frame_bottom": 4.019000053405762
+      },
+      "gaps_m": {
+        "sill_pad": 0.0,
+        "pad_frame": 0.0
+      },
+      "pass_geometry": true
+    },
+    {
+      "family": "E",
+      "point_source_xz": [
+        14.016249656677246,
+        4.075830030441284
+      ],
+      "faces_y": {
+        "sill_top": 4.016000270843506,
+        "pad_bottom": 4.016000270843506,
+        "pad_top": 4.019000053405762,
+        "frame_bottom": 4.019000053405762
+      },
+      "gaps_m": {
+        "sill_pad": 0.0,
+        "pad_frame": 0.0
+      },
+      "pass_geometry": true
+    },
+    {
+      "family": "E",
+      "point_source_xz": [
+        14.016249656677246,
+        3.0
+      ],
+      "faces_y": {
+        "sill_top": 4.016000270843506,
+        "pad_bottom": 4.016000270843506,
+        "pad_top": 4.019000053405762,
+        "frame_bottom": 4.019000053405762
+      },
+      "gaps_m": {
+        "sill_pad": 0.0,
+        "pad_frame": 0.0
+      },
+      "pass_geometry": true
+    },
+    {
+      "family": "E",
+      "point_source_xz": [
+        14.016249656677246,
+        1.924169969558716
+      ],
+      "faces_y": {
+        "sill_top": 4.016000270843506,
+        "pad_bottom": 4.016000270843506,
+        "pad_top": 4.019000053405762,
+        "frame_bottom": 4.019000053405762
+      },
+      "gaps_m": {
+        "sill_pad": 0.0,
+        "pad_frame": 0.0
+      },
+      "pass_geometry": true
+    },
+    {
+      "family": "D",
+      "point_source_xz": [
+        13.953749656677246,
+        8.170830154418946
+      ],
+      "faces_y": {
+        "sill_top": 3.7960000038146973,
+        "pad_bottom": 3.7960000038146973,
+        "pad_top": 3.7990000247955322,
+        "frame_bottom": 3.7990000247955322
+      },
+      "gaps_m": {
+        "sill_pad": 0.0,
+        "pad_frame": 0.0
+      },
+      "pass_geometry": true
+    },
+    {
+      "family": "D",
+      "point_source_xz": [
+        13.953749656677246,
+        7.550000190734863
+      ],
+      "faces_y": {
+        "sill_top": 3.7960000038146973,
+        "pad_bottom": 3.7960000038146973,
+        "pad_top": 3.7990000247955322,
+        "frame_bottom": 3.7990000247955322
+      },
+      "gaps_m": {
+        "sill_pad": 0.0,
+        "pad_frame": 0.0
+      },
+      "pass_geometry": true
+    },
+    {
+      "family": "D",
+      "point_source_xz": [
+        13.953749656677246,
+        6.929170227050781
+      ],
+      "faces_y": {
+        "sill_top": 3.7960000038146973,
+        "pad_bottom": 3.7960000038146973,
+        "pad_top": 3.7990000247955322,
+        "frame_bottom": 3.7990000247955322
+      },
+      "gaps_m": {
+        "sill_pad": 0.0,
+        "pad_frame": 0.0
+      },
+      "pass_geometry": true
+    },
+    {
+      "family": "D",
+      "point_source_xz": [
+        13.984999656677246,
+        8.170830154418946
+      ],
+      "faces_y": {
+        "sill_top": 3.7960000038146973,
+        "pad_bottom": 3.7960000038146973,
+        "pad_top": 3.7990000247955322,
+        "frame_bottom": 3.7990000247955322
+      },
+      "gaps_m": {
+        "sill_pad": 0.0,
+        "pad_frame": 0.0
+      },
+      "pass_geometry": true
+    },
+    {
+      "family": "D",
+      "point_source_xz": [
+        13.984999656677246,
+        7.550000190734863
+      ],
+      "faces_y": {
+        "sill_top": 3.7960000038146973,
+        "pad_bottom": 3.7960000038146973,
+        "pad_top": 3.7990000247955322,
+        "frame_bottom": 3.7990000247955322
+      },
+      "gaps_m": {
+        "sill_pad": 0.0,
+        "pad_frame": 0.0
+      },
+      "pass_geometry": true
+    },
+    {
+      "family": "D",
+      "point_source_xz": [
+        13.984999656677246,
+        6.929170227050781
+      ],
+      "faces_y": {
+        "sill_top": 3.7960000038146973,
+        "pad_bottom": 3.7960000038146973,
+        "pad_top": 3.7990000247955322,
+        "frame_bottom": 3.7990000247955322
+      },
+      "gaps_m": {
+        "sill_pad": 0.0,
+        "pad_frame": 0.0
+      },
+      "pass_geometry": true
+    },
+    {
+      "family": "D",
+      "point_source_xz": [
+        14.016249656677246,
+        8.170830154418946
+      ],
+      "faces_y": {
+        "sill_top": 3.7960000038146973,
+        "pad_bottom": 3.7960000038146973,
+        "pad_top": 3.7990000247955322,
+        "frame_bottom": 3.7990000247955322
+      },
+      "gaps_m": {
+        "sill_pad": 0.0,
+        "pad_frame": 0.0
+      },
+      "pass_geometry": true
+    },
+    {
+      "family": "D",
+      "point_source_xz": [
+        14.016249656677246,
+        7.550000190734863
+      ],
+      "faces_y": {
+        "sill_top": 3.7960000038146973,
+        "pad_bottom": 3.7960000038146973,
+        "pad_top": 3.7990000247955322,
+        "frame_bottom": 3.7990000247955322
+      },
+      "gaps_m": {
+        "sill_pad": 0.0,
+        "pad_frame": 0.0
+      },
+      "pass_geometry": true
+    },
+    {
+      "family": "D",
+      "point_source_xz": [
+        14.016249656677246,
+        6.929170227050781
+      ],
+      "faces_y": {
+        "sill_top": 3.7960000038146973,
+        "pad_bottom": 3.7960000038146973,
+        "pad_top": 3.7990000247955322,
+        "frame_bottom": 3.7990000247955322
+      },
+      "gaps_m": {
+        "sill_pad": 0.0,
+        "pad_frame": 0.0
+      },
+      "pass_geometry": true
+    }
+  ],
+  "scope": "Geometric coordination only, no watertightness/capacity/acoustic certification.",
+  "summary": {
+    "pairs": 71,
+    "failed_pairs": [],
+    "contact_stations": 18,
+    "failed_contacts": []
+  }
+}
