@@ -1,6 +1,6 @@
 import {chromium} from 'playwright';
 import fs from 'node:fs';import assert from 'node:assert/strict';
-const out='review99/github_progress';fs.mkdirSync(out,{recursive:true});
+const out=process.env.PROGRESS_OUT||'review99/github_progress';fs.mkdirSync(out,{recursive:true});
 const url=process.env.PROGRESS_URL||'http://127.0.0.1:8420/avance-r7/';
 const report={url,errors:[],views:[],scope:'Static R7 progress page, desktop and touch viewport emulation. No claim of final R7 model viewer QA.'};
 const b=await chromium.launch({channel:'chrome',headless:true});

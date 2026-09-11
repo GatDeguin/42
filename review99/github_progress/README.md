@@ -34,3 +34,7 @@ Incluye además corrección del volumen de agua de la piscina, textiles físicos
 **El visor principal,19imágenes y33planos publicados siguen en R6K.** La página [Avance R7](https://gatdeguin.github.io/42/avance-r7/) muestra el alcance de este checkpoint. La prueba de la página cubre escritorio y viewport táctil emulado, sin afirmar una prueba en teléfono físico: [resultado](page-qa.json).
 
 **Video pausado hasta autorización explícita del propietario.** El checkpoint conserva el recorrido editable. La documentación de estudio no constituye documentación ejecutiva habilitada ni cálculo resistente, hidráulico, acústico o reglamentario.
+
+## Verificación pública
+
+Publicado en el commit5920218. Se descargó y comprobó el Blender completo:361.458.601bytes ySHA256 idéntico al checkpoint. Las tres páginas y la imagen coinciden byte a byte con Git. [Registro HTTP yhashes](live_verification_5920218.json) · [Prueba pública de página en Chrome](live-page/page-qa.json).

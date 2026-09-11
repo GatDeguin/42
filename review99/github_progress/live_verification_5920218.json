@@ -1,0 +1,43 @@
+{
+  "commit": "59202185bc57176bdc91e53ee2a522839177d208",
+  "checkedAt": "2026-09-11T01:31:06Z",
+  "pages": [
+    {
+      "url": "https://gatdeguin.github.io/42/",
+      "status": 200,
+      "bytes": 7398,
+      "sha256": "a49348ee98d3611231a7d71811af1882d454537ae32477968e40595a78a132f2",
+      "exactGitBytes": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview95/",
+      "status": 200,
+      "bytes": 6854,
+      "sha256": "75fb69f075959b86803894b4fc9b02ab16617b49241540ed0ce7ded0ca515f5b",
+      "exactGitBytes": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/avance-r7/",
+      "status": 200,
+      "bytes": 4428,
+      "sha256": "823f26a1d7b77e984f026d2742a09dd4a9ee19d91d334f821ccf0031fa84de0e",
+      "exactGitBytes": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/avance-r7/acceso-dormitorio.png",
+      "status": 200,
+      "bytes": 1054227,
+      "sha256": "4dd116053ac8688c6b70255244aec9053e0596d6d16255615c774840718465a9",
+      "exactGitBytes": true
+    }
+  ],
+  "videoRendered": false,
+  "model": {
+    "url": "https://media.githubusercontent.com/media/GatDeguin/42/59202185bc57176bdc91e53ee2a522839177d208/output/Casa_de_Campo_99_R7_avance.blend",
+    "status": 200,
+    "bytes": 361458601,
+    "sha256": "2fb66250a3634a3b956244220d0f52f587623c1d0b0179c9ee0a5fd0d9b2bf46",
+    "exactExpectedHash": true
+  },
+  "passed": true
+}
