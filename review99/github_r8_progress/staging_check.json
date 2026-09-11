@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "files": 235,
+  "lfs": [
+    "output/Casa_de_Campo_99_R8.blend",
+    "source/assets/grass_bermuda_01/grass_bermuda_01_2k.blend"
+  ],
+  "textLineEndingOnly": [
+    "scripts/PLANOS_R8.md",
+    "scripts/planos95_details_build.py",
+    "scripts/planos95_extract.py",
+    "scripts/planos95_package.py",
+    "scripts/planos95_publication.css",
+    "scripts/planos99_document_audit.py",
+    "scripts/planos99_service_access.md",
+    "scripts/planos99_service_access_probe.py",
+    "scripts/planos99_uso_a2.py",
+    "web-tools/planos99-publisher-qa.mjs",
+    "web-tools/r8-progress-qa.mjs"
+  ],
+  "excludedUnverifiedRuntime": true
+}

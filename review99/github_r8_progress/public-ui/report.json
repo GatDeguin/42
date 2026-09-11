@@ -1,0 +1,158 @@
+{
+  "url": "https://gatdeguin.github.io/42/",
+  "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+  "errors": [],
+  "pages": [
+    {
+      "viewport": "desktop",
+      "title": "Avance R8 · Casa de campo",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "images": [
+        {
+          "src": "huerta.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "estudio.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "dormitorio.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "pileta_jardin.jpg",
+          "width": 2000,
+          "height": 1500
+        }
+      ],
+      "links": [
+        {
+          "text": "42 / CASA DE CAMPO",
+          "href": "https://gatdeguin.github.io/42/"
+        },
+        {
+          "text": "Proyecto en GitHub ↗",
+          "href": "https://github.com/GatDeguin/42"
+        },
+        {
+          "text": "Descargar Blender R8 ↓",
+          "href": "https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R8.blend"
+        },
+        {
+          "text": "Ver los 35 planos R8 ↗",
+          "href": "https://gatdeguin.github.io/42/avance-r8/planos/"
+        },
+        {
+          "text": "visor",
+          "href": "https://gatdeguin.github.io/42/"
+        },
+        {
+          "text": "galería de 25 imágenes",
+          "href": "https://gatdeguin.github.io/42/renders99/"
+        },
+        {
+          "text": "33 planos R7D",
+          "href": "https://gatdeguin.github.io/42/planos99/"
+        },
+        {
+          "text": "Estado de las tres pasadas correctivas ↗",
+          "href": "https://github.com/GatDeguin/42/blob/main/audit/r8_three_passes.md"
+        },
+        {
+          "text": "Auditoría independiente R7D ↗",
+          "href": "https://github.com/GatDeguin/42/blob/main/audit/critica_integral_r7d_99.md"
+        },
+        {
+          "text": "Identificación y huellas de las imágenes ↗",
+          "href": "https://gatdeguin.github.io/42/avance-r8/manifest.json"
+        },
+        {
+          "text": "Alcance y comprobaciones ↗",
+          "href": "https://github.com/GatDeguin/42/blob/main/review99/github_r8_progress/README.md"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "title": "Avance R8 · Casa de campo",
+      "width": 390,
+      "scrollWidth": 390,
+      "images": [
+        {
+          "src": "huerta.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "estudio.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "dormitorio.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "pileta_jardin.jpg",
+          "width": 2000,
+          "height": 1500
+        }
+      ],
+      "links": [
+        {
+          "text": "42 / CASA DE CAMPO",
+          "href": "https://gatdeguin.github.io/42/"
+        },
+        {
+          "text": "Proyecto en GitHub ↗",
+          "href": "https://github.com/GatDeguin/42"
+        },
+        {
+          "text": "Descargar Blender R8 ↓",
+          "href": "https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R8.blend"
+        },
+        {
+          "text": "Ver los 35 planos R8 ↗",
+          "href": "https://gatdeguin.github.io/42/avance-r8/planos/"
+        },
+        {
+          "text": "visor",
+          "href": "https://gatdeguin.github.io/42/"
+        },
+        {
+          "text": "galería de 25 imágenes",
+          "href": "https://gatdeguin.github.io/42/renders99/"
+        },
+        {
+          "text": "33 planos R7D",
+          "href": "https://gatdeguin.github.io/42/planos99/"
+        },
+        {
+          "text": "Estado de las tres pasadas correctivas ↗",
+          "href": "https://github.com/GatDeguin/42/blob/main/audit/r8_three_passes.md"
+        },
+        {
+          "text": "Auditoría independiente R7D ↗",
+          "href": "https://github.com/GatDeguin/42/blob/main/audit/critica_integral_r7d_99.md"
+        },
+        {
+          "text": "Identificación y huellas de las imágenes ↗",
+          "href": "https://gatdeguin.github.io/42/avance-r8/manifest.json"
+        },
+        {
+          "text": "Alcance y comprobaciones ↗",
+          "href": "https://github.com/GatDeguin/42/blob/main/review99/github_r8_progress/README.md"
+        }
+      ]
+    }
+  ],
+  "videoRendered": false,
+  "scope": "Publication layout, images, source identity and links; no architectural score.",
+  "passed": true
+}
