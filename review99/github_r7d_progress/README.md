@@ -16,3 +16,6 @@ Video pausado hasta autorización expresa. Esta revisión digital no es document
 [Manifiesto](manifest.json) · [Controles geométricos](../r7d_integrated/frozen_geometry_checks.json) · [Regresiones de componentes](../r7d_integrated/component_regressions.json).
 
 [Revisión constructiva preliminar independiente](../../audit/critica_constructiva_preliminar_r7d.md): 30 pares de herrajes fijo–móvil requieren corrección. Sin nota global R7D.
+
+
+Publicación comprobada en vivo, commit `f8026c0`: [8 páginas/imágenes,56 recursos y ambas descargas completas con SHA exacto](live_verification_f8026c0.json). [Chrome sobre la raíz pública](public-ui/report.json): cuatro vistas,13puertas y encuadre vertical sin errores. Estas comprobaciones no son una aprobación fotográfica ni constructiva integral.

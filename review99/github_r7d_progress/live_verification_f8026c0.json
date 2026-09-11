@@ -1,0 +1,475 @@
+{
+  "commit": "f8026c0f9bfc59411db05049800a27ee1d81ace1",
+  "sourceSHA256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "checkedAt": "2026-09-11T02:39:10Z",
+  "pages": [
+    {
+      "url": "https://gatdeguin.github.io/42/",
+      "status": 200,
+      "bytes": 7122,
+      "sha256": "78b34e92e92a82a0c461dfb208c03338de0de8c50ef25114affdd093487fce98",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/",
+      "status": 200,
+      "bytes": 7096,
+      "sha256": "457cab2ac0276e38feb8a8763d1abb0fb34d02ee423bc670b63370f6571cd403",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/avance-r7/",
+      "status": 200,
+      "bytes": 5090,
+      "sha256": "06907df976c204b1d8e238ae41b1dd80389e0ac57bf244be30f1fdd4667e776e",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/model-info.json",
+      "status": 200,
+      "bytes": 68508,
+      "sha256": "7a7c79802a3499a96860e7b73cfcbdeef00e8f9909c4469482ceb562d651e1f5",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/avance-r7/exterior-r7d.jpg",
+      "status": 200,
+      "bytes": 476576,
+      "sha256": "60c16c6593c5185a60c4f2c1fada4a3b32d6b01a5e7e2bb242c9402cc5a56ce2",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/avance-r7/pileta-r7d.jpg",
+      "status": 200,
+      "bytes": 451663,
+      "sha256": "7053d524801b3fd9ff0b67fcc69cae7d6fec957af3da17b66ee4f3c95fd96017",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/avance-r7/huerta-r7d.jpg",
+      "status": 200,
+      "bytes": 574514,
+      "sha256": "4060867b31ed86f0ea74997d30a7af3b1106d4d375ba4e1377ece43c7c16c2a1",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/avance-r7/estudio-r7d.jpg",
+      "status": 200,
+      "bytes": 278110,
+      "sha256": "a9f665f32a646771ba1bcb921a02366eae80b7624ef49726cf69f01d6fa35560",
+      "passed": true
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/house.gltf",
+      "status": 200,
+      "bytes": 4683913,
+      "sha256": "e4285768ca29af1017c512ee72cb5d8ab3d1ea9ed6e6530d0d998c524d96fdbd",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/geometry-0.bin",
+      "status": 200,
+      "bytes": 32383276,
+      "sha256": "b4d59122305318075da50daca57d460a3d473dcc6cc03671fb14b5b10618eb72",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/f33ec86f769dac570068716565f6d1017964c5866ffa855e3ab2b02b8e7f5f74.webp",
+      "status": 200,
+      "bytes": 4989676,
+      "sha256": "f33ec86f769dac570068716565f6d1017964c5866ffa855e3ab2b02b8e7f5f74",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/365804dac49cac082868aa3b2d984c769c3be2eab137746f9dcfb6ad8ee3725a.jpg",
+      "status": 200,
+      "bytes": 1806923,
+      "sha256": "365804dac49cac082868aa3b2d984c769c3be2eab137746f9dcfb6ad8ee3725a",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/34bf5a95cc6277d9d2efe185e5ab350b63bc43e7a9bb14e21e66353b21f7607b.webp",
+      "status": 200,
+      "bytes": 3290824,
+      "sha256": "34bf5a95cc6277d9d2efe185e5ab350b63bc43e7a9bb14e21e66353b21f7607b",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/44d7e9beb6c5e95a9a2923d82c3f571786e94c14a56f8bd4b6bc88bca6fd4ae4.webp",
+      "status": 200,
+      "bytes": 479626,
+      "sha256": "44d7e9beb6c5e95a9a2923d82c3f571786e94c14a56f8bd4b6bc88bca6fd4ae4",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/904256ce97698408ee7182db4bd324f433851e7b68bdeb378d4b924f17e1e8e0.webp",
+      "status": 200,
+      "bytes": 125938,
+      "sha256": "904256ce97698408ee7182db4bd324f433851e7b68bdeb378d4b924f17e1e8e0",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/ce57c3ea1eac55e8d2e79b7f0a283c198131efe4e4de592e7d7d4bd7f91da6f0.webp",
+      "status": 200,
+      "bytes": 390414,
+      "sha256": "ce57c3ea1eac55e8d2e79b7f0a283c198131efe4e4de592e7d7d4bd7f91da6f0",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/8cc03470eb7d48c2ad32bcc3fceec3ebe31ae9fd8c3e2ca02cd54cb7753f3b09.webp",
+      "status": 200,
+      "bytes": 189908,
+      "sha256": "8cc03470eb7d48c2ad32bcc3fceec3ebe31ae9fd8c3e2ca02cd54cb7753f3b09",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/ba7daed157cd2fcddd776863fa458be4e3f87e3ac6dc491a9be3522b1e586b60.webp",
+      "status": 200,
+      "bytes": 85416,
+      "sha256": "ba7daed157cd2fcddd776863fa458be4e3f87e3ac6dc491a9be3522b1e586b60",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/6c24929009a419dadfb85ce644f1ba8dced42246e1c9b048f42d02f6a660c01e.webp",
+      "status": 200,
+      "bytes": 29986,
+      "sha256": "6c24929009a419dadfb85ce644f1ba8dced42246e1c9b048f42d02f6a660c01e",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/a145ef6b8f99491c180b3b12ff0d7e63bce19185886ff0de98cdd0dac01cb4e5.webp",
+      "status": 200,
+      "bytes": 4294866,
+      "sha256": "a145ef6b8f99491c180b3b12ff0d7e63bce19185886ff0de98cdd0dac01cb4e5",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/1a732c09af425e41234fa601fbf785871bdf52035ac78331973961016fb4e960.jpg",
+      "status": 200,
+      "bytes": 1872186,
+      "sha256": "1a732c09af425e41234fa601fbf785871bdf52035ac78331973961016fb4e960",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/2b2f44534d38f239f4cfe003fbcb71068cf91368f5a6384d8ca2e153a7d947a7.webp",
+      "status": 200,
+      "bytes": 3089188,
+      "sha256": "2b2f44534d38f239f4cfe003fbcb71068cf91368f5a6384d8ca2e153a7d947a7",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/0b30afe6097144d1962d89ee75471596e14b0931121224c4edd21408ec40da53.webp",
+      "status": 200,
+      "bytes": 133800,
+      "sha256": "0b30afe6097144d1962d89ee75471596e14b0931121224c4edd21408ec40da53",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/a35bde0b3f84efd52420b58b48a6a34983b5658de9e3221a630facd2553e6367.webp",
+      "status": 200,
+      "bytes": 6844726,
+      "sha256": "a35bde0b3f84efd52420b58b48a6a34983b5658de9e3221a630facd2553e6367",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/0aaeb3a2d87b6d6da23fccf43f2467b83ae2c6fe37309f05bfa592e525fc597c.webp",
+      "status": 200,
+      "bytes": 4946750,
+      "sha256": "0aaeb3a2d87b6d6da23fccf43f2467b83ae2c6fe37309f05bfa592e525fc597c",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/5052502e4a7b44fcdc0e23b6588bbfd82289658ee85d8eb41fef53ba6b54f8f0.webp",
+      "status": 200,
+      "bytes": 2418634,
+      "sha256": "5052502e4a7b44fcdc0e23b6588bbfd82289658ee85d8eb41fef53ba6b54f8f0",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/0037948c6b41f4f0916953f681ec05797525d4e542426e1033c1958af5a042f9.webp",
+      "status": 200,
+      "bytes": 117340,
+      "sha256": "0037948c6b41f4f0916953f681ec05797525d4e542426e1033c1958af5a042f9",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/0fc3538184d410368b9e0bb4bc893007abdf86f8a78e4a2025ad5288d970705f.webp",
+      "status": 200,
+      "bytes": 85388,
+      "sha256": "0fc3538184d410368b9e0bb4bc893007abdf86f8a78e4a2025ad5288d970705f",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/cf270b9b12932d24170e8883bf566c471e5dcabf52e0028d9872d6dd3fda6e31.webp",
+      "status": 200,
+      "bytes": 1770698,
+      "sha256": "cf270b9b12932d24170e8883bf566c471e5dcabf52e0028d9872d6dd3fda6e31",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/5031aecfe1f21bc21382ddaf73a65ae3c305824c3fae203dd8142abab35319e8.webp",
+      "status": 200,
+      "bytes": 1738498,
+      "sha256": "5031aecfe1f21bc21382ddaf73a65ae3c305824c3fae203dd8142abab35319e8",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/029c4de60ec8e0249ea1780be5d030817346990e6f3344c44af21fdedba14605.webp",
+      "status": 200,
+      "bytes": 539812,
+      "sha256": "029c4de60ec8e0249ea1780be5d030817346990e6f3344c44af21fdedba14605",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/0f4d907fdcae848bdba32cf37eef1017c463f53eb1cb2cafd858dc7b8b6b278c.webp",
+      "status": 200,
+      "bytes": 4374898,
+      "sha256": "0f4d907fdcae848bdba32cf37eef1017c463f53eb1cb2cafd858dc7b8b6b278c",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/036228d14aa362980b589b6e4b7b89d2e85d80d6876423a6800fc06b229f5b53.png",
+      "status": 200,
+      "bytes": 2347683,
+      "sha256": "036228d14aa362980b589b6e4b7b89d2e85d80d6876423a6800fc06b229f5b53",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/aefff81358953d0cb18916d8787c39ff124aa32222742f331f237ccbb2300464.webp",
+      "status": 200,
+      "bytes": 691662,
+      "sha256": "aefff81358953d0cb18916d8787c39ff124aa32222742f331f237ccbb2300464",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/fbd281c525f1eb686d875ee483182fd63aa58326b78dd6d8722e3a92831c67a7.webp",
+      "status": 200,
+      "bytes": 8242492,
+      "sha256": "fbd281c525f1eb686d875ee483182fd63aa58326b78dd6d8722e3a92831c67a7",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/4ab3210b6ec6bb1181145500bca71d1c1f81ead6baaa8600f5979c2cec50c6a4.jpg",
+      "status": 200,
+      "bytes": 3170612,
+      "sha256": "4ab3210b6ec6bb1181145500bca71d1c1f81ead6baaa8600f5979c2cec50c6a4",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/2e4b825c1e869837be27cc3bc1e062accddb032b7bb0487dd53e7e39177313eb.webp",
+      "status": 200,
+      "bytes": 1651898,
+      "sha256": "2e4b825c1e869837be27cc3bc1e062accddb032b7bb0487dd53e7e39177313eb",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/6b4efcfa50f22e0fd6b4e60031e2bd6b22761b0f3efe7b3e4e227201feb8006d.webp",
+      "status": 200,
+      "bytes": 326138,
+      "sha256": "6b4efcfa50f22e0fd6b4e60031e2bd6b22761b0f3efe7b3e4e227201feb8006d",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/4ca803e1cf8c9ba02c666b6fd413d50a0115a2e9814e5d450572f32cd3f82052.webp",
+      "status": 200,
+      "bytes": 85390,
+      "sha256": "4ca803e1cf8c9ba02c666b6fd413d50a0115a2e9814e5d450572f32cd3f82052",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/c43447a010cfd05c6ecb5424ab2ab3677964773dc09e0ec4dc499622d0983027.webp",
+      "status": 200,
+      "bytes": 2485194,
+      "sha256": "c43447a010cfd05c6ecb5424ab2ab3677964773dc09e0ec4dc499622d0983027",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/8e1c6d21365d4b89bc5a35ab664da98a78dbc3ab9ba6100474881c8619a5b113.jpg",
+      "status": 200,
+      "bytes": 4766204,
+      "sha256": "8e1c6d21365d4b89bc5a35ab664da98a78dbc3ab9ba6100474881c8619a5b113",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/a9033175f3336d0a5f61a71615d19f8bd30ef5629daa81db35ada527dc300229.webp",
+      "status": 200,
+      "bytes": 490090,
+      "sha256": "a9033175f3336d0a5f61a71615d19f8bd30ef5629daa81db35ada527dc300229",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/30a503cab8f93f28ebb14f660996a4f699f747b555487c4476fed85ea0d11209.webp",
+      "status": 200,
+      "bytes": 226958,
+      "sha256": "30a503cab8f93f28ebb14f660996a4f699f747b555487c4476fed85ea0d11209",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/32868ee93af6f92a06bd7912633e4b1fb13420df8fea94868ff94f78bcf11f66.webp",
+      "status": 200,
+      "bytes": 85498,
+      "sha256": "32868ee93af6f92a06bd7912633e4b1fb13420df8fea94868ff94f78bcf11f66",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/13da4425cea2c041e705d903033a3559a570a1a18fd7f1e0d03db9038bff38e6.webp",
+      "status": 200,
+      "bytes": 189748,
+      "sha256": "13da4425cea2c041e705d903033a3559a570a1a18fd7f1e0d03db9038bff38e6",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/69872359c04f2f0830f03cba89edbdc77af72bea36ba0836f97c4ca41f68e585.webp",
+      "status": 200,
+      "bytes": 85396,
+      "sha256": "69872359c04f2f0830f03cba89edbdc77af72bea36ba0836f97c4ca41f68e585",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/f4876b174df29d16958e9eee0a8bc5911866d13d1ec8df4ba395bb67a4cf342b.webp",
+      "status": 200,
+      "bytes": 189918,
+      "sha256": "f4876b174df29d16958e9eee0a8bc5911866d13d1ec8df4ba395bb67a4cf342b",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/b7e0feeaaad17c6647e59a407302c1f25611f5caf557a0a312eb45ebf9c2219f.webp",
+      "status": 200,
+      "bytes": 80072,
+      "sha256": "b7e0feeaaad17c6647e59a407302c1f25611f5caf557a0a312eb45ebf9c2219f",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/e23b2a72f77e7b91c5de0de7b8a6d6d69b644862c35acee6af6b5abcc876faa1.webp",
+      "status": 200,
+      "bytes": 36250,
+      "sha256": "e23b2a72f77e7b91c5de0de7b8a6d6d69b644862c35acee6af6b5abcc876faa1",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/8a00a9eda6cd0d55aa46ed7bf173dda60675406a1b7c9ae5e1177ac0ffea956d.webp",
+      "status": 200,
+      "bytes": 7644858,
+      "sha256": "8a00a9eda6cd0d55aa46ed7bf173dda60675406a1b7c9ae5e1177ac0ffea956d",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/fcdf3d2c9b0759b248cdd580f70bd764f347cb1c3bece9e8249c1eeee912b2aa.webp",
+      "status": 200,
+      "bytes": 842956,
+      "sha256": "fcdf3d2c9b0759b248cdd580f70bd764f347cb1c3bece9e8249c1eeee912b2aa",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/9143fe86b0157f357c9410e7c4b9697c7b3607ec78621b44a92619bccce98a13.webp",
+      "status": 200,
+      "bytes": 3363920,
+      "sha256": "9143fe86b0157f357c9410e7c4b9697c7b3607ec78621b44a92619bccce98a13",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/ab3a0bac409dfbb4cf11f163859edc4b081c55a9577b9bb3b302fccdd06c3851.webp",
+      "status": 200,
+      "bytes": 820504,
+      "sha256": "ab3a0bac409dfbb4cf11f163859edc4b081c55a9577b9bb3b302fccdd06c3851",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/a3df5f6f7493a1762626c6d0d47872d969744a49931de50fe79f71a5eae8f857.jpg",
+      "status": 200,
+      "bytes": 3073051,
+      "sha256": "a3df5f6f7493a1762626c6d0d47872d969744a49931de50fe79f71a5eae8f857",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/726a0f5222fdf8b2bcdbec56fee8ea55150c217eab35a893ad5831f28cee3a5f.jpg",
+      "status": 200,
+      "bytes": 2093509,
+      "sha256": "726a0f5222fdf8b2bcdbec56fee8ea55150c217eab35a893ad5831f28cee3a5f",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/b9010ffbb5a3f045585eb0e03ac15fb1a5984546c94f51a21a74a2bd702d8fda.webp",
+      "status": 200,
+      "bytes": 2193290,
+      "sha256": "b9010ffbb5a3f045585eb0e03ac15fb1a5984546c94f51a21a74a2bd702d8fda",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/aece8aacca29717d610aa5cde5c0ae8f4b7a5744811221952a9804fc7836fb85.webp",
+      "status": 200,
+      "bytes": 790582,
+      "sha256": "aece8aacca29717d610aa5cde5c0ae8f4b7a5744811221952a9804fc7836fb85",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/e901e2a7daab45da87e75cc387d46e10243678c5dc67b6000792d2b4d836c2b2.webp",
+      "status": 200,
+      "bytes": 716124,
+      "sha256": "e901e2a7daab45da87e75cc387d46e10243678c5dc67b6000792d2b4d836c2b2",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/62118bc6def7b0e21d6b9d1c4480185524f2de99dfbf27c01e3642dc1764c735.webp",
+      "status": 200,
+      "bytes": 696486,
+      "sha256": "62118bc6def7b0e21d6b9d1c4480185524f2de99dfbf27c01e3642dc1764c735",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/17bc654fcb3f9dcef79c585ac3fb0235c745190a0fad7259b1dabbc81ea8d625.webp",
+      "status": 200,
+      "bytes": 747106,
+      "sha256": "17bc654fcb3f9dcef79c585ac3fb0235c745190a0fad7259b1dabbc81ea8d625",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/cd2e1176b93c8b8ed11b48ae54727cae2de469fb71d886ee752fa7e9103d4e47.webp",
+      "status": 200,
+      "bytes": 727682,
+      "sha256": "cd2e1176b93c8b8ed11b48ae54727cae2de469fb71d886ee752fa7e9103d4e47",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/78dba642b761e3c0e00d7bded3bedf3a2f66dae996dccc7c82bcba8f64885e02.webp",
+      "status": 200,
+      "bytes": 821176,
+      "sha256": "78dba642b761e3c0e00d7bded3bedf3a2f66dae996dccc7c82bcba8f64885e02",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/2f0e97568c037310d2b1b9468b154f633b6400f8d2c970e44df1673773e98848.webp",
+      "status": 200,
+      "bytes": 709104,
+      "sha256": "2f0e97568c037310d2b1b9468b154f633b6400f8d2c970e44df1673773e98848",
+      "passed": true
+    },
+    {
+      "url": "https://gatdeguin.github.io/42/preview99/assets/textures99/c43b3bd047316dd6193b78222117a9c801e7e529e321cdb2165dad4ec8c985d6.webp",
+      "status": 200,
+      "bytes": 747470,
+      "sha256": "c43b3bd047316dd6193b78222117a9c801e7e529e321cdb2165dad4ec8c985d6",
+      "passed": true
+    }
+  ],
+  "downloads": [
+    {
+      "url": "https://media.githubusercontent.com/media/GatDeguin/42/f8026c0f9bfc59411db05049800a27ee1d81ace1/output/Casa_de_Campo_99_R7D.blend",
+      "status": 200,
+      "bytes": 365163803,
+      "sha256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+      "passed": true
+    },
+    {
+      "url": "https://media.githubusercontent.com/media/GatDeguin/42/f8026c0f9bfc59411db05049800a27ee1d81ace1/output/Casa_de_Campo_99_R7D.glb",
+      "status": 200,
+      "bytes": 128158876,
+      "sha256": "11144e8c21cd92da1dadae74b42e3689fbb34402d33bff74d21f378cc6bf1910",
+      "passed": true
+    }
+  ],
+  "videoRendered": false,
+  "passed": true
+}

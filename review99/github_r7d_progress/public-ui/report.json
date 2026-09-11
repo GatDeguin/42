@@ -1,0 +1,182 @@
+{
+  "sourceSHA256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "scope": "Checkpoint glTF resource loading, controls and camera bindings. GPU mode recorded separately; no photorealism approval.",
+  "errors": [],
+  "views": [
+    {
+      "key": "exterior",
+      "label": "Casa y paisaje",
+      "position": [
+        7.5,
+        7.400000095367432,
+        26
+      ],
+      "expected": [
+        7.5,
+        7.400000095367432,
+        26
+      ]
+    },
+    {
+      "key": "estudio",
+      "label": "Estudio de grabación",
+      "position": [
+        20.549999237060547,
+        4.849999904632568,
+        5.630000114440918
+      ],
+      "expected": [
+        20.549999237060547,
+        4.849999904632568,
+        5.630000114440918
+      ]
+    },
+    {
+      "key": "bedroomDining",
+      "label": "Acceso directo al dormitorio",
+      "position": [
+        17.079999923706055,
+        4.8499999046325675,
+        10.550000190734863
+      ],
+      "expected": [
+        17.079999923706055,
+        4.849999904632568,
+        10.550000190734863
+      ]
+    },
+    {
+      "key": "banoMono",
+      "label": "Baño del monoambiente",
+      "position": [
+        19.520000457763672,
+        1.6499999761581419,
+        1.7000000476837158
+      ],
+      "expected": [
+        19.520000457763672,
+        1.649999976158142,
+        1.7000000476837158
+      ]
+    }
+  ],
+  "gpuMode": "Chrome hardware",
+  "stats": {
+    "drawCalls": 1931,
+    "triangles": 58455707,
+    "doors": 13,
+    "meshes": 5634,
+    "sourceModel": "Casa_de_Campo_99_R7D.blend",
+    "sourceSHA": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+    "downloadBytes": 131821705
+  },
+  "doors": [
+    {
+      "key": "balconyRear_A",
+      "positionError": 6.109483763339085e-7,
+      "parts": [
+        {
+          "name": "SL95 | A rodillo1 diámetro20",
+          "error": 0
+        },
+        {
+          "name": "SL95 | A rodillo2 diámetro20",
+          "error": 0
+        }
+      ]
+    },
+    {
+      "key": "balconyRear_B",
+      "positionError": 8.026177269471191e-7,
+      "parts": [
+        {
+          "name": "SL95 | B rodillo1 diámetro20",
+          "error": 0
+        },
+        {
+          "name": "SL95 | B rodillo2 diámetro20",
+          "error": 0
+        }
+      ]
+    },
+    {
+      "key": "balconySide",
+      "positionError": 5.750098868162468e-7,
+      "parts": [
+        {
+          "name": "SL95 | L rodillo1 diámetro20",
+          "error": 1.3299777437510857e-23
+        },
+        {
+          "name": "SL95 | L rodillo2 diámetro20",
+          "error": 1.3299777437510857e-23
+        }
+      ]
+    },
+    {
+      "key": "bathDining",
+      "positionError": 4.887587010671268e-7,
+      "parts": []
+    },
+    {
+      "key": "bathLink",
+      "positionError": 0,
+      "parts": []
+    },
+    {
+      "key": "bathroomMono",
+      "positionError": 0,
+      "parts": []
+    },
+    {
+      "key": "bedroomDining",
+      "positionError": 0,
+      "parts": []
+    },
+    {
+      "key": "bedroomLink",
+      "positionError": 0,
+      "parts": []
+    },
+    {
+      "key": "gate",
+      "positionError": 0.000001461483785547557,
+      "parts": []
+    },
+    {
+      "key": "mono_L",
+      "positionError": 3.7375681571916175e-7,
+      "parts": []
+    },
+    {
+      "key": "mono_R",
+      "positionError": 3.7375681571916175e-7,
+      "parts": []
+    },
+    {
+      "key": "poolBath",
+      "positionError": 0,
+      "parts": []
+    },
+    {
+      "key": "studio",
+      "positionError": 0,
+      "parts": []
+    }
+  ],
+  "portrait": {
+    "actual": [
+      17.100000381469727,
+      4.67000007629395,
+      8.670000076293945
+    ],
+    "expected": [
+      17.100000381469727,
+      4.670000076293945,
+      8.670000076293945
+    ],
+    "width": 390,
+    "scrollWidth": 390
+  },
+  "passed": true
+}
