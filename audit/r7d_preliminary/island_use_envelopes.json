@@ -1,0 +1,2762 @@
+{
+  "sha256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "frame": 1,
+  "axes": "source X,H,Z = Blender X,Z,-Y",
+  "floorH": 0.21,
+  "parts": [
+    {
+      "name": "Isla cocina mono tapa",
+      "bounds": {
+        "x": [
+          15.960000038146973,
+          17.68000030517578
+        ],
+        "h": [
+          1.0749999284744263,
+          1.1100000143051147
+        ],
+        "z": [
+          3.320000171661377,
+          4.0
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Hormigón | concrete"
+      ]
+    },
+    {
+      "name": "Isla cocina mono base | fondo",
+      "bounds": {
+        "x": [
+          16.0,
+          17.639999389648438
+        ],
+        "h": [
+          0.3100000023841858,
+          1.0750000476837158
+        ],
+        "z": [
+          3.569999933242798,
+          3.5880000591278076
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Isla cocina mono base | piso",
+      "bounds": {
+        "x": [
+          16.0,
+          17.639999389648438
+        ],
+        "h": [
+          0.3100000023841858,
+          0.328000009059906
+        ],
+        "z": [
+          3.5879998207092285,
+          3.9600000381469727
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark parquet | WoodUV"
+      ]
+    },
+    {
+      "name": "Isla cocina mono base | costilla",
+      "bounds": {
+        "x": [
+          16.0,
+          16.018001556396484
+        ],
+        "h": [
+          0.328000009059906,
+          1.0750000476837158
+        ],
+        "z": [
+          3.5879998207092285,
+          3.9600000381469727
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Isla cocina mono base | costilla.001",
+      "bounds": {
+        "x": [
+          16.810998916625977,
+          16.82900047302246
+        ],
+        "h": [
+          0.328000009059906,
+          1.0750000476837158
+        ],
+        "z": [
+          3.5879998207092285,
+          3.9600000381469727
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Isla cocina mono base | costilla.002",
+      "bounds": {
+        "x": [
+          17.621999740600586,
+          17.64000129699707
+        ],
+        "h": [
+          0.328000009059906,
+          1.0750000476837158
+        ],
+        "z": [
+          3.5879998207092285,
+          3.9600000381469727
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Isla cocina mono base | travesaño",
+      "bounds": {
+        "x": [
+          16.0,
+          17.639999389648438
+        ],
+        "h": [
+          1.0449999570846558,
+          1.0749999284744263
+        ],
+        "z": [
+          3.575000047683716,
+          3.615000009536743
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Isla cocina mono base | travesaño.001",
+      "bounds": {
+        "x": [
+          16.0,
+          17.639999389648438
+        ],
+        "h": [
+          1.0449999570846558,
+          1.0749999284744263
+        ],
+        "z": [
+          3.9100000858306885,
+          3.950000047683716
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Isla cocina mono base | zócalo",
+      "bounds": {
+        "x": [
+          16.059999465942383,
+          17.579999923706055
+        ],
+        "h": [
+          0.20999999344348907,
+          0.3100000023841858
+        ],
+        "z": [
+          3.630000114440918,
+          3.9000000953674316
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Metal negro | blackMetal"
+      ]
+    },
+    {
+      "name": "Isla cocina mono frente 0",
+      "bounds": {
+        "x": [
+          16.007999420166016,
+          16.404998779296875
+        ],
+        "h": [
+          0.32999998331069946,
+          1.0550000667572021
+        ],
+        "z": [
+          3.9570000171661377,
+          3.9750001430511475
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | WoodUV"
+      ]
+    },
+    {
+      "name": "Isla cocina mono tirador",
+      "bounds": {
+        "x": [
+          16.10650062561035,
+          16.306499481201172
+        ],
+        "h": [
+          0.9359999895095825,
+          0.9440000057220459
+        ],
+        "z": [
+          3.9800000190734863,
+          3.98799991607666
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Metal negro | blackMetal"
+      ]
+    },
+    {
+      "name": "Isla cocina mono frente 1",
+      "bounds": {
+        "x": [
+          16.415000915527344,
+          16.812000274658203
+        ],
+        "h": [
+          0.32999998331069946,
+          1.0550000667572021
+        ],
+        "z": [
+          3.9570000171661377,
+          3.9750001430511475
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | WoodUV"
+      ]
+    },
+    {
+      "name": "Isla cocina mono tirador.001",
+      "bounds": {
+        "x": [
+          16.513500213623047,
+          16.713499069213867
+        ],
+        "h": [
+          0.9359999895095825,
+          0.9440000057220459
+        ],
+        "z": [
+          3.9800000190734863,
+          3.98799991607666
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Metal negro | blackMetal"
+      ]
+    },
+    {
+      "name": "Isla cocina mono frente 2",
+      "bounds": {
+        "x": [
+          16.82200050354004,
+          17.2189998626709
+        ],
+        "h": [
+          0.32999998331069946,
+          1.0550000667572021
+        ],
+        "z": [
+          3.9570000171661377,
+          3.9750001430511475
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | WoodUV"
+      ]
+    },
+    {
+      "name": "Isla cocina mono tirador.002",
+      "bounds": {
+        "x": [
+          16.920499801635742,
+          17.120500564575195
+        ],
+        "h": [
+          0.9359999895095825,
+          0.9440000057220459
+        ],
+        "z": [
+          3.9800000190734863,
+          3.98799991607666
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Metal negro | blackMetal"
+      ]
+    },
+    {
+      "name": "Isla cocina mono frente 3",
+      "bounds": {
+        "x": [
+          17.229000091552734,
+          17.625999450683594
+        ],
+        "h": [
+          0.32999998331069946,
+          1.0550000667572021
+        ],
+        "z": [
+          3.9570000171661377,
+          3.9750001430511475
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | WoodUV"
+      ]
+    },
+    {
+      "name": "Isla cocina mono tirador.003",
+      "bounds": {
+        "x": [
+          17.327499389648438,
+          17.52750015258789
+        ],
+        "h": [
+          0.9359999895095825,
+          0.9440000057220459
+        ],
+        "z": [
+          3.9800000190734863,
+          3.98799991607666
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Metal negro | blackMetal"
+      ]
+    },
+    {
+      "name": "Taburete isla mono A | asiento 30 mm",
+      "bounds": {
+        "x": [
+          16.1299991607666,
+          16.510000228881836
+        ],
+        "h": [
+          0.8300000429153442,
+          0.8600000143051147
+        ],
+        "z": [
+          2.859999656677246,
+          3.239999771118164
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono A | pata izq frente",
+      "bounds": {
+        "x": [
+          16.149999618530273,
+          16.184999465942383
+        ],
+        "h": [
+          0.2149999737739563,
+          0.8299999833106995
+        ],
+        "z": [
+          3.184999704360962,
+          3.2199995517730713
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono A | apoyo elastomérico izq frente",
+      "bounds": {
+        "x": [
+          16.149999618530273,
+          16.184999465942383
+        ],
+        "h": [
+          0.21000000834465027,
+          0.2150000035762787
+        ],
+        "z": [
+          3.184999704360962,
+          3.2199995517730713
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "STOOL95 | elastomer foot"
+      ]
+    },
+    {
+      "name": "Taburete isla mono A | pata izq dorso",
+      "bounds": {
+        "x": [
+          16.149999618530273,
+          16.184999465942383
+        ],
+        "h": [
+          0.2149999737739563,
+          0.8299999833106995
+        ],
+        "z": [
+          2.879999876022339,
+          2.9149997234344482
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono A | apoyo elastomérico izq dorso",
+      "bounds": {
+        "x": [
+          16.149999618530273,
+          16.184999465942383
+        ],
+        "h": [
+          0.21000000834465027,
+          0.2150000035762787
+        ],
+        "z": [
+          2.879999876022339,
+          2.9149997234344482
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "STOOL95 | elastomer foot"
+      ]
+    },
+    {
+      "name": "Taburete isla mono A | pata der frente",
+      "bounds": {
+        "x": [
+          16.454999923706055,
+          16.489999771118164
+        ],
+        "h": [
+          0.2149999737739563,
+          0.8299999833106995
+        ],
+        "z": [
+          3.184999704360962,
+          3.2199995517730713
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono A | apoyo elastomérico der frente",
+      "bounds": {
+        "x": [
+          16.454999923706055,
+          16.489999771118164
+        ],
+        "h": [
+          0.21000000834465027,
+          0.2150000035762787
+        ],
+        "z": [
+          3.184999704360962,
+          3.2199995517730713
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "STOOL95 | elastomer foot"
+      ]
+    },
+    {
+      "name": "Taburete isla mono A | pata der dorso",
+      "bounds": {
+        "x": [
+          16.454999923706055,
+          16.489999771118164
+        ],
+        "h": [
+          0.2149999737739563,
+          0.8299999833106995
+        ],
+        "z": [
+          2.879999876022339,
+          2.9149997234344482
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono A | apoyo elastomérico der dorso",
+      "bounds": {
+        "x": [
+          16.454999923706055,
+          16.489999771118164
+        ],
+        "h": [
+          0.21000000834465027,
+          0.2150000035762787
+        ],
+        "z": [
+          2.879999876022339,
+          2.9149997234344482
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "STOOL95 | elastomer foot"
+      ]
+    },
+    {
+      "name": "Taburete isla mono A | faldón unión X -1",
+      "bounds": {
+        "x": [
+          16.184999465942383,
+          16.454999923706055
+        ],
+        "h": [
+          0.7700000405311584,
+          0.8299999833106995
+        ],
+        "z": [
+          3.1934995651245117,
+          3.2114996910095215
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono A | faldón unión Y -1",
+      "bounds": {
+        "x": [
+          16.158498764038086,
+          16.17650032043457
+        ],
+        "h": [
+          0.7700000405311584,
+          0.8299999833106995
+        ],
+        "z": [
+          2.9149997234344482,
+          3.184999704360962
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono A | reposapiés X -1",
+      "bounds": {
+        "x": [
+          16.184999465942383,
+          16.454999923706055
+        ],
+        "h": [
+          0.3850000202655792,
+          0.4099999964237213
+        ],
+        "z": [
+          3.184999704360962,
+          3.2199995517730713
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono A | travesaño Y -1",
+      "bounds": {
+        "x": [
+          16.149999618530273,
+          16.184999465942383
+        ],
+        "h": [
+          0.3850000202655792,
+          0.4099999964237213
+        ],
+        "z": [
+          2.9149997234344482,
+          3.184999704360962
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono A | faldón unión X 1",
+      "bounds": {
+        "x": [
+          16.184999465942383,
+          16.454999923706055
+        ],
+        "h": [
+          0.7700000405311584,
+          0.8299999833106995
+        ],
+        "z": [
+          2.8884997367858887,
+          2.9064998626708984
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono A | faldón unión Y 1",
+      "bounds": {
+        "x": [
+          16.463499069213867,
+          16.48150062561035
+        ],
+        "h": [
+          0.7700000405311584,
+          0.8299999833106995
+        ],
+        "z": [
+          2.9149997234344482,
+          3.184999704360962
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono A | reposapiés X 1",
+      "bounds": {
+        "x": [
+          16.184999465942383,
+          16.454999923706055
+        ],
+        "h": [
+          0.3850000202655792,
+          0.4099999964237213
+        ],
+        "z": [
+          2.879999876022339,
+          2.9149997234344482
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono A | travesaño Y 1",
+      "bounds": {
+        "x": [
+          16.454999923706055,
+          16.489999771118164
+        ],
+        "h": [
+          0.3850000202655792,
+          0.4099999964237213
+        ],
+        "z": [
+          2.9149997234344482,
+          3.184999704360962
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono B | asiento 30 mm",
+      "bounds": {
+        "x": [
+          17.189998626708984,
+          17.56999969482422
+        ],
+        "h": [
+          0.8300000429153442,
+          0.8600000143051147
+        ],
+        "z": [
+          2.859999656677246,
+          3.239999771118164
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono B | pata izq frente",
+      "bounds": {
+        "x": [
+          17.209999084472656,
+          17.244998931884766
+        ],
+        "h": [
+          0.2149999737739563,
+          0.8299999833106995
+        ],
+        "z": [
+          3.184999704360962,
+          3.2199995517730713
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono B | apoyo elastomérico izq frente",
+      "bounds": {
+        "x": [
+          17.209999084472656,
+          17.244998931884766
+        ],
+        "h": [
+          0.21000000834465027,
+          0.2150000035762787
+        ],
+        "z": [
+          3.184999704360962,
+          3.2199995517730713
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "STOOL95 | elastomer foot"
+      ]
+    },
+    {
+      "name": "Taburete isla mono B | pata izq dorso",
+      "bounds": {
+        "x": [
+          17.209999084472656,
+          17.244998931884766
+        ],
+        "h": [
+          0.2149999737739563,
+          0.8299999833106995
+        ],
+        "z": [
+          2.879999876022339,
+          2.9149997234344482
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono B | apoyo elastomérico izq dorso",
+      "bounds": {
+        "x": [
+          17.209999084472656,
+          17.244998931884766
+        ],
+        "h": [
+          0.21000000834465027,
+          0.2150000035762787
+        ],
+        "z": [
+          2.879999876022339,
+          2.9149997234344482
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "STOOL95 | elastomer foot"
+      ]
+    },
+    {
+      "name": "Taburete isla mono B | pata der frente",
+      "bounds": {
+        "x": [
+          17.514999389648438,
+          17.549999237060547
+        ],
+        "h": [
+          0.2149999737739563,
+          0.8299999833106995
+        ],
+        "z": [
+          3.184999704360962,
+          3.2199995517730713
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono B | apoyo elastomérico der frente",
+      "bounds": {
+        "x": [
+          17.514999389648438,
+          17.549999237060547
+        ],
+        "h": [
+          0.21000000834465027,
+          0.2150000035762787
+        ],
+        "z": [
+          3.184999704360962,
+          3.2199995517730713
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "STOOL95 | elastomer foot"
+      ]
+    },
+    {
+      "name": "Taburete isla mono B | pata der dorso",
+      "bounds": {
+        "x": [
+          17.514999389648438,
+          17.549999237060547
+        ],
+        "h": [
+          0.2149999737739563,
+          0.8299999833106995
+        ],
+        "z": [
+          2.879999876022339,
+          2.9149997234344482
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono B | apoyo elastomérico der dorso",
+      "bounds": {
+        "x": [
+          17.514999389648438,
+          17.549999237060547
+        ],
+        "h": [
+          0.21000000834465027,
+          0.2150000035762787
+        ],
+        "z": [
+          2.879999876022339,
+          2.9149997234344482
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "STOOL95 | elastomer foot"
+      ]
+    },
+    {
+      "name": "Taburete isla mono B | faldón unión X -1",
+      "bounds": {
+        "x": [
+          17.244998931884766,
+          17.514999389648438
+        ],
+        "h": [
+          0.7700000405311584,
+          0.8299999833106995
+        ],
+        "z": [
+          3.1934995651245117,
+          3.2114996910095215
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono B | faldón unión Y -1",
+      "bounds": {
+        "x": [
+          17.21849822998047,
+          17.236499786376953
+        ],
+        "h": [
+          0.7700000405311584,
+          0.8299999833106995
+        ],
+        "z": [
+          2.9149997234344482,
+          3.184999704360962
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono B | reposapiés X -1",
+      "bounds": {
+        "x": [
+          17.244998931884766,
+          17.514999389648438
+        ],
+        "h": [
+          0.3850000202655792,
+          0.4099999964237213
+        ],
+        "z": [
+          3.184999704360962,
+          3.2199995517730713
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono B | travesaño Y -1",
+      "bounds": {
+        "x": [
+          17.209999084472656,
+          17.244998931884766
+        ],
+        "h": [
+          0.3850000202655792,
+          0.4099999964237213
+        ],
+        "z": [
+          2.9149997234344482,
+          3.184999704360962
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono B | faldón unión X 1",
+      "bounds": {
+        "x": [
+          17.244998931884766,
+          17.514999389648438
+        ],
+        "h": [
+          0.7700000405311584,
+          0.8299999833106995
+        ],
+        "z": [
+          2.8884997367858887,
+          2.9064998626708984
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono B | faldón unión Y 1",
+      "bounds": {
+        "x": [
+          17.52349853515625,
+          17.541500091552734
+        ],
+        "h": [
+          0.7700000405311584,
+          0.8299999833106995
+        ],
+        "z": [
+          2.9149997234344482,
+          3.184999704360962
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono B | reposapiés X 1",
+      "bounds": {
+        "x": [
+          17.244998931884766,
+          17.514999389648438
+        ],
+        "h": [
+          0.3850000202655792,
+          0.4099999964237213
+        ],
+        "z": [
+          2.879999876022339,
+          2.9149997234344482
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Taburete isla mono B | travesaño Y 1",
+      "bounds": {
+        "x": [
+          17.514999389648438,
+          17.549999237060547
+        ],
+        "h": [
+          0.3850000202655792,
+          0.4099999964237213
+        ],
+        "z": [
+          2.9149997234344482,
+          3.184999704360962
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    }
+  ],
+  "context": [
+    {
+      "name": "Mesa mono tapa",
+      "bounds": {
+        "x": [
+          18.68499755859375,
+          19.834999084472656
+        ],
+        "h": [
+          0.925000011920929,
+          0.9600000381469727
+        ],
+        "z": [
+          2.700000047683716,
+          3.419999837875366
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Mesa mono pata 0",
+      "bounds": {
+        "x": [
+          18.746997833251953,
+          18.80699920654297
+        ],
+        "h": [
+          0.20999997854232788,
+          0.9249999523162842
+        ],
+        "z": [
+          2.7564001083374023,
+          2.8164000511169434
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Metal negro | blackMetal"
+      ]
+    },
+    {
+      "name": "Mesa mono pata 1",
+      "bounds": {
+        "x": [
+          19.71299934387207,
+          19.773000717163086
+        ],
+        "h": [
+          0.20999997854232788,
+          0.9249999523162842
+        ],
+        "z": [
+          2.7564001083374023,
+          2.8164000511169434
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Metal negro | blackMetal"
+      ]
+    },
+    {
+      "name": "Mesa mono pata 2",
+      "bounds": {
+        "x": [
+          18.746997833251953,
+          18.80699920654297
+        ],
+        "h": [
+          0.20999997854232788,
+          0.9249999523162842
+        ],
+        "z": [
+          3.3036000728607178,
+          3.363600015640259
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Metal negro | blackMetal"
+      ]
+    },
+    {
+      "name": "Mesa mono pata 3",
+      "bounds": {
+        "x": [
+          19.71299934387207,
+          19.773000717163086
+        ],
+        "h": [
+          0.20999997854232788,
+          0.9249999523162842
+        ],
+        "z": [
+          3.3036000728607178,
+          3.363600015640259
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Metal negro | blackMetal"
+      ]
+    },
+    {
+      "name": "Silla mono 1 asiento",
+      "bounds": {
+        "x": [
+          18.479999542236328,
+          18.939998626708984
+        ],
+        "h": [
+          0.6349999904632568,
+          0.6700000166893005
+        ],
+        "z": [
+          2.2100000381469727,
+          2.6700000762939453
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Silla mono 1 respaldo",
+      "bounds": {
+        "x": [
+          18.479999542236328,
+          18.939998626708984
+        ],
+        "h": [
+          0.6499999761581421,
+          1.0750000476837158
+        ],
+        "z": [
+          2.2100000381469727,
+          2.2699999809265137
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | SourceUV"
+      ]
+    },
+    {
+      "name": "Silla mono 1 pata 0",
+      "bounds": {
+        "x": [
+          18.50749969482422,
+          18.55249786376953
+        ],
+        "h": [
+          0.20999999344348907,
+          0.6349999904632568
+        ],
+        "z": [
+          2.237499952316284,
+          2.2825000286102295
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Metal negro | blackMetal"
+      ]
+    },
+    {
+      "name": "Silla mono 1 pata 1",
+      "bounds": {
+        "x": [
+          18.86750030517578,
+          18.912498474121094
+        ],
+        "h": [
+          0.20999999344348907,
+          0.6349999904632568
+        ],
+        "z": [
+          2.237499952316284,
+          2.2825000286102295
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Metal negro | blackMetal"
+      ]
+    },
+    {
+      "name": "Silla mono 1 pata 2",
+      "bounds": {
+        "x": [
+          18.50749969482422,
+          18.55249786376953
+        ],
+        "h": [
+          0.20999999344348907,
+          0.6349999904632568
+        ],
+        "z": [
+          2.5974998474121094,
+          2.6424999237060547
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Metal negro | blackMetal"
+      ]
+    },
+    {
+      "name": "Silla mono 1 pata 3",
+      "bounds": {
+        "x": [
+          18.86750030517578,
+          18.912498474121094
+        ],
+        "h": [
+          0.20999999344348907,
+          0.6349999904632568
+        ],
+        "z": [
+          2.5974998474121094,
+          2.6424999237060547
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Metal negro | blackMetal"
+      ]
+    },
+    {
+      "name": "Silla mono 2 asiento",
+      "bounds": {
+        "x": [
+          19.579999923706055,
+          20.03999900817871
+        ],
+        "h": [
+          0.6349999904632568,
+          0.6700000166893005
+        ],
+        "z": [
+          3.4100000858306885,
+          3.870000123977661
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | light | SourceUV"
+      ]
+    },
+    {
+      "name": "Silla mono 2 respaldo",
+      "bounds": {
+        "x": [
+          19.579999923706055,
+          20.03999900817871
+        ],
+        "h": [
+          0.6499999761581421,
+          1.0750000476837158
+        ],
+        "z": [
+          3.809999942779541,
+          3.869999885559082
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | SourceUV"
+      ]
+    },
+    {
+      "name": "Silla mono 2 pata 0",
+      "bounds": {
+        "x": [
+          19.967500686645508,
+          20.01249885559082
+        ],
+        "h": [
+          0.20999999344348907,
+          0.6349999904632568
+        ],
+        "z": [
+          3.797499895095825,
+          3.8424999713897705
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Metal negro | blackMetal"
+      ]
+    },
+    {
+      "name": "Silla mono 2 pata 1",
+      "bounds": {
+        "x": [
+          19.607500076293945,
+          19.652498245239258
+        ],
+        "h": [
+          0.20999999344348907,
+          0.6349999904632568
+        ],
+        "z": [
+          3.797499895095825,
+          3.8424999713897705
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Metal negro | blackMetal"
+      ]
+    },
+    {
+      "name": "Silla mono 2 pata 2",
+      "bounds": {
+        "x": [
+          19.967500686645508,
+          20.01249885559082
+        ],
+        "h": [
+          0.20999999344348907,
+          0.6349999904632568
+        ],
+        "z": [
+          3.4375,
+          3.4825000762939453
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Metal negro | blackMetal"
+      ]
+    },
+    {
+      "name": "Silla mono 2 pata 3",
+      "bounds": {
+        "x": [
+          19.607500076293945,
+          19.652498245239258
+        ],
+        "h": [
+          0.20999999344348907,
+          0.6349999904632568
+        ],
+        "z": [
+          3.4375,
+          3.4825000762939453
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Metal negro | blackMetal"
+      ]
+    },
+    {
+      "name": "Bajos cocina mono lateral | fondo",
+      "bounds": {
+        "x": [
+          14.260000228881836,
+          14.277999877929688
+        ],
+        "h": [
+          0.3100000023841858,
+          1.0750000476837158
+        ],
+        "z": [
+          3.2200002670288086,
+          5.800000190734863
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Bajos cocina mono lateral | piso",
+      "bounds": {
+        "x": [
+          14.260000228881836,
+          14.819999694824219
+        ],
+        "h": [
+          0.3100000023841858,
+          0.328000009059906
+        ],
+        "z": [
+          3.2200002670288086,
+          5.800000190734863
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark parquet | WoodUV"
+      ]
+    },
+    {
+      "name": "Bajos cocina mono lateral | lateral",
+      "bounds": {
+        "x": [
+          14.260000228881836,
+          14.819999694824219
+        ],
+        "h": [
+          0.328000009059906,
+          1.0750000476837158
+        ],
+        "z": [
+          3.2200000286102295,
+          3.2380001544952393
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Bajos cocina mono lateral | lateral.001",
+      "bounds": {
+        "x": [
+          14.260000228881836,
+          14.819999694824219
+        ],
+        "h": [
+          0.328000009059906,
+          1.0750000476837158
+        ],
+        "z": [
+          3.810999870300293,
+          3.8289999961853027
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Bajos cocina mono lateral | lateral.002",
+      "bounds": {
+        "x": [
+          14.260000228881836,
+          14.819999694824219
+        ],
+        "h": [
+          0.328000009059906,
+          1.0750000476837158
+        ],
+        "z": [
+          4.440999984741211,
+          4.4589996337890625
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Bajos cocina mono lateral | lateral.003",
+      "bounds": {
+        "x": [
+          14.260000228881836,
+          14.819999694824219
+        ],
+        "h": [
+          0.328000009059906,
+          1.0750000476837158
+        ],
+        "z": [
+          5.181000232696533,
+          5.198999881744385
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Bajos cocina mono lateral | lateral.004",
+      "bounds": {
+        "x": [
+          14.260000228881836,
+          14.819999694824219
+        ],
+        "h": [
+          0.328000009059906,
+          1.0750000476837158
+        ],
+        "z": [
+          5.7820000648498535,
+          5.799999713897705
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Bajos cocina mono lateral | travesaño",
+      "bounds": {
+        "x": [
+          14.260000228881836,
+          14.819999694824219
+        ],
+        "h": [
+          1.0449999570846558,
+          1.0749999284744263
+        ],
+        "z": [
+          3.2179999351501465,
+          3.26200008392334
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Bajos cocina mono lateral | travesaño.001",
+      "bounds": {
+        "x": [
+          14.260000228881836,
+          14.819999694824219
+        ],
+        "h": [
+          1.0449999570846558,
+          1.0749999284744263
+        ],
+        "z": [
+          3.7679998874664307,
+          3.812000036239624
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Bajos cocina mono lateral | travesaño.002",
+      "bounds": {
+        "x": [
+          14.260000228881836,
+          14.819999694824219
+        ],
+        "h": [
+          1.0449999570846558,
+          1.0749999284744263
+        ],
+        "z": [
+          4.458000183105469,
+          4.501999855041504
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Bajos cocina mono lateral | travesaño.003",
+      "bounds": {
+        "x": [
+          14.260000228881836,
+          14.819999694824219
+        ],
+        "h": [
+          1.0449999570846558,
+          1.0749999284744263
+        ],
+        "z": [
+          5.148000240325928,
+          5.191999912261963
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Bajos cocina mono lateral | travesaño.004",
+      "bounds": {
+        "x": [
+          14.260000228881836,
+          14.819999694824219
+        ],
+        "h": [
+          1.0449999570846558,
+          1.0749999284744263
+        ],
+        "z": [
+          5.748000144958496,
+          5.791999816894531
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Bajos cocina mono fondo | piso",
+      "bounds": {
+        "x": [
+          14.860000610351562,
+          15.760000228881836
+        ],
+        "h": [
+          0.3100000023841858,
+          0.328000009059906
+        ],
+        "z": [
+          5.239999771118164,
+          5.800000190734863
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark parquet | WoodUV"
+      ]
+    },
+    {
+      "name": "Bajos cocina mono fondo | respaldo",
+      "bounds": {
+        "x": [
+          14.860000610351562,
+          15.760000228881836
+        ],
+        "h": [
+          0.328000009059906,
+          1.0750000476837158
+        ],
+        "z": [
+          5.7820000648498535,
+          5.799999713897705
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Bajos cocina mono fondo | lateral",
+      "bounds": {
+        "x": [
+          14.860000610351562,
+          14.878000259399414
+        ],
+        "h": [
+          0.328000009059906,
+          1.0750000476837158
+        ],
+        "z": [
+          5.239999771118164,
+          5.800000190734863
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Bajos cocina mono fondo | lateral.001",
+      "bounds": {
+        "x": [
+          15.742000579833984,
+          15.760000228881836
+        ],
+        "h": [
+          0.328000009059906,
+          1.0750000476837158
+        ],
+        "z": [
+          5.239999771118164,
+          5.800000190734863
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Bajos cocina mono fondo | travesaño",
+      "bounds": {
+        "x": [
+          14.860000610351562,
+          15.760000228881836
+        ],
+        "h": [
+          1.0449999570846558,
+          1.0749999284744263
+        ],
+        "z": [
+          5.240000247955322,
+          5.28000020980835
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Bajos cocina mono fondo | travesaño.001",
+      "bounds": {
+        "x": [
+          14.860000610351562,
+          15.760000228881836
+        ],
+        "h": [
+          1.0449999570846558,
+          1.0749999284744263
+        ],
+        "z": [
+          5.75,
+          5.789999961853027
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | WoodUV"
+      ]
+    },
+    {
+      "name": "Mesada cocina mono lateral",
+      "bounds": {
+        "x": [
+          14.239824295043945,
+          15.779999732971191
+        ],
+        "h": [
+          1.0750000476837158,
+          1.1100000143051147
+        ],
+        "z": [
+          3.200000047683716,
+          5.820000171661377
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Hormigón | concrete",
+        "Metal negro | blackMetal"
+      ]
+    },
+    {
+      "name": "Piso monoambiente",
+      "bounds": {
+        "x": [
+          14.199999809265137,
+          21.799999237060547
+        ],
+        "h": [
+          0.20000000298023224,
+          0.20999999344348907
+        ],
+        "z": [
+          0.20000000298023224,
+          5.900000095367432
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Cerámica | tile",
+        "Metal negro | blackMetal"
+      ]
+    }
+  ],
+  "rayStations": [
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.06999969482422,
+      "h": 0.75,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.06999969482422,
+      "h": 0.86,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.06999969482422,
+      "h": 0.92,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.06999969482422,
+      "h": 1.0,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999809265137
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.06999969482422,
+      "h": 1.065,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.199999694824218,
+      "h": 0.75,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7700000405311584
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.199999694824218,
+      "h": 0.86,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7700000405311584
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.199999694824218,
+      "h": 0.92,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999809265137
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.199999694824218,
+      "h": 1.0,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7700000405311584
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.199999694824218,
+      "h": 1.065,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7700000405311584
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.31999969482422,
+      "h": 0.75,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.31999969482422,
+      "h": 0.86,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.31999969482422,
+      "h": 0.92,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.31999969482422,
+      "h": 1.0,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7700000405311584
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.31999969482422,
+      "h": 1.065,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7700000405311584
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.43999969482422,
+      "h": 0.75,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.43999969482422,
+      "h": 0.86,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7700000405311584
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.43999969482422,
+      "h": 0.92,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7700000405311584
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.43999969482422,
+      "h": 1.0,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.43999969482422,
+      "h": 1.065,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.56999969482422,
+      "h": 0.75,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.56999969482422,
+      "h": 0.86,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7700000405311584
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.56999969482422,
+      "h": 0.92,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.56999969482422,
+      "h": 1.0,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7700000405311584
+      }
+    },
+    {
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "x": 16.56999969482422,
+      "h": 1.065,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.1299991607666,
+      "h": 0.75,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.570000171661377,
+        "distance": 0.7700001001358032
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.1299991607666,
+      "h": 0.86,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7700000405311584
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.1299991607666,
+      "h": 0.92,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999809265137
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.1299991607666,
+      "h": 1.0,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7700000405311584
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.1299991607666,
+      "h": 1.065,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999809265137
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.2599991607666,
+      "h": 0.75,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.2599991607666,
+      "h": 0.86,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.2599991607666,
+      "h": 0.92,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.2599991607666,
+      "h": 1.0,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7700000405311584
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.2599991607666,
+      "h": 1.065,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.3799991607666,
+      "h": 0.75,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999809265137
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.3799991607666,
+      "h": 0.86,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.3799991607666,
+      "h": 0.92,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7700000405311584
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.3799991607666,
+      "h": 1.0,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.3799991607666,
+      "h": 1.065,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.499999160766603,
+      "h": 0.75,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999809265137
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.499999160766603,
+      "h": 0.86,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999213218689
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.499999160766603,
+      "h": 0.92,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999809265137
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.499999160766603,
+      "h": 1.0,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999809265137
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.499999160766603,
+      "h": 1.065,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999809265137
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.6299991607666,
+      "h": 0.75,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.570000171661377,
+        "distance": 0.7700001001358032
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.6299991607666,
+      "h": 0.86,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7700000405311584
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.6299991607666,
+      "h": 0.92,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7700000405311584
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.6299991607666,
+      "h": 1.0,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7699999809265137
+      }
+    },
+    {
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "x": 17.6299991607666,
+      "h": 1.065,
+      "first": {
+        "name": "Isla cocina mono base | fondo",
+        "z": 3.569999933242798,
+        "distance": 0.7700000405311584
+      }
+    }
+  ],
+  "sourceReference": {
+    "url": "https://kb.nkba.org/uploads/2022/05/Kitchen-Planning-Guidelines.pdf",
+    "guideline": 9,
+    "counter_height_mm": 914,
+    "knee_width_mm": 610,
+    "knee_depth_mm": 381,
+    "status": "design recommendation; not Argentine legal requirement"
+  },
+  "useEnvelopes": [
+    {
+      "label": "NKBA-inspired width/depth reserve with auditor selected vertical band",
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "envelope": {
+        "x": [
+          16.01499969482422,
+          16.62499969482422
+        ],
+        "h": [
+          0.9000000143051148,
+          1.0200000143051147
+        ],
+        "z": [
+          3.320000171661377,
+          3.701000171661377
+        ]
+      },
+      "intersections": [
+        {
+          "object": "Isla cocina mono base | fondo",
+          "volume_m3": 0.001317609931044239
+        },
+        {
+          "object": "Isla cocina mono base | costilla",
+          "volume_m3": 4.056868145770084e-05
+        }
+      ]
+    },
+    {
+      "label": "Declared knee proxy; hip-to-forward-bound=0.5m, side=-1",
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "envelope": {
+        "x": [
+          16.15999969482422,
+          16.279999694824216
+        ],
+        "h": [
+          0.9000000143051148,
+          1.0200000143051147
+        ],
+        "z": [
+          3.239999713897705,
+          3.549999713897705
+        ]
+      },
+      "intersections": []
+    },
+    {
+      "label": "Declared knee proxy; hip-to-forward-bound=0.5m, side=1",
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "envelope": {
+        "x": [
+          16.35999969482422,
+          16.47999969482422
+        ],
+        "h": [
+          0.9000000143051148,
+          1.0200000143051147
+        ],
+        "z": [
+          3.239999713897705,
+          3.549999713897705
+        ]
+      },
+      "intersections": []
+    },
+    {
+      "label": "Declared knee proxy; hip-to-forward-bound=0.55m, side=-1",
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "envelope": {
+        "x": [
+          16.15999969482422,
+          16.279999694824216
+        ],
+        "h": [
+          0.9000000143051148,
+          1.0200000143051147
+        ],
+        "z": [
+          3.239999713897705,
+          3.599999713897705
+        ]
+      },
+      "intersections": [
+        {
+          "object": "Isla cocina mono base | fondo",
+          "volume_m3": 0.0002591993871529988
+        }
+      ]
+    },
+    {
+      "label": "Declared knee proxy; hip-to-forward-bound=0.55m, side=1",
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "envelope": {
+        "x": [
+          16.35999969482422,
+          16.47999969482422
+        ],
+        "h": [
+          0.9000000143051148,
+          1.0200000143051147
+        ],
+        "z": [
+          3.239999713897705,
+          3.599999713897705
+        ]
+      },
+      "intersections": [
+        {
+          "object": "Isla cocina mono base | fondo",
+          "volume_m3": 0.00025919938715298144
+        }
+      ]
+    },
+    {
+      "label": "Declared knee proxy; hip-to-forward-bound=0.6m, side=-1",
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "envelope": {
+        "x": [
+          16.15999969482422,
+          16.279999694824216
+        ],
+        "h": [
+          0.9000000143051148,
+          1.0200000143051147
+        ],
+        "z": [
+          3.239999713897705,
+          3.649999713897705
+        ]
+      },
+      "intersections": [
+        {
+          "object": "Isla cocina mono base | fondo",
+          "volume_m3": 0.0002591993871529988
+        }
+      ]
+    },
+    {
+      "label": "Declared knee proxy; hip-to-forward-bound=0.6m, side=1",
+      "seat": "Taburete isla mono A | asiento 30 mm",
+      "envelope": {
+        "x": [
+          16.35999969482422,
+          16.47999969482422
+        ],
+        "h": [
+          0.9000000143051148,
+          1.0200000143051147
+        ],
+        "z": [
+          3.239999713897705,
+          3.649999713897705
+        ]
+      },
+      "intersections": [
+        {
+          "object": "Isla cocina mono base | fondo",
+          "volume_m3": 0.0002591993871528704
+        }
+      ]
+    },
+    {
+      "label": "NKBA-inspired width/depth reserve with auditor selected vertical band",
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "envelope": {
+        "x": [
+          17.074999160766602,
+          17.6849991607666
+        ],
+        "h": [
+          0.9000000143051148,
+          1.0200000143051147
+        ],
+        "z": [
+          3.320000171661377,
+          3.701000171661377
+        ]
+      },
+      "intersections": [
+        {
+          "object": "Isla cocina mono base | fondo",
+          "volume_m3": 0.0012201280775620965
+        },
+        {
+          "object": "Isla cocina mono base | costilla.002",
+          "volume_m3": 0.00024382019676890548
+        }
+      ]
+    },
+    {
+      "label": "Declared knee proxy; hip-to-forward-bound=0.5m, side=-1",
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "envelope": {
+        "x": [
+          17.2199991607666,
+          17.3399991607666
+        ],
+        "h": [
+          0.9000000143051148,
+          1.0200000143051147
+        ],
+        "z": [
+          3.239999713897705,
+          3.549999713897705
+        ]
+      },
+      "intersections": []
+    },
+    {
+      "label": "Declared knee proxy; hip-to-forward-bound=0.5m, side=1",
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "envelope": {
+        "x": [
+          17.419999160766604,
+          17.5399991607666
+        ],
+        "h": [
+          0.9000000143051148,
+          1.0200000143051147
+        ],
+        "z": [
+          3.239999713897705,
+          3.549999713897705
+        ]
+      },
+      "intersections": []
+    },
+    {
+      "label": "Declared knee proxy; hip-to-forward-bound=0.55m, side=-1",
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "envelope": {
+        "x": [
+          17.2199991607666,
+          17.3399991607666
+        ],
+        "h": [
+          0.9000000143051148,
+          1.0200000143051147
+        ],
+        "z": [
+          3.239999713897705,
+          3.599999713897705
+        ]
+      },
+      "intersections": [
+        {
+          "object": "Isla cocina mono base | fondo",
+          "volume_m3": 0.0002591993871529849
+        }
+      ]
+    },
+    {
+      "label": "Declared knee proxy; hip-to-forward-bound=0.55m, side=1",
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "envelope": {
+        "x": [
+          17.419999160766604,
+          17.5399991607666
+        ],
+        "h": [
+          0.9000000143051148,
+          1.0200000143051147
+        ],
+        "z": [
+          3.239999713897705,
+          3.599999713897705
+        ]
+      },
+      "intersections": [
+        {
+          "object": "Isla cocina mono base | fondo",
+          "volume_m3": 0.00025919938715324164
+        }
+      ]
+    },
+    {
+      "label": "Declared knee proxy; hip-to-forward-bound=0.6m, side=-1",
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "envelope": {
+        "x": [
+          17.2199991607666,
+          17.3399991607666
+        ],
+        "h": [
+          0.9000000143051148,
+          1.0200000143051147
+        ],
+        "z": [
+          3.239999713897705,
+          3.649999713897705
+        ]
+      },
+      "intersections": [
+        {
+          "object": "Isla cocina mono base | fondo",
+          "volume_m3": 0.0002591993871529849
+        }
+      ]
+    },
+    {
+      "label": "Declared knee proxy; hip-to-forward-bound=0.6m, side=1",
+      "seat": "Taburete isla mono B | asiento 30 mm",
+      "envelope": {
+        "x": [
+          17.419999160766604,
+          17.5399991607666
+        ],
+        "h": [
+          0.9000000143051148,
+          1.0200000143051147
+        ],
+        "z": [
+          3.239999713897705,
+          3.649999713897705
+        ]
+      },
+      "intersections": [
+        {
+          "object": "Isla cocina mono base | fondo",
+          "volume_m3": 0.00025919938715324164
+        }
+      ]
+    }
+  ],
+  "proxyLimitations": "Two 120mm wide envelopes at X +/-100mm, H seat+40..160mm, front of seat to hip+500/550/600mm. These are explicit geometric sensitivity scenarios, not anthropometric percentiles or a complete seated person. NKBA depth/width reference does not prescribe the chosen vertical band.",
+  "mirrorInventory": [
+    {
+      "name": "Espejo baño mono",
+      "bounds": {
+        "x": [
+          20.260000228881836,
+          20.81999969482422
+        ],
+        "h": [
+          1.25,
+          2.1500000953674316
+        ],
+        "z": [
+          0.25999975204467773,
+          0.28999996185302734
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Espejo con respaldo opaco | mirror"
+      ]
+    },
+    {
+      "name": "Espejo baño pileta",
+      "bounds": {
+        "x": [
+          20.764999389648438,
+          21.225000381469727
+        ],
+        "h": [
+          1.25,
+          2.1500000953674316
+        ],
+        "z": [
+          10.170000076293945,
+          10.199999809265137
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Espejo con respaldo opaco | mirror"
+      ]
+    },
+    {
+      "name": "Espejo baño suite",
+      "bounds": {
+        "x": [
+          19.496999740600586,
+          19.52699851989746
+        ],
+        "h": [
+          4.230000019073486,
+          5.230000019073486
+        ],
+        "z": [
+          6.360000133514404,
+          7.099999904632568
+        ]
+      },
+      "hidden": false,
+      "materials": [
+        "Espejo con respaldo opaco | mirror"
+      ]
+    }
+  ]
+}

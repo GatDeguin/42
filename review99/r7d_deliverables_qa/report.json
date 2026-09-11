@@ -1,0 +1,1937 @@
+{
+  "sourceSHA256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "errors": [],
+  "pages": [
+    {
+      "section": "renders99",
+      "viewport": "desktop",
+      "title": "Casa de campo · Imágenes del modelo",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "images": [
+        {
+          "src": "exterior.jpg",
+          "width": 2400,
+          "height": 1800
+        },
+        {
+          "src": "pileta.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "huerta.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "estudio.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "cocina.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "quincho.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "dormitorio.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "dormitorio_acceso.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "vestidor.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "bano.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "bano_acceso.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "puerta_bano.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "mono_cocina.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "mono_distribucion.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "bano_mono.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "bano_mono_sanitarios.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "bano_quincho.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "escalera.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "cubiertas.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "estudio_retrato.jpg",
+          "width": 1800,
+          "height": 2400
+        },
+        {
+          "src": "dormitorio_retrato.jpg",
+          "width": 1800,
+          "height": 2400
+        },
+        {
+          "src": "vestidor_retrato.jpg",
+          "width": 1800,
+          "height": 2400
+        },
+        {
+          "src": "exterior_retrato.jpg",
+          "width": 1800,
+          "height": 2400
+        },
+        {
+          "src": "bano_humano.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "dormitorio_puerta.jpg",
+          "width": 2000,
+          "height": 1500
+        }
+      ],
+      "links": [
+        {
+          "text": "Volver al modelo 3D",
+          "href": "http://127.0.0.1:8420/"
+        },
+        {
+          "text": "Planos de la propiedad",
+          "href": "http://127.0.0.1:8420/planos99/"
+        },
+        {
+          "text": "Repositorio",
+          "href": "https://github.com/GatDeguin/42"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/exterior.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/exterior.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/pileta.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/pileta.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/huerta.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/huerta.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/estudio.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/estudio.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/cocina.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/cocina.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/quincho.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/quincho.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/dormitorio.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/dormitorio.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/dormitorio_acceso.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/dormitorio_acceso.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/vestidor.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/vestidor.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/bano.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/bano.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/bano_acceso.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/bano_acceso.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/puerta_bano.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/puerta_bano.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/mono_cocina.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/mono_cocina.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/mono_distribucion.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/mono_distribucion.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/bano_mono.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/bano_mono.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/bano_mono_sanitarios.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/bano_mono_sanitarios.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/bano_quincho.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/bano_quincho.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/escalera.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/escalera.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/cubiertas.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/cubiertas.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/estudio_retrato.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/estudio_retrato.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/dormitorio_retrato.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/dormitorio_retrato.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/vestidor_retrato.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/vestidor_retrato.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/exterior_retrato.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/exterior_retrato.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/bano_humano.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/bano_humano.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/dormitorio_puerta.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/dormitorio_puerta.jpg"
+        },
+        {
+          "text": "Trazabilidad de las imágenes",
+          "href": "http://127.0.0.1:8420/renders99/manifest.json"
+        }
+      ]
+    },
+    {
+      "section": "planos99",
+      "viewport": "desktop",
+      "title": "Planos R7D - Casa de Campo / 42",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "images": [
+        {
+          "src": "A00.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A01.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A02.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A03.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A03b.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A04.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A05a.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A05b.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A06.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A07.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A08.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A09.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A10.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A10b.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A11.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A12.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A13.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A13b.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A14.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A15.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A16.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D01.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D02.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D03.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D04.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D05.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D05b.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D06.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D07.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D08.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D09.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D10.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D11.svg",
+          "width": 2245,
+          "height": 1587
+        }
+      ],
+      "links": [
+        {
+          "text": "Volver al modelo 3D R7D ↗",
+          "href": "http://127.0.0.1:8420/"
+        },
+        {
+          "text": "Galeria R7D ↗",
+          "href": "http://127.0.0.1:8420/renders99/"
+        },
+        {
+          "text": "Abrir las 33 láminas en PDF ↗",
+          "href": "http://127.0.0.1:8420/planos99/Casa_de_Campo_Planos_A2.pdf"
+        },
+        {
+          "text": "Descargar PDF + 33 SVG + 33 DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/Casa_de_Campo_Planos_Editables.zip"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A00.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A00.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A00.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A01.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A01.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A01.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A02.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A02.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A02.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A03.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A03.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A03.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A03b.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A03b.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A03b.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A04.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A04.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A04.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A05a.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A05a.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A05a.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A05b.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A05b.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A05b.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A06.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A06.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A06.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A07.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A07.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A07.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A08.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A08.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A08.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A09.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A09.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A09.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A10.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A10.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A10.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A10b.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A10b.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A10b.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A11.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A11.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A11.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A12.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A12.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A12.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A13.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A13.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A13.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A13b.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A13b.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A13b.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A14.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A14.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A14.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A15.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A15.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A15.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A16.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A16.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A16.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D01.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D01.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D01.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D02.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D02.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D02.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D03.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D03.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D03.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D04.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D04.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D04.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D05.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D05.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D05.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D05b.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D05b.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D05b.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D06.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D06.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D06.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D07.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D07.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D07.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D08.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D08.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D08.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D09.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D09.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D09.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D10.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D10.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D10.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D11.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D11.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D11.dxf"
+        },
+        {
+          "text": "Versión y trazabilidad",
+          "href": "http://127.0.0.1:8420/planos99/manifest.json"
+        },
+        {
+          "text": "Validación documental",
+          "href": "http://127.0.0.1:8420/planos99/print_validation.json"
+        },
+        {
+          "text": "Registro de 209 cotas (CSV)",
+          "href": "http://127.0.0.1:8420/planos99/dimension_register.csv"
+        },
+        {
+          "text": "Auditoria dimensional",
+          "href": "http://127.0.0.1:8420/planos99/dimensional_audit.json"
+        },
+        {
+          "text": "Revision visual",
+          "href": "http://127.0.0.1:8420/planos99/visual_review.json"
+        },
+        {
+          "text": "Mantenimiento D08",
+          "href": "http://127.0.0.1:8420/planos99/ACCESO_MANTENIMIENTO_D08.md"
+        }
+      ]
+    },
+    {
+      "section": "renders99",
+      "viewport": "mobile",
+      "title": "Casa de campo · Imágenes del modelo",
+      "width": 390,
+      "scrollWidth": 390,
+      "images": [
+        {
+          "src": "exterior.jpg",
+          "width": 2400,
+          "height": 1800
+        },
+        {
+          "src": "pileta.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "huerta.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "estudio.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "cocina.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "quincho.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "dormitorio.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "dormitorio_acceso.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "vestidor.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "bano.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "bano_acceso.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "puerta_bano.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "mono_cocina.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "mono_distribucion.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "bano_mono.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "bano_mono_sanitarios.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "bano_quincho.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "escalera.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "cubiertas.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "estudio_retrato.jpg",
+          "width": 1800,
+          "height": 2400
+        },
+        {
+          "src": "dormitorio_retrato.jpg",
+          "width": 1800,
+          "height": 2400
+        },
+        {
+          "src": "vestidor_retrato.jpg",
+          "width": 1800,
+          "height": 2400
+        },
+        {
+          "src": "exterior_retrato.jpg",
+          "width": 1800,
+          "height": 2400
+        },
+        {
+          "src": "bano_humano.jpg",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "src": "dormitorio_puerta.jpg",
+          "width": 2000,
+          "height": 1500
+        }
+      ],
+      "links": [
+        {
+          "text": "Volver al modelo 3D",
+          "href": "http://127.0.0.1:8420/"
+        },
+        {
+          "text": "Planos de la propiedad",
+          "href": "http://127.0.0.1:8420/planos99/"
+        },
+        {
+          "text": "Repositorio",
+          "href": "https://github.com/GatDeguin/42"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/exterior.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/exterior.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/pileta.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/pileta.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/huerta.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/huerta.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/estudio.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/estudio.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/cocina.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/cocina.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/quincho.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/quincho.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/dormitorio.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/dormitorio.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/dormitorio_acceso.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/dormitorio_acceso.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/vestidor.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/vestidor.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/bano.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/bano.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/bano_acceso.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/bano_acceso.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/puerta_bano.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/puerta_bano.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/mono_cocina.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/mono_cocina.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/mono_distribucion.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/mono_distribucion.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/bano_mono.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/bano_mono.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/bano_mono_sanitarios.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/bano_mono_sanitarios.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/bano_quincho.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/bano_quincho.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/escalera.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/escalera.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/cubiertas.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/cubiertas.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/estudio_retrato.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/estudio_retrato.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/dormitorio_retrato.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/dormitorio_retrato.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/vestidor_retrato.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/vestidor_retrato.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/exterior_retrato.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/exterior_retrato.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/bano_humano.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/bano_humano.jpg"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/renders99/dormitorio_puerta.jpg"
+        },
+        {
+          "text": "Descargar JPG",
+          "href": "http://127.0.0.1:8420/renders99/dormitorio_puerta.jpg"
+        },
+        {
+          "text": "Trazabilidad de las imágenes",
+          "href": "http://127.0.0.1:8420/renders99/manifest.json"
+        }
+      ]
+    },
+    {
+      "section": "planos99",
+      "viewport": "mobile",
+      "title": "Planos R7D - Casa de Campo / 42",
+      "width": 390,
+      "scrollWidth": 390,
+      "images": [
+        {
+          "src": "A00.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A01.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A02.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A03.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A03b.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A04.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A05a.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A05b.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A06.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A07.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A08.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A09.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A10.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A10b.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A11.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A12.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A13.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A13b.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A14.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A15.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "A16.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D01.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D02.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D03.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D04.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D05.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D05b.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D06.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D07.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D08.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D09.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D10.svg",
+          "width": 2245,
+          "height": 1587
+        },
+        {
+          "src": "D11.svg",
+          "width": 2245,
+          "height": 1587
+        }
+      ],
+      "links": [
+        {
+          "text": "Volver al modelo 3D R7D ↗",
+          "href": "http://127.0.0.1:8420/"
+        },
+        {
+          "text": "Galeria R7D ↗",
+          "href": "http://127.0.0.1:8420/renders99/"
+        },
+        {
+          "text": "Abrir las 33 láminas en PDF ↗",
+          "href": "http://127.0.0.1:8420/planos99/Casa_de_Campo_Planos_A2.pdf"
+        },
+        {
+          "text": "Descargar PDF + 33 SVG + 33 DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/Casa_de_Campo_Planos_Editables.zip"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A00.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A00.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A00.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A01.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A01.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A01.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A02.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A02.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A02.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A03.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A03.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A03.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A03b.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A03b.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A03b.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A04.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A04.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A04.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A05a.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A05a.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A05a.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A05b.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A05b.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A05b.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A06.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A06.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A06.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A07.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A07.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A07.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A08.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A08.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A08.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A09.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A09.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A09.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A10.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A10.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A10.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A10b.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A10b.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A10b.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A11.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A11.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A11.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A12.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A12.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A12.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A13.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A13.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A13.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A13b.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A13b.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A13b.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A14.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A14.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A14.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A15.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A15.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A15.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/A16.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/A16.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/A16.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D01.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D01.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D01.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D02.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D02.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D02.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D03.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D03.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D03.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D04.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D04.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D04.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D05.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D05.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D05.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D05b.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D05b.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D05b.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D06.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D06.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D06.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D07.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D07.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D07.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D08.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D08.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D08.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D09.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D09.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D09.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D10.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D10.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D10.dxf"
+        },
+        {
+          "text": "",
+          "href": "http://127.0.0.1:8420/planos99/D11.svg"
+        },
+        {
+          "text": "SVG ↓",
+          "href": "http://127.0.0.1:8420/planos99/D11.svg"
+        },
+        {
+          "text": "DXF ↓",
+          "href": "http://127.0.0.1:8420/planos99/D11.dxf"
+        },
+        {
+          "text": "Versión y trazabilidad",
+          "href": "http://127.0.0.1:8420/planos99/manifest.json"
+        },
+        {
+          "text": "Validación documental",
+          "href": "http://127.0.0.1:8420/planos99/print_validation.json"
+        },
+        {
+          "text": "Registro de 209 cotas (CSV)",
+          "href": "http://127.0.0.1:8420/planos99/dimension_register.csv"
+        },
+        {
+          "text": "Auditoria dimensional",
+          "href": "http://127.0.0.1:8420/planos99/dimensional_audit.json"
+        },
+        {
+          "text": "Revision visual",
+          "href": "http://127.0.0.1:8420/planos99/visual_review.json"
+        },
+        {
+          "text": "Mantenimiento D08",
+          "href": "http://127.0.0.1:8420/planos99/ACCESO_MANTENIMIENTO_D08.md"
+        }
+      ]
+    }
+  ],
+  "videoRendered": false,
+  "scope": "Document/gallery image loading, responsive layout, links and image dialog. Independent architectural and photographic approval is separate.",
+  "passed": true
+}

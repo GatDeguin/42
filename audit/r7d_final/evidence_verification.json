@@ -1,0 +1,1386 @@
+{
+  "modelSHA": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "stillsSHA": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "plan_files": [
+    {
+      "file": "A00.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "cb181c754d6a02f7bebacba21bde295e3ac5edec45b5756c1417c32fc56c4133"
+    },
+    {
+      "file": "A00.svg",
+      "exists": true,
+      "match": true,
+      "actual": "8bae39be64696b8dba8647c7497134024216e70cc645f3c0992af56509930e1d"
+    },
+    {
+      "file": "A01.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "1190edcf0fe485f175a1780beda216b267d12a1c3fe9da49358af9e5fe87591f"
+    },
+    {
+      "file": "A01.svg",
+      "exists": true,
+      "match": true,
+      "actual": "681562eb7c9a7754a5e440fe1b1c287154cebb44823e146764f5d9962ec6e6b7"
+    },
+    {
+      "file": "A02.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "1e0c86df739cebff0a6370c10c4ea8d8ff8a6a3765ae88f36e4376b5df83dd01"
+    },
+    {
+      "file": "A02.svg",
+      "exists": true,
+      "match": true,
+      "actual": "dfa6e38bbb1fddca81f1f5a3059fb99218a57a12d3944a1a823d5d67143eca6f"
+    },
+    {
+      "file": "A03.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "75cd744eac746a08829d441ac2c39cf2a45640d6a56e2e13f25496f8717b2f6b"
+    },
+    {
+      "file": "A03.svg",
+      "exists": true,
+      "match": true,
+      "actual": "4bda676675c1c56b6501056808391e2f473fa3dd39a8cdd120e43d32a85ee611"
+    },
+    {
+      "file": "A03b.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "7fb63b63784dfed93680d985a2682a472e0aa53e0c009e8f871cbc10e4cd8538"
+    },
+    {
+      "file": "A03b.svg",
+      "exists": true,
+      "match": true,
+      "actual": "9b4af81ce81028fafe6e76f91e3728c17ec24d2fe5aa92a5b79559d83b2c74c0"
+    },
+    {
+      "file": "A04.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "4254851436d1c36b6cbcc177d546876e784a94cb3279ef90f546dcf60b02b2ba"
+    },
+    {
+      "file": "A04.svg",
+      "exists": true,
+      "match": true,
+      "actual": "42ba19e82d8acdec059926704fa38c44297e912306ac9d86af2000780ebb8c75"
+    },
+    {
+      "file": "A05a.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "6dab4f9b5ce299770c89b46c0f2576241b31e3019f946245c01f8ad621dcdf54"
+    },
+    {
+      "file": "A05a.svg",
+      "exists": true,
+      "match": true,
+      "actual": "61a5586807b08405c4fce63209c5a1cdb422e572f02ca3fd8a9eb54e8ed79da7"
+    },
+    {
+      "file": "A05b.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "a1ecea4e65745aca27b86e4ec894e9e357b73240b866d8ffc99d26cf9ccd3fe7"
+    },
+    {
+      "file": "A05b.svg",
+      "exists": true,
+      "match": true,
+      "actual": "9131c0363b2f2686d293de0cd39c769360a12b16d6cf16af2a1c667a61a29808"
+    },
+    {
+      "file": "A06.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "440810ff27cc4df9e09d2055cac1a4e568fb31c9096c672a54cb9efa36a41812"
+    },
+    {
+      "file": "A06.svg",
+      "exists": true,
+      "match": true,
+      "actual": "14551d4300a41f9620f43dcf9c039812d718c383a4f7e85492e311726834ade8"
+    },
+    {
+      "file": "A07.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "29fd0ef7c6544a32b8540b5df6fd1de33f74642d3ddaa7d5abd7111b27005a8f"
+    },
+    {
+      "file": "A07.svg",
+      "exists": true,
+      "match": true,
+      "actual": "bd81bb913a14ecaa159f8cd3e900dd3e9e0aa4ce0aac379fda56377cc662756c"
+    },
+    {
+      "file": "A08.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "42569296ba36d2cc4ad3144a61690f19fff21b54c50757c0f46109013f849f1d"
+    },
+    {
+      "file": "A08.svg",
+      "exists": true,
+      "match": true,
+      "actual": "eeffa295dc96e2e3e2c2104cc7f1e73f10f5868daedeca30d3620785d2187726"
+    },
+    {
+      "file": "A09.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "845812ef7f8ec800efe92534fda1e18418de4afe6c938430eebcd9244a7f1286"
+    },
+    {
+      "file": "A09.svg",
+      "exists": true,
+      "match": true,
+      "actual": "8e98af07587249f9a84cdf0d893d8ac364aeb78bef157f17c91ab3455e830b45"
+    },
+    {
+      "file": "A10.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "f4422bc4ec1584c6fb9369115f5691c39d7646521fdb2214d9d14a71197923ec"
+    },
+    {
+      "file": "A10.svg",
+      "exists": true,
+      "match": true,
+      "actual": "3674c606446c9c9c2b3a4f1090dfcaa013dea4b3f495f8aa5361abe415cf0741"
+    },
+    {
+      "file": "A10b.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "4437dbf11f1cd7b68bd0c6eaf8831795f588d874ac15ebf8dc30f44b9159939e"
+    },
+    {
+      "file": "A10b.svg",
+      "exists": true,
+      "match": true,
+      "actual": "fefe54aeec8ea36a9c94756478a189f0d8aead6e0bc6aeeacae0339ae36e9882"
+    },
+    {
+      "file": "A11.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "8971f7b2f50b802f7b2cf22b92c3c9b0cab085c73b847c023606878dc48f975e"
+    },
+    {
+      "file": "A11.svg",
+      "exists": true,
+      "match": true,
+      "actual": "9a43a95820bdefa39fd86ff83e957f92193b1e4b593c18ca11c037c3262e7dbd"
+    },
+    {
+      "file": "A12.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "f65604b4c802ec10352ab99431783d71cf3588a5647d393bc76c9a8c7119d1ad"
+    },
+    {
+      "file": "A12.svg",
+      "exists": true,
+      "match": true,
+      "actual": "7a7280135d1b40dd972dc82632c56a0c9b0d46e81dee4a0c4dfc1ebba11cf53d"
+    },
+    {
+      "file": "A13.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "c814b9a21345c10134359081c6a097da07c5b79d65623178efc55404ad9e9dba"
+    },
+    {
+      "file": "A13.svg",
+      "exists": true,
+      "match": true,
+      "actual": "e1dbd005666493bb973ffd1e0acaba985593a152a1ee3825c6bbfb3a093ce225"
+    },
+    {
+      "file": "A13b.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "e3b23449e4f8868a64bde5b702244b44b5aa37894e1a9b7094a909a329e25e97"
+    },
+    {
+      "file": "A13b.svg",
+      "exists": true,
+      "match": true,
+      "actual": "61f81a2a1f75587b771234d71e8fa3a3a6791717845c3fee44e86fcf0175ab6d"
+    },
+    {
+      "file": "A14.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "e4ecabc96078521501e51da431ca4593416439ab67afce99c25611c63c485f78"
+    },
+    {
+      "file": "A14.svg",
+      "exists": true,
+      "match": true,
+      "actual": "343e4cc7a7e642d17f09758e55c55fd0aa07c33464c1bf8e3195b49902e7c59b"
+    },
+    {
+      "file": "A15.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "7d5711428e8eaa55c535f36b123b51363b2be194506cd64b12de7545ab7c2a55"
+    },
+    {
+      "file": "A15.svg",
+      "exists": true,
+      "match": true,
+      "actual": "f7e4103cfede318043f7ce8b67cc3d27db575077eed63510d10fa1f02a8ea736"
+    },
+    {
+      "file": "A16.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "54bc2eea32b0cd9989e56942c735df0fb27256adcb84a7b0c9a61b342037c13e"
+    },
+    {
+      "file": "A16.svg",
+      "exists": true,
+      "match": true,
+      "actual": "db7212d913fc498f773245bd4cb5a1c5aa7bd9aa10184e7b4e4e5cb568cf0613"
+    },
+    {
+      "file": "ACCESO_MANTENIMIENTO_D08.md",
+      "exists": true,
+      "match": true,
+      "actual": "e79e5e13b96375a9c52e1999cdda6e7daa1bb4d94f0c9b10f942c4abab3f5345"
+    },
+    {
+      "file": "AUDITORIA_DIMENSIONAL.md",
+      "exists": true,
+      "match": true,
+      "actual": "11f4305de737fd87c3bf5cf7d2b8fb8b49aeebdfd32263724d4820c898bdf454"
+    },
+    {
+      "file": "Casa_de_Campo_Planos_A2.pdf",
+      "exists": true,
+      "match": true,
+      "actual": "370b486c87c98e7b83e99e58ed75ef80f4e55fef8547269842908cd113011619"
+    },
+    {
+      "file": "Casa_de_Campo_Planos_Completos_95_A2.pdf",
+      "exists": true,
+      "match": true,
+      "actual": "f1237f05ca9438963ec0d8b81edae8df81bdcd5c2b20889ecb57639b5cca3cc1"
+    },
+    {
+      "file": "dimensional_audit.json",
+      "exists": true,
+      "match": true,
+      "actual": "62a2000be2346e3f6f19d477ca5c68ce1cb8792f7c0371b2566992a71f1b52ac"
+    },
+    {
+      "file": "dimension_register.csv",
+      "exists": true,
+      "match": true,
+      "actual": "11157e72be9487ffedbe8984637485129ae70ad80296a8301ba098b4217b33b8"
+    },
+    {
+      "file": "manifest.json",
+      "exists": true,
+      "match": true,
+      "actual": "a87f38f7e66c3de57aa7a482b3ac17caeea52c3be6d2257d9cf6fa075cdab41b"
+    },
+    {
+      "file": "measurements.json",
+      "exists": true,
+      "match": true,
+      "actual": "9528aa56444892108700d8065e1049e62229e90dcaa59539f474aabe7210a9ba"
+    },
+    {
+      "file": "package_validation.json",
+      "exists": true,
+      "match": true,
+      "actual": "49479aa484c1e21b2143a11dd536f5fea5be3243f2de18903add40e0ad1509cf"
+    },
+    {
+      "file": "print_validation.json",
+      "exists": true,
+      "match": true,
+      "actual": "9be96dc0f31e002d72fe6462e5608c1b406f59b73e03ceefbd47e251c1aafe54"
+    },
+    {
+      "file": "README.md",
+      "exists": true,
+      "match": true,
+      "actual": "6c658e23d6fe1be478a6a358ee9dda1f5fa01768b6ab1f8a5419f88681f64863"
+    },
+    {
+      "file": "README_ENTREGA.md",
+      "exists": true,
+      "match": true,
+      "actual": "0a5c5f6f60fc732263e71c8b5f8f8473da72ab8f6ecb66bc4cc63c48049b139d"
+    },
+    {
+      "file": "REVISION_VISUAL.md",
+      "exists": true,
+      "match": true,
+      "actual": "058f16433215fc054ead26cf156f3e7a281e745458cec0d2a67c24e8363573e9"
+    },
+    {
+      "file": "service_access_proposal.json",
+      "exists": true,
+      "match": true,
+      "actual": "5305a05ee07d5e07742b7995552691590209a5f28410f04a77c37adf2b847e25"
+    },
+    {
+      "file": "verification.json",
+      "exists": true,
+      "match": true,
+      "actual": "c6f4db915b3ceca4dce98bd088358b8c016acac56545d81df25d6c337e4fb445"
+    },
+    {
+      "file": "visual_review.json",
+      "exists": true,
+      "match": true,
+      "actual": "1b8fe509c93f2fe96c4b6c953adb6d5cd62d5bae24d7ff503689211584fc9e85"
+    },
+    {
+      "file": "details/anclajes_medidos.json",
+      "exists": true,
+      "match": true,
+      "actual": "a8163834815728cb43dc4e6fab5f041641663b483f498963aced619e47afb5aa"
+    },
+    {
+      "file": "details/D01.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "7ee407e755eb0d6cbd921ddbc28e9aebd19a341c12a5ae9379d93279dac17c56"
+    },
+    {
+      "file": "details/D01.svg",
+      "exists": true,
+      "match": true,
+      "actual": "9c1088675c0c139514357d7cc2b30833e99b796e8978a4f52124645e30de9694"
+    },
+    {
+      "file": "details/D02.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "8a0731fa29e710834a413056a738e66dbd95ef2e9a7f0ced0485b7d5f9cd697a"
+    },
+    {
+      "file": "details/D02.svg",
+      "exists": true,
+      "match": true,
+      "actual": "51798e4647119b1619fb3c57812535954b7d4b98007ca3bd138a6425523281f8"
+    },
+    {
+      "file": "details/D03.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "d00013b3563c82af637a208f5bbf0b098bb16e372c80a1050cbe24c616037c7f"
+    },
+    {
+      "file": "details/D03.svg",
+      "exists": true,
+      "match": true,
+      "actual": "7e3687c2ef2fde70a016a856707440eedc775398057b5296b8ad1b5746981266"
+    },
+    {
+      "file": "details/D04.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "4e0ed2bb0798bf4706b4ac0f744c0a5f34b03a90003dda2519c4e98f119579f5"
+    },
+    {
+      "file": "details/D04.svg",
+      "exists": true,
+      "match": true,
+      "actual": "fa2c5bcea76c759342a6bd75cf51a83ee9cd7ee21a2ef77c58ff7d5cc5579a59"
+    },
+    {
+      "file": "details/D05.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "5f7c1ed245707e9f50ca0ff3e86b12cbb2c42de0ecfadc207b9dddcb31cbd729"
+    },
+    {
+      "file": "details/D05.svg",
+      "exists": true,
+      "match": true,
+      "actual": "a465a5bbd1d68fc5c4d15f372e0afe00a5b09a6e21a2c2aa689bcb69abc6ebb2"
+    },
+    {
+      "file": "details/D05b.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "1703cc9f4be86a54e3a1130348e9bc7d0decbd620958612777311c150930f187"
+    },
+    {
+      "file": "details/D05b.svg",
+      "exists": true,
+      "match": true,
+      "actual": "825bf43a74b5b061a9623c7ce0ebd35203f8fb6d333fc0b20d4b149426e4f6b2"
+    },
+    {
+      "file": "details/D06.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "abfcfedc60f006ecdf40f468f15d0cdd70d218e90aae8b1f9367b599f10bbdb3"
+    },
+    {
+      "file": "details/D06.svg",
+      "exists": true,
+      "match": true,
+      "actual": "71d991f032424d04f0f751543a9dab0a6dd5be4bfbdc854775073edc9c70773f"
+    },
+    {
+      "file": "details/D07.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "ff9a280cd594dd5d81992ae7b4e3399099802e7951a5d9c69e6053287847c579"
+    },
+    {
+      "file": "details/D07.svg",
+      "exists": true,
+      "match": true,
+      "actual": "07bd0f3a1f3ce79502dfc697942acbd066dd3f92880ccbdefc8b0ca132eee6c6"
+    },
+    {
+      "file": "details/D08.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "ee51fe506150b6ba070d286e805afae124dcf1e9754a17ea6193dfd08b4550d4"
+    },
+    {
+      "file": "details/D08.svg",
+      "exists": true,
+      "match": true,
+      "actual": "6b36a2b9165277fe484589e14eef0d5b4fade1a3156faa2c3126b37f7613f591"
+    },
+    {
+      "file": "details/D09.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "ce97ad8b8df1a10336d0c581f7a7bda88d7d2cae1877eacbb0522613a8610537"
+    },
+    {
+      "file": "details/D09.svg",
+      "exists": true,
+      "match": true,
+      "actual": "712182af0c6b0ef8866024097cffea9187a6832ca9517af3b6bcf8edf8575f9e"
+    },
+    {
+      "file": "details/D10.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "8150fdae30afe9e1d322edd80615079c91abb77d580ecee037bd3fa1d1d0deab"
+    },
+    {
+      "file": "details/D10.svg",
+      "exists": true,
+      "match": true,
+      "actual": "a4e29e338eb587b61b7961d220c1ed538bc87aec09e6e67f8de6442d6f63f70b"
+    },
+    {
+      "file": "details/D11.dxf",
+      "exists": true,
+      "match": true,
+      "actual": "fab6b7e1e4324087ee680d4a392b2ed1488ec26a3c961bbfb535a293a4d7e19d"
+    },
+    {
+      "file": "details/D11.svg",
+      "exists": true,
+      "match": true,
+      "actual": "1a704b50632ebc931b6e708a563ebd2419bc541d70ec92db5596d226c033cf7c"
+    },
+    {
+      "file": "details/fuentes.md",
+      "exists": true,
+      "match": true,
+      "actual": "e96be1c8a22ae7ec2f7113184294f302b9266c5836a9f60ea0b62edf30ec4dc4"
+    },
+    {
+      "file": "details/manifest.json",
+      "exists": true,
+      "match": true,
+      "actual": "7cd51d43c2edcc871b3887402d1c54a0b927a2accb70f16961410d15ec1a7937"
+    },
+    {
+      "file": "details/README.md",
+      "exists": true,
+      "match": true,
+      "actual": "b87ff0b6e3b51cf0e1fdf777ce51d4f4652d4448177cc6f3fc2dfb01202fdda2"
+    },
+    {
+      "file": "details/Suplemento_Detalles_95_A2.pdf",
+      "exists": true,
+      "match": true,
+      "actual": "c483e8808dfa915f0a744a4cf385c212b913bf6687e215463301bc1d0c52a3bf"
+    },
+    {
+      "file": "details/validation.json",
+      "exists": true,
+      "match": true,
+      "actual": "b832c1dc4151aafe2a79e2eeaa23e64a112f5819c0a21fd0fabf1ea734bb71b1"
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 2495,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A00 | Indice y criterios",
+        "Juego coordinado para revision independiente; video pausado",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 2,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1327,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A01 | Implantacion, paisaje y perimetro",
+        "Calle arriba; norte orientativo segun propietario",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 3,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1804,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A02 | Planta baja",
+        "Corte horizontal G a +1,20 m | referencias A06, A09 y A10",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 4,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1616,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A03 | Planta alta",
+        "Corte horizontal G a +4,50 m | estudio libre 3,20 / vivienda 2,60 m",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 5,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1906,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A03b | Circulacion y uso en vivienda",
+        "G posiciones reales / P retirada350 mm, hojas abiertas y usuario600 mm",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 6,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1613,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A04 | Cubiertas y pluviales",
+        "Geometria G / trazados P diferenciados | detalles A13",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 7,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1031,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A05a | Fachadas",
+        "Cuatro orientaciones identificadas por la propiedad, sin azimut inventado",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 8,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1022,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A05b | Fachadas",
+        "Cuatro orientaciones identificadas por la propiedad, sin azimut inventado",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 9,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1074,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A06 | Cortes generales",
+        "A-A longitudinal X=18,00 | B-B transversal Z=3,00 | ver trazas A02/A03",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 10,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1393,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A07 | Escalera, descanso y umbral",
+        "18 peldaños de fuente | huella de avance distinta de profundidad de tabla",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 11,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1245,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A08 | Pileta y borde pavimentado",
+        "Vaso nominal de fuente 7,00 x 3,00 m | borde 1,00 m",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 12,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 943,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A09 | Banos: plantas y elevaciones",
+        "B01 monoambiente | B02 vivienda | B03 pileta / quincho",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 13,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1649,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A10 | Quincho y cocinas",
+        "Equipos, mesadas y extracciones | geometria G / criterios pendientes P",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 14,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1715,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A10b | Monoambiente: uso y medidas",
+        "Cotas G extraidas de la geometria | envolventes P de uso, sin certificacion ergonomica",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 15,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1593,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A11 | Estudio y estrategia acustica",
+        "Tratamiento representado; prestaciones sin calcular",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 16,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 2675,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A12 | Carpinterias y herreria",
+        "Cuadro de hojas / paños medidos del modelo; vanos y pases en A02/A03",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 17,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1544,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A13 | Detalles de envolvente",
+        "Secciones reales ampliadas; P indica lo que requiere definicion de proyecto",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 18,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1543,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A13b | Captacion, DVH y penetraciones",
+        "Ampliaciones de geometria G; especificacion final pendiente",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 19,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1574,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A14 | Estructura conceptual y apoyos",
+        "Secciones representadas; sin verificacion de resistencia o suelo",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 20,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 2022,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A15 | Instalaciones coordinadas",
+        "Nodos reales de consumo; enlaces funcionales propuestos P",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 21,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 2755,
+      "firstLines": [
+        "CASA DE CAMPO",
+        "VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO",
+        "A16 | Superficies y trazabilidad",
+        "Registro F / G / P | superficies geometricas no catastrales",
+        "EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION",
+        "Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 22,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1756,
+      "firstLines": [
+        "CASA DE CAMPO / DETALLES R7",
+        "D01 | Alero, capas y union de remates",
+        "VIRREY DEL PINO, LA MATANZA, BUENOS AIRES",
+        "Responde C1 / C3 | relacion con A04 y A13 del juego general",
+        "G = medido / gris",
+        "P = propuesta dimensional / azul"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 23,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1318,
+      "firstLines": [
+        "CASA DE CAMPO / DETALLES R7",
+        "D02 | Escalon de cubierta y penetraciones",
+        "VIRREY DEL PINO, LA MATANZA, BUENOS AIRES",
+        "Responde C3 / C5 | laminas A13 y A13b",
+        "G = medido / gris",
+        "P = propuesta dimensional / azul"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 24,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1512,
+      "firstLines": [
+        "CASA DE CAMPO / DETALLES R7",
+        "D03 | DVH: galces y juntas",
+        "VIRREY DEL PINO, LA MATANZA, BUENOS AIRES",
+        "G vidrio9 / camara17 / vidrio9 | P conexion del marco a obra",
+        "G = medido / gris",
+        "P = propuesta dimensional / azul"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 25,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1401,
+      "firstLines": [
+        "CASA DE CAMPO / DETALLES R7",
+        "D04 | Baranda: placa, apoyo y anclajes",
+        "VIRREY DEL PINO, LA MATANZA, BUENOS AIRES",
+        "Geometria G / R7D | propuesta modelada, capacidad pendiente de calculo",
+        "G = medido / gris",
+        "P = propuesta dimensional / azul"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 26,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1536,
+      "firstLines": [
+        "CASA DE CAMPO / DETALLES R7",
+        "D05 | Escalera: placas, bulones y apoyo",
+        "VIRREY DEL PINO, LA MATANZA, BUENOS AIRES",
+        "Responde C4 | desarrollo dimensional de union superior e inferior",
+        "G = medido / gris",
+        "P = propuesta dimensional / azul"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 27,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1338,
+      "firstLines": [
+        "CASA DE CAMPO / DETALLES R7",
+        "D05b | Escalera: arranque y plantilla",
+        "VIRREY DEL PINO, LA MATANZA, BUENOS AIRES",
+        "Propuesta P dibujada para coordinacion | complemento de D05, sin calculo",
+        "G = medido / gris",
+        "P = propuesta dimensional / azul"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 28,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1547,
+      "firstLines": [
+        "CASA DE CAMPO / DETALLES R7",
+        "D06 | Acustica: panel, cielorraso y fijaciones",
+        "VIRREY DEL PINO, LA MATANZA, BUENOS AIRES",
+        "Responde C6 | se conserva cara inferior libre +6,45 y piso +3,25",
+        "G = medido / gris",
+        "P = propuesta dimensional / azul"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 29,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1421,
+      "firstLines": [
+        "CASA DE CAMPO / DETALLES R7",
+        "D07 | Sellos, pasos y relieve acustico",
+        "VIRREY DEL PINO, LA MATANZA, BUENOS AIRES",
+        "Responde C6 | puerta hermetica, penetracion y montaje de difusor",
+        "G = medido / gris",
+        "P = propuesta dimensional / azul"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 30,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1666,
+      "firstLines": [
+        "CASA DE CAMPO / DETALLES R7",
+        "D08 | Ventilacion: montaje y mantenimiento",
+        "VIRREY DEL PINO, LA MATANZA, BUENOS AIRES",
+        "Propuesta P modelada / cotas geometricas G / sin caudal ni atenuacion asignados",
+        "G = medido / gris",
+        "P = propuesta dimensional / azul"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 31,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1523,
+      "firstLines": [
+        "CASA DE CAMPO / DETALLES R7",
+        "D09 | Baño: piso continuo y corredera",
+        "VIRREY DEL PINO, LA MATANZA, BUENOS AIRES",
+        "G capas y herrajes modelados | solucion dimensional propuesta, sin capacidad validada",
+        "G = medido / gris",
+        "P = propuesta dimensional / azul"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 32,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1764,
+      "firstLines": [
+        "CASA DE CAMPO / DETALLES R7",
+        "D10 | Corredizas: pistas, vidrio y drenaje",
+        "VIRREY DEL PINO, LA MATANZA, BUENOS AIRES",
+        "G componentes medidos de solucion P modelada | ver A03, A05a/b y A12",
+        "G = medido / gris",
+        "P = propuesta dimensional / azul"
+      ],
+      "hasR7": true
+    },
+    {
+      "page": 33,
+      "size_mm": [
+        594.0,
+        420.0
+      ],
+      "characters": 1340,
+      "firstLines": [
+        "CASA DE CAMPO / DETALLES R7",
+        "D11 | Banos: continuidad humeda y ducha",
+        "VIRREY DEL PINO, LA MATANZA, BUENOS AIRES",
+        "P capas modeladas / medidas G de pisos, retornos, penetraciones y rociador",
+        "G = medido / gris",
+        "P = propuesta dimensional / azul"
+      ],
+      "hasR7": true
+    }
+  ],
+  "pdfSHA": "f1237f05ca9438963ec0d8b81edae8df81bdcd5c2b20889ecb57639b5cca3cc1",
+  "nativeDXF": [
+    {
+      "file": "A00.dxf",
+      "dimensions": 0
+    },
+    {
+      "file": "A01.dxf",
+      "dimensions": 12
+    },
+    {
+      "file": "A02.dxf",
+      "dimensions": 16
+    },
+    {
+      "file": "A03.dxf",
+      "dimensions": 18
+    },
+    {
+      "file": "A03b.dxf",
+      "dimensions": 5
+    },
+    {
+      "file": "A04.dxf",
+      "dimensions": 4
+    },
+    {
+      "file": "A05a.dxf",
+      "dimensions": 2
+    },
+    {
+      "file": "A05b.dxf",
+      "dimensions": 2
+    },
+    {
+      "file": "A06.dxf",
+      "dimensions": 6
+    },
+    {
+      "file": "A07.dxf",
+      "dimensions": 5
+    },
+    {
+      "file": "A08.dxf",
+      "dimensions": 6
+    },
+    {
+      "file": "A09.dxf",
+      "dimensions": 10
+    },
+    {
+      "file": "A10.dxf",
+      "dimensions": 5
+    },
+    {
+      "file": "A10b.dxf",
+      "dimensions": 7
+    },
+    {
+      "file": "A11.dxf",
+      "dimensions": 2
+    },
+    {
+      "file": "A12.dxf",
+      "dimensions": 3
+    },
+    {
+      "file": "A13.dxf",
+      "dimensions": 2
+    },
+    {
+      "file": "A13b.dxf",
+      "dimensions": 2
+    },
+    {
+      "file": "A14.dxf",
+      "dimensions": 4
+    },
+    {
+      "file": "A15.dxf",
+      "dimensions": 0
+    },
+    {
+      "file": "A16.dxf",
+      "dimensions": 0
+    },
+    {
+      "file": "details\\D01.dxf",
+      "dimensions": 6
+    },
+    {
+      "file": "details\\D02.dxf",
+      "dimensions": 7
+    },
+    {
+      "file": "details\\D03.dxf",
+      "dimensions": 7
+    },
+    {
+      "file": "details\\D04.dxf",
+      "dimensions": 10
+    },
+    {
+      "file": "details\\D05.dxf",
+      "dimensions": 9
+    },
+    {
+      "file": "details\\D05b.dxf",
+      "dimensions": 10
+    },
+    {
+      "file": "details\\D06.dxf",
+      "dimensions": 8
+    },
+    {
+      "file": "details\\D07.dxf",
+      "dimensions": 9
+    },
+    {
+      "file": "details\\D08.dxf",
+      "dimensions": 9
+    },
+    {
+      "file": "details\\D09.dxf",
+      "dimensions": 10
+    },
+    {
+      "file": "details\\D10.dxf",
+      "dimensions": 4
+    },
+    {
+      "file": "details\\D11.dxf",
+      "dimensions": 9
+    }
+  ],
+  "nativeDimensionCount": 209,
+  "stills": [
+    {
+      "key": "exterior",
+      "file": "exterior.png",
+      "match": true,
+      "sha256": "d42c0953456f671a27191d0ed7695c648fd0be3527ade2672c95bd2e9fb438cd"
+    },
+    {
+      "key": "pileta",
+      "file": "pileta.png",
+      "match": true,
+      "sha256": "d2d3f029ce3dbbe952e56b1f2f27f948d20ae817b1524d06955cbd8f903393ea"
+    },
+    {
+      "key": "huerta",
+      "file": "huerta.png",
+      "match": true,
+      "sha256": "05ac31bef748944c067449bd0b377e29e03c61456d80685a8b6d93b4f79d9769"
+    },
+    {
+      "key": "estudio",
+      "file": "estudio.png",
+      "match": true,
+      "sha256": "5a6e2d0d68280dd47b50306c5d0c70ed85f0da0f73d910513fe1b57faab7e220"
+    },
+    {
+      "key": "cocina",
+      "file": "cocina.png",
+      "match": true,
+      "sha256": "e62f277fd567e043044e412f80f0d88d5efad2f0e222540c0a89db3f56d10afb"
+    },
+    {
+      "key": "quincho",
+      "file": "quincho.png",
+      "match": true,
+      "sha256": "81d245b1aff5551a72d38ad4cc976a9a62d7bf777a7710b5899049433023cac2"
+    },
+    {
+      "key": "dormitorio",
+      "file": "dormitorio.png",
+      "match": true,
+      "sha256": "0685be025485d3abcdd31c814d56aaa1b093e4333ed636c7580bf9bf8c848e55"
+    },
+    {
+      "key": "dormitorio_acceso",
+      "file": "dormitorio_acceso.png",
+      "match": true,
+      "sha256": "9fa3764983e635e8bcd41ebe544cc85cf1e58e3264685d7de37516c051936000"
+    },
+    {
+      "key": "vestidor",
+      "file": "vestidor.png",
+      "match": true,
+      "sha256": "385c4c72d505bfe004900ad12d792b16b7b66574e1b5fe5720ddd35c403720a9"
+    },
+    {
+      "key": "bano",
+      "file": "bano.png",
+      "match": true,
+      "sha256": "15cb3b781bd5917adb4c6efbe19d5ddef330bf1b1e5da9528a8943de7f97f653"
+    },
+    {
+      "key": "bano_acceso",
+      "file": "bano_acceso.png",
+      "match": true,
+      "sha256": "160c7add5509fd9713e7088a439cfee6184224c90af01b11d9b20787dbce4b79"
+    },
+    {
+      "key": "puerta_bano",
+      "file": "puerta_bano.png",
+      "match": true,
+      "sha256": "6b0d2125d7caa91620a2ffa5fcf4130f34301b3600450b18cbbd64595f8b0562"
+    },
+    {
+      "key": "mono_cocina",
+      "file": "mono_cocina.png",
+      "match": true,
+      "sha256": "521c3e2ad8bb7de31201267f03b66e39ce8c713a5b691ee31fd17c11de54f580"
+    },
+    {
+      "key": "mono_distribucion",
+      "file": "mono_distribucion.png",
+      "match": true,
+      "sha256": "32f9630e4b15edfe526da6679abca06eca4528ed454f24b2912da185de9157ff"
+    },
+    {
+      "key": "bano_mono",
+      "file": "bano_mono.png",
+      "match": true,
+      "sha256": "8751c5ea6fe7543026aa0dbb677bff594f43c126cf3efb99241908e9b3275c77"
+    },
+    {
+      "key": "bano_mono_sanitarios",
+      "file": "bano_mono_sanitarios.png",
+      "match": true,
+      "sha256": "f621a4ae979d5efc7fbdba121cd3ea119722617a1723d738e4a12b1f7c814b68"
+    },
+    {
+      "key": "bano_quincho",
+      "file": "bano_quincho.png",
+      "match": true,
+      "sha256": "c07be5ab062d93805aa2e3f811e307958feb5c3b9c249666491ebe7051b665d4"
+    },
+    {
+      "key": "escalera",
+      "file": "escalera.png",
+      "match": true,
+      "sha256": "f5d6343a74124d5d9c9f88e16e1bec07915a1e0b1a442538872efc008361e863"
+    },
+    {
+      "key": "cubiertas",
+      "file": "cubiertas.png",
+      "match": true,
+      "sha256": "c390bd4c0f318b31ac9f525ff9c6f05431437f75af415f102f468496340c0eeb"
+    },
+    {
+      "key": "estudio_retrato",
+      "file": "estudio_retrato.png",
+      "match": true,
+      "sha256": "3641b7c0d4c252b92870db657deaae2129cf6cedb5ea3ae71fb45cf6cadfb947"
+    },
+    {
+      "key": "dormitorio_retrato",
+      "file": "dormitorio_retrato.png",
+      "match": true,
+      "sha256": "119bc61b500784947a6d99735149279776823e93828fb2816e64553071db8093"
+    },
+    {
+      "key": "vestidor_retrato",
+      "file": "vestidor_retrato.png",
+      "match": true,
+      "sha256": "ff1556ab68acc30af0607064b32cb753f8033b5d702fb90497c14ce78a9fc60d"
+    },
+    {
+      "key": "exterior_retrato",
+      "file": "exterior_retrato.png",
+      "match": true,
+      "sha256": "99fb8f60b4522c8bac6a2113cc3c6de35c8c371d9c805318c2159199da823522"
+    },
+    {
+      "key": "bano_humano",
+      "file": "bano_humano.png",
+      "match": true,
+      "sha256": "13c981328d3824e010790e5550fe4bd2bd6cc9afc3e4eeb780bf54406e86fe1e"
+    },
+    {
+      "key": "dormitorio_puerta",
+      "file": "dormitorio_puerta.png",
+      "match": true,
+      "sha256": "d2f0b2c1cf836cddf7d511b19f4bb40b30dea9a2e60a929550d8031dcd93b445"
+    }
+  ],
+  "stillsCount": 25
+}

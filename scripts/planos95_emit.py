@@ -15,6 +15,7 @@ if a.reuse_geometry:build.append('--reuse-geometry')
 run('planos95_build.py',*build)
 run('planos95_details_build.py','--geometry',out/'geometry.json','--out',out/'details','--bearing-details',ROOT/'review95/bearing_details_3c.json')
 run('planos95_verify.py','--out',out)
+if json.loads((out/'geometry.json').read_text('utf8')).get('scene_metadata',{}).get('r7_vent_details'):run('planos99_document_audit.py','--out',out)
 run('planos95_package.py','--out',out,'--details',out/'details')
 assert hashlib.sha256(model.read_bytes()).hexdigest()==sha,'Source modified while emitting'
 report=json.loads((out/'package_validation.json').read_text(encoding='utf8'));print(json.dumps({'model':str(model),'sha256':sha,'complete_pdf':str(out/'Casa_de_Campo_Planos_Completos_95_A2.pdf'),'checks':report},ensure_ascii=False,indent=2))

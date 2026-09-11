@@ -1,0 +1,1470 @@
+PAGE 1
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A00 | Indice y criterios
+Juego coordinado para revision independiente; video pausado
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+01
+LA PROPIEDAD COMPLETA, EN UNA MISMA VERSION
+Plantas, fachadas, cortes y detalles extraidos del archivo Blender indicado en cada cartela. Las anotaciones distinguen fuente dimensional, geometria medida y propuestas pendientes.
+Hoja
+Contenido
+Escala
+A01
+Implantacion, paisaje y perimetro
+1:100 / 1:50
+A02
+Planta baja y vanos
+1:50
+A03
+Planta alta, estudio y vivienda
+1:50
+A03b
+Vivienda / uso y recorridos
+1:25
+A04
+Cubiertas y coordinacion pluvial
+1:50 / esquema
+A05a / A05b
+Cuatro fachadas
+1:50
+A06
+Cortes generales A-A y B-B
+1:50
+A07
+Escalera, descanso y acceso
+1:20 / 1:5
+A08
+Pileta y bordes
+1:25
+A09
+Banos: plantas y elevaciones
+1:20 / 1:25
+A10
+Quincho y cocinas
+1:25 / 1:50
+A10b
+Monoambiente: uso y cotas G
+1:25 / 1:20
+A11
+Estudio y tratamiento acustico
+1:25 / 1:50
+A12
+Carpinterias y herreria
+Cuadros / 1:25
+A13 / A13b
+Encuentros de envolvente
+1:5 / 1:10
+A14
+Estructura conceptual
+1:50 / 1:10
+A15
+Instalaciones coordinadas
+1:100 / esquemas
+A16
+Superficies, decisiones y trazabilidad
+Cuadros
+D01-D11
+Suplemento G/P (incluye D05b)
+1:1 a 1:50
+COMO LEER ESTE JUEGO
+F - Fuente: cotas expresas del HTML original y decisiones del propietario.
+G - Geometria: medida derivada de la version Blender identificada por SHA256. No equivale a un relevamiento de obra.
+P - Propuesta: coordinacion o solucion grafica inferida. Validar antes de construir.
+Niveles referidos al cero del modelo. No hay relevamiento altimetrico ni mensura catastral.
+Ubicacion: Virrey del Pino, Partido de La Matanza, Buenos Aires. Norte orientativo segun propietario: con la calle arriba, abajo a la izquierda.
+Servicios de red disponibles segun propietario. Posiciones, cotas y condiciones exactas de acometida pendientes.
+Escalas fisicas para impresion al 100 %. DXF en metros; cada vista se separa horizontalmente en espacio modelo.
+JERARQUIA GRAFICA
+0,50 mm: contorno de piezas cortadas. Relleno gris: material seccionado.
+0,18 / 0,13 mm: proyecciones, mobiliario y contexto.
+Azul: cotas, niveles, referencias y criterios de coordinacion.
+No constituye proyecto ejecutivo ni calculo estructural, sanitario, electrico o acustico.
+
+
+PAGE 2
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A01 | Implantacion, paisaje y perimetro
+Calle arriba; norte orientativo segun propietario
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+02
+01 Implantacion general | 1:100
+CALLE CEDRO MISIONERO
+CASA 8,00 x 12,00
+PB + PA
+PILETA 7,00 x 3,00
+HUERTA
+22.00
+20.00
+14.00
+8.00
+3.00
+2.00
+2.00
+Hoja 3,00 / luz 2,75
+0
+5 m
+N
+Orientativo; rumbo no relevado.
+IMPLANTACION CONSERVADA
+F: lote nominal 22,00 x 20,00 m. Casa X=14,00; Z=0,00. Dos modulos de 6,00 m.
+F: pileta X=13,00; Z=15,00. Distancias nominales del vaso: 2,00 m al fondo y 2,00 m al lateral derecho.
+F: borde pavimentado de 1,00 m; huerta y centros de los seis arboles de fuente conservados.
+G: cotas de pavimentos se detallan en A02, A07 y A08. Rasante general del terreno por relevar.
+G: porton de hoja 3,00 m, luz entre pilares 2,75 m y carrera 3,05 m. No confundir hoja con paso libre.
+02 Huerta y caminos | 1:50
+2.20
+2.20
+1.05
+1.05
+Paso 0,72 m
+Perimetro y desniveles: confirmar mensura, cotas de terreno y drenajes exteriores. El norte grafico refleja la referencia del propietario y no un azimut topografico.
+
+
+PAGE 3
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A02 | Planta baja
+Corte horizontal G a +1,20 m | referencias A06, A09 y A10
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+03
+01 Planta baja amoblada | 1:50
+8.00
+0.20
+7.60
+0.20
+12.00
+6.00
+6.00
+A / A06
+A
+B
+B / A06
+MONOAMBIENTE
+Piso G +0,21
+QUINCHO
+Piso G +0,18
+BANO 01
++0,21
+BANO 03
++0,21
+5.05
+2.41
+5.70
+1.55
+2.75
+2.50
+2.75
+1.10
+1.66
+P01
+P02
+P03
+0
+3 m
+DIMENSIONES Y NIVELES
+F: envolvente nominal 8,00 x 12,00 m; espesor exterior 0,20 m. La geometria de piezas puede incluir juntas y salientes.
+G: piso monoambiente +0,21; quincho +0,18; ambos banos PB +0,21. Saltos entre acabados visibles: no se omiten.
+G: vano doble monoambiente 2,50 m entre jambas. Las hojas y rieles se describen en A12.
+G: bano mono en fachada Cedro y medianera: X19,39..21,80 / Z0,26..1,81. Luz entre acabados2,41 x1,55; tabique lateral0,14. Acceso por oeste.
+G: bano de pileta exterior con acceso desde jardin. Detalle acotado en A09.
+Barridos azules: pose de apertura esquematica de hojas; la ausencia de colision se audita en el modelo y no se presume por este simbolo.
+LECTURA DE LOS EQUIPOS
+Cocina en L e isla del monoambiente: plantas y alturas de mesada en A10.
+Quincho: horno, bacha y parrilla mantienen la linea de fuente; extracciones independientes hacia patinillo. Ver A10 y A15.
+La circulacion y los usos se muestran con el mobiliario actual. No se certifican accesibilidad ni condiciones reglamentarias locales.
+Ref.
+Ambito
+Consultar
+P01
+Corredera PB
+A12 carpinterias
+P02 / P03
+Banos PB / pileta
+A09 locales
+A-A / B-B
+Secciones reales
+A06 cortes generales
+
+
+PAGE 4
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A03 | Planta alta
+Corte horizontal G a +4,50 m | estudio libre 3,20 / vivienda 2,60 m
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+04
+01 Planta alta amoblada | 1:50
+8.00
+0.20
+7.60
+0.20
+12.00
+6.00
+6.00
+A / A06
+A
+B
+B / A06
+ESTUDIO
+Piso +3,25 / cielorraso +6,45
+DORMITORIO
++3,25
+VESTIDOR
++3,25
+BANO 02
++3.25
+COCINA / COMEDOR
+Piso +3,25 / cielorraso +5,85
+3.35
+1.66
+2.31
+2.83
+2.73
+1.00
+1.00
+3.00
+0.92
+P04
+V01
+V02
+P08
+P09
+P10
+P11 0,90 libre
+P05 vano1,00
+P05
+P06
+P07
+0
+3 m
+ALTURAS AUTORIZADAS
+F/G: piso estudio +3,25; cara inferior del cielorraso +6,45 = 3,20 m libres.
+F/G: piso vivienda +3,25; cielorraso general +5,85 = 2,60 m libres.
+G: piso bano +3.25; cielorraso +5.85; altura libre 2.60 m. Transicion continua al comedor y corredera: suplemento D09.
+G: losa entre plantas +3,00 a +3,20; espesor 0,20 m. Acabado general superior 0,05 m.
+F: acceso exterior unico al nivel alto. Escalera y descanso 1,00 m nominal; detalle del umbral en A07.
+CERRAMIENTOS Y VANOS
+F: ventana del estudio 3,00 m. G: paños DVH y marco segun cuadro A12.
+G: P05 conecta dormitorio con estar; P06 comunica dormitorio y vestidor; P07 vestidor y bano; P11 bano y comedor. Vestidor cerrado al estar.
+G: balcon lateral 1,00 m y posterior 1,00 m nominal. Barandas y borde de losa en A12/A13.
+Acustica, ventilacion y sellado: A11 y suplemento D06-D08. Prestaciones aun no calculadas.
+
+
+PAGE 5
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A03b | Circulacion y uso en vivienda
+G posiciones reales / P retirada350 mm, hojas abiertas y usuario600 mm
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+05
+01 Vivienda / accesos, mobiliario y huellas de uso | 1:25
+0.975 uso P
+0.825 uso P
+0.808 uso P
+0.805 G
+P ruta Ø450 mm
+PASO0,80 P
+P11 0,90 libre
+ CORREDERA
+GEOMETRIA Y HUELLAS DE USO
+G: muebles, mesadas y aparatos proceden del mismo modelo que esta cartela. Cotas a sus envolventes, no a centros.
+P: cada silla se retira350 mm perpendicular al lado largo de la mesa. Se conserva su ancho y profundidad medidos.
+P: profundidad de apertura de horno igual a altura de su frente; heladera igual a ancho de hoja. La abertura se dibuja como envolvente
+conservadora y requiere herraje real.
+P: usuario de600 mm detras de hoja abierta. Estas huellas sirven para revisar simultaneidad; no acreditan accesibilidad normativa.
+Caso simultaneo P
+Paso m
+Silla retirada / horno + usuario
+0.975
+Silla retirada / heladera + usuario
+0.825
+Silla oeste retirada / mesa baja
+0.808
+RECORRIDOS Y LECTURA
+Estar -> dormitorio -> vestidor -> bano; P05 y P06 abren hacia dormitorio. P11 bano-comedor conservado; vestidor cerrado al estar.
+G P05: paso conservador806mm: galce X16.6045 hasta manija X17.4105, hoja90°. Proyeccion sobre toda la profundidad de hoja;
+garganta848mm. A12.
+Si muebles o herrajes cambian, recalcular estas envolventes; la ausencia de choque no sustituye la prueba de uso.
+NPT vivienda y baño continuo +3,25. Se verifican trayectorias y espacios de uso como propuestas dimensionales; la evaluacion de confort y las aperturas finales se confirman sobre la nueva escena y los herrajes elegidos.
+
+
+PAGE 6
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A04 | Cubiertas y pluviales
+Geometria G / trazados P diferenciados | detalles A13
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+06
+01 Cubiertas y captacion | 1:50
+8.60
+6.00
+6.00
+0.30
+CUBIERTA ESTUDIO
+CUBIERTA VIVIENDA
+Pendiente G ~18,33 %
+Pendiente G ~18,33 %
+Escalon entre cubiertas +0,60 m
+Canaleta frontal C1
+Canaleta posterior C2
+BP
+BP
+0
+3 m
+CONTINUIDAD DEL AGUA
+G: pendientes principales conservadas, 1,10 m de subida en 6,00 m de desarrollo horizontal nominal (18,33 %). No es una pendiente pluvial de caneria.
+G: estudio elevado 0,60 m respecto de la cubierta de vivienda. Alero lateral nominal 0,30 m.
+Captacion: revisar seccion abierta, embudo, codo y abrazaderas en el modelo de esta emision. El corte de abajo reproduce sus piezas reales.
+P: conduccion de descarga hasta punto de red pluvial propuesto. Conexion, cota, caudal y diametros finales pendientes de datos de servicio y calculo.
+No se presume que una bajada dibujada llega a una red existente. A15 identifica el limite de coordinacion.
+02 Circuito frontal / proyeccion | 1:50
++0.00
+Salida P -0,57
++6.95
+PUNTOS DE CONTROL
+1. Cubierta hacia canaleta receptora.
+2. Fondo de canaleta hacia salida.
+3. Conexion estanca entre piezas.
+4. Bajada continua y registrable.
+5. Descarga con destino definido.
+La continuidad fisica y la prueba de paso se documentan en la auditoria del modelo.
+
+
+PAGE 7
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A05a | Fachadas
+Cuatro orientaciones identificadas por la propiedad, sin azimut inventado
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+07
+01 Frente / Cedro Misionero | 1:50
++0,00 modelo
++3,20 losa
++6,40 base fuente
++7.037 G alero
++8.170 G piel
+8.00
+0
+3 m
+02 Contrafrente / pileta | 1:50
++0,00 modelo
++3,20 losa
++6,40 base fuente
++7.037 G alero
++8.170 G piel
+8.00
+0
+3 m
+MATERIALIDAD REPRESENTADA
+Ladrillo visto en cerramientos; hormigon en losas, pilares y vigas; cubierta metalica con encuentros y remates; DVH en carpinterias; herreria en balcones y escalera.
+G cotas de piel exterior de cubierta extraidas de malla. F+7,00/+8,10 son referencias de fuente y no coronamiento terminado. A12/A13 y suplemento amplian hojas, capas y fijaciones; sin despiece certificado.
+
+
+PAGE 8
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A05b | Fachadas
+Cuatro orientaciones identificadas por la propiedad, sin azimut inventado
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+08
+03 Lateral de acceso | 1:50
++0,00 modelo
++3,20 losa
++6,40 base fuente
++7.037 G alero
++8.170 G piel
+12.00
+0
+3 m
+04 Medianera lateral | 1:50
++0,00 modelo
++3,20 losa
++6,40 base fuente
++7.037 G alero
++8.170 G piel
+12.00
+0
+3 m
+MATERIALIDAD REPRESENTADA
+Ladrillo visto en cerramientos; hormigon en losas, pilares y vigas; cubierta metalica con encuentros y remates; DVH en carpinterias; herreria en balcones y escalera.
+G cotas de piel exterior de cubierta extraidas de malla. F+7,00/+8,10 son referencias de fuente y no coronamiento terminado. A12/A13 y suplemento amplian hojas, capas y fijaciones; sin despiece certificado.
+
+
+PAGE 9
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A06 | Cortes generales
+A-A longitudinal X=18,00 | B-B transversal Z=3,00 | ver trazas A02/A03
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+09
+A-A Longitudinal por ambas alturas | 1:50
+PB +0,21
+Losa +3,00
+PA +3,25
+Vivienda +5,85
+Estudio +6,45
+3,20 libre
+2,60 libre
+6.00
+6.00
+ESTUDIO
+VIVIENDA
+B-B Transversal por estudio | 1:50
+8.00
+3,20 libre
++0.21
++3.25
++6.45
+NIVELES Y CONSTRUCCION
+G: losa entre plantas 0,20 m; piso general superior 0,05 m; cielorraso estudio +6,45 y vivienda +5,85. Corte A-A comprueba ambos volumenes y el escalon exterior.
+F: alturas libres autorizadas 3,20 / 2,60 m. La diferencia se conserva sin desplazar la implantacion ni las huellas de los ambientes.
+P: continuidad de cargas, fundaciones y conexiones por dimensionar. No hay estudio geotecnico ni verificacion estructural; ver A14.
+
+
+PAGE 10
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A07 | Escalera, descanso y umbral
+18 peldaños de fuente | huella de avance distinta de profundidad de tabla
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+10
+01 Planta / acceso | 1:20
+1,00 nominal
+1,00
+DESCANSO
+SUBE 18
+02 Seccion y proyeccion lateral | 1:20
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+17 x 177.2 mm
+17 avances x 211.1 mm
+Primera tabla +0.237
+Descanso +3.25
+Arranque +0,06
+03 Umbral / corte Z=5,30 | 1:5
+Losa +3,20
+NPT +3,25
+50 mm
+ACCESO
+G: acabado del descanso elevado hasta +3,25 en el umbral; la diferencia de
+50 mm se absorbe en la capa de terminacion. Pendiente hacia esquina
++3,235.
+F: recorrido nominal 3,80 m; ancho de tabla 1,00 m; descanso 1,00 x 1,00 m.
+G: avance repetido 211.1 mm; contrahuella 177.2 mm. No confundir solape
+con huella util.
+Arranque, ancho libre entre barandas, altura de pasamanos, anclajes y
+alcance de manija: comprobar con la auditoria geometrica de esta version.
+COMPROBACIONES DE USO Y ANCLAJES
+G soportes peldaños: tubo hueco35x35x3 sobre cartelas6 a zancas; narices embutidas4 y saliente2mm. Geometria de fijacion propuesta, capacidad pendiente. A14 y D05/D05b amplian apoyos.
+
+
+PAGE 11
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A08 | Pileta y borde pavimentado
+Vaso nominal de fuente 7,00 x 3,00 m | borde 1,00 m
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+11
+01 Planta del vaso y playa humeda | 1:25
+7.00
+1.00
+1.00
+3.00
+1.00
+1.00
+VASO NOMINAL 7,00 x 3,00
+PLAYA
+ESCALONES
+NIVELES DEL MODELO
+G: pavimento perimetral +0,09 m; borde vertical del vaso hasta +0,07 m.
+G: fondo del vaso entre -1,57 y -1,39 m; espesor representado 0,18 m.
+G: tres escalones con caras superiores -0,14 / -0,43 / -0,72 m.
+G: playa humeda -0,080 m; agua -0.030 m; profundidad actual 50 mm.
+Escalon intermedio -0,31 m.
+G cresta de agua -0.030 m; resguardo geometrico 100 mm al borde. P nivel
+operativo sujeto a proyecto hidraulico.
+G: agua recortada contra vaso, playa y escalones; fondo de agua -1.390 m,
+coincidente con cara superior del vaso. Proyecto hidraulico P pendiente.
+P: skimmer, retornos, filtrado y desague por dimensionar y coordinar.
+Esquema en A15.
+02 Corte transversal al largo / Z=16,50 | 1:50
+Fondo -1,39
+Playa -0,08
+
+
+PAGE 12
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A09 | Banos: plantas y elevaciones
+B01 monoambiente | B02 vivienda | B03 pileta / quincho
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+12
+B01 Monoambiente | 1:25
+2.41
+1.55
+Piso +0.21
+P02
+Elevacion interior / artefactos | 1:25
++0.21
+455 G asiento
+B02 Vivienda | 1:20
+2.31
+2.41
+Piso +3.25
+P11 0,90 libre
+WC y bidet / hacia muro posterior | 1:20
++3.25
+455 G asiento
+B03 Pileta | 1:20
+1.10
+1.66
+Piso +0.21
+Elevacion interior / artefactos | 1:20
++0.21
+455 G asiento
+G: artefactos y mamparas de la malla actual; cotas interiores entre caras. D09 detalla piso continuo PA; D11 capas, sumidero y altura de ducha PB. Accesos de mantenimiento, productos y ensayos pendientes; hojas en A12.
+
+
+PAGE 13
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A10 | Quincho y cocinas
+Equipos, mesadas y extracciones | geometria G / criterios pendientes P
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+13
+01 Linea del quincho | 1:25
+Horno 1,20
+Bacha 1,30
+Parrilla 1,10
+HORNO
+BACHA
+PARRILLA
+02 Cocina mono / ver A10b | 1:50
+G 1.720
+G 0.680
+G mesada +1.110
+03 Cocina vivienda | 1:25
+NPT +3,25
+EXTRACCION Y MANTENIMIENTO
+G: horno y parrilla con conductos independientes hacia el patinillo junto al estudio; cocina
+vivienda con salida independiente.
+G: diametros representados de horno / parrilla ~0,21 / 0,32 m; son dimensiones de malla, no
+resultado de calculo.
+P: verificar longitud desarrollada, radios, caudal, reposicion de aire, temperatura, aislamiento,
+registro y limpieza.
+P: conexiones sanitarias de bachas y lavatorios, llaves de corte y sifones requieren detalle de
+instalacion. A15 ubica los puntos de coordinacion.
+El patinillo comparte proximidad con el estudio. A11 identifica control termico, vibratorio y
+acustico pendiente.
+ALTURAS Y RELACION CON LOS LOCALES
+G: cotas absolutas medidas de trabajo: mesa quincho +0.930; mesa comedor +4.000. No equivalen a altura desde el piso.
+Comparar alturas de trabajo descontando el piso terminado de cada ambiente. No se confunden cotas absolutas con altura sobre piso.
+La campana, el faldon y la boca de cada equipo se leen en los cortes del modelo. El tiro de combustion no esta certificado.
+
+
+PAGE 14
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A10b | Monoambiente: uso y medidas
+Cotas G extraidas de la geometria | envolventes P de uso, sin certificacion ergonomica
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+14
+01 Planta completa / piso +0,21 | 1:25
+G isla 1.720
+G 0.680
+G paso 1.100
+G 1.076 hasta tirador
+P usuario600 mm
+P hoja90°
+P uso placard600
+P retiro450 mm
+P retiro450 mm
+Mesa / altura G
+0.750 m
+Asiento silla / G
+0.460 m
+Mesada-isla / G
+0.900 m
+Piso terminado / G
++0,210 m
+Paso hasta tirador / G
+1.076 m
+ALCANCE DE LAS HUELLAS P
+P: usuario600 mm al lado del barrido de heladera y hoja abierta90° con eje derecho propuesto por tirador izquierdo. La seleccion del equipo
+debe confirmar mano, carrera y acceso.
+G: posicion de muebles y sanitarios del modelo. P: retiro450 mm de ambas sillas en trazo discontinuo; no es pose guardada. A09 y D11
+amplian los banos.
+Herrajes, electrodomesticos y muebles no tienen marca/producto confirmados. G documenta geometria, no conformidad del producto o
+accesibilidad.
+Las dimensiones de obra, espesores y servicios necesitan replanteo y proyecto ejecutivo segun jurisdiccion.
+02 Mesa y sillas / elevacion G | 1:20
+750 G
+460 G
+03 Mesada / Z3,60 | 1:20
+900 G
+Alturas G sobre NPT +0,21. Aparatos y muebles genericos; sin producto ni capacidad certificados.
+G: cotas tomadas del modelo, incluyendo el tirador que reduce el paso a la heladera. P: huella de uso y criterios de coordinacion. No se sustituyen medidas por dimensiones nominales de catalogo.
+
+
+PAGE 15
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A11 | Estudio y estrategia acustica
+Tratamiento representado; prestaciones sin calcular
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+15
+01 Estudio / posiciones y cerramientos | 1:25
+7.60
+5.60
+FRENTE DE ESCUCHA
+Punto de escucha / verificar
+PATINILLO
+DVH
+PUERTA
+CRITERIO ACUSTICO PROPUESTO
+G: altura libre 3,20 m; cielorraso a +6,45. Paneles y nubes seccionados/coordinados con esa cota.
+P: identificar primeras reflexiones con posicion final de monitores y oidos. El trazado de escucha es una referencia grafica,
+no un calculo acustico.
+P: montaje dimensional, cierre hermetico y ventilacion en suplemento D06-D08; aislamiento, RT60 y ruido de fondo
+requieren calculo/medicion.
+P: sellado perimetral continuo en puerta, DVH y pasos; juntas elasticas y desacople donde el sistema constructivo lo
+requiera.
+P modelado:2 circuitos con filtros, ventiladores, silenciadores600 y ductosØ150; pasos frontales300x80. Registro1,40x0,83
+y accesorios desde+6,453. D08 muestra montaje y retirada.
+P: patinillo de combustion: definir proteccion termica, separacion, juntas y acceso de limpieza sin comprometer el estudio.
+VERIFICACION PENDIENTE
+Medicion o simulacion acustica con absorcion real de materiales, volumen util, posiciones definitivas y ruido de instalaciones. No se asignan valores de dB ni tiempos de reverberacion sin evidencia.
+
+
+PAGE 16
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A12 | Carpinterias y herreria
+Cuadro de hojas / paños medidos del modelo; vanos y pases en A02/A03
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+16
+Ref.
+Pieza medida G
+Ancho m
+Alto m
+Base
+Tope
+P01i
+Corredera PB / vidrio
+1.140
+2.300
++0.270
++2.570
+P01d
+Corredera PB / vidrio
+1.140
+2.300
++0.270
++2.570
+P02
+Abatible bano mono
+0.915
+2.200
++0.220
++2.420
+P03
+Abatible bano pileta
+0.820
+2.180
++0.210
++2.390
+P04
+Acceso estudio
+0.855
+2.340
++3.260
++5.600
+P05
+Dormitorio / estar
+0.908
+2.200
++3.260
++5.460
+P06
+Dormitorio
+0.820
+2.170
++3.260
++5.430
+P07
+Bano vivienda
+0.820
+2.180
++3.250
++5.430
+V01
+DVH estudio / paño
+3.000
+1.720
++4.060
++5.780
+V02
+Lateral dormitorio / paño
+1.700
+2.080
++3.840
++5.920
+P08a
+Corredera lateral A / vidrio
+1.150
+2.540
++3.220
++5.760
+P08b
+Corredera lateral B / vidrio
+1.150
+2.540
++3.220
++5.760
+P09
+Corredera posterior A / vidrio
+1.275
+2.540
++3.220
++5.760
+P10
+Corredera posterior B / vidrio
+1.675
+2.540
++3.220
++5.760
+H01
+Porton / hoja
+3.000
+2.000
++0.085
++2.085
+P11
+Corredera bano/comedor
+1.050
+2.240
++3.260
++5.500
+LECTURA DEL CUADRO
+Dimensiones de hoja o vidrio; no equivalen al vano. P11: luz entre jambas0,90; hoja1,05 y carrera1,02;
+ver A09 / suplemento D09.
+G: P05 vano1000, hoja908, marco923mm; garganta848mm y paso conservador806mm con manija a90°.
+P02 vano1000 / marco930mm.
+G: DVH con dos paños de vidrio; espesor y separacion segun modelo. Prestaciones y composicion final
+por especificar.
+P08/P09/P10: correderas vivienda; replantear rieles, solapes, desagues y retenedores a partir del vano
+real.
+Porton: hoja 3,00 m; paso libre 2,75 m; carrera 3,05 m. Paso medido entre caras de pilares.
+01 P05 / jambas y hoja cerrada G | 1:10
+923 G entre jambas
+806 G conservador
+Hoja908 x45 G; apertura en A03
+02 Cierre vestidor-estar / corte G | 1:10
+140 G
+Sin puerta ni paso al estar
+HERRERIA Y PROTECCION
+F: baranda nominal 1,05 m sobre nivel de balcon. G: eje pasamanos lateral +4.30; NPT alto +3.25; diferencia 1.05 m. Medir altura util donde cambie el acabado.
+G: postes, barrotes y zancas representados. Separacion de barrotes, resistencia horizontal, soldaduras, placas y anclajes requieren validacion de proyecto.
+Escalera: 18 tablas de 1,00 m; avance entre tablas ~211,1 mm. A07 muestra el recorrido y el encuentro de acceso; A14 las piezas de soporte.
+Pendiente: cuadro de fabricacion definitivo con materiales, espesores, tratamientos, sellos, drenajes, tolerancias y accesorios del fabricante.
+
+
+PAGE 17
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A13 | Detalles de envolvente
+Secciones reales ampliadas; P indica lo que requiere definicion de proyecto
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+17
+01/A13 Alero estudio / X=17,80 | 1:5
+80 mm aislacion representada
+02/A13 Escalon cubiertas / X=17,80 | 1:5
+0,60 m
+CAPAS Y GESTION DEL AGUA
+G: cubierta metalica, aislacion representada de 80 mm, revestimiento inferior y cabios/correas. La seccion corta las piezas de la malla a su escala real.
+G: chapa nominal0,8 mm. Suplemento D01 propone capas, goteron, solape150 y fijaciones selladas; compatibilidad y resistencia por verificar.
+P: babeta/contrababeta del salto, retorno de membrana y sellos alrededor de conductos desarrollados en suplemento D02; verificar frente a exposicion real.
+P: validar condensacion, viento, dilatacion y puentes termicos con datos climaticos y especificaciones definitivas.
+DVH, UMBRALES Y BALCON
+Encuentros generales: A07, A14 y A13b. Suplemento D01-D04 desarrolla capas, solapes, sellos y anclajes con cotas en mm.
+P: junta perimetral con respaldo y sello compatible; apoyo y calzos de vidrio, drenaje del marco, continuidad de aislacion e impermeabilizacion.
+El suplemento distingue las piezas G de las propuestas P; las especificaciones finales dependen del sistema y fabricante seleccionados.
+
+
+PAGE 18
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A13b | Captacion, DVH y penetraciones
+Ampliaciones de geometria G; especificacion final pendiente
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+18
+05/A13b Canaleta abierta / X=14,00 | 1:2
+0,16 m G
+BOCA RECEPTORA
+06/A13b DVH / antepecho / Z=3,00 | 1:5
+Muro 0,20
+07/A13b Paso de conductos / X=21,50 | 1:5
+CONDUCTOS INDEPENDIENTES
+05/A13b CAPTACION / FIJACION
+G: seccion de canaleta recortada directamente de la malla. Verificar apertura superior, fondo, salida lateral y continuidad en
+la prueba del modelo.
+P: pendiente longitudinal, caudal, fijacion y sellos requieren dimensionado; el ancho grafico no certifica capacidad pluvial.
+06/A13b ENCUENTRO DE VENTANA
+G: dos paños, marco, antepecho y alféizar representados. La ampliacion permite revisar solapes y
+contacto.
+P: apoyo, sellos, drenaje del marco y conexion de aislacion desarrollados a1:5 en suplemento D03.
+Ver A12 para anchos, alturas y cotas de cada pieza.
+07/A13b PENETRACION / PATINILLO
+G: conductos independientes, babetas perforadas y remate de patinillo. Se muestra la interseccion con cubierta.
+P: continuidad de membrana, cuello y contrababetas, dilataciones, aislamiento termico y acceso de limpieza por especificar.
+No se asignan distancias reglamentarias a combustibles ni caudales sin proyecto de combustion.
+
+
+PAGE 19
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A14 | Estructura conceptual y apoyos
+Secciones representadas; sin verificacion de resistencia o suelo
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+19
+01 Planta de apoyos y lineas estructurales | 1:50
+1
+2
+A
+B
+C
+D
+7,75 entre ejes representativos
+2,90
+2,85
+CAMINO DE CARGAS A VALIDAR
+Cubierta: chapa / aislacion -> correas -> cabios -> vigas de apoyo -> cerramientos / apoyos inferiores.
+Entrepiso: losa de 0,20 m -> muros y vigas / columnas representados -> fundacion por proyectar.
+Quincho: columnas 0,30 x 0,30 m y vigas de 0,30 x 0,36 m representadas. Son secciones de malla, no un dimensionado estructural.
+Balcones: proyeccion 1,00 m; verificar voladizo, continuidad y anclaje con la losa. No se infieren armaduras.
+Escalera: dos zancas; suplemento D05 dibuja cartelas, bulones y apoyo inferior P. Barandas: D04 muestra placas/anclajes G; capacidad pendiente.
+Fundaciones ausentes de la fuente: tipo, profundidad, armaduras y capacidad del terreno pendientes de estudio geotecnico y proyecto profesional.
+04/A14 Balcon / baranda / Z=9,00 | 1:20
+1.05 m eje / NPT
+UNIONES
+El corte documenta las piezas presentes y sus apoyos aparentes.
+Los anclajes no se consideran resueltos por estar dibujados:
+validar sustrato, borde, profundidad y solicitaciones.
+Acero/hormigon: especificar corrosion, drenajes y juntas.
+
+
+PAGE 20
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A15 | Instalaciones coordinadas
+Nodos reales de consumo; enlaces funcionales propuestos P
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+20
+01 Coordinacion general / PB | 1:100
+AF-1
+B-1
+Q-1
+B-3
+B-2 PA
+C-2 PA
+ACOMETIDAS P
+Equipo pileta P
+AGUA / DESAGUE / PLUVIAL
+AF-1 cocina mono; B-1 bano mono; Q-1 quincho; B-3 bano pileta; B-2 bano PA; C-2 cocina PA. Nodos sobre equipos reales del modelo.
+Las lineas punteadas son relaciones funcionales, no tuberias ejecutivas. Recorridos, diametros, pendientes, ventilaciones, registros y acometidas se definen con el proyecto sanitario.
+Pluvial: captacion y bajadas en A04. Destino final de descarga propuesto; red y cota de conexion exactas pendientes.
+Pileta P: skimmer / toma de fondo -> prefiltro / bomba -> filtro -> retornos. Prever valvulas, vaciado, renovacion y medidas de seguridad; equipo y tuberias por calcular.
+ELECTRICIDAD / ILUMINACION / EXTRACCION
+Servicios de red disponibles segun propietario. Tablero y medidor propuestos junto al acceso; ubicacion final segun prestador.
+P: separar circuitos de iluminacion, tomas generales, cocinas, pileta y estudio. Definir potencias, protecciones, puesta a tierra y equipotencialidad.
+G: luminarias representadas no equivalen a calculo luminotecnico ni conexion electrica.
+G: conductos de horno, parrilla y cocina presentes. Ver A10: caudal, limpieza, aislamiento y reposicion de aire pendientes.
+P modelado: D08 representa impulsion y extraccion independientes con soportes a cabios, registro, filtros y terminales separados2,52m. Caudales, productos y prestaciones pendientes.
+CRITERIO DE COORDINACION: localizar consumos y cruces antes de dimensionar redes. Sin cotas de servicio ni calculos no se presenta este esquema como
+instalacion completa o certificada.
+
+
+PAGE 21
+CASA DE CAMPO
+VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO
+A16 | Superficies y trazabilidad
+Registro F / G / P | superficies geometricas no catastrales
+EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION
+Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026
+A2 594 x 420 mm | imprimir al 100 %
+Metros salvo indicacion | cotas prevalecen al escalimetro
+21
+Area / pieza
+m2
+Metodo / alcance
+Lote nominal F
+440.00
+22,00 x 20,00; limites nominales
+Huella casa F
+96.00
+8,00 x 12,00; incluye quincho
+Dos niveles nominales F
+192.00
+192 m2 brutos geometricos; no computo legal
+Vaso pileta F
+21.00
+7,00 x 3,00 nominal
+Borde pavimentado F
+24.00
+Anillo de 1,00 m nominal
+Piso estudio G
+41.74
+Proyeccion real de la pieza; puede solapar otras
+Piso vivienda G
+36.13
+Proyeccion real de la pieza; puede solapar otras
+Piso monoambiente G
+38.86
+Proyeccion real de la pieza; puede solapar otras
+Piso baño mono G
+2.42
+Proyeccion real de la pieza; puede solapar otras
+Piso baño vivienda G
+5.61
+Proyeccion real de la pieza; puede solapar otras
+Piso quincho G
+45.42
+Proyeccion real de la pieza; puede solapar otras
+Piso baño quincho G
+1.81
+Proyeccion real de la pieza; puede solapar otras
+Balcón lateral G
+6.00
+Proyeccion real de la pieza; puede solapar otras
+Balcón posterior G
+8.98
+Proyeccion real de la pieza; puede solapar otras
+Descanso escalera G
+1.00
+Proyeccion real de la pieza; puede solapar otras
+FUENTES Y REVISION
+F: source/scene.json, configuracion y geometria original. Coordenadas fuente X / Z horizontal; Y altura. Blender X / -Z / Y.
+F: docs/DECISIONES.md: estudio 3,20 m libres, vivienda 2,60 m y video pausado.
+G: modelo Casa_de_Campo_99_R7D.blend; SHA256 9cf1a0e2f1b1a6063a289426...
+G: extraccion de mallas evaluadas a cuadro 150, con puertas en su pose de documentacion. Los detalles omiten microgeometria menor para permitir
+lectura.
+P: desarrollos constructivos y sistemas inferidos se identifican en sus hojas. No se presentan como verificacion profesional.
+Las superficies de piezas no son utiles netas de recintos. Comprobar uniones y areas comunes antes de sumar; los pisos PB de banos se recortaron de las
+superficies generales.
+PENDIENTES PARA EMISION FINAL
+Mensura y topografia; servicios y cotas exactas; suelos; calculo de estructura, instalaciones, seguridad, clima y acustica.
+Cierre de observaciones de la auditoria y coherencia con modelo / visor congelados. Umbral critico 9,9 e hiperrealismo siguen siendo condiciones de
+entrega.
+ARCHIVOS: un PDF multipagina vectorial A2; un SVG y un DXF por lamina; geometria.json de extraccion; manifest.json de versiones; verification.json de controles. Los DXF contienen las vistas metricas separadas y cotas; la cartela completa se conserva en
+PDF/SVG.
+
+
+PAGE 22
+CASA DE CAMPO / DETALLES R7
+D01 | Alero, capas y union de remates
+VIRREY DEL PINO, LA MATANZA, BUENOS AIRES
+Responde C1 / C3 | relacion con A04 y A13 del juego general
+G = medido / gris
+P = propuesta dimensional / azul
+Todas las cotas en mm salvo niveles en m
+EN REVISION - PROPUESTAS DE COORDINACION, SIN CALCULO DE CAPACIDAD
+Base G: Casa_de_Campo_99_R7D.blend / 9cf1a0e2f1b1a606
+G acredita geometria, no capacidad. P identifica propuestas; su presencia3D no valida prestaciones.
+A2 / imprimir al 100 %
+01 / 10-09-2026
+01 Alero propuesto sobre espesores G | 1:5
+ 1
+2
+3
+160 G
+80 G
+40 P
+140 G
+G correa 45 x55; cabio 80 x220 nominal. Secciones del modelo, sin capacidad atribuida.
+P soporte de canaleta: pletina 30 x5, modulo inicial 600; revisar cantidad por carga y soporte real.
+02 Solape de babetas / fijacion P | 1:5
+150 P solape
+ separacion grafica
+P tornillo Ø5,5 con arandela EPDM Ø24; penetracion y longitud segun soporte seleccionado.
+P dos cordones continuos de sellador compatible; espesor final segun producto. La union se fija mecanicamente.
+CAPAS / IDENTIFICACION
+1 G chapa nominal 0,8. P camara ventilada de20 sobre aislacion; necesita separadores que no aplasten la manta.
+2 G aislacion80. P membrana exterior drenante y retorno30 al goteron. 3 P continuidad de control de aire/vapor por debajo; tipo segun estudio higrotermico.
+DECISION DIMENSIONAL P
+Solape150 de remates; retorno20 de borde; sello neutro compatible; fijacion inicial cada300 en remate. No se traslada como tabla de fijacion de la chapa a correas.
+El detalle muestra orden de capas y salida del agua. Los espesores submilimetricos se dibujan con peso de linea legible, sin escalarlos como material mas grueso.
+R1 | Lysaght: Roofing & Walling Installation Manual, §§7.9 y11
+
+
+PAGE 23
+CASA DE CAMPO / DETALLES R7
+D02 | Escalon de cubierta y penetraciones
+VIRREY DEL PINO, LA MATANZA, BUENOS AIRES
+Responde C3 / C5 | laminas A13 y A13b
+G = medido / gris
+P = propuesta dimensional / azul
+Todas las cotas en mm salvo niveles en m
+EN REVISION - PROPUESTAS DE COORDINACION, SIN CALCULO DE CAPACIDAD
+Base G: Casa_de_Campo_99_R7D.blend / 9cf1a0e2f1b1a606
+G acredita geometria, no capacidad. P identifica propuestas; su presencia3D no valida prestaciones.
+A2 / imprimir al 100 %
+02 / 10-09-2026
+03 Encuentro escalonado / seccion P | 1:5
+600 G desnivel
+250 P solape vertical
+170 P ala
+25 P pliegue
+P membrana continua con pliegue flexible25; retorno vertical180 sobre faldon inferior. No puente rigido entre paños que impida dilatacion.
+04 Paso de conducto / remate P | 1:5
+233 P zocalo
+210 G conducto
+375 P hueco exterior
+P collar partido desmontable, abrazadera y junta compatible con temperatura. Conducto aislado no queda rigidamente pegado a la babeta.
+SERVICIO Y AGUA
+P bandeja superior con desvio lateral; retorno200 contra cuello, solape150 en falda y goteron20. No obstruir canales del perfil.
+P acceso desmontable de300 x300 al registro del patinillo. Aislamiento y distancias a combustibles requieren seleccion del sistema de combustion.
+R1 | Lysaght: Roofing & Walling Installation Manual, §§7.9 y11
+
+
+PAGE 24
+CASA DE CAMPO / DETALLES R7
+D03 | DVH: galces y juntas
+VIRREY DEL PINO, LA MATANZA, BUENOS AIRES
+G vidrio9 / camara17 / vidrio9 | P conexion del marco a obra
+G = medido / gris
+P = propuesta dimensional / azul
+Todas las cotas en mm salvo niveles en m
+EN REVISION - PROPUESTAS DE COORDINACION, SIN CALCULO DE CAPACIDAD
+Base G: Casa_de_Campo_99_R7D.blend / 9cf1a0e2f1b1a606
+G acredita geometria, no capacidad. P identifica propuestas; su presencia3D no valida prestaciones.
+A2 / imprimir al 100 %
+03 / 10-09-2026
+05 Antepecho / corte real G | 1:2
+35 G DVH
+6 G taco
+3 G asiento
+06 Jamba / corte real G | 1:2
+39 G galce
+17 G camara
+G galce comun39: paquete35 y2mm por cara exterior. Juntas elastomericas2mm a cada cara de los vidrios; toma12mm. El sellador de borde une ambas caras internas sin atravesar los vidrios.
+G tacos100x6 por vidrio a1/4 y3/4 de luz; calzo conformado bajo el vidrio interior. Bajo el marco: apoyo continuo3 y juntas1 en rebaje local. Envolvente original conservada; sin carga sobre sello de
+camara.
+G se retiraron los24 burletes metalicos macizos incompatibles. Las juntas nuevas son geometria P incorporada; no certifican hermeticidad, capacidad, termica ni acustica. D10 amplía las correderas
+de balcon.
+P Conexion del marco al soporte | 1:5
+15 P junta
+250 P repisa
+P apoyo continuo12 sobre escuadra10, fijacionesØ8 por dimensionar. Junta15 con respaldo y sellos; drenaje a exterior y compatibilidad del sistema pendientes de proyecto.
+R2 | Vitro TD-140: Large Insulating Glass Units, p.4
+
+
+PAGE 25
+CASA DE CAMPO / DETALLES R7
+D04 | Baranda: placa, apoyo y anclajes
+VIRREY DEL PINO, LA MATANZA, BUENOS AIRES
+Geometria G / R7D | propuesta modelada, capacidad pendiente de calculo
+G = medido / gris
+P = propuesta dimensional / azul
+Todas las cotas en mm salvo niveles en m
+EN REVISION - PROPUESTAS DE COORDINACION, SIN CALCULO DE CAPACIDAD
+Base G: Casa_de_Campo_99_R7D.blend / 9cf1a0e2f1b1a606
+G acredita geometria, no capacidad. P identifica propuestas; su presencia3D no valida prestaciones.
+A2 / imprimir al 100 %
+04 / 10-09-2026
+07 Planta G / placa lateral regular | 1:5
+210 G
+90 G
+80 G
+170 G al 2do eje
+110 G
+66 G
+G canto de losa X=13,00. Ejes interiores a90 y170 mm. Reticula80 x66; cuatro vastagos continuos Ø10 por placa.
+G poste35 x35, centro a20 del canto. La placa210 x110 x12 desarrolla el apoyo hacia el interior.
+08 Corte G / sustrato y anclaje continuo | 1:5
+210 G
+100 G en H°
+12 G
+184 G
+G cajeado y grout conformado al H° real:54 sobre+3,20;44 sobre+3,21. En junta se adapta al escalon. Placa inferior+3,254.
+G arandelaØ22 x3, tuerca17 x17 x9 y vástagoØ10 hasta+3,284. Extremo inferior+3,10/+3,11:100 mm dentro de H°.
+CASOS Y ALCANCE RESISTENTE
+G17 postes unicos. Esquinas:210 x210; primera placa envolvente210 x232 por prolongacion al descanso. Capacidad de placa, soldadura, anclajes, borde y hormigon pendiente por cargas/armado [R5].
+R5 | Hilti: Base plates - design considerations
+
+
+PAGE 26
+CASA DE CAMPO / DETALLES R7
+D05 | Escalera: placas, bulones y apoyo
+VIRREY DEL PINO, LA MATANZA, BUENOS AIRES
+Responde C4 | desarrollo dimensional de union superior e inferior
+G = medido / gris
+P = propuesta dimensional / azul
+Todas las cotas en mm salvo niveles en m
+EN REVISION - PROPUESTAS DE COORDINACION, SIN CALCULO DE CAPACIDAD
+Base G: Casa_de_Campo_99_R7D.blend / 9cf1a0e2f1b1a606
+G acredita geometria, no capacidad. P identifica propuestas; su presencia3D no valida prestaciones.
+A2 / imprimir al 100 %
+05 / 10-09-2026
+09 Union superior G / envolventes reales | 1:5
+210 G caja placa
+231,2 G envolvente
+90 G ejes cabezas
+G la pieza llamada placa es un volumen de130 x210 x231,2 mm. No se interpreta como chapa de130 mm ni como union fabricable.
+G cabezas22 x26 x26; rosca, vástago y tuerca no quedan demostrados por esa envolvente.
+10 P doble cartela / seccion transversal | 1:5
+10 P
+80 G zanca
+10 P
+2 P holgura
+90 P ejes
+330 P cartela
+P2 bulones M16 pasantes por cada union, arandela y tuerca accesible. AgujerosØ18. Longitud inicial145; rosca fuera del plano de corte a definir con proveedor.
+P cartelas de10, alma entre placas con holgura2 a cada lado. Union a apoyo mediante placa210 x160 x12 y2M12; revisar soldadura y solicitaciones.
+ARRANQUE PROPUESTO P
+Placa inferior180 x160 x12 sobre grout20;2M12 ejes100 con empotramiento conceptual100 en dado300 x300 x250. Estos tamaños dibujan una reserva de coordinacion: suelo, fundacion, armado y resistencia no estan calculados.
+R5 | Hilti: Base plates - design considerations
+
+
+PAGE 27
+CASA DE CAMPO / DETALLES R7
+D05b | Escalera: arranque y plantilla
+VIRREY DEL PINO, LA MATANZA, BUENOS AIRES
+Propuesta P dibujada para coordinacion | complemento de D05, sin calculo
+G = medido / gris
+P = propuesta dimensional / azul
+Todas las cotas en mm salvo niveles en m
+EN REVISION - PROPUESTAS DE COORDINACION, SIN CALCULO DE CAPACIDAD
+Base G: Casa_de_Campo_99_R7D.blend / 9cf1a0e2f1b1a606
+G acredita geometria, no capacidad. P identifica propuestas; su presencia3D no valida prestaciones.
+A2 / imprimir al 100 %
+06 / 10-09-2026
+11 Apoyo inferior / seccion P | 1:5
+300 P dado
+180 P placa
+100 P ejes
+250 P
+100 P en H°
+P placa180 x160 x12; grout20 sobre dado300 x300 x250. Vástagos M12 con100 dentro del hormigon; cabeza, arandela y tuerca accesibles.
+P zanca soldada a placa: contacto continuo, limpieza y proteccion anticorrosiva. Espesor y largo del cordon requieren solicitaciones y material.
+12 Plantilla de arranque / planta P | 1:5
+180 P
+100 P ejes
+160 P
+40 P borde
+300 P dado
+P2 agujerosØ14 para M12. El dibujo reserva montaje y acceso de llave; diametro, tipo de anclaje y tolerancias finales segun sistema seleccionado.
+P apoyo propuesto fuera del pavimento terminado; ajustar cota a la primera contrahuella del recorrido A07. Suelo, zapata real, armado y cargas no calculados.
+R5 | Hilti: Base plates - design considerations
+
+
+PAGE 28
+CASA DE CAMPO / DETALLES R7
+D06 | Acustica: panel, cielorraso y fijaciones
+VIRREY DEL PINO, LA MATANZA, BUENOS AIRES
+Responde C6 | se conserva cara inferior libre +6,45 y piso +3,25
+G = medido / gris
+P = propuesta dimensional / azul
+Todas las cotas en mm salvo niveles en m
+EN REVISION - PROPUESTAS DE COORDINACION, SIN CALCULO DE CAPACIDAD
+Base G: Casa_de_Campo_99_R7D.blend / 9cf1a0e2f1b1a606
+G acredita geometria, no capacidad. P identifica propuestas; su presencia3D no valida prestaciones.
+A2 / imprimir al 100 %
+07 / 10-09-2026
+11 Panel de80 / montaje P dentro de huella | 1:5
+80 G huella
+29 P aire
+50 P lana
+600 P modulo
+P tela porosa1 y velo de contencion; lana mineral50, bastidor12. Aire posterior29. Dos grapas Z desmontables y retenida inferior.
+P fijaciones murales Ø6 a soporte resistente. El bastidor recibe el herraje; no se cuelga de la tela ni de la lana.
+Cielorraso P sobre bafle G / corte parcial | 1:5
+696 G ejes cabios
+120 G
+30 P aire
+2x15 P
+G cara inferior +6,45 =3,20 libre
+P4 M6 continuos desde bastidor hasta perfil secundario40 x40 x3, con arandela/tuerca superior y retenida secundaria independiente.
+P escuadras60 x60 x6 con2 fijacionesØ8 al cabio en cada extremo. Espesor, tornillos y separacion por calcular; la carga no termina en el yeso.
+P barrera hermetica2x15 a +6,60/+6,63, juntas alternadas y sello perimetral. La nube y la cara visible conservan +6,45. Espacio disponible se coteja contra cabios.
+R3 | GIK Acoustics: How to Hang Acoustic Panels
+R6 | ROCKWOOL: Acoustic insulation - installation and flanking
+
+
+PAGE 29
+CASA DE CAMPO / DETALLES R7
+D07 | Sellos, pasos y relieve acustico
+VIRREY DEL PINO, LA MATANZA, BUENOS AIRES
+Responde C6 | puerta hermetica, penetracion y montaje de difusor
+G = medido / gris
+P = propuesta dimensional / azul
+Todas las cotas en mm salvo niveles en m
+EN REVISION - PROPUESTAS DE COORDINACION, SIN CALCULO DE CAPACIDAD
+Base G: Casa_de_Campo_99_R7D.blend / 9cf1a0e2f1b1a606
+G acredita geometria, no capacidad. P identifica propuestas; su presencia3D no valida prestaciones.
+A2 / imprimir al 100 %
+08 / 10-09-2026
+13 Puerta estudio / umbral y doble sello P | 1:5
+10 P sello caida
+65 G hoja
+18 P galce
+P sello automatico de caida10 contra umbral liso; doble junta compresible de5 en galces. Sin nuevo escalon sobre +3,25.
+P bandeja continua bajo umbral y retorno30 a jambas; extremos sellados. El agua drena hacia exterior sin atravesar la linea interior de aire.
+14 Paso de servicio frio / sellado P | 1:5
+200 G cerramiento
+100 P manguito
+25 P tubo
+P relleno compresible en anillo y sellos15 de profundidad en ambas caras. Manguito independiente del tubo; registrar conexiones, sin empotrar uniones desmontables.
+15 Relieve G / soporte posterior P | 1:5
+35
+58
+110
+45
+85
+125
+70
+28
+92
+52 G
+84 G paso
+125 G max.
+G relieve sin desempeño QRD demostrado. P respaldo12, grapa Z18 y retenida inferior; absorcion/difusion se verifican con sala terminada.
+R6 | ROCKWOOL: Acoustic insulation - installation and flanking
+
+
+PAGE 30
+CASA DE CAMPO / DETALLES R7
+D08 | Ventilacion: montaje y mantenimiento
+VIRREY DEL PINO, LA MATANZA, BUENOS AIRES
+Propuesta P modelada / cotas geometricas G / sin caudal ni atenuacion asignados
+G = medido / gris
+P = propuesta dimensional / azul
+Todas las cotas en mm salvo niveles en m
+EN REVISION - PROPUESTAS DE COORDINACION, SIN CALCULO DE CAPACIDAD
+Base G: Casa_de_Campo_99_R7D.blend / 9cf1a0e2f1b1a606
+G acredita geometria, no capacidad. P identifica propuestas; su presencia3D no valida prestaciones.
+A2 / imprimir al 100 %
+09 / 10-09-2026
+16 Planta de cielorraso y plenum | 1:50
+TOMA
+EXPULSION
+IMP.
+EXT.
+REGISTRO
+P aproximacion600 / puerta abierta
+P apartar mueble apoyo
+2,52m G centros terminales
+17 Axonometria de montaje / sin escala
+18 Equipo / corte Z4,68 | 1:10
+200 G filtro
+600 G silenciador
+REGISTRO DESMONTABLE
+Ø251,6 G
+19 Acceso / X19,40 + P | 1:25
+1400 P tablero
+Tablero P +4,65
+3,203m G
+830 G libre
+NPT +3,25 G
+Recepcion P +5,40
+20 Frente / corte X17,64 | 1:20
+Cielorraso G +6,450
+66,8 G a viga
+600 G transicion
+G seccion rectangular300x80; area0,024m2. Chapa1 + aislacion25 + camisa0,5: exterior353x133. P seleccion, caudal, ruido, condensacion y fijaciones pendientes de proyecto.
+P medio auxiliar no modelado: plataforma elevadora1200x600, tablero+4,65; cuerpo450x1720, cabeza+6,37. Apartar mueble apoyo y4patas. Retirar a+5,40; trasladar sobre tablero y descender al piso. Operario cambia X segun
+modulo; seleccionar equipo, alcance, herramienta y capacidad.
+P retiro: tapas; filtro por abajo; fan con dos flexibles; silenciador con acoples, abrazaderas y sus dos colgantes. El otro circuito y los bastidores
+permanecen. No se desmontan nubes.
+
+
+PAGE 31
+CASA DE CAMPO / DETALLES R7
+D09 | Baño: piso continuo y corredera
+VIRREY DEL PINO, LA MATANZA, BUENOS AIRES
+G capas y herrajes modelados | solucion dimensional propuesta, sin capacidad validada
+G = medido / gris
+P = propuesta dimensional / azul
+Todas las cotas en mm salvo niveles en m
+EN REVISION - PROPUESTAS DE COORDINACION, SIN CALCULO DE CAPACIDAD
+Base G: Casa_de_Campo_99_R7D.blend / 9cf1a0e2f1b1a606
+G acredita geometria, no capacidad. P identifica propuestas; su presencia3D no valida prestaciones.
+A2 / imprimir al 100 %
+10 / 10-09-2026
+18 Transicion humedo-seco / geometria G | 1:5
+150 G al seco
+50 G
+10 G bajo hoja
+40 G hoja
+BAÑO +3,25 G
+COMEDOR +3,25 G
+G junta elastica5 en terminacion; banda flexible bajo baldosa, prolongacion150 al lado seco y retorno en jambas. El paso queda sin resalto.
+G composicion dentro de50: mortero30 + membrana2 + adhesivo8 + baldosa10. Verificar espesores del sistema elegido y soporte; no duplicar piso general bajo la zona humeda.
+19 Corredera modelada / vista parcial G | 1:10
+ 30 G solape
+2220 G paso alto
+2240 G hoja
+40 G
+Herraje ampliado G | 1:2
+34 G
+35 G
+G2 ruedasØ42 apoyan en cara superior+5,590. Pletinas9 y pernosØ7 vinculan carros con hoja.
+G guia inferior lateral fuera del paso. Tiradores embutidos en ambas caras, junto al extremo de mesada.
+G hoja superior+5,50; cabezal+5,47; riel+5,555..+5,590. Geometria propuesta incorporada: dimensiones no equivalen a capacidad del herraje ni certificacion de impermeabilidad.
+R5 | Hilti: Base plates - design considerations
+
+
+PAGE 32
+CASA DE CAMPO / DETALLES R7
+D10 | Corredizas: pistas, vidrio y drenaje
+VIRREY DEL PINO, LA MATANZA, BUENOS AIRES
+G componentes medidos de solucion P modelada | ver A03, A05a/b y A12
+G = medido / gris
+P = propuesta dimensional / azul
+Todas las cotas en mm salvo niveles en m
+EN REVISION - PROPUESTAS DE COORDINACION, SIN CALCULO DE CAPACIDAD
+Base G: Casa_de_Campo_99_R7D.blend / 9cf1a0e2f1b1a606
+G acredita geometria, no capacidad. P identifica propuestas; su presencia3D no valida prestaciones.
+A2 / imprimir al 100 %
+11 / 10-09-2026
+20 Rodadura / corte exacto de la geometria | 1:2
+45 G perfil
+45 G
+G rodilloØ20 / ejeØ4; carril8x2; bandeja3; lecho3. Alojamiento26x14x19 en perfil original. Carga, desgaste y seleccion del herraje requieren
+dimensionamiento.
+21 Acristalamiento / corte por tacos | 1:2
+35 G /9-17-9
+6 G taco
+G tacos100mm en cuartos de luz;6mm de altura bajo cada vidrio. Puentes metalicos y junquillos conectan vidrio y perfiles; el vidrio interior
+conserva su retiro vertical3,81mm.
+GEOMETRIA / LIMITES
+G conserva13 rigs, carrera y dimensiones de vidrios. Se vaciaron galces y perfiles; no se movieron los vanos.
+Holgura nominal3mm al contorno movil terminado;2mm en galce de vidrio. Felpas y EPDM son geometria
+propuesta, sin ensayo de estanqueidad.
+Rodillos y tacos son una propuesta de montaje. No hay capacidad, durabilidad ni especificacion de producto
+validada.
+Rebajes de losas y dinteles, y perforacionesØ16 para tubosØ14, requieren coordinacion con armado y calculo.
+No se declara aptitud resistente.
+22 Guia superior / corte G | 1:2
+23 Drenaje al borde / corte G | 1:10
+G dos salidas por corredera: tuboØ14 / luz10, pendiente2% y codo hueco. Descarga en cara libre del balcon.
+Requiere prueba de agua y acceso de limpieza antes de obra.
+
+
+PAGE 33
+CASA DE CAMPO / DETALLES R7
+D11 | Banos: continuidad humeda y ducha
+VIRREY DEL PINO, LA MATANZA, BUENOS AIRES
+P capas modeladas / medidas G de pisos, retornos, penetraciones y rociador
+G = medido / gris
+P = propuesta dimensional / azul
+Todas las cotas en mm salvo niveles en m
+EN REVISION - PROPUESTAS DE COORDINACION, SIN CALCULO DE CAPACIDAD
+Base G: Casa_de_Campo_99_R7D.blend / 9cf1a0e2f1b1a606
+G acredita geometria, no capacidad. P identifica propuestas; su presencia3D no valida prestaciones.
+A2 / imprimir al 100 %
+12 / 10-09-2026
+24 Ducha PB / planta | 1:10
+900 G
+1450 G
++0,1955 G
++0,210 G
+G ducha a piso: rejilla100x100 y caida14,5mm; pendientes2,15% /3,63% hasta el borde del desague.
+24a Junta pasante / X21,35 | 1:1
+8 G
+2 G
+Membrana2
+Adhesivo4
+P modulo600x300; juntas2x8 y esquinas2. Compatibilidad y ensayo de estanqueidad pendientes.
+25 Ducha PB / X21,35 | 1:10
+2100 G libre
+Ø200 G
+Cuerpo12 G / boquillas+2,310
+NPT +0,210 G
+26 Griferia PA / X21,10 | 1:2
+35 G antes del cuerpo
+P vastago metalico hasta cuerpo empotrado, collar impermeable y roseta en cara terminada Z6,165; griferia conserva posicion. Se conecta al
+sustrato, sin tubo flotante.
+27 Piso-muro PB / Z1,40 | 1:2
+14 G capas
+retorno continuo
+28 Sumidero PB / Z0,985 | 1:5
+100 G
+P sanitario: brida, collar y sello geometrico50; ramal, ventilacion y prueba pendientes.

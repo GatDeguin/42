@@ -1,0 +1,334 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7D.blend",
+  "sourceSHA256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "images": [
+    {
+      "key": "exterior",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\exterior.png",
+      "size": [
+        2400,
+        1800
+      ],
+      "sha256": "d42c0953456f671a27191d0ed7695c648fd0be3527ade2672c95bd2e9fb438cd",
+      "mode": "RGB"
+    },
+    {
+      "key": "pileta",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\pileta.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "d2d3f029ce3dbbe952e56b1f2f27f948d20ae817b1524d06955cbd8f903393ea",
+      "mode": "RGB"
+    },
+    {
+      "key": "huerta",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\huerta.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "05ac31bef748944c067449bd0b377e29e03c61456d80685a8b6d93b4f79d9769",
+      "mode": "RGB"
+    },
+    {
+      "key": "estudio",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\estudio.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "5a6e2d0d68280dd47b50306c5d0c70ed85f0da0f73d910513fe1b57faab7e220",
+      "mode": "RGB"
+    },
+    {
+      "key": "cocina",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\cocina.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "e62f277fd567e043044e412f80f0d88d5efad2f0e222540c0a89db3f56d10afb",
+      "mode": "RGB"
+    },
+    {
+      "key": "quincho",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\quincho.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "81d245b1aff5551a72d38ad4cc976a9a62d7bf777a7710b5899049433023cac2",
+      "mode": "RGB"
+    },
+    {
+      "key": "dormitorio",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\dormitorio.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "0685be025485d3abcdd31c814d56aaa1b093e4333ed636c7580bf9bf8c848e55",
+      "mode": "RGB"
+    },
+    {
+      "key": "dormitorio_acceso",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\dormitorio_acceso.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "9fa3764983e635e8bcd41ebe544cc85cf1e58e3264685d7de37516c051936000",
+      "mode": "RGB"
+    },
+    {
+      "key": "vestidor",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\vestidor.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "385c4c72d505bfe004900ad12d792b16b7b66574e1b5fe5720ddd35c403720a9",
+      "mode": "RGB"
+    },
+    {
+      "key": "bano",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\bano.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "15cb3b781bd5917adb4c6efbe19d5ddef330bf1b1e5da9528a8943de7f97f653",
+      "mode": "RGB"
+    },
+    {
+      "key": "bano_acceso",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\bano_acceso.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "160c7add5509fd9713e7088a439cfee6184224c90af01b11d9b20787dbce4b79",
+      "mode": "RGB"
+    },
+    {
+      "key": "puerta_bano",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\puerta_bano.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "6b0d2125d7caa91620a2ffa5fcf4130f34301b3600450b18cbbd64595f8b0562",
+      "mode": "RGB"
+    },
+    {
+      "key": "mono_cocina",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\mono_cocina.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "521c3e2ad8bb7de31201267f03b66e39ce8c713a5b691ee31fd17c11de54f580",
+      "mode": "RGB"
+    },
+    {
+      "key": "mono_distribucion",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\mono_distribucion.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "32f9630e4b15edfe526da6679abca06eca4528ed454f24b2912da185de9157ff",
+      "mode": "RGB"
+    },
+    {
+      "key": "bano_mono",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\bano_mono.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "8751c5ea6fe7543026aa0dbb677bff594f43c126cf3efb99241908e9b3275c77",
+      "mode": "RGB"
+    },
+    {
+      "key": "bano_mono_sanitarios",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\bano_mono_sanitarios.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "f621a4ae979d5efc7fbdba121cd3ea119722617a1723d738e4a12b1f7c814b68",
+      "mode": "RGB"
+    },
+    {
+      "key": "bano_quincho",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\bano_quincho.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "c07be5ab062d93805aa2e3f811e307958feb5c3b9c249666491ebe7051b665d4",
+      "mode": "RGB"
+    },
+    {
+      "key": "escalera",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\escalera.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "f5d6343a74124d5d9c9f88e16e1bec07915a1e0b1a442538872efc008361e863",
+      "mode": "RGB"
+    },
+    {
+      "key": "cubiertas",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\cubiertas.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "c390bd4c0f318b31ac9f525ff9c6f05431437f75af415f102f468496340c0eeb",
+      "mode": "RGB"
+    },
+    {
+      "key": "estudio_retrato",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\estudio_retrato.png",
+      "size": [
+        1800,
+        2400
+      ],
+      "sha256": "3641b7c0d4c252b92870db657deaae2129cf6cedb5ea3ae71fb45cf6cadfb947",
+      "mode": "RGB"
+    },
+    {
+      "key": "dormitorio_retrato",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\dormitorio_retrato.png",
+      "size": [
+        1800,
+        2400
+      ],
+      "sha256": "119bc61b500784947a6d99735149279776823e93828fb2816e64553071db8093",
+      "mode": "RGB"
+    },
+    {
+      "key": "vestidor_retrato",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\vestidor_retrato.png",
+      "size": [
+        1800,
+        2400
+      ],
+      "sha256": "ff1556ab68acc30af0607064b32cb753f8033b5d702fb90497c14ce78a9fc60d",
+      "mode": "RGB"
+    },
+    {
+      "key": "exterior_retrato",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\exterior_retrato.png",
+      "size": [
+        1800,
+        2400
+      ],
+      "sha256": "99fb8f60b4522c8bac6a2113cc3c6de35c8c371d9c805318c2159199da823522",
+      "mode": "RGB"
+    },
+    {
+      "key": "bano_humano",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\bano_humano.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "13c981328d3824e010790e5550fe4bd2bd6cc9afc3e4eeb780bf54406e86fe1e",
+      "mode": "RGB"
+    },
+    {
+      "key": "dormitorio_puerta",
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\dormitorio_puerta.png",
+      "size": [
+        2000,
+        1500
+      ],
+      "sha256": "d2f0b2c1cf836cddf7d511b19f4bb40b30dea9a2e60a929550d8031dcd93b445",
+      "mode": "RGB"
+    }
+  ],
+  "contacts": [
+    {
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\contacts\\exteriores.jpg",
+      "keys": [
+        "exterior",
+        "pileta",
+        "huerta",
+        "quincho",
+        "cubiertas",
+        "escalera"
+      ],
+      "size": [
+        1872,
+        1148
+      ],
+      "sha256": "c311f4b7400bce30b46963d2e73b248058002fcc4a67cfe8c0109e5a01f1b5c3"
+    },
+    {
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\contacts\\vivienda.jpg",
+      "keys": [
+        "cocina",
+        "dormitorio",
+        "dormitorio_acceso",
+        "vestidor",
+        "bano",
+        "puerta_bano"
+      ],
+      "size": [
+        1872,
+        1148
+      ],
+      "sha256": "e6c974dc1128647fdac1042fc15e20fdae3bcf4af57cf0400f024c9db3ad8f88"
+    },
+    {
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\contacts\\servicios.jpg",
+      "keys": [
+        "bano_acceso",
+        "mono_cocina",
+        "mono_distribucion",
+        "bano_mono",
+        "bano_mono_sanitarios",
+        "bano_quincho"
+      ],
+      "size": [
+        1872,
+        1148
+      ],
+      "sha256": "ec27b2e0a389a1e945bfc9853e64ede8f79f68299817cac4cf31380cbbadf797"
+    },
+    {
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\contacts\\complementarias.jpg",
+      "keys": [
+        "estudio",
+        "bano_humano",
+        "dormitorio_puerta"
+      ],
+      "size": [
+        1872,
+        610
+      ],
+      "sha256": "1a546481db329d9e1af8f1d3d129e15d533020ff20360f71e9a71bf695cb0836"
+    },
+    {
+      "file": "D:\\2026\\42\\review99\\r7_final\\stills\\contacts\\retratos.jpg",
+      "keys": [
+        "estudio_retrato",
+        "dormitorio_retrato",
+        "vestidor_retrato",
+        "exterior_retrato"
+      ],
+      "size": [
+        1890,
+        760
+      ],
+      "sha256": "22956b24777c425e6c82467708f406d74379b6a802c7c1d2c83f1a9770113393"
+    }
+  ],
+  "status": "Technical integrity and contact generation only; visual critique is separate."
+}

@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="594mm" height="420mm" viewBox="0 0 594 420"><rect width="594" height="420" fill="white"/>
+<polygon points="10.0000,10.0000 584.0000,10.0000 584.0000,410.0000 10.0000,410.0000" stroke="#384c55" stroke-width="0.3" fill="none"/>
+<text x="19" y="22" fill="#384c55" font-family="Arial" font-size="4.8" font-weight="bold" text-anchor="start">CASA DE CAMPO / DETALLES R7</text>
+<text x="575" y="22" fill="#384c55" font-family="Arial" font-size="4.2" font-weight="bold" text-anchor="end">D05 | Escalera: placas, bulones y apoyo</text>
+<text x="19" y="30" fill="#75838a" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">VIRREY DEL PINO, LA MATANZA, BUENOS AIRES</text>
+<text x="575" y="30" fill="#75838a" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="end">Responde C4 | desarrollo dimensional de union superior e inferior</text>
+<line x1="10.0000" y1="37.0000" x2="584.0000" y2="37.0000" stroke="#384c55" stroke-width="0.25"/>
+<text x="20" y="47" fill="#384c55" font-family="Arial" font-size="2.7" font-weight="bold" text-anchor="start">G = medido / gris</text>
+<text x="112" y="47" fill="#1c6b92" font-family="Arial" font-size="2.7" font-weight="bold" text-anchor="start">P = propuesta dimensional / azul</text>
+<text x="288" y="47" fill="#75838a" font-family="Arial" font-size="2.7" font-weight="normal" text-anchor="start">Todas las cotas en mm salvo niveles en m</text>
+<line x1="10.0000" y1="383.0000" x2="584.0000" y2="383.0000" stroke="#384c55" stroke-width="0.3"/>
+<text x="20" y="391" fill="#a25228" font-family="Arial" font-size="2.9" font-weight="bold" text-anchor="start">EN REVISION - PROPUESTAS DE COORDINACION, SIN CALCULO DE CAPACIDAD</text>
+<text x="20" y="399" fill="#75838a" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="start">Base G: Casa_de_Campo_99_R7D.blend / 9cf1a0e2f1b1a606</text>
+<text x="20" y="406" fill="#75838a" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="start">G acredita geometria, no capacidad. P identifica propuestas; su presencia3D no valida prestaciones.</text>
+<text x="575" y="392" fill="#384c55" font-family="Arial" font-size="2.8" font-weight="normal" text-anchor="end">A2 / imprimir al 100 %</text>
+<text x="575" y="405" fill="#75838a" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="end">05 / 10-09-2026</text>
+<text x="31" y="77" fill="#1c6b92" font-family="Arial" font-size="3.2" font-weight="bold" text-anchor="start">09 Union superior G / envolventes reales | 1:5</text>
+<polygon points="92.1108,231.9960 92.0000,231.6500 92.0000,186.8500 92.1108,186.5012 92.1758,186.4234 92.2526,186.3574 92.6000,186.2420 133.4000,186.0000 133.7474,186.1108 133.8242,186.1758 133.8892,186.2526 134.0000,186.6000 134.0000,231.4000 133.8892,231.7474 133.8242,231.8242 133.7474,231.8892 133.4000,232.0000 92.6000,232.2420 92.2526,232.1360 92.1758,232.0720 92.1108,231.9960" stroke="#384c55" stroke-width="0.25" fill="#edf1f2"/>
+<polygon points="100.5460,192.0200 100.7378,191.9406 100.7948,191.9406 100.8510,191.9498 101.0248,192.0594 120.9752,216.0720 121.0522,216.2636 121.0514,216.3206 121.0414,216.3768 120.9296,216.5506 52.4806,274.0000 31.0000,274.0000 31.0000,250.3901 100.5460,192.0200" stroke="#384c55" stroke-width="0.25" fill="#edf1f2"/>
+<polygon points="116.4628,224.4568 116.4000,224.2600 116.4000,219.7400 116.4628,219.5432 116.4996,219.4996 116.5432,219.4628 116.7400,219.4000 121.2600,219.4000 121.4568,219.4628 121.5004,219.4996 121.5372,219.5432 121.6000,219.7400 121.6000,224.2600 121.5372,224.4568 121.5004,224.5004 121.4568,224.5372 121.2600,224.6000 116.7400,224.6000 116.5432,224.5372 116.4996,224.5004 116.4628,224.4568" stroke="#384c55" stroke-width="0.25" fill="#edf1f2"/>
+<polygon points="116.4628,206.4568 116.4000,206.2600 116.4000,201.7400 116.4628,201.5432 116.4996,201.4996 116.5432,201.4628 116.7400,201.4000 121.2600,201.4000 121.4568,201.4628 121.5004,201.4996 121.5372,201.5432 121.6000,201.7400 121.6000,206.2600 121.5372,206.4568 121.5004,206.5004 121.4568,206.5372 121.2600,206.6000 116.7400,206.6000 116.5432,206.5372 116.4996,206.5004 116.4628,206.4568" stroke="#384c55" stroke-width="0.25" fill="#edf1f2"/>
+<polygon points="111.0000,226.0000 261.0000,226.0000 261.0000,194.0000 111.0000,194.0000" stroke="#384c55" stroke-width="0.2" fill="#edf1f2"/>
+<line x1="111.0000" y1="184.0000" x2="251.0000" y2="184.0000" stroke="#384c55" stroke-width="0.3"/>
+<line x1="92.0000" y1="135.0000" x2="134.0000" y2="135.0000" stroke="#384c55" stroke-width="0.13"/>
+<line x1="91.0000" y1="136.0000" x2="93.0000" y2="134.0000" stroke="#384c55" stroke-width="0.2"/>
+<line x1="133.0000" y1="136.0000" x2="135.0000" y2="134.0000" stroke="#384c55" stroke-width="0.2"/>
+<polygon points="102.6437,130.9000 123.3563,130.9000 123.3563,134.5000 102.6437,134.5000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="113.0" y="133.5" fill="#384c55" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="middle">210 G caja placa</text>
+<line x1="167.0000" y1="232.2400" x2="167.0000" y2="186.0000" stroke="#384c55" stroke-width="0.13"/>
+<line x1="166.0000" y1="233.2400" x2="168.0000" y2="231.2400" stroke="#384c55" stroke-width="0.2"/>
+<line x1="166.0000" y1="187.0000" x2="168.0000" y2="185.0000" stroke="#384c55" stroke-width="0.2"/>
+<polygon points="168.4000,207.5200 192.1494,207.5200 192.1494,211.1200 168.4000,211.1200" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="169.0" y="210.12" fill="#384c55" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">231,2 G envolvente</text>
+<line x1="191.0000" y1="222.0000" x2="191.0000" y2="204.0000" stroke="#384c55" stroke-width="0.13"/>
+<line x1="190.0000" y1="223.0000" x2="192.0000" y2="221.0000" stroke="#384c55" stroke-width="0.2"/>
+<line x1="190.0000" y1="205.0000" x2="192.0000" y2="203.0000" stroke="#384c55" stroke-width="0.2"/>
+<polygon points="192.4000,211.4000 215.1351,211.4000 215.1351,215.0000 192.4000,215.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="193.0" y="214.0" fill="#384c55" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">90 G ejes cabezas</text>
+<line x1="113.0000" y1="212.0000" x2="27.0000" y2="289.0000" stroke="#a25228" stroke-width="0.15"/>
+<line x1="27.0000" y1="289.0000" x2="30.0000" y2="289.0000" stroke="#a25228" stroke-width="0.15"/>
+<text x="31" y="290" fill="#a25228" font-family="Arial" font-size="2.7" font-weight="normal" text-anchor="start">G la pieza llamada placa es un volumen de130 x210 x231,2 mm. No se interpreta como chapa de130 mm ni como union fabricable.</text>
+<line x1="119.0000" y1="222.0000" x2="27.0000" y2="313.0000" stroke="#384c55" stroke-width="0.15"/>
+<line x1="27.0000" y1="313.0000" x2="30.0000" y2="313.0000" stroke="#384c55" stroke-width="0.15"/>
+<text x="31" y="314" fill="#384c55" font-family="Arial" font-size="2.7" font-weight="normal" text-anchor="start">G cabezas22 x26 x26; rosca, vástago y tuerca no quedan demostrados por esa envolvente.</text>
+<text x="330" y="77" fill="#1c6b92" font-family="Arial" font-size="3.2" font-weight="bold" text-anchor="start">10 P doble cartela / seccion transversal | 1:5</text>
+<polygon points="410.0000,208.0000 426.0000,208.0000 426.0000,142.0000 410.0000,142.0000" stroke="#384c55" stroke-width="0.2" fill="#edf1f2"/>
+<polygon points="407.6000,208.0000 409.6000,208.0000 409.6000,142.0000 407.6000,142.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="426.4000,208.0000 428.4000,208.0000 428.4000,142.0000 426.4000,142.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="404.0000,193.6000 433.0000,193.6000 433.0000,190.4000 404.0000,190.4000" stroke="#1c6b92" stroke-width="0.25" fill="none"/>
+<polygon points="403.2000,195.0000 404.0000,195.0000 404.0000,189.0000 403.2000,189.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="401.2000,194.4000 403.2000,194.4000 403.2000,189.6000 401.2000,189.6000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="429.6000,195.0000 430.4000,195.0000 430.4000,189.0000 429.6000,189.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="430.4000,194.4000 433.0000,194.4000 433.0000,189.6000 430.4000,189.6000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="404.0000,175.6000 433.0000,175.6000 433.0000,172.4000 404.0000,172.4000" stroke="#1c6b92" stroke-width="0.25" fill="none"/>
+<polygon points="403.2000,177.0000 404.0000,177.0000 404.0000,171.0000 403.2000,171.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="401.2000,176.4000 403.2000,176.4000 403.2000,171.6000 401.2000,171.6000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="429.6000,177.0000 430.4000,177.0000 430.4000,171.0000 429.6000,171.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="430.4000,176.4000 433.0000,176.4000 433.0000,171.6000 430.4000,171.6000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<line x1="407.6000" y1="126.0000" x2="409.6000" y2="126.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="406.6000" y1="127.0000" x2="408.6000" y2="125.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="408.6000" y1="127.0000" x2="410.6000" y2="125.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="405.3257,121.9000 411.8743,121.9000 411.8743,125.5000 405.3257,125.5000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="408.6" y="124.5" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="middle">10 P</text>
+<line x1="410.0000" y1="116.0000" x2="426.0000" y2="116.0000" stroke="#384c55" stroke-width="0.13"/>
+<line x1="409.0000" y1="117.0000" x2="411.0000" y2="115.0000" stroke="#384c55" stroke-width="0.2"/>
+<line x1="425.0000" y1="117.0000" x2="427.0000" y2="115.0000" stroke="#384c55" stroke-width="0.2"/>
+<polygon points="410.7515,111.9000 425.2485,111.9000 425.2485,115.5000 410.7515,115.5000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="418.0" y="114.5" fill="#384c55" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="middle">80 G zanca</text>
+<line x1="426.4000" y1="126.0000" x2="428.4000" y2="126.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="425.4000" y1="127.0000" x2="427.4000" y2="125.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="427.4000" y1="127.0000" x2="429.4000" y2="125.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="424.1257,121.9000 430.6743,121.9000 430.6743,125.5000 424.1257,125.5000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="427.4" y="124.5" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="middle">10 P</text>
+<line x1="409.6000" y1="136.0000" x2="410.0000" y2="136.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="408.6000" y1="137.0000" x2="410.6000" y2="135.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="409.0000" y1="137.0000" x2="411.0000" y2="135.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="402.5508,131.9000 417.0492,131.9000 417.0492,135.5000 402.5508,135.5000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="409.8" y="134.5" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="middle">2 P holgura</text>
+<line x1="484.0000" y1="192.0000" x2="484.0000" y2="174.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="483.0000" y1="193.0000" x2="485.0000" y2="191.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="483.0000" y1="175.0000" x2="485.0000" y2="173.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="485.4000,181.4000 497.4405,181.4000 497.4405,185.0000 485.4000,185.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="486.0" y="184.0" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">90 P ejes</text>
+<line x1="520.0000" y1="208.0000" x2="520.0000" y2="142.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="519.0000" y1="209.0000" x2="521.0000" y2="207.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="519.0000" y1="143.0000" x2="521.0000" y2="141.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="521.4000,173.4000 537.9207,173.4000 537.9207,177.0000 521.4000,177.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="522.0" y="176.0" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">330 P cartela</text>
+<line x1="433.0000" y1="174.0000" x2="328.0000" y2="290.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<line x1="328.0000" y1="290.0000" x2="331.0000" y2="290.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<text x="332" y="291" fill="#1c6b92" font-family="Arial" font-size="2.7" font-weight="normal" text-anchor="start">P2 bulones M16 pasantes por cada union, arandela y tuerca accesible. AgujerosØ18. Longitud inicial145; rosca fuera del plano de corte a definir con proveedor.</text>
+<line x1="427.0000" y1="150.0000" x2="328.0000" y2="316.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<line x1="328.0000" y1="316.0000" x2="331.0000" y2="316.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<text x="332" y="317" fill="#1c6b92" font-family="Arial" font-size="2.7" font-weight="normal" text-anchor="start">P cartelas de10, alma entre placas con holgura2 a cada lado. Union a apoyo mediante placa210 x160 x12 y2M12; revisar soldadura y solicitaciones.</text>
+<text x="31" y="349" fill="#1c6b92" font-family="Arial" font-size="3.5" font-weight="bold" text-anchor="start">ARRANQUE PROPUESTO P</text>
+<text x="31" y="356" fill="#384c55" font-family="Arial" font-size="2.8" font-weight="normal" text-anchor="start">Placa inferior180 x160 x12 sobre grout20;2M12 ejes100 con empotramiento conceptual100 en dado300 x300 x250. Estos tamaños dibujan una reserva de coordinacion: suelo, fundacion, armado y resistencia no estan calculados.</text>
+<text x="31" y="374" fill="#384c55" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="start">R5 | Hilti: Base plates - design considerations</text>
+<a href="https://www.hilti.com.sg/content/hilti/A2/SG/en/engineering/design-center/anchor-systems/typical-applications/base-plate.html"><rect x="31" y="371" width="410" height="5" fill="transparent"/></a>
+</svg>

@@ -2870,16 +2870,28 @@
     "revision": "R7D",
     "status": "CANDIDATE_IN_REVIEW",
     "targetGlobalScore": 9.9,
-    "globalScore": null,
+    "globalScore": 8.5,
     "lastFormalScore": {
-      "revision": "R6K",
-      "score": 8.3
+      "revision": "R7D",
+      "score": 8.5,
+      "date": "2026-09-11",
+      "reportURL": "https://github.com/GatDeguin/42/blob/main/audit/critica_integral_r7d_99.md"
     },
     "knownOpenItems": [
       "Photographic vegetation and textiles",
-      "Sanitary hinge interfaces under independent review",
-      "Source-matched room lighting atlases in preparation",
-      "Full R7 still and drawing packages in preparation"
-    ]
+      "Sanitary fixed/moving hinge interfaces",
+      "Mirror shading normals",
+      "MIDI controller height and supports",
+      "Comfort at the PB island",
+      "Final source-matched room lighting and progressive validation"
+    ],
+    "deliverables": {
+      "images": 25,
+      "imagesURL": "../renders99/",
+      "sheets": 33,
+      "plansURL": "../planos99/",
+      "sourceSHA256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e"
+    },
+    "approved": false
   }
 }

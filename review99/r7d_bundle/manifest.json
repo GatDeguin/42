@@ -1,0 +1,24 @@
+{
+  "revision": "R7D",
+  "sourceSHA256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "status": "COMPLETE_DRAWINGS_AND_STILLS_REVIEWED_8_5_NOT_APPROVED",
+  "targetGlobalScore": 9.9,
+  "globalScore": 8.5,
+  "stills": {
+    "count": 25,
+    "manifest": "docs/renders99/manifest.json",
+    "sha256": "bd26743c842014dda1e726bd03380111cf519de32b02dc939287dff2a1a07582"
+  },
+  "plans": {
+    "count": 33,
+    "pdf": "docs/planos99/Casa_de_Campo_Planos_A2.pdf",
+    "pdfSHA256": "f1237f05ca9438963ec0d8b81edae8df81bdcd5c2b20889ecb57639b5cca3cc1",
+    "zip": "docs/planos99/Casa_de_Campo_Planos_Editables.zip",
+    "zipSHA256": "6032ba141a0620a0f782a497d8c9ef07a5ef54ba06dfcef16855570f62a461aa",
+    "nativeDimensions": 209
+  },
+  "staticUI": "review99/r7d_deliverables_qa/report.json",
+  "videoRendered": false,
+  "approved": false,
+  "audit": "audit/critica_integral_r7d_99_summary.json"
+}

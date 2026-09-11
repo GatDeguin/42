@@ -1,0 +1,95 @@
+{
+  "sha256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "probes": [
+    {
+      "x": 18.2,
+      "z": 2.6,
+      "supportH": 4.041749477386475,
+      "gapFromControllerBottom": 0.003750324249267578
+    },
+    {
+      "x": 18.2,
+      "z": 3.0,
+      "supportH": 4.041749477386475,
+      "gapFromControllerBottom": 0.003750324249267578
+    },
+    {
+      "x": 18.2,
+      "z": 3.4,
+      "supportH": 4.041749477386475,
+      "gapFromControllerBottom": 0.003750324249267578
+    },
+    {
+      "x": 18.35,
+      "z": 2.6,
+      "supportH": 4.029723644256592,
+      "gapFromControllerBottom": 0.01577615737915039
+    },
+    {
+      "x": 18.35,
+      "z": 3.0,
+      "supportH": 4.029723644256592,
+      "gapFromControllerBottom": 0.01577615737915039
+    },
+    {
+      "x": 18.35,
+      "z": 3.4,
+      "supportH": 4.029723644256592,
+      "gapFromControllerBottom": 0.01577615737915039
+    },
+    {
+      "x": 18.55,
+      "z": 2.6,
+      "supportH": 4.0136895179748535,
+      "gapFromControllerBottom": 0.03181028366088867
+    },
+    {
+      "x": 18.55,
+      "z": 3.0,
+      "supportH": 4.0136895179748535,
+      "gapFromControllerBottom": 0.03181028366088867
+    },
+    {
+      "x": 18.55,
+      "z": 3.4,
+      "supportH": 4.0136895179748535,
+      "gapFromControllerBottom": 0.03181028366088867
+    },
+    {
+      "x": 18.7,
+      "z": 2.6,
+      "supportH": 4.001663684844971,
+      "gapFromControllerBottom": 0.043836116790771484
+    },
+    {
+      "x": 18.7,
+      "z": 3.0,
+      "supportH": 4.001663684844971,
+      "gapFromControllerBottom": 0.043836116790771484
+    },
+    {
+      "x": 18.7,
+      "z": 3.4,
+      "supportH": 4.001663684844971,
+      "gapFromControllerBottom": 0.043836116790771484
+    },
+    {
+      "x": 18.765,
+      "z": 2.6,
+      "supportH": 3.996452808380127,
+      "gapFromControllerBottom": 0.049046993255615234
+    },
+    {
+      "x": 18.765,
+      "z": 3.0,
+      "supportH": 3.996452808380127,
+      "gapFromControllerBottom": 0.049046993255615234
+    },
+    {
+      "x": 18.765,
+      "z": 3.4,
+      "supportH": 3.996452808380127,
+      "gapFromControllerBottom": 0.049046993255615234
+    }
+  ]
+}

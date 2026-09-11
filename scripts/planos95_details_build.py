@@ -64,10 +64,10 @@ def begin(code,title,subtitle):
  global SVG,CAD,MS,PAGE,vi
  PAGE=code;vi=0;SVG=[f'<svg xmlns="http://www.w3.org/2000/svg" width="594mm" height="420mm" viewBox="0 0 594 420"><rect width="594" height="420" fill="white"/>'];CAD=ezdxf.new('R2010');CAD.units=6;MS=CAD.modelspace()
  for name,color in [('G_MEDIDO',8),('P_PROPUESTO',5),('COTAS',4),('TEXTOS',7),('REVISAR',30)]:CAD.layers.new(name,dxfattribs={'color':color})
- rect(10,10,574,400,G,None,.3);text(19,22,'CASA DE CAMPO / DETALLES 95',4.8,G,True);text(575,22,code+' | '+title,4.2,G,True,'end');text(19,30,'VIRREY DEL PINO, BUENOS AIRES',2.6,GREY);text(575,30,subtitle,2.6,GREY,anchor='end');line((10,37),(584,37),G,.25)
+ rect(10,10,574,400,G,None,.3);text(19,22,'CASA DE CAMPO / DETALLES '+('R7' if DATA.get('scene_metadata',{}).get('r7_wet_details') or DATA.get('scene_metadata',{}).get('r7_vent_details') else '95'),4.8,G,True);text(575,22,code+' | '+title,4.2,G,True,'end');text(19,30,'VIRREY DEL PINO, LA MATANZA, BUENOS AIRES',2.6,GREY);text(575,30,subtitle,2.6,GREY,anchor='end');line((10,37),(584,37),G,.25)
  text(20,47,'G = medido / gris',2.7,G,True);text(112,47,'P = propuesta dimensional / azul',2.7,P,True);text(288,47,'Todas las cotas en mm salvo niveles en m',2.7,GREY)
  line((10,383),(584,383),G,.3);text(20,391,'EN REVISION - PROPUESTAS DE COORDINACION, SIN CALCULO DE CAPACIDAD',2.9,R,True)
- text(20,399,'Base G: '+Path(DATA['model']).name+' / '+DATA['sha256'][:16],2.5,GREY);text(20,406,'G acredita geometria, no capacidad. P completa detalles aun no incorporados al modelo.',2.5,GREY)
+ text(20,399,'Base G: '+Path(DATA['model']).name+' / '+DATA['sha256'][:16],2.5,GREY);text(20,406,'G acredita geometria, no capacidad. P identifica propuestas; su presencia3D no valida prestaciones.',2.5,GREY)
  text(575,392,'A2 / imprimir al 100 %',2.8,G,anchor='end');text(575,405,f'{len(SHEETS)+1:02d} / 10-09-2026',2.5,GREY,anchor='end');SHEETS.append({'id':code,'title':title,'svg':code+'.svg','dxf':code+'.dxf'})
 def end():
  (OUT/(PAGE+'.svg')).write_text('\n'.join(SVG+['</svg>']),encoding='utf8');CAD.saveas(OUT/(PAGE+'.dxf'));C.showPage()
@@ -405,30 +405,34 @@ v3.dx(0,52,215,label='52 G',c=G);v3.dx(0,84,260,label='84 G paso',c=G);v3.dy(12,
 para(331,370,'G relieve sin desempeño QRD demostrado. P respaldo12, grapa Z18 y retenida inferior; absorcion/difusion se verifican con sala terminada.',238,2.7)
 source(29,370,'R6',285);end()
 # D08
-begin('D08','Ventilacion silenciosa y mantenimiento','Responde C5 / C6 | reserva geometrica P, sin caudal o atenuacion inventados')
-v=V(31,83,1630,1160,5,'16 Silenciador recto / planta P')
-# internal box1500x600; 50perimeterlining and100centralsplitter, two200passages
-v.rect(50,490,1500,600,P,None,.35);v.rect(50,490,1500,50,P,PLIGHT);v.rect(50,1040,1500,50,P,PLIGHT)
-v.poly([(200,740),(1350,740),(1500,790),(1350,840),(200,840),(50,790)],P,PLIGHT,.3)
-for yy in [640,940]:v.arrow((70,yy),(1520,yy))
-v.rect(470,475,660,15,P,None,.25);v.rect(500,465,600,10,P,PLIGHT);v.line((500,460),(500,60),P,.2,True);v.line((1100,460),(1100,60),P,.2,True);v.line((500,60),(1100,60),P,.2,True)
-v.label(800,250,'600 P espacio de servicio');v.dx(50,1550,1140,label='1500 P');v.dy(490,1090,1610,label='600 P');v.dy(540,740,-5,label='200 libre P');v.dy(740,840,-5,label='100 P');v.dy(840,1040,-5,label='200 libre P');v.dx(500,1100,425,label='600 P tapa extraible')
-v.call((1160,520),(32,327),'P revestimiento absorbente50 retenido con velo y chapa perforada; divisor100. Paso paralelo continuo, sin bafles alternados que estrangulen el recorrido [R4].',P,311)
-v.call((800,465),(32,349),'P tapa600 x300 con junta cerrada, tornillos cautivos y acceso600. Dos apoyos de ancho completo, juntas flexibles100 en conexiones.',P,311)
-# roomrouting miniature 1:50 inmm
-p=V(387,82,8000,6200,50,'17 Reserva P en estudio / coordinacion')
-p.rect(200,200,7600,5600,G,None,.3);p.rect(200,5400,600,400,G,None,.2);p.rect(7270,5025,510,780,G,LIGHT)
-# transforms sourceX14+ mm, Z direct
-p.rect(4300,2800,1500,600,P,PLIGHT);p.rect(5000,3700,1500,600,P,PLIGHT)
-p.line((5000,2800),(3000,2800),P,.35);p.line((3000,2800),(3000,400),P,.35);p.rect(2700,300,600,150,P,PLIGHT)
-p.line((5750,4300),(6500,4300),P,.35);p.line((6500,4300),(6500,5550),P,.35);p.rect(6200,5550,600,150,P,PLIGHT)
-p.label(5050,2300,'Impulsion P',P,2.5);p.label(5750,4700,'Retorno P',P,2.5);p.label(6700,5300,'Patinillo G',G,2.5)
-note(389,229,'SECUENCIA FUNCIONAL P',[
-'Aire exterior -> filtro -> ventilador -> silenciador -> impulsion. Retorno -> silenciador -> expulsion. Mantener ambos circuitos diferenciados.',
-'Reserva de cajas en plenum: X18,30..20,50; Z2,80..4,30; +6,68..+7,08. No ocupa la altura libre3,20; comprobar soportes y accesos antes del modelado.',
-'Ductos inicialesØ200, rejillas600 x150 y mangas flexibles100. Secciones P para coordinacion; velocidad, presion, caudal, ruido y condensados se dimensionan con ocupacion y equipo.',
-'Tomas exteriores y expulsion deben separarse de combustion y entre si; terminales y distancias finales necesitan la seleccion del sistema.'
-],174);source(31,374,'R4',330);end()
+if DATA.get('scene_metadata',{}).get('r7_vent_details'):
+ from planos99_detail_views import vent
+ vent(globals())
+else:
+ begin('D08','Ventilacion silenciosa y mantenimiento','Responde C5 / C6 | reserva geometrica P, sin caudal o atenuacion inventados')
+ v=V(31,83,1630,1160,5,'16 Silenciador recto / planta P')
+ # internal box1500x600; 50perimeterlining and100centralsplitter, two200passages
+ v.rect(50,490,1500,600,P,None,.35);v.rect(50,490,1500,50,P,PLIGHT);v.rect(50,1040,1500,50,P,PLIGHT)
+ v.poly([(200,740),(1350,740),(1500,790),(1350,840),(200,840),(50,790)],P,PLIGHT,.3)
+ for yy in [640,940]:v.arrow((70,yy),(1520,yy))
+ v.rect(470,475,660,15,P,None,.25);v.rect(500,465,600,10,P,PLIGHT);v.line((500,460),(500,60),P,.2,True);v.line((1100,460),(1100,60),P,.2,True);v.line((500,60),(1100,60),P,.2,True)
+ v.label(800,250,'600 P espacio de servicio');v.dx(50,1550,1140,label='1500 P');v.dy(490,1090,1610,label='600 P');v.dy(540,740,-5,label='200 libre P');v.dy(740,840,-5,label='100 P');v.dy(840,1040,-5,label='200 libre P');v.dx(500,1100,425,label='600 P tapa extraible')
+ v.call((1160,520),(32,327),'P revestimiento absorbente50 retenido con velo y chapa perforada; divisor100. Paso paralelo continuo, sin bafles alternados que estrangulen el recorrido [R4].',P,311)
+ v.call((800,465),(32,349),'P tapa600 x300 con junta cerrada, tornillos cautivos y acceso600. Dos apoyos de ancho completo, juntas flexibles100 en conexiones.',P,311)
+ # roomrouting miniature 1:50 inmm
+ p=V(387,82,8000,6200,50,'17 Reserva P en estudio / coordinacion')
+ p.rect(200,200,7600,5600,G,None,.3);p.rect(200,5400,600,400,G,None,.2);p.rect(7270,5025,510,780,G,LIGHT)
+ # transforms sourceX14+ mm, Z direct
+ p.rect(4300,2800,1500,600,P,PLIGHT);p.rect(5000,3700,1500,600,P,PLIGHT)
+ p.line((5000,2800),(3000,2800),P,.35);p.line((3000,2800),(3000,400),P,.35);p.rect(2700,300,600,150,P,PLIGHT)
+ p.line((5750,4300),(6500,4300),P,.35);p.line((6500,4300),(6500,5550),P,.35);p.rect(6200,5550,600,150,P,PLIGHT)
+ p.label(5050,2300,'Impulsion P',P,2.5);p.label(5750,4700,'Retorno P',P,2.5);p.label(6700,5300,'Patinillo G',G,2.5)
+ note(389,229,'SECUENCIA FUNCIONAL P',[
+ 'Aire exterior -> filtro -> ventilador -> silenciador -> impulsion. Retorno -> silenciador -> expulsion. Mantener ambos circuitos diferenciados.',
+ 'Reserva de cajas en plenum: X18,30..20,50; Z2,80..4,30; +6,68..+7,08. No ocupa la altura libre3,20; comprobar soportes y accesos antes del modelado.',
+ 'Ductos inicialesØ200, rejillas600 x150 y mangas flexibles100. Secciones P para coordinacion; velocidad, presion, caudal, ruido y condensados se dimensionan con ocupacion y equipo.',
+ 'Tomas exteriores y expulsion deben separarse de combustion y entre si; terminales y distancias finales necesitan la seleccion del sistema.'
+ ],174);source(31,374,'R4',330);end()
 # D09 only when a level bathroom finish is present in the selected model.
 BATH_NPT=OB.get('Piso baño vivienda',{'hi':[0,0,3.30]})['hi'][2]
 if abs(BATH_NPT-3.25)<.01:
@@ -488,7 +492,10 @@ if 'SL95 | A rodillo1 diámetro20' in OB:
  para(428,325,'G dos salidas por corredera: tuboØ14 / luz10, pendiente2% y codo hueco. Descarga en cara libre del balcon. Requiere prueba de agua y acceso de limpieza antes de obra.',141,2.7)
  end()
 # D11 documents the newlymodelled groundfloor wetassembly and usable showerheight.
-if 'BTH95 | ducha columna' in OB:
+if DATA.get('scene_metadata',{}).get('r7_wet_details'):
+ from planos99_detail_views import wet
+ wet(globals())
+elif 'BTH95 | ducha columna' in OB:
  begin('D11','Ducha: pendientes y conexiones','G geometria incorporada / solucion P de coordinacion | ver A09')
  v=V(34,84,1060,1650,10,'24 Ducha / planta G')
  v.rect(80,100,900,1450,G,None,.4);v.rect(480,775,100,100,G,LIGHT,.3)
@@ -519,6 +526,8 @@ if 'BTH95 | ducha columna' in OB:
 C.save()
 # save explicit proposal inventory, not a certified engineering spec
 PROPOSALS=[{'sheet':'D01','detail':'Alero','dimensions':'chapa0.8 G; aislacion80 G; camara20 P; solape150 P; goteron30 P; remates cada300 P'}, {'sheet':'D02','detail':'Escalon/penetracion','dimensions':'salto600 G; solapevertical250 P; pliegue25 P; zocalo233 P; cuello375 P'}, {'sheet':'D03','detail':'DVH','dimensions':'9/17/9 G; tacos100x45x5 P; junta15 P; drenajes5x25 P'}, {'sheet':'D04','detail':'Baranda','dimensions':'placa210x110x12 G;4M10 G; ejes90/170 del canto G;100 dentro hormigon G; capacidad pendiente'}, {'sheet':'D05','detail':'Escalera','dimensions':'cartelas10 P;2M16 P; agujeros18 P; ejes90 G/P; dado300x300x250 P'}, {'sheet':'D05b','detail':'Arranque escalera','dimensions':'placa180x160x12 P; grout20 P;2M12 ejes100 P; dado300x300x250 P'}, {'sheet':'D06','detail':'Tratamiento/acondicionamiento','dimensions':'huella80 G; lana50+aire29+tela1 P; barrera2x15 P;4M6 por nube P'}, {'sheet':'D07','detail':'Sellos','dimensions':'juntas5 P; sello caida10 P; manguito100 para tubo25 P; sellos15 P; relieve G28..125'}, {'sheet':'D08','detail':'Ventilacion','dimensions':'caja1500x600x400 P;2pasos200x300 P; splitter100 P; tapa600x300 P; ductos200 P; reserva espacial no cerrada'}]
+if DATA.get('scene_metadata',{}).get('r7_vent_details'):
+ PROPOSALS[-1]['dimensions']='P modelado:2x filtro200, fan200, silenciador600/Ø251.6; pasoØ150 y rectangular300x80; registro1400x830; accesorios+6.453; sin prestaciones asignadas'
 if 'GL95 | E junta vidrio1 exterior base' in OB:
  PROPOSALS[2]['dimensions']='9/17/9 G; galce39 G; juntas2 G; tacos100x9x6 G por vidrio; repisa250x12 y junta15 P'
 manifest={'project':'Casa de Campo','status':'EN REVISION / SUPLEMENTO G-P','model':DATA['model'],'model_sha256':DATA['sha256'],'anchor_model':ANCH['model'] if ANCH else None,'anchor_sha256':ANCH['sha256'] if ANCH else None,'paper_mm':[W,H],'pdf':PDFNAME,'sheets':SHEETS,'proposal_scope':'All P measures are dimensional coordination proposals, not calculations or certified manufacturer details','sources':SOURCES,'measurements':MEAS,'proposal_register':PROPOSALS,'dimensions':DIMS}

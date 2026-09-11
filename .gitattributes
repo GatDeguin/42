@@ -1,2 +1,5 @@
 *.blend filter=lfs diff=lfs merge=lfs -text
 output/Casa_de_Campo_99_*.glb filter=lfs diff=lfs merge=lfs -text
+# Preserve generated deliverable bytes used by the published SHA256 manifests.
+docs/planos99/** -text
+docs/renders99/** -text

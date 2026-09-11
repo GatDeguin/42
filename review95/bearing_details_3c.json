@@ -1,0 +1,980 @@
+{
+  "status": "P/PROPOSED",
+  "fixes": [
+    "Wall bracket terminates inside masonry with shank",
+    "Gutter pads conform to actual underside at each end",
+    "Grille reserve follows inclined pipe",
+    "68 anchors have 100mm proposed embedment measured from actual concrete; grout conforms across stepped joint; 10mm leveling base closes lateral finish gap"
+  ],
+  "balcony_connections": [
+    {
+      "post": "Baranda lateral poste 0",
+      "plate_source_box": [
+        13.0,
+        13.21,
+        4.978,
+        5.21,
+        3.254,
+        3.266
+      ],
+      "anchor_x": [
+        13.09,
+        13.17
+      ],
+      "anchor_z": [
+        5.09,
+        5.17
+      ],
+      "embedment_proposed_m": 0.1,
+      "individual_anchors": [
+        {
+          "x": 13.09,
+          "z": 5.09,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Descanso escalera",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.09,
+          "z": 5.17,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Descanso escalera",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.17,
+          "z": 5.09,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Descanso escalera",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.17,
+          "z": 5.17,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Descanso escalera",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        }
+      ],
+      "substrate_top_min": 3.1999998092651367,
+      "substrate_top_max": 3.1999998092651367,
+      "status": "P / geometry only; engineer must validate load, edge distance, slab reinforcement and selected anchor"
+    },
+    {
+      "post": "Baranda lateral poste 1",
+      "plate_source_box": [
+        13.0,
+        13.21,
+        5.942500114440918,
+        6.052499771118164,
+        3.254,
+        3.266
+      ],
+      "anchor_x": [
+        13.09,
+        13.17
+      ],
+      "anchor_z": [
+        5.9644999504089355,
+        6.0304999351501465
+      ],
+      "embedment_proposed_m": 0.1,
+      "individual_anchors": [
+        {
+          "x": 13.09,
+          "z": 5.9644999504089355,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Descanso escalera",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.09,
+          "z": 6.0304999351501465,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.17,
+          "z": 5.9644999504089355,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Descanso escalera",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.17,
+          "z": 6.0304999351501465,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        }
+      ],
+      "substrate_top_min": 3.1999998092651367,
+      "substrate_top_max": 3.1999998092651367,
+      "status": "P / geometry only; engineer must validate load, edge distance, slab reinforcement and selected anchor"
+    },
+    {
+      "post": "Baranda lateral poste 2",
+      "plate_source_box": [
+        13.0,
+        13.21,
+        6.940000057220459,
+        7.049999713897705,
+        3.254,
+        3.266
+      ],
+      "anchor_x": [
+        13.09,
+        13.17
+      ],
+      "anchor_z": [
+        6.961999893188477,
+        7.0279998779296875
+      ],
+      "embedment_proposed_m": 0.1,
+      "individual_anchors": [
+        {
+          "x": 13.09,
+          "z": 6.961999893188477,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.09,
+          "z": 7.0279998779296875,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.17,
+          "z": 6.961999893188477,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.17,
+          "z": 7.0279998779296875,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        }
+      ],
+      "substrate_top_min": 3.1999998092651367,
+      "substrate_top_max": 3.1999998092651367,
+      "status": "P / geometry only; engineer must validate load, edge distance, slab reinforcement and selected anchor"
+    },
+    {
+      "post": "Baranda lateral poste 3",
+      "plate_source_box": [
+        13.0,
+        13.21,
+        7.937500476837158,
+        8.047500610351562,
+        3.254,
+        3.266
+      ],
+      "anchor_x": [
+        13.09,
+        13.17
+      ],
+      "anchor_z": [
+        7.959500312805176,
+        8.025500297546387
+      ],
+      "embedment_proposed_m": 0.1,
+      "individual_anchors": [
+        {
+          "x": 13.09,
+          "z": 7.959500312805176,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.09,
+          "z": 8.025500297546387,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.17,
+          "z": 7.959500312805176,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.17,
+          "z": 8.025500297546387,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        }
+      ],
+      "substrate_top_min": 3.1999998092651367,
+      "substrate_top_max": 3.1999998092651367,
+      "status": "P / geometry only; engineer must validate load, edge distance, slab reinforcement and selected anchor"
+    },
+    {
+      "post": "Baranda lateral poste 4",
+      "plate_source_box": [
+        13.0,
+        13.21,
+        8.934999465942383,
+        9.045000076293945,
+        3.254,
+        3.266
+      ],
+      "anchor_x": [
+        13.09,
+        13.17
+      ],
+      "anchor_z": [
+        8.956999778747559,
+        9.02299976348877
+      ],
+      "embedment_proposed_m": 0.1,
+      "individual_anchors": [
+        {
+          "x": 13.09,
+          "z": 8.956999778747559,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.09,
+          "z": 9.02299976348877,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.17,
+          "z": 8.956999778747559,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.17,
+          "z": 9.02299976348877,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        }
+      ],
+      "substrate_top_min": 3.1999998092651367,
+      "substrate_top_max": 3.1999998092651367,
+      "status": "P / geometry only; engineer must validate load, edge distance, slab reinforcement and selected anchor"
+    },
+    {
+      "post": "Baranda lateral poste 5",
+      "plate_source_box": [
+        13.0,
+        13.21,
+        9.932499885559082,
+        10.042500495910645,
+        3.254,
+        3.266
+      ],
+      "anchor_x": [
+        13.09,
+        13.17
+      ],
+      "anchor_z": [
+        9.954500198364258,
+        10.020500183105469
+      ],
+      "embedment_proposed_m": 0.1,
+      "individual_anchors": [
+        {
+          "x": 13.09,
+          "z": 9.954500198364258,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.09,
+          "z": 10.020500183105469,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.17,
+          "z": 9.954500198364258,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.17,
+          "z": 10.020500183105469,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        }
+      ],
+      "substrate_top_min": 3.1999998092651367,
+      "substrate_top_max": 3.1999998092651367,
+      "status": "P / geometry only; engineer must validate load, edge distance, slab reinforcement and selected anchor"
+    },
+    {
+      "post": "Baranda lateral poste 6",
+      "plate_source_box": [
+        13.0,
+        13.21,
+        10.929999351501465,
+        11.039999961853027,
+        3.254,
+        3.266
+      ],
+      "anchor_x": [
+        13.09,
+        13.17
+      ],
+      "anchor_z": [
+        10.95199966430664,
+        11.017999649047852
+      ],
+      "embedment_proposed_m": 0.1,
+      "individual_anchors": [
+        {
+          "x": 13.09,
+          "z": 10.95199966430664,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.09,
+          "z": 11.017999649047852,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.17,
+          "z": 10.95199966430664,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.17,
+          "z": 11.017999649047852,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        }
+      ],
+      "substrate_top_min": 3.1999998092651367,
+      "substrate_top_max": 3.1999998092651367,
+      "status": "P / geometry only; engineer must validate load, edge distance, slab reinforcement and selected anchor"
+    },
+    {
+      "post": "Baranda lateral poste 7",
+      "plate_source_box": [
+        13.0,
+        13.21,
+        11.927499771118164,
+        12.037500381469727,
+        3.254,
+        3.266
+      ],
+      "anchor_x": [
+        13.09,
+        13.17
+      ],
+      "anchor_z": [
+        11.94950008392334,
+        12.01550006866455
+      ],
+      "embedment_proposed_m": 0.1,
+      "individual_anchors": [
+        {
+          "x": 13.09,
+          "z": 11.94950008392334,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.09,
+          "z": 12.01550006866455,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.17,
+          "z": 11.94950008392334,
+          "substrate_top": 3.1999998092651367,
+          "concrete_object": "Balcón lateral",
+          "anchor_bottom": 3.0999998092651366,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.17,
+          "z": 12.01550006866455,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        }
+      ],
+      "substrate_top_min": 3.1999998092651367,
+      "substrate_top_max": 3.2100000381469727,
+      "status": "P / geometry only; engineer must validate load, edge distance, slab reinforcement and selected anchor"
+    },
+    {
+      "post": "Baranda lateral poste 8",
+      "plate_source_box": [
+        13.0,
+        13.21,
+        12.79,
+        13.0,
+        3.254,
+        3.266
+      ],
+      "anchor_x": [
+        13.09,
+        13.17
+      ],
+      "anchor_z": [
+        12.83,
+        12.91
+      ],
+      "embedment_proposed_m": 0.1,
+      "individual_anchors": [
+        {
+          "x": 13.09,
+          "z": 12.83,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.09,
+          "z": 12.91,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.17,
+          "z": 12.83,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 13.17,
+          "z": 12.91,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        }
+      ],
+      "substrate_top_min": 3.2100000381469727,
+      "substrate_top_max": 3.2100000381469727,
+      "status": "P / geometry only; engineer must validate load, edge distance, slab reinforcement and selected anchor"
+    },
+    {
+      "post": "Baranda posterior poste 1",
+      "plate_source_box": [
+        14.085000038146973,
+        14.195000648498535,
+        12.79,
+        13.0,
+        3.254,
+        3.266
+      ],
+      "anchor_x": [
+        14.107000350952148,
+        14.17300033569336
+      ],
+      "anchor_z": [
+        12.83,
+        12.91
+      ],
+      "embedment_proposed_m": 0.1,
+      "individual_anchors": [
+        {
+          "x": 14.107000350952148,
+          "z": 12.83,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 14.107000350952148,
+          "z": 12.91,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 14.17300033569336,
+          "z": 12.83,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 14.17300033569336,
+          "z": 12.91,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        }
+      ],
+      "substrate_top_min": 3.2100000381469727,
+      "substrate_top_max": 3.2100000381469727,
+      "status": "P / geometry only; engineer must validate load, edge distance, slab reinforcement and selected anchor"
+    },
+    {
+      "post": "Baranda posterior poste 2",
+      "plate_source_box": [
+        15.204999923706055,
+        15.315000534057617,
+        12.79,
+        13.0,
+        3.254,
+        3.266
+      ],
+      "anchor_x": [
+        15.22700023651123,
+        15.293000221252441
+      ],
+      "anchor_z": [
+        12.83,
+        12.91
+      ],
+      "embedment_proposed_m": 0.1,
+      "individual_anchors": [
+        {
+          "x": 15.22700023651123,
+          "z": 12.83,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 15.22700023651123,
+          "z": 12.91,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 15.293000221252441,
+          "z": 12.83,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 15.293000221252441,
+          "z": 12.91,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        }
+      ],
+      "substrate_top_min": 3.2100000381469727,
+      "substrate_top_max": 3.2100000381469727,
+      "status": "P / geometry only; engineer must validate load, edge distance, slab reinforcement and selected anchor"
+    },
+    {
+      "post": "Baranda posterior poste 3",
+      "plate_source_box": [
+        16.32499885559082,
+        16.434999465942383,
+        12.79,
+        13.0,
+        3.254,
+        3.266
+      ],
+      "anchor_x": [
+        16.34699821472168,
+        16.413000106811523
+      ],
+      "anchor_z": [
+        12.83,
+        12.91
+      ],
+      "embedment_proposed_m": 0.1,
+      "individual_anchors": [
+        {
+          "x": 16.34699821472168,
+          "z": 12.83,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 16.34699821472168,
+          "z": 12.91,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 16.413000106811523,
+          "z": 12.83,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 16.413000106811523,
+          "z": 12.91,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        }
+      ],
+      "substrate_top_min": 3.2100000381469727,
+      "substrate_top_max": 3.2100000381469727,
+      "status": "P / geometry only; engineer must validate load, edge distance, slab reinforcement and selected anchor"
+    },
+    {
+      "post": "Baranda posterior poste 4",
+      "plate_source_box": [
+        17.44499969482422,
+        17.55500030517578,
+        12.79,
+        13.0,
+        3.254,
+        3.266
+      ],
+      "anchor_x": [
+        17.466999053955078,
+        17.533000946044922
+      ],
+      "anchor_z": [
+        12.83,
+        12.91
+      ],
+      "embedment_proposed_m": 0.1,
+      "individual_anchors": [
+        {
+          "x": 17.466999053955078,
+          "z": 12.83,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 17.466999053955078,
+          "z": 12.91,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 17.533000946044922,
+          "z": 12.83,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 17.533000946044922,
+          "z": 12.91,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        }
+      ],
+      "substrate_top_min": 3.2100000381469727,
+      "substrate_top_max": 3.2100000381469727,
+      "status": "P / geometry only; engineer must validate load, edge distance, slab reinforcement and selected anchor"
+    },
+    {
+      "post": "Baranda posterior poste 5",
+      "plate_source_box": [
+        18.565000534057617,
+        18.67500114440918,
+        12.79,
+        13.0,
+        3.254,
+        3.266
+      ],
+      "anchor_x": [
+        18.586999893188477,
+        18.65300178527832
+      ],
+      "anchor_z": [
+        12.83,
+        12.91
+      ],
+      "embedment_proposed_m": 0.1,
+      "individual_anchors": [
+        {
+          "x": 18.586999893188477,
+          "z": 12.83,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 18.586999893188477,
+          "z": 12.91,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 18.65300178527832,
+          "z": 12.83,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 18.65300178527832,
+          "z": 12.91,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        }
+      ],
+      "substrate_top_min": 3.2100000381469727,
+      "substrate_top_max": 3.2100000381469727,
+      "status": "P / geometry only; engineer must validate load, edge distance, slab reinforcement and selected anchor"
+    },
+    {
+      "post": "Baranda posterior poste 6",
+      "plate_source_box": [
+        19.684999465942383,
+        19.795000076293945,
+        12.79,
+        13.0,
+        3.254,
+        3.266
+      ],
+      "anchor_x": [
+        19.706998825073242,
+        19.773000717163086
+      ],
+      "anchor_z": [
+        12.83,
+        12.91
+      ],
+      "embedment_proposed_m": 0.1,
+      "individual_anchors": [
+        {
+          "x": 19.706998825073242,
+          "z": 12.83,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 19.706998825073242,
+          "z": 12.91,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 19.773000717163086,
+          "z": 12.83,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 19.773000717163086,
+          "z": 12.91,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        }
+      ],
+      "substrate_top_min": 3.2100000381469727,
+      "substrate_top_max": 3.2100000381469727,
+      "status": "P / geometry only; engineer must validate load, edge distance, slab reinforcement and selected anchor"
+    },
+    {
+      "post": "Baranda posterior poste 7",
+      "plate_source_box": [
+        20.80500030517578,
+        20.915000915527344,
+        12.79,
+        13.0,
+        3.254,
+        3.266
+      ],
+      "anchor_x": [
+        20.82699966430664,
+        20.893001556396484
+      ],
+      "anchor_z": [
+        12.83,
+        12.91
+      ],
+      "embedment_proposed_m": 0.1,
+      "individual_anchors": [
+        {
+          "x": 20.82699966430664,
+          "z": 12.83,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 20.82699966430664,
+          "z": 12.91,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 20.893001556396484,
+          "z": 12.83,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 20.893001556396484,
+          "z": 12.91,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        }
+      ],
+      "substrate_top_min": 3.2100000381469727,
+      "substrate_top_max": 3.2100000381469727,
+      "status": "P / geometry only; engineer must validate load, edge distance, slab reinforcement and selected anchor"
+    },
+    {
+      "post": "Baranda posterior poste 8",
+      "plate_source_box": [
+        21.79,
+        22.0,
+        12.79,
+        13.0,
+        3.254,
+        3.266
+      ],
+      "anchor_x": [
+        21.83,
+        21.91
+      ],
+      "anchor_z": [
+        12.83,
+        12.91
+      ],
+      "embedment_proposed_m": 0.1,
+      "individual_anchors": [
+        {
+          "x": 21.83,
+          "z": 12.83,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 21.83,
+          "z": 12.91,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 21.91,
+          "z": 12.83,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        },
+        {
+          "x": 21.91,
+          "z": 12.91,
+          "substrate_top": 3.2100000381469727,
+          "concrete_object": "Balcón posterior",
+          "anchor_bottom": 3.1100000381469726,
+          "embedment_m": 0.1
+        }
+      ],
+      "substrate_top_min": 3.2100000381469727,
+      "substrate_top_max": 3.2100000381469727,
+      "status": "P / geometry only; engineer must validate load, edge distance, slab reinforcement and selected anchor"
+    }
+  ]
+}

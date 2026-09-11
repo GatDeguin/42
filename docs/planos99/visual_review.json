@@ -1,0 +1,63 @@
+{
+  "status": "PASS_DOCUMENT_COMPOSITION",
+  "model_sha256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "reviewed_utc": "2026-09-11T02:45:24.069455+00:00",
+  "overview_sheets": [
+    "A00",
+    "A01",
+    "A02",
+    "A03",
+    "A03b",
+    "A04",
+    "A05a",
+    "A05b",
+    "A06",
+    "A07",
+    "A08",
+    "A09",
+    "A10",
+    "A10b",
+    "A11",
+    "A12",
+    "A13",
+    "A13b",
+    "A14",
+    "A15",
+    "A16",
+    "D01",
+    "D02",
+    "D03",
+    "D04",
+    "D05",
+    "D05b",
+    "D06",
+    "D07",
+    "D08",
+    "D09",
+    "D10",
+    "D11"
+  ],
+  "full_size_sheets": [
+    "A03b",
+    "A09",
+    "A10b",
+    "A12",
+    "D08",
+    "D11"
+  ],
+  "checks": [
+    "All 33 sheets visually reviewed in nine contact images for blank sheets, clipping and composition.",
+    "Selected six sheets inspected separately at 1684 x1191 pixels for room layouts, dimensions and detail continuity.",
+    "A09 PA WC/bidet elevation isolates rear fixtures so the bathtub does not obscure them.",
+    "A12 infill of former wardrobe-to-dining opening shown as solid cut wall.",
+    "D08 maintenance platform and operator are explicitly P; min fixed height3203mm is G.",
+    "D08/D11 partial sections carry graphical break marks.",
+    "North arrow down-left with Cedro Misionero at page top.",
+    "G measured geometry and P proposed dimensions are distinguished."
+  ],
+  "limits": [
+    "Digital visual check only, not a physical printed proof.",
+    "Overview inspection checks composition; it is not an independent professional verification of every architectural detail.",
+    "The design remains under independent review; this PASS does not imply the requested9.9 acceptance."
+  ]
+}

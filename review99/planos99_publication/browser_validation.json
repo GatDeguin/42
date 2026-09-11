@@ -1,0 +1,796 @@
+{
+  "status": "PASS",
+  "model_sha256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "surfaces": [
+    {
+      "name": "desktop",
+      "cards": 33,
+      "all_images_loaded": true,
+      "no_horizontal_overflow": true,
+      "all_links_ok": true,
+      "links": [
+        {
+          "href": "../",
+          "status": 200,
+          "bytes": 7122
+        },
+        {
+          "href": "../renders99/",
+          "status": 200,
+          "bytes": 10186
+        },
+        {
+          "href": "Casa_de_Campo_Planos_A2.pdf",
+          "status": 200,
+          "bytes": 1683613
+        },
+        {
+          "href": "Casa_de_Campo_Planos_Editables.zip",
+          "status": 200,
+          "bytes": 3770215
+        },
+        {
+          "href": "A00.svg",
+          "status": 200,
+          "bytes": 16823
+        },
+        {
+          "href": "A00.dxf",
+          "status": 200,
+          "bytes": 19248
+        },
+        {
+          "href": "A01.svg",
+          "status": 200,
+          "bytes": 29721
+        },
+        {
+          "href": "A01.dxf",
+          "status": 200,
+          "bytes": 75911
+        },
+        {
+          "href": "A02.svg",
+          "status": 200,
+          "bytes": 217383
+        },
+        {
+          "href": "A02.dxf",
+          "status": 200,
+          "bytes": 389335
+        },
+        {
+          "href": "A03.svg",
+          "status": 200,
+          "bytes": 402974
+        },
+        {
+          "href": "A03.dxf",
+          "status": 200,
+          "bytes": 759295
+        },
+        {
+          "href": "A03b.svg",
+          "status": 200,
+          "bytes": 238237
+        },
+        {
+          "href": "A03b.dxf",
+          "status": 200,
+          "bytes": 467457
+        },
+        {
+          "href": "A04.svg",
+          "status": 200,
+          "bytes": 124090
+        },
+        {
+          "href": "A04.dxf",
+          "status": 200,
+          "bytes": 213348
+        },
+        {
+          "href": "A05a.svg",
+          "status": 200,
+          "bytes": 1023927
+        },
+        {
+          "href": "A05a.dxf",
+          "status": 200,
+          "bytes": 1611364
+        },
+        {
+          "href": "A05b.svg",
+          "status": 200,
+          "bytes": 924558
+        },
+        {
+          "href": "A05b.dxf",
+          "status": 200,
+          "bytes": 1424243
+        },
+        {
+          "href": "A06.svg",
+          "status": 200,
+          "bytes": 298083
+        },
+        {
+          "href": "A06.dxf",
+          "status": 200,
+          "bytes": 529025
+        },
+        {
+          "href": "A07.svg",
+          "status": 200,
+          "bytes": 207237
+        },
+        {
+          "href": "A07.dxf",
+          "status": 200,
+          "bytes": 341221
+        },
+        {
+          "href": "A08.svg",
+          "status": 200,
+          "bytes": 24466
+        },
+        {
+          "href": "A08.dxf",
+          "status": 200,
+          "bytes": 57119
+        },
+        {
+          "href": "A09.svg",
+          "status": 200,
+          "bytes": 147793
+        },
+        {
+          "href": "A09.dxf",
+          "status": 200,
+          "bytes": 271067
+        },
+        {
+          "href": "A10.svg",
+          "status": 200,
+          "bytes": 96064
+        },
+        {
+          "href": "A10.dxf",
+          "status": 200,
+          "bytes": 182290
+        },
+        {
+          "href": "A10b.svg",
+          "status": 200,
+          "bytes": 129278
+        },
+        {
+          "href": "A10b.dxf",
+          "status": 200,
+          "bytes": 238733
+        },
+        {
+          "href": "A11.svg",
+          "status": 200,
+          "bytes": 143457
+        },
+        {
+          "href": "A11.dxf",
+          "status": 200,
+          "bytes": 270508
+        },
+        {
+          "href": "A12.svg",
+          "status": 200,
+          "bytes": 31182
+        },
+        {
+          "href": "A12.dxf",
+          "status": 200,
+          "bytes": 38855
+        },
+        {
+          "href": "A13.svg",
+          "status": 200,
+          "bytes": 13999
+        },
+        {
+          "href": "A13.dxf",
+          "status": 200,
+          "bytes": 38720
+        },
+        {
+          "href": "A13b.svg",
+          "status": 200,
+          "bytes": 19163
+        },
+        {
+          "href": "A13b.dxf",
+          "status": 200,
+          "bytes": 44745
+        },
+        {
+          "href": "A14.svg",
+          "status": 200,
+          "bytes": 56300
+        },
+        {
+          "href": "A14.dxf",
+          "status": 200,
+          "bytes": 113024
+        },
+        {
+          "href": "A15.svg",
+          "status": 200,
+          "bytes": 10247
+        },
+        {
+          "href": "A15.dxf",
+          "status": 200,
+          "bytes": 23850
+        },
+        {
+          "href": "A16.svg",
+          "status": 200,
+          "bytes": 14937
+        },
+        {
+          "href": "A16.dxf",
+          "status": 200,
+          "bytes": 19248
+        },
+        {
+          "href": "D01.svg",
+          "status": 200,
+          "bytes": 17230
+        },
+        {
+          "href": "D01.dxf",
+          "status": 200,
+          "bytes": 45480
+        },
+        {
+          "href": "D02.svg",
+          "status": 200,
+          "bytes": 16547
+        },
+        {
+          "href": "D02.dxf",
+          "status": 200,
+          "bytes": 47907
+        },
+        {
+          "href": "D03.svg",
+          "status": 200,
+          "bytes": 39323
+        },
+        {
+          "href": "D03.dxf",
+          "status": 200,
+          "bytes": 85441
+        },
+        {
+          "href": "D04.svg",
+          "status": 200,
+          "bytes": 23905
+        },
+        {
+          "href": "D04.dxf",
+          "status": 200,
+          "bytes": 69492
+        },
+        {
+          "href": "D05.svg",
+          "status": 200,
+          "bytes": 14498
+        },
+        {
+          "href": "D05.dxf",
+          "status": 200,
+          "bytes": 48043
+        },
+        {
+          "href": "D05b.svg",
+          "status": 200,
+          "bytes": 17880
+        },
+        {
+          "href": "D05b.dxf",
+          "status": 200,
+          "bytes": 57361
+        },
+        {
+          "href": "D06.svg",
+          "status": 200,
+          "bytes": 18946
+        },
+        {
+          "href": "D06.dxf",
+          "status": 200,
+          "bytes": 50106
+        },
+        {
+          "href": "D07.svg",
+          "status": 200,
+          "bytes": 18550
+        },
+        {
+          "href": "D07.dxf",
+          "status": 200,
+          "bytes": 50793
+        },
+        {
+          "href": "D08.svg",
+          "status": 200,
+          "bytes": 5430158
+        },
+        {
+          "href": "D08.dxf",
+          "status": 200,
+          "bytes": 2251837
+        },
+        {
+          "href": "D09.svg",
+          "status": 200,
+          "bytes": 24865
+        },
+        {
+          "href": "D09.dxf",
+          "status": 200,
+          "bytes": 62649
+        },
+        {
+          "href": "D10.svg",
+          "status": 200,
+          "bytes": 153290
+        },
+        {
+          "href": "D10.dxf",
+          "status": 200,
+          "bytes": 256316
+        },
+        {
+          "href": "D11.svg",
+          "status": 200,
+          "bytes": 242450
+        },
+        {
+          "href": "D11.dxf",
+          "status": 200,
+          "bytes": 422350
+        },
+        {
+          "href": "manifest.json",
+          "status": 200,
+          "bytes": 19525
+        },
+        {
+          "href": "print_validation.json",
+          "status": 200,
+          "bytes": 3688
+        },
+        {
+          "href": "dimension_register.csv",
+          "status": 200,
+          "bytes": 16016
+        },
+        {
+          "href": "dimensional_audit.json",
+          "status": 200,
+          "bytes": 19510
+        },
+        {
+          "href": "visual_review.json",
+          "status": 200,
+          "bytes": 1761
+        },
+        {
+          "href": "ACCESO_MANTENIMIENTO_D08.md",
+          "status": 200,
+          "bytes": 1650
+        }
+      ],
+      "errors": [],
+      "revision": true,
+      "status": true,
+      "gallery_linked": true,
+      "viewer": true,
+      "pass": true
+    },
+    {
+      "name": "mobile",
+      "cards": 33,
+      "all_images_loaded": true,
+      "no_horizontal_overflow": true,
+      "all_links_ok": true,
+      "links": [
+        {
+          "href": "../",
+          "status": 200,
+          "bytes": 7122
+        },
+        {
+          "href": "../renders99/",
+          "status": 200,
+          "bytes": 10186
+        },
+        {
+          "href": "Casa_de_Campo_Planos_A2.pdf",
+          "status": 200,
+          "bytes": 1683613
+        },
+        {
+          "href": "Casa_de_Campo_Planos_Editables.zip",
+          "status": 200,
+          "bytes": 3770215
+        },
+        {
+          "href": "A00.svg",
+          "status": 200,
+          "bytes": 16823
+        },
+        {
+          "href": "A00.dxf",
+          "status": 200,
+          "bytes": 19248
+        },
+        {
+          "href": "A01.svg",
+          "status": 200,
+          "bytes": 29721
+        },
+        {
+          "href": "A01.dxf",
+          "status": 200,
+          "bytes": 75911
+        },
+        {
+          "href": "A02.svg",
+          "status": 200,
+          "bytes": 217383
+        },
+        {
+          "href": "A02.dxf",
+          "status": 200,
+          "bytes": 389335
+        },
+        {
+          "href": "A03.svg",
+          "status": 200,
+          "bytes": 402974
+        },
+        {
+          "href": "A03.dxf",
+          "status": 200,
+          "bytes": 759295
+        },
+        {
+          "href": "A03b.svg",
+          "status": 200,
+          "bytes": 238237
+        },
+        {
+          "href": "A03b.dxf",
+          "status": 200,
+          "bytes": 467457
+        },
+        {
+          "href": "A04.svg",
+          "status": 200,
+          "bytes": 124090
+        },
+        {
+          "href": "A04.dxf",
+          "status": 200,
+          "bytes": 213348
+        },
+        {
+          "href": "A05a.svg",
+          "status": 200,
+          "bytes": 1023927
+        },
+        {
+          "href": "A05a.dxf",
+          "status": 200,
+          "bytes": 1611364
+        },
+        {
+          "href": "A05b.svg",
+          "status": 200,
+          "bytes": 924558
+        },
+        {
+          "href": "A05b.dxf",
+          "status": 200,
+          "bytes": 1424243
+        },
+        {
+          "href": "A06.svg",
+          "status": 200,
+          "bytes": 298083
+        },
+        {
+          "href": "A06.dxf",
+          "status": 200,
+          "bytes": 529025
+        },
+        {
+          "href": "A07.svg",
+          "status": 200,
+          "bytes": 207237
+        },
+        {
+          "href": "A07.dxf",
+          "status": 200,
+          "bytes": 341221
+        },
+        {
+          "href": "A08.svg",
+          "status": 200,
+          "bytes": 24466
+        },
+        {
+          "href": "A08.dxf",
+          "status": 200,
+          "bytes": 57119
+        },
+        {
+          "href": "A09.svg",
+          "status": 200,
+          "bytes": 147793
+        },
+        {
+          "href": "A09.dxf",
+          "status": 200,
+          "bytes": 271067
+        },
+        {
+          "href": "A10.svg",
+          "status": 200,
+          "bytes": 96064
+        },
+        {
+          "href": "A10.dxf",
+          "status": 200,
+          "bytes": 182290
+        },
+        {
+          "href": "A10b.svg",
+          "status": 200,
+          "bytes": 129278
+        },
+        {
+          "href": "A10b.dxf",
+          "status": 200,
+          "bytes": 238733
+        },
+        {
+          "href": "A11.svg",
+          "status": 200,
+          "bytes": 143457
+        },
+        {
+          "href": "A11.dxf",
+          "status": 200,
+          "bytes": 270508
+        },
+        {
+          "href": "A12.svg",
+          "status": 200,
+          "bytes": 31182
+        },
+        {
+          "href": "A12.dxf",
+          "status": 200,
+          "bytes": 38855
+        },
+        {
+          "href": "A13.svg",
+          "status": 200,
+          "bytes": 13999
+        },
+        {
+          "href": "A13.dxf",
+          "status": 200,
+          "bytes": 38720
+        },
+        {
+          "href": "A13b.svg",
+          "status": 200,
+          "bytes": 19163
+        },
+        {
+          "href": "A13b.dxf",
+          "status": 200,
+          "bytes": 44745
+        },
+        {
+          "href": "A14.svg",
+          "status": 200,
+          "bytes": 56300
+        },
+        {
+          "href": "A14.dxf",
+          "status": 200,
+          "bytes": 113024
+        },
+        {
+          "href": "A15.svg",
+          "status": 200,
+          "bytes": 10247
+        },
+        {
+          "href": "A15.dxf",
+          "status": 200,
+          "bytes": 23850
+        },
+        {
+          "href": "A16.svg",
+          "status": 200,
+          "bytes": 14937
+        },
+        {
+          "href": "A16.dxf",
+          "status": 200,
+          "bytes": 19248
+        },
+        {
+          "href": "D01.svg",
+          "status": 200,
+          "bytes": 17230
+        },
+        {
+          "href": "D01.dxf",
+          "status": 200,
+          "bytes": 45480
+        },
+        {
+          "href": "D02.svg",
+          "status": 200,
+          "bytes": 16547
+        },
+        {
+          "href": "D02.dxf",
+          "status": 200,
+          "bytes": 47907
+        },
+        {
+          "href": "D03.svg",
+          "status": 200,
+          "bytes": 39323
+        },
+        {
+          "href": "D03.dxf",
+          "status": 200,
+          "bytes": 85441
+        },
+        {
+          "href": "D04.svg",
+          "status": 200,
+          "bytes": 23905
+        },
+        {
+          "href": "D04.dxf",
+          "status": 200,
+          "bytes": 69492
+        },
+        {
+          "href": "D05.svg",
+          "status": 200,
+          "bytes": 14498
+        },
+        {
+          "href": "D05.dxf",
+          "status": 200,
+          "bytes": 48043
+        },
+        {
+          "href": "D05b.svg",
+          "status": 200,
+          "bytes": 17880
+        },
+        {
+          "href": "D05b.dxf",
+          "status": 200,
+          "bytes": 57361
+        },
+        {
+          "href": "D06.svg",
+          "status": 200,
+          "bytes": 18946
+        },
+        {
+          "href": "D06.dxf",
+          "status": 200,
+          "bytes": 50106
+        },
+        {
+          "href": "D07.svg",
+          "status": 200,
+          "bytes": 18550
+        },
+        {
+          "href": "D07.dxf",
+          "status": 200,
+          "bytes": 50793
+        },
+        {
+          "href": "D08.svg",
+          "status": 200,
+          "bytes": 5430158
+        },
+        {
+          "href": "D08.dxf",
+          "status": 200,
+          "bytes": 2251837
+        },
+        {
+          "href": "D09.svg",
+          "status": 200,
+          "bytes": 24865
+        },
+        {
+          "href": "D09.dxf",
+          "status": 200,
+          "bytes": 62649
+        },
+        {
+          "href": "D10.svg",
+          "status": 200,
+          "bytes": 153290
+        },
+        {
+          "href": "D10.dxf",
+          "status": 200,
+          "bytes": 256316
+        },
+        {
+          "href": "D11.svg",
+          "status": 200,
+          "bytes": 242450
+        },
+        {
+          "href": "D11.dxf",
+          "status": 200,
+          "bytes": 422350
+        },
+        {
+          "href": "manifest.json",
+          "status": 200,
+          "bytes": 19525
+        },
+        {
+          "href": "print_validation.json",
+          "status": 200,
+          "bytes": 3688
+        },
+        {
+          "href": "dimension_register.csv",
+          "status": 200,
+          "bytes": 16016
+        },
+        {
+          "href": "dimensional_audit.json",
+          "status": 200,
+          "bytes": 19510
+        },
+        {
+          "href": "visual_review.json",
+          "status": 200,
+          "bytes": 1761
+        },
+        {
+          "href": "ACCESO_MANTENIMIENTO_D08.md",
+          "status": 200,
+          "bytes": 1650
+        }
+      ],
+      "errors": [],
+      "revision": true,
+      "status": true,
+      "gallery_linked": true,
+      "viewer": true,
+      "pass": true
+    }
+  ]
+}

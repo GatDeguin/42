@@ -25,6 +25,11 @@ CORRECTED=any(o['name'].startswith('AC95 | acabado descanso') for o in OB)
 LANDING=3.25 if CORRECTED else 3.20
 START=0.06 if CORRECTED else None
 RAILO=BY.get('Baranda lateral pasamanos');RAILCENTER=(RAILO['lo'][2]+RAILO['hi'][2])/2 if RAILO else 4.25
+META=DATA.get('scene_metadata',{});R7=bool(META.get('r7_layout'));HANDS=bool(META.get('door_hands99_v1'));WET=bool(META.get('r7_wet_details'));VENT=META.get('r7_vent_details');CLOSED=DATA.get('closed_envelopes',{})
+P05_LEFT=BY['Puerta dormitorio comedor | galce cierre']['hi'][0] if HANDS else None
+P05_RIGHT=BY['Puerta dormitorio comedor | manija palanca.001']['lo'][0] if HANDS else None
+P05_CLEAR=P05_RIGHT-P05_LEFT if HANDS else None
+P05_THROAT=BY['Puerta dormitorio comedor | hoja']['lo'][0]-P05_LEFT if HANDS else None
 BATH_DOOR=BY.get('Puerta baño comedor')
 BATH_NPT=BY.get('Piso baño vivienda',{'hi':[0,0,3.3]})['hi'][2]
 BATH_CEIL=BY.get('Cielorraso baño | 2.60m sobre porcelanato',{'lo':[0,0,5.9]})['lo'][2]
@@ -99,7 +104,7 @@ def end():
  (OUT/(PAGE+'.svg')).write_text('\n'.join(svg+['</svg>']),encoding='utf8');DX.saveas(OUT/(PAGE+'.dxf'));C.showPage()
 
 def isstruct(o):
- n=o['name'].lower();return any(t in n for t in ['muro','fachada','medianera','pilar','columna','tabique','separaci','dintel','antepecho','losa','cubierta','frontón','cielorraso','viga','cabio','correa','aislaci','recrecido','cierre alto'])
+ n=o['name'].lower();return any(t in n for t in ['muro','fachada','medianera','pilar','columna','tabique','separaci','dintel','antepecho','losa','cubierta','frontón','cielorraso','viga','cabio','correa','aislaci','recrecido','cierre alto']) or ('cierre' in n and 'vestidor' in n and not any(t in n for t in ['puerta','jamba','manija']))
 def isarch(o):
  n=o['name'].lower();return o['name'].startswith(('PL95 |','AC95 |','FIX95 |')) or isstruct(o) or any(c in o['collections'] for c in ['STAIR','ROOF','CONSTRUCTION','DOORS','VENTILATION']) or any(t in n for t in ['puerta','ventana','vidrio','balcón','baranda','umbral','descanso','marco','bajada','canaleta','corredera baño comedor'])
 def selected(o,groups=None):return 'np' in o and (not groups or any(g in o['collections'] for g in groups))
@@ -230,7 +235,7 @@ def pivot(v,p,rad,theta0,theta1,label):
 begin('A00','Indice y criterios','Juego coordinado para revision independiente; video pausado')
 text(22,56,'LA PROPIEDAD COMPLETA, EN UNA MISMA VERSION',7.5,INK,True)
 para(22,70,'Plantas, fachadas, cortes y detalles extraidos del archivo Blender indicado en cada cartela. Las anotaciones distinguen fuente dimensional, geometria medida y propuestas pendientes.',535,3.5,leading=5.5)
-INDEX=[('A01','Implantacion, paisaje y perimetro','1:100 / 1:50'),('A02','Planta baja y vanos','1:50'),('A03','Planta alta, estudio y vivienda','1:50'),('A03b','Vivienda / uso y recorridos','1:25'),('A04','Cubiertas y coordinacion pluvial','1:50 / esquema'),('A05a / A05b','Cuatro fachadas','1:50'),('A06','Cortes generales A-A y B-B','1:50'),('A07','Escalera, descanso y acceso','1:20 / 1:5'),('A08','Pileta y bordes','1:25'),('A09','Banos: plantas y elevaciones','1:20'),('A10','Quincho y cocinas','1:25 / 1:50'),('A10b','Monoambiente: uso y cotas G','1:25'),('A11','Estudio y tratamiento acustico','1:25 / 1:50'),('A12','Carpinterias y herreria','Cuadros / 1:25'),('A13 / A13b','Encuentros de envolvente','1:5 / 1:10'),('A14','Estructura conceptual','1:50 / 1:10'),('A15','Instalaciones coordinadas','1:100 / esquemas'),('A16','Superficies, decisiones y trazabilidad','Cuadros'),('D01-D11' if 'BTH95 | ducha columna' in BY else 'D01-D10' if 'SL95 | A rodillo1 diámetro20' in BY else 'D01-D09' if abs(BATH_NPT-3.25)<.01 else 'D01-D08','Suplemento G/P (incluye D05b)','1:5 / 1:10 / 1:50')]
+INDEX=[('A01','Implantacion, paisaje y perimetro','1:100 / 1:50'),('A02','Planta baja y vanos','1:50'),('A03','Planta alta, estudio y vivienda','1:50'),('A03b','Vivienda / uso y recorridos','1:25'),('A04','Cubiertas y coordinacion pluvial','1:50 / esquema'),('A05a / A05b','Cuatro fachadas','1:50'),('A06','Cortes generales A-A y B-B','1:50'),('A07','Escalera, descanso y acceso','1:20 / 1:5'),('A08','Pileta y bordes','1:25'),('A09','Banos: plantas y elevaciones','1:20 / 1:25'),('A10','Quincho y cocinas','1:25 / 1:50'),('A10b','Monoambiente: uso y cotas G','1:25 / 1:20'),('A11','Estudio y tratamiento acustico','1:25 / 1:50'),('A12','Carpinterias y herreria','Cuadros / 1:25'),('A13 / A13b','Encuentros de envolvente','1:5 / 1:10'),('A14','Estructura conceptual','1:50 / 1:10'),('A15','Instalaciones coordinadas','1:100 / esquemas'),('A16','Superficies, decisiones y trazabilidad','Cuadros'),('D01-D11' if 'BTH95 | ducha columna' in BY else 'D01-D10' if 'SL95 | A rodillo1 diámetro20' in BY else 'D01-D09' if abs(BATH_NPT-3.25)<.01 else 'D01-D08','Suplemento G/P (incluye D05b)','1:1 a 1:50')]
 table(22,93,[30,193,50],['Hoja','Contenido','Escala'],INDEX,13)
 notes(330,96,'COMO LEER ESTE JUEGO',[
 'F - Fuente: cotas expresas del HTML original y decisiones del propietario.',
@@ -282,15 +287,15 @@ end()
 # PB
 begin('A02','Planta baja','Corte horizontal G a +1,20 m | referencias A06, A09 y A10')
 v=View(54,60,[12,24,-2,14],50,True,'01 Planta baja amoblada');draw_plan(v,1.2,filter_fn=lambda o:'SITE' not in o['collections'] and 'POOL' not in o['collections']);dims_envelope(v);plan_refs(v)
-room(v,18,1.2,'MONOAMBIENTE','Piso G +0,21');room(v,16.7,10.45,'QUINCHO','Piso G +0,18');room(v,20.6,5.25,'BANO 01','+0,21');room(v,21.2,10.6,'BANO 03','+0,21')
-v.dimx(14.2,19.25,3.55);v.dimx(19.39,21.8,3.55);v.dimy(.2,5.9,23.55,22);v.dimy(4.35,5.9,20.55);v.dimx(14,16.75,6.6,6.1);v.dimx(16.75,19.25,6.6,6.1);v.dimx(19.25,22,6.6,6.1);v.dimx(20.7,21.8,12.55,12);v.dimy(10.17,11.83,23.55,22)
-v.label(18,6.28,'P01',2.6,BLUE,True);v.label(19.8,4.1,'P02',2.6,BLUE,True);v.label(21.22,12.17,'P03',2.6,BLUE,True)
-pivot(v,(19.46,4.28),.72,0,math.pi/2,'');pivot(v,(21.63,11.92),.82,math.pi,math.pi/2,'');v.bar(12.8,13.8,3)
+room(v,18,1.2,'MONOAMBIENTE','Piso G +0,21');room(v,16.7,10.45,'QUINCHO','Piso G +0,18');room(v,20.6,1.12 if R7 else 5.25,'BANO 01','+0,21');room(v,21.2,10.6,'BANO 03','+0,21')
+v.dimx(14.2,19.25,3.55);v.dimx(19.39,21.8,3.55);v.dimy(.2,5.9,23.55,22);v.dimy(.26,1.81,22.75,21.8) if R7 else v.dimy(4.35,5.9,20.55);v.dimx(14,16.75,6.6,6.1);v.dimx(16.75,19.25,6.6,6.1);v.dimx(19.25,22,6.6,6.1);v.dimx(20.7,21.8,12.55,12);v.dimy(10.17,11.83,23.55,22)
+v.label(18,6.28,'P01',2.6,BLUE,True);v.label(19.0,.92,'P02',2.6,BLUE,True) if R7 else v.label(19.8,4.1,'P02',2.6,BLUE,True);v.label(21.22,12.17,'P03',2.6,BLUE,True)
+pivot(v,(19.2525,.4025),.915,math.pi/2,math.pi,'') if R7 else pivot(v,(19.46,4.28),.72,0,math.pi/2,'');pivot(v,(21.63,11.92),.82,math.pi,math.pi/2,'');v.bar(12.8,13.8,3)
 notes(333,54,'DIMENSIONES Y NIVELES',[
 'F: envolvente nominal 8,00 x 12,00 m; espesor exterior 0,20 m. La geometria de piezas puede incluir juntas y salientes.',
 'G: piso monoambiente +0,21; quincho +0,18; ambos banos PB +0,21. Saltos entre acabados visibles: no se omiten.',
 'G: vano doble monoambiente 2,50 m entre jambas. Las hojas y rieles se describen en A12.',
-'G: tabique bano mono 0,14 m. Ancho interior entre pared lateral y medianera aprox. 2,41 m; verificar acabados.',
+('G: bano mono en fachada Cedro y medianera: X19,39..21,80 / Z0,26..1,81. Luz entre acabados2,41 x1,55; tabique lateral0,14. Acceso por oeste.' if R7 else 'G: tabique bano mono 0,14 m. Ancho interior entre pared lateral y medianera aprox. 2,41 m; verificar acabados.'),
 'G: bano de pileta exterior con acceso desde jardin. Detalle acotado en A09.',
 'Barridos azules: pose de apertura esquematica de hojas; la ausencia de colision se audita en el modelo y no se presume por este simbolo.'
 ],223)
@@ -308,7 +313,8 @@ room(v,17.7,1.1,'ESTUDIO','Piso +3,25 / cielorraso +6,45');room(v,15.8,7.2,'DORM
 v.dimx(14.2,17.55,8.6);v.dimx(17.69,19.35,8.6);v.dimx(19.49,21.8,8.6);v.dimy(6.1,8.93,23.55,22);v.dimy(9.07,11.8,23.55,22);v.dimx(13,14,12.45,12);v.dimy(12,13,22.65,22)
 v.dimy(1.5,4.5,12.6,14);v.dimy(4.84,5.76,12.6,14);v.label(13.65,5.3,'P04',2.5,BLUE,True);v.label(14.38,2,'V01',2.5,BLUE,True);v.label(14.4,7.75,'V02',2.5,BLUE,True);v.label(14.4,10.5,'P08',2.5,BLUE,True);v.label(15.8,12.15,'P09',2.5,BLUE,True);v.label(19.6,12.15,'P10',2.5,BLUE,True)
 if BATH_DOOR:v.dimx(19.585,20.485,8.45,label='P11 0,90 libre')
-pivot(v,(18.105,9),.83,0,math.pi/2,'P05');pivot(v,(17.62,8.09),.82,-math.pi/2,0,'P06');pivot(v,(19.42,7.97),.82,-math.pi/2,-math.pi,'P07');v.bar(12.8,13.8,3)
+if R7:v.dimx(16.54,17.54,9.42,label='P05 vano1,00')
+(pivot(v,(17.4975,9.01),.908,math.pi,1.5*math.pi,'P05') if HANDS else pivot(v,(16.5825,9.0675),.915,0,math.pi/2,'P05') if R7 else pivot(v,(18.105,9),.83,0,math.pi/2,'P05'));(pivot(v,(17.5975,7.27),.82,math.pi/2,math.pi,'P06') if HANDS else pivot(v,(17.62,8.09),.82,-math.pi/2,0,'P06'));pivot(v,(19.42,7.97),.82,-math.pi/2,-math.pi,'P07');v.bar(12.8,13.8,3)
 notes(333,55,'ALTURAS AUTORIZADAS',[
 'F/G: piso estudio +3,25; cara inferior del cielorraso +6,45 = 3,20 m libres.',
 'F/G: piso vivienda +3,25; cielorraso general +5,85 = 2,60 m libres.',
@@ -318,7 +324,7 @@ f'G: piso bano {BATH_NPT:+.2f}; cielorraso {BATH_CEIL:+.2f}; altura libre {BATH_
 ],222)
 notes(333,221,'CERRAMIENTOS Y VANOS',[
 'F: ventana del estudio 3,00 m. G: paños DVH y marco segun cuadro A12.',
-'G: dormitorio, vestidor y bano con puertas operables; P11 vincula bano y comedor. Cotas interiores entre caras de tabiques.',
+('G: P05 conecta dormitorio con estar; P06 comunica dormitorio y vestidor; P07 vestidor y bano; P11 bano y comedor. Vestidor cerrado al estar.' if R7 else 'G: dormitorio, vestidor y bano con puertas operables; P11 vincula bano y comedor. Cotas interiores entre caras de tabiques.'),
 'G: balcon lateral 1,00 m y posterior 1,00 m nominal. Barandas y borde de losa en A12/A13.',
 'Acustica, ventilacion y sellado: A11 y suplemento D06-D08. Prestaciones aun no calculadas.'
 ],222)
@@ -326,7 +332,7 @@ end()
 # Occupancy envelopes derived from the selected furniture bounds, separate from measured G objects.
 if BATH_DOOR:
  begin('A03b','Circulacion y uso en vivienda','G posiciones reales / P retirada350 mm, hojas abiertas y usuario600 mm')
- v=View(32,70,[14.1,22.15,6.0,12.2],25,True,'01 Vivienda / relacion mobiliario, cocina y dos accesos al bano')
+ v=View(32,70,[14.1,22.15,6.0,12.2],25,True,'01 Vivienda / accesos, mobiliario y huellas de uso')
  draw_plan(v,4.5,filter_fn=lambda o:'SITE' not in o['collections'])
  def occupied_box(bb,label=None):
   ps=[(bb[0],bb[1]),(bb[2],bb[1]),(bb[2],bb[3]),(bb[0],bb[3]),(bb[0],bb[1])]
@@ -348,6 +354,10 @@ if BATH_DOOR:
  ovgap=ovuser[0]-emax;frgap=fruser[0]-emax;wgap=wmin-coffee['hi'][0]
  v.dimx(emax,ovuser[0],10.36,label=f'{ovgap:.3f} uso P');v.dimx(emax,fruser[0],11.20,label=f'{frgap:.3f} uso P');v.dimx(coffee['hi'][0],wmin,10.36,label=f'{wgap:.3f} uso P')
  v.dimy(9.07,tableo['lo'][1],18.30,label=f'{tableo["lo"][1]-9.07:.3f} G')
+ if HANDS:
+  route=[(16.90,9.40),(16.97,9.00),(17.08,8.45),(17.10,7.72),(17.70,7.68),(18.12,7.68)]
+  for aa,bb in zip(route,route[1:]):v.line(aa,bb,.3,BLUE,True)
+  v.label(16.80,8.50,'P ruta Ø450 mm',2.5,BLUE)
  occupied_box([19.605,7.20,20.405,8.85]);v.label(19.99,7.45,'PASO0,80 P',2.5,BLUE)
  v.dimx(19.585,20.485,8.43,label='P11 0,90 libre');v.label(20.08,8.95,'CORREDERA',2.5,BLUE)
  notes(390,57,'GEOMETRIA Y HUELLAS DE USO',[
@@ -358,8 +368,8 @@ if BATH_DOOR:
  ],177)
  table(390,212,[116,56],['Caso simultaneo P','Paso m'],[('Silla retirada / horno + usuario',f'{ovgap:.3f}'),('Silla retirada / heladera + usuario',f'{frgap:.3f}'),('Silla oeste retirada / mesa baja',f'{wgap:.3f}')],13)
  notes(390,279,'RECORRIDOS Y LECTURA',[
- 'Comedor -> bano sin giro de hoja ni escalon; acceso existente desde vestidor conservado. P11 y piso continuo: D09.',
- 'Sin sillas en cabeceras del comedor. La salida al balcon se realiza por el lateral de la mesa; no se declara paso por la franja angosta del extremo.',
+ (('Estar -> dormitorio -> vestidor -> bano; P05 y P06 abren hacia dormitorio. P11 bano-comedor conservado; vestidor cerrado al estar.' if HANDS else 'Estar -> dormitorio -> vestidor -> bano; P11 bano-comedor conservado. Vestidor sin acceso directo al estar; manos segun fuente.') if R7 else 'Comedor -> bano sin giro de hoja ni escalon; acceso existente desde vestidor conservado. P11 y piso continuo: D09.'),
+ (f'G P05: paso conservador{P05_CLEAR*1000:.0f}mm: galce X{P05_LEFT:.4f} hasta manija X{P05_RIGHT:.4f}, hoja90°. Proyeccion sobre toda la profundidad de hoja; garganta{P05_THROAT*1000:.0f}mm. A12.' if HANDS else 'Sin sillas en cabeceras del comedor. Salida al balcon por el lateral de la mesa.'),
  'Si muebles o herrajes cambian, recalcular estas envolventes; la ausencia de choque no sustituye la prueba de uso.'
  ],177)
  METRICS['usage_clearances']={'oven_and_user':ovgap,'fridge_and_user':frgap,'coffee_and_withdrawn_chair':wgap,'chair_withdrawal_m':.35,'operator_m':.6,'model_sha256':SHA}
@@ -467,24 +477,29 @@ notes(467,61,'NIVELES DEL MODELO',[
 'G: tres escalones con caras superiores -0,14 / -0,43 / -0,72 m.',
 f"G: playa humeda -0,080 m; agua {objtop('Agua de pileta',0):+.3f} m; profundidad actual {(objtop('Agua de pileta',0)+.08)*1000:.0f} mm. Escalon intermedio -0,31 m.",
 f"G cresta de agua {objtop('Agua de pileta',0):+.3f} m; resguardo geometrico {(.07-objtop('Agua de pileta',0))*1000:.0f} mm al borde. P nivel operativo sujeto a proyecto hidraulico.",
-f"G pendiente de correccion: volumen de agua hasta {BY['Agua de pileta']['lo'][2]:+.3f} m; invade {(BY['Fondo de pileta']['hi'][2]-BY['Agua de pileta']['lo'][2])*1000:.0f} mm del fondo de hormigon. No representa un volumen hidraulico resuelto.",
+(f"G: agua recortada contra vaso, playa y escalones; fondo de agua {BY['Agua de pileta']['lo'][2]:+.3f} m, coincidente con cara superior del vaso. Proyecto hidraulico P pendiente." if R7 else f"G pendiente de correccion: volumen de agua hasta {BY['Agua de pileta']['lo'][2]:+.3f} m; invade {(BY['Fondo de pileta']['hi'][2]-BY['Agua de pileta']['lo'][2])*1000:.0f} mm del fondo de hormigon."),
 'P: skimmer, retornos, filtrado y desague por dimensionar y coordinar. Esquema en A15.'
 ],96)
 s=View(49,336,[12.5,20.5,-1.8,.4],50,False,'02 Corte transversal al largo / Z=16,50');draw_cut(s,1,16.5,[0,2],lambda o:'POOL' in o['collections'] and 'Agua' not in o['name']);s.level(13,-1.39,'Fondo -1,39');s.level(18.5,-.08,'Playa -0,08')
 end()
 # BATHROOMS
 begin('A09','Banos: plantas y elevaciones','B01 monoambiente | B02 vivienda | B03 pileta / quincho')
-baths=[('B01 Monoambiente',[19.1,22.1,4,6.15],1.2,(19.39,21.8,4.35,5.9),.21),('B02 Vivienda',[19.15,22.1,5.95,8.85],4.5,(19.49,21.8,6.1,8.57),BATH_NPT),('B03 Pileta',[20.25,22.25,9.85,12.25],1.2,(20.7,21.8,10.17,11.83),.21)]
+baths=[('B01 Monoambiente',[18.2,22.1,-.05,2.10] if R7 else [19.1,22.1,4,6.15],1.2,(19.39,21.8,.26,1.81) if R7 else (19.39,21.8,4.35,5.9),.21),('B02 Vivienda',[19.15,22.1,5.95,8.85],4.5,(19.49,21.8,6.165 if WET else 6.1,8.57),BATH_NPT),('B03 Pileta',[20.25,22.25,9.85,12.25],1.2,(20.7,21.8,10.17,11.83),.21)]
 for i,(title,ext,z,inside,floor) in enumerate(baths):
- x=32+i*189;v=View(x,74,ext,20,True,title);draw_plan(v,z,filter_fn=lambda o:'SITE' not in o['collections']);l,r,t,b=inside;v.dimx(l,r,ext[2]-.14,t);v.dimy(t,b,ext[1]+.15,r);v.label((l+r)/2,(t+b)/2,f'Piso {floor:+.2f}',2.7,BLUE)
+ x=32+i*189;local_scale=25 if R7 and i==0 else 20;v=View(x,74,ext,local_scale,True,title);draw_plan(v,z,filter_fn=lambda o:'SITE' not in o['collections']);l,r,t,b=inside;v.dimx(l,r,ext[2]-.14,t);v.dimy(t,b,ext[1]+.15,r);v.label((l+r)/2,(t+b)/2,f'Piso {floor:+.2f}',2.7,BLUE)
+ if i==0 and R7:pivot(v,(19.2525,.4025),.915,math.pi/2,math.pi,'P02')
  if i==1 and BATH_DOOR:v.dimx(19.585,20.485,8.79,label='P11 0,90 libre')
  # vertical cut through the sanitary zone
- e=View(x,242,[ext[0],ext[1],floor-.1,floor+2.65],20,False,'Elevacion interior / artefactos');e.line((l,floor),(r,floor),.25,INK)
+ e=View(x,242,[ext[0],ext[1],floor-.1,floor+2.65],local_scale,False,'WC y bidet / hacia muro posterior' if i==1 else 'Elevacion interior / artefactos');e.line((l,floor),(r,floor),.25,INK)
  for o in sorted(OB,key=lambda o:o['lo'][1],reverse=True):
   if 'np' not in o:continue
   cx,cz=(o['lo'][0]+o['hi'][0])/2,(o['lo'][1]+o['hi'][1])/2
+  if i==1 and cz<7.70:continue
   if ext[0]<cx<ext[1] and ext[2]<cz<ext[3] and floor-.1<o['lo'][2]<floor+2.6 and any(t in o['name'].lower() for t in ['inodoro','lavatorio','mampara','ducha','espejo','grifer','grifo','vanitory','toallero','bañera','bidet']):e.shp(shape_project(o,[0,2]),.16,INK,None if 'mampara' in o['name'].lower() else '#ffffff')
  e.level(ext[0],floor)
+ seat_names=['Inodoro mono | asiento','Inodoro suite | asiento','Inodoro quincho | asiento']
+ seat=BY.get(seat_names[i])
+ if R7 and seat:e.dimy(floor,seat['hi'][2],ext[0]+.03,label=f"{(seat['hi'][2]-floor)*1000:.0f} G asiento")
 para(32,222,'G: artefactos y mamparas de la malla actual; cotas interiores entre caras. D09 detalla piso continuo PA; D11 capas, sumidero y altura de ducha PB. Accesos de mantenimiento, productos y ensayos pendientes; hojas en A12.',530,2.8)
 end()
 # QUINCHO AND KITCHENS
@@ -527,6 +542,10 @@ if 'Isla cocina mono tapa' in BY:
    for aa,bb in zip(arc,arc[1:]):v.line(aa,bb,.17,BLUE,True)
    v.line(hinge,arc[-1],.22,BLUE,True);v.label(hinge[0]+.33,hinge[1]-.48,'P hoja90°',2.5,BLUE)
   METRICS.setdefault('usage_clearances',{})['mono_island_to_fridge_handle_m']=gap
+ if R7:
+  vp=[(20.65,4.25),(21.25,4.25),(21.25,5.55),(20.65,5.55),(20.65,4.25)]
+  for aa,bb in zip(vp,vp[1:]):v.line(aa,bb,.18,BLUE,True)
+  v.label(20.95,4.75,'P uso placard600',2.5,BLUE)
  # Dashed chairwithdrawals are usageproposals, not savedfurniture poses.
  for cn,dz in [('Silla mono 1 asiento',-.45),('Silla mono 2 asiento',.45)]:
   co=BY.get(cn)
@@ -545,6 +564,17 @@ if 'Isla cocina mono tapa' in BY:
  'Herrajes, electrodomesticos y muebles no tienen marca/producto confirmados. G documenta geometria, no conformidad del producto o accesibilidad.',
  'Las dimensiones de obra, espesores y servicios necesitan replanteo y proyecto ejecutivo segun jurisdiccion.'
  ],174)
+ if R7:
+  ev=View(397,273,[18.10,20.40,.10,1.40],20,False,'02 Mesa y sillas / elevacion G')
+  draw_elev(ev,1,-1,[0,2],lambda o:o['name'].startswith(('Mesa mono ','Silla mono 1 ','Silla mono 2 ')))
+  ev.line((18.10,.21),(20.40,.21),.23,INK)
+  ev.dimy(.21,BY['Mesa mono tapa']['hi'][2],18.13,label=f"{table_height*1000:.0f} G")
+  ev.dimy(.21,BY['Silla mono 1 asiento']['hi'][2],20.15,label=f"{chair*1000:.0f} G")
+  cv=View(530,273,[14.15,14.98,.10,1.40],20,False,'03 Mesada / Z3,60')
+  draw_cut(cv,1,3.6,[0,2],lambda o:'cocina mono' in o['name'].lower())
+  cv.line((14.15,.21),(14.98,.21),.23,INK)
+  cv.dimy(.21,il['hi'][2],14.97,label=f"{(il['hi'][2]-.21)*1000:.0f} G")
+  para(397,350,'Alturas G sobre NPT +0,21. Aparatos y muebles genericos; sin producto ni capacidad certificados.',174,2.6)
  para(32,346,'G: cotas tomadas del modelo, incluyendo el tirador que reduce el paso a la heladera. P: huella de uso y criterios de coordinacion. No se sustituyen medidas por dimensiones nominales de catalogo.',329,2.9)
  end()
 # STUDIO
@@ -553,13 +583,16 @@ v=View(35,69,[13.8,22.2,-.2,6.25],25,True,'01 Estudio / posiciones y cerramiento
 # Acoustic cloud projection included from actual mesh
 for o in OB:
  if 'np' in o and any(t in o['name'].lower() for t in ['cloud estudio','bafle cielorraso']):v.shp(shape_project(o,[0,1]),.13,BLUE,None)
+if VENT:
+ for oo in OB:
+  if oo['name'].startswith('VENT99 |') and 'np' in oo and any(k in oo['name'] for k in ['camisa0.5','filtro fondo','silenciador camisa','panel registro']):v.shp(shape_project(oo,[0,1]),.14,BLUE,None)
 v.label(21.05,5.45,'PATINILLO',2.5,ORANGE);v.label(14.4,3,'DVH',2.5,BLUE);v.label(14.45,5.25,'PUERTA',2.5,BLUE)
 notes(407,55,'CRITERIO ACUSTICO PROPUESTO',[
 'G: altura libre 3,20 m; cielorraso a +6,45. Paneles y nubes seccionados/coordinados con esa cota.',
 'P: identificar primeras reflexiones con posicion final de monitores y oidos. El trazado de escucha es una referencia grafica, no un calculo acustico.',
 'P: montaje dimensional, cierre hermetico y ventilacion en suplemento D06-D08; aislamiento, RT60 y ruido de fondo requieren calculo/medicion.',
 'P: sellado perimetral continuo en puerta, DVH y pasos; juntas elasticas y desacople donde el sistema constructivo lo requiera.',
-'P: ventilacion silenciosa con recorridos atenuados; controlar vibracion y ruido de equipos. No hay sistema de acondicionamiento dimensionado.',
+('P modelado:2 circuitos con filtros, ventiladores, silenciadores600 y ductosØ150; pasos frontales300x80. Registro1,40x0,83 y accesorios desde+6,453. D08 muestra montaje y retirada.' if VENT else 'P: ventilacion silenciosa con recorridos atenuados; controlar vibracion y ruido de equipos. No hay sistema de acondicionamiento dimensionado.'),
 'P: patinillo de combustion: definir proteccion termica, separacion, juntas y acceso de limpieza sin comprometer el estudio.'
 ],154)
 notes(35,348,'VERIFICACION PENDIENTE',[
@@ -569,22 +602,36 @@ end()
 # CARPENTRY
 begin('A12','Carpinterias y herreria','Cuadro de hojas / paños medidos del modelo; vanos y pases en A02/A03')
 DOORROWS=[]
-REFS=[('P01i','Puerta doble mono izquierda vidrio','Corredera PB / vidrio'),('P01d','Puerta doble mono derecha vidrio','Corredera PB / vidrio'),('P02','Baño mono puerta','Abatible bano mono'),('P03','Puerta baño quincho','Abatible bano pileta'),('P04','Puerta acceso estudio','Acceso estudio'),('P05','Puerta acceso vestidor','Acceso vestidor'),('P06','Puerta dormitorio','Dormitorio'),('P07','Puerta baño vivienda','Bano vivienda'),('V01','Ventana DVH estudio vidrio','DVH estudio / paño'),('V02','Puerta ventana dormitorio vidrio','Lateral dormitorio / paño')]
+REFS=[('P01i','Puerta doble mono izquierda vidrio','Corredera PB / vidrio'),('P01d','Puerta doble mono derecha vidrio','Corredera PB / vidrio'),('P02','Baño mono puerta | hoja' if R7 else 'Baño mono puerta','Abatible bano mono'),('P03','Puerta baño quincho','Abatible bano pileta'),('P04','Puerta acceso estudio','Acceso estudio'),('P05','Puerta dormitorio comedor | hoja' if R7 else 'Puerta acceso vestidor','Dormitorio / estar' if R7 else 'Acceso vestidor'),('P06','Puerta dormitorio','Dormitorio'),('P07','Puerta baño vivienda','Bano vivienda'),('V01','Ventana DVH estudio vidrio','DVH estudio / paño'),('V02','Puerta ventana dormitorio vidrio','Lateral dormitorio / paño')]
 REFS += [('P08a','Corrediza lateral A vidrio','Corredera lateral A / vidrio'),('P08b','Corrediza lateral B vidrio','Corredera lateral B / vidrio'),('P09','Corrediza posterior A vidrio','Corredera posterior A / vidrio'),('P10','Corrediza posterior B vidrio','Corredera posterior B / vidrio'),('H01','Portón negro','Porton / hoja') ]
 if BATH_DOOR:REFS.append(('P11','Puerta baño comedor','Corredera bano/comedor'))
 for ref,name,desc in REFS:
- o=BY.get(name)
+ o=CLOSED.get(name,BY.get(name))
  if not o:continue
  d=[o['hi'][i]-o['lo'][i] for i in range(3)];DOORROWS.append((ref,desc,f'{max(d[:2]):.3f}',f'{d[2]:.3f}',f"{o['lo'][2]:+.3f}",f"{o['hi'][2]:+.3f}"))
+METRICS['P05_clearance']={'left_stop_x':P05_LEFT,'right_handle_x':P05_RIGHT,'conservative_projection_m':P05_CLEAR,'throat_m':P05_THROAT,'frame_m':.923,'rough_m':1.0,'method':'Frame150 fully open. Conservative X projection includes closing stop and innermost lever over full leaf depth; throat uses Z8.93..9.07. Not a universal bedroom passage dimension.'} if HANDS else None
+METRICS['carpentry_schedule']=[{'ref':r,'object':n,'description':d,'closed_bounds':{k:CLOSED.get(n,BY.get(n))[k] for k in ['lo','hi']}} for r,n,d in REFS if n in CLOSED or n in BY]
 table(25,55,[25,128,46,46,46,46],['Ref.','Pieza medida G','Ancho m','Alto m','Base','Tope'],DOORROWS,12)
 notes(437,55,'LECTURA DEL CUADRO',[
 'Dimensiones de hoja o vidrio; no equivalen al vano. P11: luz entre jambas0,90; hoja1,05 y carrera1,02; ver A09 / suplemento D09.',
-'Los marcos, burletes y herrajes amplian o reducen las dimensiones utiles. Ver cotas entre jambas en plantas.',
+(f'G: P05 vano1000, hoja908, marco923mm; garganta{P05_THROAT*1000:.0f}mm y paso conservador{P05_CLEAR*1000:.0f}mm con manija a90°. P02 vano1000 / marco930mm.' if HANDS else 'Los marcos, burletes y herrajes amplian o reducen las dimensiones utiles. Ver cotas entre jambas en plantas.'),
 'G: DVH con dos paños de vidrio; espesor y separacion segun modelo. Prestaciones y composicion final por especificar.',
 'P08/P09/P10: correderas vivienda; replantear rieles, solapes, desagues y retenedores a partir del vano real.',
 'Porton: hoja 3,00 m; paso libre 2,75 m; carrera 3,05 m. Paso medido entre caras de pilares.'
 ],132)
-notes(26,256,'HERRERIA Y PROTECCION',[
+if HANDS:
+ d=View(29,282,[16.46,17.62,8.87,9.19],10,True,'01 P05 / jambas y hoja cerrada G')
+ draw_cut(d,2,4.30,[0,1],lambda o:'Puerta dormitorio comedor' in o['name'] and 'hoja' not in o['name'] and 'manija' not in o['name'] or 'Dormitorio tabique transversal' in o['name'])
+ leaf=CLOSED['Puerta dormitorio comedor | hoja'];ll,hh=leaf['lo'],leaf['hi']
+ d.poly([(ll[0],ll[1]),(hh[0],ll[1]),(hh[0],hh[1]),(ll[0],hh[1])],.23,BLUE,None)
+ d.dimx(16.582,17.505,9.25,label='923 G entre jambas')
+ d.dimx(P05_LEFT,P05_RIGHT,9.34,label=f'{P05_CLEAR*1000:.0f} G conservador')
+ d.label(17.04,8.86,'Hoja908 x45 G; apertura en A03',2.5,BLUE)
+ c=View(210,282,[17.62,19.42,8.88,9.13],10,True,'02 Cierre vestidor-estar / corte G')
+ draw_cut(c,2,4.30,[0,1],lambda o:'vestidor' in o['name'].lower() or o['name'].startswith('LAY99 |'))
+ c.dimy(8.93,9.07,19.44,label='140 G')
+ c.label(18.52,9.27,'Sin puerta ni paso al estar',2.5,BLUE)
+notes(26,337 if HANDS else 285,'HERRERIA Y PROTECCION',[
 f'F: baranda nominal 1,05 m sobre nivel de balcon. G: eje pasamanos lateral {RAILCENTER:+.2f}; NPT alto {LANDING:+.2f}; diferencia {RAILCENTER-LANDING:.2f} m. Medir altura util donde cambie el acabado.',
 'G: postes, barrotes y zancas representados. Separacion de barrotes, resistencia horizontal, soldaduras, placas y anclajes requieren validacion de proyecto.',
 'Escalera: 18 tablas de 1,00 m; avance entre tablas ~211,1 mm. A07 muestra el recorrido y el encuentro de acceso; A14 las piezas de soporte.',
@@ -657,7 +704,7 @@ end()
 begin('A15','Instalaciones coordinadas','Nodos reales de consumo; enlaces funcionales propuestos P')
 v=View(32,80,[0,24,-1,21],100,True,'01 Coordinacion general / PB')
 v.poly([(0,0),(22,0),(22,20),(0,20)],.35);v.poly([(14,0),(22,0),(22,12),(14,12)],.25);v.poly([(13,15),(20,15),(20,18),(13,18)],.25,BLUE)
-points=[(14.88,4.3,'AF-1'),(20,5.42,'B-1'),(20.69,8.15,'Q-1'),(20.83,10.78,'B-3'),(21.3,7.56,'B-2 PA'),(21.5,10.4,'C-2 PA')]
+points=[(14.88,4.3,'AF-1'),(19.85,1.35 if R7 else 5.42,'B-1'),(20.69,8.15,'Q-1'),(20.83,10.78,'B-3'),(21.3,7.56,'B-2 PA'),(21.5,10.4,'C-2 PA')]
 for x,z,lab in points:
  v.poly([(x-.08,z-.08),(x+.08,z-.08),(x+.08,z+.08),(x-.08,z+.08)],.2,BLUE,BLUE);v.label(x-.7,z,lab,2.5,BLUE)
  v.line((x,z),(21.3,z),.2,BLUE,True,'SISTEMAS')
@@ -674,7 +721,7 @@ notes(302,200,'ELECTRICIDAD / ILUMINACION / EXTRACCION',[
 'P: separar circuitos de iluminacion, tomas generales, cocinas, pileta y estudio. Definir potencias, protecciones, puesta a tierra y equipotencialidad.',
 'G: luminarias representadas no equivalen a calculo luminotecnico ni conexion electrica.',
 'G: conductos de horno, parrilla y cocina presentes. Ver A10: caudal, limpieza, aislamiento y reposicion de aire pendientes.',
-'P: suplemento D07-D08 desarrolla pasos sellados y reserva de ventilacion silenciosa del estudio. Caudales y prestaciones pendientes de dimensionar.'
+('P modelado: D08 representa impulsion y extraccion independientes con soportes a cabios, registro, filtros y terminales separados2,52m. Caudales, productos y prestaciones pendientes.' if VENT else 'P: suplemento D07-D08 desarrolla pasos sellados y reserva de ventilacion silenciosa del estudio. Caudales y prestaciones pendientes de dimensionar.')
 ],260)
 para(33,334,'CRITERIO DE COORDINACION: localizar consumos y cruces antes de dimensionar redes. Sin cotas de servicio ni calculos no se presenta este esquema como instalacion completa o certificada.',230,3.1,ORANGE,5.1)
 end()
@@ -695,13 +742,13 @@ notes(375,55,'FUENTES Y REVISION',[
 ],194)
 notes(375,279,'PENDIENTES PARA EMISION FINAL',[
 'Mensura y topografia; servicios y cotas exactas; suelos; calculo de estructura, instalaciones, seguridad, clima y acustica.',
-'Cierre de observaciones de la auditoria y coherencia con modelo / visor congelados. Umbral critico 9,5 y realismo fotografico siguen siendo condiciones de entrega.'
+'Cierre de observaciones de la auditoria y coherencia con modelo / visor congelados. Umbral critico 9,9 e hiperrealismo siguen siendo condiciones de entrega.'
 ],194)
 para(24,342,'ARCHIVOS: un PDF multipagina vectorial A2; un SVG y un DXF por lamina; geometria.json de extraccion; manifest.json de versiones; verification.json de controles. Los DXF contienen las vistas metricas separadas y cotas; la cartela completa se conserva en PDF/SVG.',322,2.8)
 end()
 # Final exports and validation
 C.save()
-manifest={'project':'Casa de Campo','place':'Virrey del Pino, Buenos Aires','status':a.status,'model':str(MODEL),'model_sha256':SHA,'source_sha256':hashlib.sha256((ROOT/'source/scene.json').read_bytes()).hexdigest(),'created_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'pdf':'Casa_de_Campo_Planos_A2.pdf','paper_mm':[W,H],'dxf_units':'metres','sheets':SHEETS,'notes':['North indicative from owner; no surveyed azimuth','Network services available per owner; exact connection locations pending','Not a construction-certified project'],'metrics':{'dimension_count':len(METRICS['dimensions']),'view_count':len(METRICS['scales'])}}
+manifest={'project':'Casa de Campo','place':'Virrey del Pino, Partido de La Matanza, Buenos Aires','status':a.status,'model':str(MODEL),'model_sha256':SHA,'source_sha256':hashlib.sha256((ROOT/'source/scene.json').read_bytes()).hexdigest(),'created_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'pdf':'Casa_de_Campo_Planos_A2.pdf','paper_mm':[W,H],'dxf_units':'metres','sheets':SHEETS,'notes':['North indicative from owner; no surveyed azimuth','Network services available per owner; exact connection locations pending','Not a construction-certified project'],'metrics':{'dimension_count':len(METRICS['dimensions']),'view_count':len(METRICS['scales'])}}
 (OUT/'manifest.json').write_text(json.dumps(manifest,indent=2,ensure_ascii=False),encoding='utf8');(OUT/'measurements.json').write_text(json.dumps(METRICS,indent=2,ensure_ascii=False),encoding='utf8')
 PDF=fitz.open(OUT/'Casa_de_Campo_Planos_A2.pdf');verify={'pages':len(PDF),'page_sizes_mm':[[round(p.rect.width/MM,3),round(p.rect.height/MM,3)] for p in PDF],'raster_images':sum(len(p.get_images()) for p in PDF),'text_characters':[len(p.get_text()) for p in PDF],'vector_drawings':[len(p.get_drawings()) for p in PDF],'dxf':[],'minimum_font_mm':2.5,'dimension_count':len(METRICS['dimensions'])}
 (OUT/'qa').mkdir(exist_ok=True)

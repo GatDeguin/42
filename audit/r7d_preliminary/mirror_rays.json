@@ -1,0 +1,2425 @@
+{
+  "sha256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "mirrors": [
+    {
+      "name": "Espejo baño mono",
+      "modifiers": [],
+      "evaluated_faces": [
+        {
+          "index": 8,
+          "area": 0.25199979543685913,
+          "vertexCount": 3,
+          "geometric_normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "corners": [
+            [
+              0.0,
+              -1.0,
+              0.0
+            ],
+            [
+              0.0,
+              -1.0,
+              0.0
+            ],
+            [
+              0.0,
+              -1.0,
+              0.0
+            ]
+          ],
+          "cornerDeviationDegrees": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "smooth": true,
+          "vertices": [
+            [
+              20.260000228881836,
+              -0.28999996185302734,
+              1.25
+            ],
+            [
+              20.81999969482422,
+              -0.28999996185302734,
+              1.25
+            ],
+            [
+              20.81999969482422,
+              -0.28999996185302734,
+              2.1500000953674316
+            ]
+          ]
+        },
+        {
+          "index": 9,
+          "area": 0.25199979543685913,
+          "vertexCount": 3,
+          "geometric_normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "corners": [
+            [
+              0.0,
+              -1.0,
+              0.0
+            ],
+            [
+              0.0,
+              -1.0,
+              0.0
+            ],
+            [
+              0.0,
+              -1.0,
+              0.0
+            ]
+          ],
+          "cornerDeviationDegrees": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "smooth": true,
+          "vertices": [
+            [
+              20.260000228881836,
+              -0.28999996185302734,
+              1.25
+            ],
+            [
+              20.81999969482422,
+              -0.28999996185302734,
+              2.1500000953674316
+            ],
+            [
+              20.260000228881836,
+              -0.28999996185302734,
+              2.1500000953674316
+            ]
+          ]
+        },
+        {
+          "index": 10,
+          "area": 0.25199979543685913,
+          "vertexCount": 3,
+          "geometric_normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "corners": [
+            [
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0
+            ]
+          ],
+          "cornerDeviationDegrees": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "smooth": true,
+          "vertices": [
+            [
+              20.81999969482422,
+              -0.25999975204467773,
+              1.25
+            ],
+            [
+              20.260000228881836,
+              -0.25999975204467773,
+              1.25
+            ],
+            [
+              20.260000228881836,
+              -0.25999975204467773,
+              2.1500000953674316
+            ]
+          ]
+        },
+        {
+          "index": 11,
+          "area": 0.25199979543685913,
+          "vertexCount": 3,
+          "geometric_normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "corners": [
+            [
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0
+            ]
+          ],
+          "cornerDeviationDegrees": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "smooth": true,
+          "vertices": [
+            [
+              20.81999969482422,
+              -0.25999975204467773,
+              1.25
+            ],
+            [
+              20.260000228881836,
+              -0.25999975204467773,
+              2.1500000953674316
+            ],
+            [
+              20.81999969482422,
+              -0.25999975204467773,
+              2.1500000953674316
+            ]
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "name": "Espejo con respaldo opaco | mirror",
+          "nodes": [
+            {
+              "name": "Material Output",
+              "type": "OUTPUT_MATERIAL",
+              "inputs": {
+                "Surface": [
+                  "Principled BSDF.BSDF"
+                ],
+                "Displacement": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "Thickness": 0.0
+              }
+            },
+            {
+              "name": "Principled BSDF",
+              "type": "BSDF_PRINCIPLED",
+              "inputs": {
+                "Base Color": [
+                  0.9100000262260437,
+                  0.9399999976158142,
+                  0.949999988079071,
+                  1.0
+                ],
+                "Metallic": 1.0,
+                "Roughness": 0.02500000037252903,
+                "IOR": 1.5199999809265137,
+                "Alpha": 1.0,
+                "Thin Wall": false,
+                "Normal": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "Weight": 0.0,
+                "Diffuse Roughness": 0.0,
+                "Subsurface Weight": 0.0,
+                "Subsurface Radius": [
+                  1.0,
+                  0.20000000298023224,
+                  0.10000000149011612
+                ],
+                "Subsurface Scale": 0.004999999888241291,
+                "Subsurface IOR": 1.399999976158142,
+                "Subsurface Anisotropy": 0.0,
+                "Specular IOR Level": 0.5,
+                "Specular Tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  1.0
+                ],
+                "Anisotropic": 0.0,
+                "Anisotropic Rotation": 0.0,
+                "Tangent": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "Transmission Weight": 0.0,
+                "Coat Weight": 0.0,
+                "Coat Roughness": 0.2800000011920929,
+                "Coat IOR": 1.5,
+                "Coat Tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  1.0
+                ],
+                "Coat Normal": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "Sheen Weight": 0.0,
+                "Sheen Roughness": 0.5,
+                "Sheen Tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  1.0
+                ],
+                "Emission Color": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  1.0
+                ],
+                "Emission Strength": 0.0,
+                "Thin Film Thickness": 0.0,
+                "Thin Film IOR": 1.3300000429153442
+              }
+            }
+          ]
+        }
+      ],
+      "hasCustomNormals": true,
+      "dimensions": [
+        0.5599994659423828,
+        0.03000020980834961,
+        0.9000000953674316
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "Espejo baño pileta",
+      "modifiers": [],
+      "evaluated_faces": [
+        {
+          "index": 24,
+          "area": 0.20072337985038757,
+          "vertexCount": 3,
+          "geometric_normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "corners": [
+            [
+              -0.4939456582069397,
+              0.8693594336509705,
+              0.01523224450647831
+            ],
+            [
+              0.20922458171844482,
+              0.8843943476676941,
+              0.41721898317337036
+            ],
+            [
+              -0.4895288944244385,
+              0.8718268275260925,
+              -0.01672002673149109
+            ]
+          ],
+          "cornerDeviationDegrees": [
+            29.615720731742798,
+            27.822919018019512,
+            29.328378088454947
+          ],
+          "smooth": true,
+          "vertices": [
+            [
+              21.220500946044922,
+              -10.170000076293945,
+              1.254939079284668
+            ],
+            [
+              20.769498825073242,
+              -10.170000076293945,
+              1.254939079284668
+            ],
+            [
+              21.220500946044922,
+              -10.170000076293945,
+              2.1450607776641846
+            ]
+          ]
+        },
+        {
+          "index": 25,
+          "area": 0.20072337985038757,
+          "vertexCount": 3,
+          "geometric_normal": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "corners": [
+            [
+              -0.4895288944244385,
+              0.8718268275260925,
+              -0.01672002673149109
+            ],
+            [
+              0.20922458171844482,
+              0.8843943476676941,
+              0.41721898317337036
+            ],
+            [
+              0.21032503247261047,
+              0.8826979994773865,
+              -0.42024704813957214
+            ]
+          ],
+          "cornerDeviationDegrees": [
+            29.328378088454947,
+            27.822919018019512,
+            28.030445778213885
+          ],
+          "smooth": true,
+          "vertices": [
+            [
+              21.220500946044922,
+              -10.170000076293945,
+              2.1450607776641846
+            ],
+            [
+              20.769498825073242,
+              -10.170000076293945,
+              1.254939079284668
+            ],
+            [
+              20.769498825073242,
+              -10.170000076293945,
+              2.1450607776641846
+            ]
+          ]
+        },
+        {
+          "index": 74,
+          "area": 0.20072337985038757,
+          "vertexCount": 3,
+          "geometric_normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "corners": [
+            [
+              0.04281681030988693,
+              -0.85696941614151,
+              0.5135857462882996
+            ],
+            [
+              -0.385621577501297,
+              -0.8880152106285095,
+              -0.2504497170448303
+            ],
+            [
+              -0.040946993976831436,
+              -0.8597060441970825,
+              0.5091452598571777
+            ]
+          ],
+          "cornerDeviationDegrees": [
+            31.022012285618818,
+            27.375118155655134,
+            30.716405716490353
+          ],
+          "smooth": true,
+          "vertices": [
+            [
+              21.220500946044922,
+              -10.199999809265137,
+              1.254939079284668
+            ],
+            [
+              21.220500946044922,
+              -10.199999809265137,
+              2.1450607776641846
+            ],
+            [
+              20.769498825073242,
+              -10.199999809265137,
+              1.254939079284668
+            ]
+          ]
+        },
+        {
+          "index": 75,
+          "area": 0.20072337985038757,
+          "vertexCount": 3,
+          "geometric_normal": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "corners": [
+            [
+              -0.385621577501297,
+              -0.8880152106285095,
+              -0.2504497170448303
+            ],
+            [
+              0.3885815739631653,
+              -0.8863798379898071,
+              -0.2516646385192871
+            ],
+            [
+              -0.040946993976831436,
+              -0.8597060441970825,
+              0.5091452598571777
+            ]
+          ],
+          "cornerDeviationDegrees": [
+            27.375118155655134,
+            27.578193340057954,
+            30.716405716490353
+          ],
+          "smooth": true,
+          "vertices": [
+            [
+              21.220500946044922,
+              -10.199999809265137,
+              2.1450607776641846
+            ],
+            [
+              20.769498825073242,
+              -10.199999809265137,
+              2.1450607776641846
+            ],
+            [
+              20.769498825073242,
+              -10.199999809265137,
+              1.254939079284668
+            ]
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "name": "Espejo con respaldo opaco | mirror",
+          "nodes": [
+            {
+              "name": "Material Output",
+              "type": "OUTPUT_MATERIAL",
+              "inputs": {
+                "Surface": [
+                  "Principled BSDF.BSDF"
+                ],
+                "Displacement": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "Thickness": 0.0
+              }
+            },
+            {
+              "name": "Principled BSDF",
+              "type": "BSDF_PRINCIPLED",
+              "inputs": {
+                "Base Color": [
+                  0.9100000262260437,
+                  0.9399999976158142,
+                  0.949999988079071,
+                  1.0
+                ],
+                "Metallic": 1.0,
+                "Roughness": 0.02500000037252903,
+                "IOR": 1.5199999809265137,
+                "Alpha": 1.0,
+                "Thin Wall": false,
+                "Normal": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "Weight": 0.0,
+                "Diffuse Roughness": 0.0,
+                "Subsurface Weight": 0.0,
+                "Subsurface Radius": [
+                  1.0,
+                  0.20000000298023224,
+                  0.10000000149011612
+                ],
+                "Subsurface Scale": 0.004999999888241291,
+                "Subsurface IOR": 1.399999976158142,
+                "Subsurface Anisotropy": 0.0,
+                "Specular IOR Level": 0.5,
+                "Specular Tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  1.0
+                ],
+                "Anisotropic": 0.0,
+                "Anisotropic Rotation": 0.0,
+                "Tangent": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "Transmission Weight": 0.0,
+                "Coat Weight": 0.0,
+                "Coat Roughness": 0.2800000011920929,
+                "Coat IOR": 1.5,
+                "Coat Tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  1.0
+                ],
+                "Coat Normal": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "Sheen Weight": 0.0,
+                "Sheen Roughness": 0.5,
+                "Sheen Tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  1.0
+                ],
+                "Emission Color": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  1.0
+                ],
+                "Emission Strength": 0.0,
+                "Thin Film Thickness": 0.0,
+                "Thin Film IOR": 1.3300000429153442
+              }
+            }
+          ]
+        }
+      ],
+      "hasCustomNormals": true,
+      "dimensions": [
+        0.46000099182128906,
+        0.029999732971191406,
+        0.9000000953674316
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "Espejo baño suite",
+      "modifiers": [],
+      "evaluated_faces": [
+        {
+          "index": 24,
+          "area": 0.3622105121612549,
+          "vertexCount": 3,
+          "geometric_normal": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "corners": [
+            [
+              -0.8542128801345825,
+              -0.5190931558609009,
+              -0.02937239408493042
+            ],
+            [
+              -0.8794537782669067,
+              0.22214645147323608,
+              0.4209657311439514
+            ],
+            [
+              -0.8564831018447876,
+              -0.5154475569725037,
+              0.027395885437726974
+            ]
+          ],
+          "cornerDeviationDegrees": [
+            31.327120250937874,
+            28.423463400792883,
+            31.076028836669863
+          ],
+          "smooth": true,
+          "vertices": [
+            [
+              19.496999740600586,
+              -6.364500045776367,
+              4.234499931335449
+            ],
+            [
+              19.496999740600586,
+              -7.0954999923706055,
+              4.234499931335449
+            ],
+            [
+              19.496999740600586,
+              -6.364500045776367,
+              5.225500106811523
+            ]
+          ]
+        },
+        {
+          "index": 25,
+          "area": 0.3622105121612549,
+          "vertexCount": 3,
+          "geometric_normal": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "corners": [
+            [
+              -0.8564831018447876,
+              -0.5154475569725037,
+              0.027395885437726974
+            ],
+            [
+              -0.8794537782669067,
+              0.22214645147323608,
+              0.4209657311439514
+            ],
+            [
+              -0.8781919479370117,
+              0.22271469235420227,
+              -0.4232930839061737
+            ]
+          ],
+          "cornerDeviationDegrees": [
+            31.076028836669863,
+            28.423463400792883,
+            28.574977487151276
+          ],
+          "smooth": true,
+          "vertices": [
+            [
+              19.496999740600586,
+              -6.364500045776367,
+              5.225500106811523
+            ],
+            [
+              19.496999740600586,
+              -7.0954999923706055,
+              4.234499931335449
+            ],
+            [
+              19.496999740600586,
+              -7.0954999923706055,
+              5.225500106811523
+            ]
+          ]
+        },
+        {
+          "index": 74,
+          "area": 0.3622105121612549,
+          "vertexCount": 3,
+          "geometric_normal": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "corners": [
+            [
+              0.8518020510673523,
+              0.04768029972910881,
+              0.5216895341873169
+            ],
+            [
+              0.8800226449966431,
+              -0.41371065378189087,
+              -0.23324576020240784
+            ],
+            [
+              0.8541773557662964,
+              -0.04550935700535774,
+              0.5179865956306458
+            ]
+          ],
+          "cornerDeviationDegrees": [
+            31.591793496370453,
+            28.35490537699888,
+            31.33103394933229
+          ],
+          "smooth": true,
+          "vertices": [
+            [
+              19.52699851989746,
+              -6.364500045776367,
+              4.234499931335449
+            ],
+            [
+              19.52699851989746,
+              -6.364500045776367,
+              5.225500106811523
+            ],
+            [
+              19.52699851989746,
+              -7.0954999923706055,
+              4.234499931335449
+            ]
+          ]
+        },
+        {
+          "index": 75,
+          "area": 0.3622105121612549,
+          "vertexCount": 3,
+          "geometric_normal": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "corners": [
+            [
+              0.8800226449966431,
+              -0.41371065378189087,
+              -0.23324576020240784
+            ],
+            [
+              0.878791332244873,
+              0.41587454080581665,
+              -0.23403902351856232
+            ],
+            [
+              0.8541773557662964,
+              -0.04550935700535774,
+              0.5179865956306458
+            ]
+          ],
+          "cornerDeviationDegrees": [
+            28.35490537699888,
+            28.50310340651523,
+            31.33103394933229
+          ],
+          "smooth": true,
+          "vertices": [
+            [
+              19.52699851989746,
+              -6.364500045776367,
+              5.225500106811523
+            ],
+            [
+              19.52699851989746,
+              -7.0954999923706055,
+              5.225500106811523
+            ],
+            [
+              19.52699851989746,
+              -7.0954999923706055,
+              4.234499931335449
+            ]
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "name": "Espejo con respaldo opaco | mirror",
+          "nodes": [
+            {
+              "name": "Material Output",
+              "type": "OUTPUT_MATERIAL",
+              "inputs": {
+                "Surface": [
+                  "Principled BSDF.BSDF"
+                ],
+                "Displacement": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "Thickness": 0.0
+              }
+            },
+            {
+              "name": "Principled BSDF",
+              "type": "BSDF_PRINCIPLED",
+              "inputs": {
+                "Base Color": [
+                  0.9100000262260437,
+                  0.9399999976158142,
+                  0.949999988079071,
+                  1.0
+                ],
+                "Metallic": 1.0,
+                "Roughness": 0.02500000037252903,
+                "IOR": 1.5199999809265137,
+                "Alpha": 1.0,
+                "Thin Wall": false,
+                "Normal": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "Weight": 0.0,
+                "Diffuse Roughness": 0.0,
+                "Subsurface Weight": 0.0,
+                "Subsurface Radius": [
+                  1.0,
+                  0.20000000298023224,
+                  0.10000000149011612
+                ],
+                "Subsurface Scale": 0.004999999888241291,
+                "Subsurface IOR": 1.399999976158142,
+                "Subsurface Anisotropy": 0.0,
+                "Specular IOR Level": 0.5,
+                "Specular Tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  1.0
+                ],
+                "Anisotropic": 0.0,
+                "Anisotropic Rotation": 0.0,
+                "Tangent": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "Transmission Weight": 0.0,
+                "Coat Weight": 0.0,
+                "Coat Roughness": 0.2800000011920929,
+                "Coat IOR": 1.5,
+                "Coat Tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  1.0
+                ],
+                "Coat Normal": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "Sheen Weight": 0.0,
+                "Sheen Roughness": 0.5,
+                "Sheen Tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  1.0
+                ],
+                "Emission Color": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  1.0
+                ],
+                "Emission Strength": 0.0,
+                "Thin Film Thickness": 0.0,
+                "Thin Film IOR": 1.3300000429153442
+              }
+            }
+          ]
+        }
+      ],
+      "hasCustomNormals": true,
+      "dimensions": [
+        0.029999999329447746,
+        0.7400000095367432,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "cameras": [
+    {
+      "name": "CAM | Baño de pileta",
+      "location": [
+        21.200000762939453,
+        -13.25,
+        1.8200000524520874
+      ],
+      "lens": 22.0
+    },
+    {
+      "name": "CAM | Quincho",
+      "location": [
+        16.200000762939453,
+        -11.300000190734863,
+        1.8600000143051147
+      ],
+      "lens": 22.0
+    },
+    {
+      "name": "CAM | Baño suite",
+      "location": [
+        20.059999465942383,
+        -8.430000305175781,
+        4.880000114440918
+      ],
+      "lens": 18.0
+    },
+    {
+      "name": "REV | Baño completo",
+      "location": [
+        19.84000015258789,
+        -8.550000190734863,
+        4.900000095367432
+      ],
+      "lens": 18.0
+    },
+    {
+      "name": "REV | Baño desde acceso",
+      "location": [
+        19.68000030517578,
+        -7.429999828338623,
+        4.900000095367432
+      ],
+      "lens": 18.0
+    },
+    {
+      "name": "REV | Quincho y extracción",
+      "location": [
+        15.0,
+        -11.399999618530273,
+        1.9199999570846558
+      ],
+      "lens": 23.0
+    },
+    {
+      "name": "REV | Baño acceso comedor",
+      "location": [
+        19.920000076293945,
+        -10.0,
+        4.920000076293945
+      ],
+      "lens": 25.0
+    },
+    {
+      "name": "REV | Baño mono",
+      "location": [
+        19.520000457763672,
+        -1.7000000476837158,
+        1.649999976158142
+      ],
+      "lens": 18.0
+    },
+    {
+      "name": "REV | Baño quincho",
+      "location": [
+        21.229999542236328,
+        -11.5,
+        1.7999999523162842
+      ],
+      "lens": 22.0
+    },
+    {
+      "name": "REV | Baño mono sanitarios",
+      "location": [
+        20.6200008392334,
+        -0.8899999856948853,
+        1.7999999523162842
+      ],
+      "lens": 22.0
+    },
+    {
+      "name": "LUZ99 | Quincho amplitud",
+      "location": [
+        13.130000114440918,
+        -11.220000267028809,
+        1.690000057220459
+      ],
+      "lens": 28.0
+    },
+    {
+      "name": "LUZ99 | Bano suite humano",
+      "location": [
+        19.770000457763672,
+        -8.34000015258789,
+        4.75
+      ],
+      "lens": 20.0
+    },
+    {
+      "name": "LUZ99 | Bano PB desde puerta",
+      "location": [
+        18.81999969482422,
+        -0.8199999928474426,
+        1.649999976158142
+      ],
+      "lens": 20.0
+    }
+  ],
+  "reflectionSamples": [
+    {
+      "mirror": "Espejo baño pileta",
+      "camera": "REV | Baño quincho",
+      "face": 74,
+      "barycentric": [
+        0.3333333333333333,
+        0.3333333333333333,
+        0.3333333333333333
+      ],
+      "normalDeviationDegrees": 18.31887471248685,
+      "reflectedRayDeviationDegrees": 35.945359488431166,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "Puerta baño quincho",
+          "position": [
+            20.861461639404297,
+            -11.897500038146973,
+            1.227353572845459
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Baño quincho muro lateral",
+          "position": [
+            20.700000762939453,
+            -11.00940990447998,
+            1.8895334005355835
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño pileta",
+      "camera": "REV | Baño quincho",
+      "face": 74,
+      "barycentric": [
+        0.8,
+        0.1,
+        0.1
+      ],
+      "normalDeviationDegrees": 26.917987254884522,
+      "reflectedRayDeviationDegrees": 53.774513052522686,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "Puerta baño quincho",
+          "position": [
+            21.10410499572754,
+            -11.897500038146973,
+            0.7484561800956726
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Baño quincho muro posterior dintel",
+          "position": [
+            21.062780380249023,
+            -11.829999923706055,
+            2.4643256664276123
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño pileta",
+      "camera": "REV | Baño quincho",
+      "face": 74,
+      "barycentric": [
+        0.1,
+        0.8,
+        0.1
+      ],
+      "normalDeviationDegrees": 20.142480579366893,
+      "reflectedRayDeviationDegrees": 39.906360357945395,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "Puerta baño quincho",
+          "position": [
+            21.104103088378906,
+            -11.897500038146973,
+            2.185147523880005
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Baño quincho muro lateral",
+          "position": [
+            20.700000762939453,
+            -10.750715255737305,
+            1.9182910919189453
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño pileta",
+      "camera": "REV | Baño quincho",
+      "face": 74,
+      "barycentric": [
+        0.1,
+        0.1,
+        0.8
+      ],
+      "normalDeviationDegrees": 26.97023990958241,
+      "reflectedRayDeviationDegrees": 51.17191386551893,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "Baño quincho muro lateral",
+          "position": [
+            20.700000762939453,
+            -10.760649681091309,
+            1.1472716331481934
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Baño quincho muro lateral",
+          "position": [
+            20.700000762939453,
+            -10.51150894165039,
+            1.5574359893798828
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño pileta",
+      "camera": "REV | Baño quincho",
+      "face": 74,
+      "barycentric": [
+        0.45,
+        0.45,
+        0.1
+      ],
+      "normalDeviationDegrees": 14.901490306561227,
+      "reflectedRayDeviationDegrees": 29.631686298927704,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "Puerta baño quincho",
+          "position": [
+            21.104103088378906,
+            -11.897500038146973,
+            1.4668021202087402
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Baño quincho muro lateral",
+          "position": [
+            20.700000762939453,
+            -11.300178527832031,
+            1.9717249870300293
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño pileta",
+      "camera": "REV | Baño quincho",
+      "face": 74,
+      "barycentric": [
+        0.1,
+        0.45,
+        0.45
+      ],
+      "normalDeviationDegrees": 16.09953622283273,
+      "reflectedRayDeviationDegrees": 31.608827988160463,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "Baño quincho muro posterior paño A",
+          "position": [
+            20.751169204711914,
+            -11.829999923706055,
+            1.474305272102356
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Baño quincho muro lateral",
+          "position": [
+            20.700000762939453,
+            -10.669421195983887,
+            1.792235016822815
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño pileta",
+      "camera": "REV | Baño quincho",
+      "face": 74,
+      "barycentric": [
+        0.45,
+        0.1,
+        0.45
+      ],
+      "normalDeviationDegrees": 26.892087177551833,
+      "reflectedRayDeviationDegrees": 52.83597334357665,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "Baño quincho muro posterior paño A",
+          "position": [
+            20.751169204711914,
+            -11.829999923706055,
+            0.7721365690231323
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Baño quincho muro lateral",
+          "position": [
+            20.700000762939453,
+            -11.316752433776855,
+            2.10844087600708
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño pileta",
+      "camera": "REV | Baño quincho",
+      "face": 75,
+      "barycentric": [
+        0.3333333333333333,
+        0.3333333333333333,
+        0.3333333333333333
+      ],
+      "normalDeviationDegrees": 0.8402332231088667,
+      "reflectedRayDeviationDegrees": 1.680511589499279,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "Baño quincho muro lateral",
+          "position": [
+            20.700000762939453,
+            -11.121390342712402,
+            1.882624864578247
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Baño quincho muro lateral",
+          "position": [
+            20.700000762939453,
+            -11.016179084777832,
+            1.883314609527588
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño pileta",
+      "camera": "REV | Baño quincho",
+      "face": 75,
+      "barycentric": [
+        0.8,
+        0.1,
+        0.1
+      ],
+      "normalDeviationDegrees": 20.146348173984414,
+      "reflectedRayDeviationDegrees": 39.42017724754013,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "Puerta baño quincho marco superior",
+          "position": [
+            20.994426727294922,
+            -11.971681594848633,
+            2.4049999713897705
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Baño quincho muro lateral",
+          "position": [
+            20.700000762939453,
+            -10.739063262939453,
+            1.949463963508606
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño pileta",
+      "camera": "REV | Baño quincho",
+      "face": 75,
+      "barycentric": [
+        0.1,
+        0.8,
+        0.1
+      ],
+      "normalDeviationDegrees": 19.931239903811324,
+      "reflectedRayDeviationDegrees": 39.86062541126299,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "Baño quincho muro lateral",
+          "position": [
+            20.700000762939453,
+            -10.558636665344238,
+            2.126685857772827
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Puerta baño quincho",
+          "position": [
+            21.302595138549805,
+            -11.897500038146973,
+            1.7164535522460938
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño pileta",
+      "camera": "REV | Baño quincho",
+      "face": 75,
+      "barycentric": [
+        0.1,
+        0.1,
+        0.8
+      ],
+      "normalDeviationDegrees": 22.511183353338144,
+      "reflectedRayDeviationDegrees": 42.595549268151984,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "Baño quincho muro lateral",
+          "position": [
+            20.700000762939453,
+            -10.558633804321289,
+            1.331708312034607
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Baño quincho muro lateral",
+          "position": [
+            20.700000762939453,
+            -10.459945678710938,
+            1.578545093536377
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño pileta",
+      "camera": "REV | Baño quincho",
+      "face": 75,
+      "barycentric": [
+        0.45,
+        0.45,
+        0.1
+      ],
+      "normalDeviationDegrees": 11.1958411818098,
+      "reflectedRayDeviationDegrees": 21.961923445947814,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "Baño quincho muro lateral",
+          "position": [
+            20.700000762939453,
+            -11.575212478637695,
+            2.326911211013794
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Baño quincho muro lateral",
+          "position": [
+            20.700000762939453,
+            -11.531106948852539,
+            1.7913556098937988
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño pileta",
+      "camera": "REV | Baño quincho",
+      "face": 75,
+      "barycentric": [
+        0.1,
+        0.45,
+        0.45
+      ],
+      "normalDeviationDegrees": 9.656467660824314,
+      "reflectedRayDeviationDegrees": 19.082081757891366,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "Baño quincho muro lateral",
+          "position": [
+            20.700000762939453,
+            -10.558631896972656,
+            1.7291967868804932
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Baño quincho muro posterior paño A",
+          "position": [
+            20.743623733520508,
+            -11.829999923706055,
+            2.010007619857788
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño pileta",
+      "camera": "REV | Baño quincho",
+      "face": 75,
+      "barycentric": [
+        0.45,
+        0.1,
+        0.45
+      ],
+      "normalDeviationDegrees": 11.511512888453927,
+      "reflectedRayDeviationDegrees": 22.80833756336872,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "Baño quincho muro lateral",
+          "position": [
+            20.700000762939453,
+            -11.575211524963379,
+            1.6858012676239014
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Baño quincho muro lateral",
+          "position": [
+            20.700000762939453,
+            -10.648428916931152,
+            1.8232859373092651
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño suite",
+      "camera": "LUZ99 | Bano suite humano",
+      "face": 74,
+      "barycentric": [
+        0.3333333333333333,
+        0.3333333333333333,
+        0.3333333333333333
+      ],
+      "normalDeviationDegrees": 19.29536466000877,
+      "reflectedRayDeviationDegrees": 21.280680378130743,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.598302841186523,
+            -6.099999904632568,
+            4.510500907897949
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.780961990356445,
+            -6.099999904632568,
+            4.608588695526123
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño suite",
+      "camera": "LUZ99 | Bano suite humano",
+      "face": 74,
+      "barycentric": [
+        0.8,
+        0.1,
+        0.1
+      ],
+      "normalDeviationDegrees": 27.546427837775518,
+      "reflectedRayDeviationDegrees": 13.832127715573703,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.57012176513672,
+            -6.099999904632568,
+            4.259706020355225
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.617420196533203,
+            -6.099999904632568,
+            4.329166412353516
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño suite",
+      "camera": "LUZ99 | Bano suite humano",
+      "face": 74,
+      "barycentric": [
+        0.1,
+        0.8,
+        0.1
+      ],
+      "normalDeviationDegrees": 21.2953362565423,
+      "reflectedRayDeviationDegrees": 42.37082238408023,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.57012176513672,
+            -6.099999904632568,
+            5.076509952545166
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.923904418945312,
+            -6.099999904632568,
+            5.058315277099609
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño suite",
+      "camera": "LUZ99 | Bano suite humano",
+      "face": 74,
+      "barycentric": [
+        0.1,
+        0.1,
+        0.8
+      ],
+      "normalDeviationDegrees": 27.674893450779702,
+      "reflectedRayDeviationDegrees": 24.843074822777613,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.675399780273438,
+            -6.099999904632568,
+            4.0793046951293945
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.95509147644043,
+            -6.100000381469727,
+            4.3672027587890625
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño suite",
+      "camera": "LUZ99 | Bano suite humano",
+      "face": 74,
+      "barycentric": [
+        0.45,
+        0.45,
+        0.1
+      ],
+      "normalDeviationDegrees": 16.01780788677165,
+      "reflectedRayDeviationDegrees": 22.716338330343234,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.57012176513672,
+            -6.099999904632568,
+            4.668107509613037
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.712684631347656,
+            -6.099999904632568,
+            4.71571159362793
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño suite",
+      "camera": "LUZ99 | Bano suite humano",
+      "face": 74,
+      "barycentric": [
+        0.1,
+        0.45,
+        0.45
+      ],
+      "normalDeviationDegrees": 17.365124172259193,
+      "reflectedRayDeviationDegrees": 26.881679676804026,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.614580154418945,
+            -6.099999904632568,
+            4.6553826332092285
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.926856994628906,
+            -6.099999904632568,
+            4.7555646896362305
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño suite",
+      "camera": "LUZ99 | Bano suite humano",
+      "face": 74,
+      "barycentric": [
+        0.45,
+        0.1,
+        0.45
+      ],
+      "normalDeviationDegrees": 27.54821563979077,
+      "reflectedRayDeviationDegrees": 19.04950517064499,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.614582061767578,
+            -6.099999904632568,
+            4.183521270751953
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.74911117553711,
+            -6.099999904632568,
+            4.341812610626221
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño suite",
+      "camera": "LUZ99 | Bano suite humano",
+      "face": 75,
+      "barycentric": [
+        0.3333333333333333,
+        0.3333333333333333,
+        0.3333333333333333
+      ],
+      "normalDeviationDegrees": 1.4623280266523917,
+      "reflectedRayDeviationDegrees": 1.7190804938035773,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.649765014648438,
+            -6.100000381469727,
+            4.968505859375
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.672548294067383,
+            -6.099999904632568,
+            4.9741621017456055
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño suite",
+      "camera": "LUZ99 | Bano suite humano",
+      "face": 75,
+      "barycentric": [
+        0.8,
+        0.1,
+        0.1
+      ],
+      "normalDeviationDegrees": 20.830890223170602,
+      "reflectedRayDeviationDegrees": 39.86728484570375,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.58155632019043,
+            -6.099999904632568,
+            5.210906982421875
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.963924407958984,
+            -6.099999904632568,
+            5.15361213684082
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño suite",
+      "camera": "LUZ99 | Bano suite humano",
+      "face": 75,
+      "barycentric": [
+        0.1,
+        0.8,
+        0.1
+      ],
+      "normalDeviationDegrees": 20.505505133753072,
+      "reflectedRayDeviationDegrees": 29.169299567590766,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.697114944458008,
+            -6.099999904632568,
+            5.389903545379639
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Espejo baño suite",
+          "position": [
+            19.496999740600586,
+            -6.939782619476318,
+            5.153824806213379
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño suite",
+      "camera": "LUZ99 | Bano suite humano",
+      "face": 75,
+      "barycentric": [
+        0.1,
+        0.1,
+        0.8
+      ],
+      "normalDeviationDegrees": 23.266117332110486,
+      "reflectedRayDeviationDegrees": 16.723038578953805,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.697114944458008,
+            -6.099999904632568,
+            4.210570812225342
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.878278732299805,
+            -6.100000381469727,
+            4.4300923347473145
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño suite",
+      "camera": "LUZ99 | Bano suite humano",
+      "face": 75,
+      "barycentric": [
+        0.45,
+        0.45,
+        0.1
+      ],
+      "normalDeviationDegrees": 10.247050212693221,
+      "reflectedRayDeviationDegrees": 5.960753046220671,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.629940032958984,
+            -6.099999904632568,
+            5.28585147857666
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.68475341796875,
+            -6.099999904632568,
+            5.2389607429504395
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño suite",
+      "camera": "LUZ99 | Bano suite humano",
+      "face": 75,
+      "barycentric": [
+        0.1,
+        0.45,
+        0.45
+      ],
+      "normalDeviationDegrees": 10.645271585646121,
+      "reflectedRayDeviationDegrees": 16.790911876283513,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.697114944458008,
+            -6.099999904632568,
+            4.800236701965332
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Espejo baño suite",
+          "position": [
+            19.496999740600586,
+            -6.752405643463135,
+            4.787863731384277
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño suite",
+      "camera": "LUZ99 | Bano suite humano",
+      "face": 75,
+      "barycentric": [
+        0.45,
+        0.1,
+        0.45
+      ],
+      "normalDeviationDegrees": 12.688076152238446,
+      "reflectedRayDeviationDegrees": 21.223122373995047,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.629940032958984,
+            -6.099999904632568,
+            4.792068004608154
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "División estudio vivienda",
+          "position": [
+            19.905176162719727,
+            -6.099999904632568,
+            4.8536248207092285
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño mono",
+      "camera": "REV | Baño mono sanitarios",
+      "face": 8,
+      "barycentric": [
+        0.3333333333333333,
+        0.3333333333333333,
+        0.3333333333333333
+      ],
+      "normalDeviationDegrees": 0.0,
+      "reflectedRayDeviationDegrees": 0.0,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "WET99 | PB ceramica8",
+          "position": [
+            20.6671085357666,
+            -1.8099998235702515,
+            0.916667103767395
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "WET99 | PB ceramica8",
+          "position": [
+            20.6671085357666,
+            -1.8099998235702515,
+            0.916667103767395
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño mono",
+      "camera": "REV | Baño mono sanitarios",
+      "face": 8,
+      "barycentric": [
+        0.8,
+        0.1,
+        0.1
+      ],
+      "normalDeviationDegrees": 0.0,
+      "reflectedRayDeviationDegrees": 0.0,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "Inodoro mono | asiento",
+          "position": [
+            20.008089065551758,
+            -1.1704349517822266,
+            0.6649999022483826
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Inodoro mono | asiento",
+          "position": [
+            20.008089065551758,
+            -1.1704349517822266,
+            0.6649999022483826
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño mono",
+      "camera": "REV | Baño mono sanitarios",
+      "face": 8,
+      "barycentric": [
+        0.1,
+        0.8,
+        0.1
+      ],
+      "normalDeviationDegrees": 0.0,
+      "reflectedRayDeviationDegrees": 0.0,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "Piso baño mono",
+          "position": [
+            21.11773681640625,
+            -1.7639131546020508,
+            0.21000003814697266
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Piso baño mono",
+          "position": [
+            21.11773681640625,
+            -1.7639131546020508,
+            0.21000003814697266
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño mono",
+      "camera": "REV | Baño mono sanitarios",
+      "face": 8,
+      "barycentric": [
+        0.1,
+        0.1,
+        0.8
+      ],
+      "normalDeviationDegrees": 0.0,
+      "reflectedRayDeviationDegrees": 0.0,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "WET99 | PB ceramica8",
+          "position": [
+            21.12879753112793,
+            -1.809999704360962,
+            2.400667190551758
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "WET99 | PB ceramica8",
+          "position": [
+            21.12879753112793,
+            -1.809999704360962,
+            2.400667190551758
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño mono",
+      "camera": "REV | Baño mono sanitarios",
+      "face": 8,
+      "barycentric": [
+        0.45,
+        0.45,
+        0.1
+      ],
+      "normalDeviationDegrees": 0.0,
+      "reflectedRayDeviationDegrees": 0.0,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "Piso baño mono",
+          "position": [
+            20.440261840820312,
+            -1.7639131546020508,
+            0.2099999189376831
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Piso baño mono",
+          "position": [
+            20.440261840820312,
+            -1.7639131546020508,
+            0.2099999189376831
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño mono",
+      "camera": "REV | Baño mono sanitarios",
+      "face": 8,
+      "barycentric": [
+        0.1,
+        0.45,
+        0.45
+      ],
+      "normalDeviationDegrees": 0.0,
+      "reflectedRayDeviationDegrees": 0.0,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "WET99 | PB ceramica8",
+          "position": [
+            21.128799438476562,
+            -1.8100000619888306,
+            1.2876667976379395
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "WET99 | PB ceramica8",
+          "position": [
+            21.128799438476562,
+            -1.8100000619888306,
+            1.2876667976379395
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño mono",
+      "camera": "REV | Baño mono sanitarios",
+      "face": 8,
+      "barycentric": [
+        0.45,
+        0.1,
+        0.45
+      ],
+      "normalDeviationDegrees": 0.0,
+      "reflectedRayDeviationDegrees": 0.0,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "Barra toalla baño mono",
+          "position": [
+            20.443195343017578,
+            -1.7299994230270386,
+            1.3070001602172852
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "Barra toalla baño mono",
+          "position": [
+            20.443195343017578,
+            -1.7299994230270386,
+            1.3070001602172852
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño mono",
+      "camera": "REV | Baño mono sanitarios",
+      "face": 9,
+      "barycentric": [
+        0.3333333333333333,
+        0.3333333333333333,
+        0.3333333333333333
+      ],
+      "normalDeviationDegrees": 0.0,
+      "reflectedRayDeviationDegrees": 0.0,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "WET99 | PB ceramica8",
+          "position": [
+            20.007553100585938,
+            -1.809999942779541,
+            1.9766672849655151
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "WET99 | PB ceramica8",
+          "position": [
+            20.007553100585938,
+            -1.809999942779541,
+            1.9766672849655151
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño mono",
+      "camera": "REV | Baño mono sanitarios",
+      "face": 9,
+      "barycentric": [
+        0.8,
+        0.1,
+        0.1
+      ],
+      "normalDeviationDegrees": 0.0,
+      "reflectedRayDeviationDegrees": 0.0,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "WET99 | PB ceramica8",
+          "position": [
+            19.54587173461914,
+            -1.809999942779541,
+            0.492667019367218
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "WET99 | PB ceramica8",
+          "position": [
+            19.54587173461914,
+            -1.809999942779541,
+            0.492667019367218
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño mono",
+      "camera": "REV | Baño mono sanitarios",
+      "face": 9,
+      "barycentric": [
+        0.1,
+        0.8,
+        0.1
+      ],
+      "normalDeviationDegrees": 0.0,
+      "reflectedRayDeviationDegrees": 0.0,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "LAY99 | baño mono posterior",
+          "position": [
+            20.930931091308594,
+            -1.809999942779541,
+            2.7186672687530518
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "LAY99 | baño mono posterior",
+          "position": [
+            20.930931091308594,
+            -1.809999942779541,
+            2.7186672687530518
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño mono",
+      "camera": "REV | Baño mono sanitarios",
+      "face": 9,
+      "barycentric": [
+        0.1,
+        0.1,
+        0.8
+      ],
+      "normalDeviationDegrees": 0.0,
+      "reflectedRayDeviationDegrees": 0.0,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "LAY99 | baño mono posterior",
+          "position": [
+            19.54586410522461,
+            -1.8099998235702515,
+            2.7186672687530518
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "LAY99 | baño mono posterior",
+          "position": [
+            19.54586410522461,
+            -1.8099998235702515,
+            2.7186672687530518
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño mono",
+      "camera": "REV | Baño mono sanitarios",
+      "face": 9,
+      "barycentric": [
+        0.45,
+        0.45,
+        0.1
+      ],
+      "normalDeviationDegrees": 0.0,
+      "reflectedRayDeviationDegrees": 0.0,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "WET99 | PB ceramica8",
+          "position": [
+            20.238401412963867,
+            -1.8099998235702515,
+            1.6056667566299438
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "WET99 | PB ceramica8",
+          "position": [
+            20.238401412963867,
+            -1.8099998235702515,
+            1.6056667566299438
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño mono",
+      "camera": "REV | Baño mono sanitarios",
+      "face": 9,
+      "barycentric": [
+        0.1,
+        0.45,
+        0.45
+      ],
+      "normalDeviationDegrees": 0.0,
+      "reflectedRayDeviationDegrees": 0.0,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "LAY99 | baño mono posterior",
+          "position": [
+            20.238393783569336,
+            -1.809999942779541,
+            2.7186665534973145
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "LAY99 | baño mono posterior",
+          "position": [
+            20.238393783569336,
+            -1.809999942779541,
+            2.7186665534973145
+          ]
+        }
+      }
+    },
+    {
+      "mirror": "Espejo baño mono",
+      "camera": "REV | Baño mono sanitarios",
+      "face": 9,
+      "barycentric": [
+        0.45,
+        0.1,
+        0.45
+      ],
+      "normalDeviationDegrees": 0.0,
+      "reflectedRayDeviationDegrees": 0.0,
+      "targets": {
+        "plane": {
+          "hit": true,
+          "object": "WET99 | PB ceramica8",
+          "position": [
+            19.54585838317871,
+            -1.8099998235702515,
+            1.605667233467102
+          ]
+        },
+        "interpolatedNormal": {
+          "hit": true,
+          "object": "WET99 | PB ceramica8",
+          "position": [
+            19.54585838317871,
+            -1.8099998235702515,
+            1.605667233467102
+          ]
+        }
+      }
+    }
+  ],
+  "scope": "Ideal first-bounce reflection direction using geometric face normal compared with the interpolated custom corner normal; material roughness not sampled. This is not a substitute render or proof that all reflected wall UVs are correct."
+}

@@ -1,0 +1,304 @@
+{
+  "model_sha256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "review_status": "EN REVISION / SIN APROBACION 9,9",
+  "combined": {
+    "consistent_model_sha": true,
+    "general_validation_pass": true,
+    "detail_validation_pass": true,
+    "pages": 33,
+    "general_pages": 21,
+    "detail_pages": 12,
+    "vector_only": true,
+    "a2_all_pages": true,
+    "native_dxf_dimensions": 209,
+    "dxf_files": 33,
+    "svg_files": 33,
+    "anchor_evidence_matches": true,
+    "minimum_font_mm": 2.5
+  },
+  "general": {
+    "pages": 21,
+    "page_sizes_mm": [
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ],
+      [
+        594.0,
+        420.0
+      ]
+    ],
+    "raster_images": 0,
+    "text_characters": [
+      2495,
+      1327,
+      1804,
+      1616,
+      1905,
+      1613,
+      1031,
+      1022,
+      1074,
+      1393,
+      1245,
+      943,
+      1649,
+      1715,
+      1593,
+      2675,
+      1544,
+      1543,
+      1574,
+      2022,
+      2755
+    ],
+    "vector_drawings": [
+      23,
+      153,
+      1425,
+      2341,
+      1313,
+      1037,
+      9613,
+      8529,
+      2145,
+      1752,
+      127,
+      1006,
+      593,
+      883,
+      861,
+      76,
+      59,
+      100,
+      437,
+      30,
+      19
+    ],
+    "dxf": [
+      {
+        "file": "A00.dxf",
+        "units": 6,
+        "entities": 0,
+        "errors": 0
+      },
+      {
+        "file": "A01.dxf",
+        "units": 6,
+        "entities": 83,
+        "errors": 0
+      },
+      {
+        "file": "A02.dxf",
+        "units": 6,
+        "entities": 1121,
+        "errors": 0
+      },
+      {
+        "file": "A03.dxf",
+        "units": 6,
+        "entities": 1765,
+        "errors": 0
+      },
+      {
+        "file": "A03b.dxf",
+        "units": 6,
+        "entities": 1024,
+        "errors": 0
+      },
+      {
+        "file": "A04.dxf",
+        "units": 6,
+        "entities": 572,
+        "errors": 0
+      },
+      {
+        "file": "A05a.dxf",
+        "units": 6,
+        "entities": 5836,
+        "errors": 0
+      },
+      {
+        "file": "A05b.dxf",
+        "units": 6,
+        "entities": 5090,
+        "errors": 0
+      },
+      {
+        "file": "A06.dxf",
+        "units": 6,
+        "entities": 2087,
+        "errors": 0
+      },
+      {
+        "file": "A07.dxf",
+        "units": 6,
+        "entities": 1446,
+        "errors": 0
+      },
+      {
+        "file": "A08.dxf",
+        "units": 6,
+        "entities": 86,
+        "errors": 0
+      },
+      {
+        "file": "A09.dxf",
+        "units": 6,
+        "entities": 704,
+        "errors": 0
+      },
+      {
+        "file": "A10.dxf",
+        "units": 6,
+        "entities": 409,
+        "errors": 0
+      },
+      {
+        "file": "A10b.dxf",
+        "units": 6,
+        "entities": 732,
+        "errors": 0
+      },
+      {
+        "file": "A11.dxf",
+        "units": 6,
+        "entities": 700,
+        "errors": 0
+      },
+      {
+        "file": "A12.dxf",
+        "units": 6,
+        "entities": 46,
+        "errors": 0
+      },
+      {
+        "file": "A13.dxf",
+        "units": 6,
+        "entities": 43,
+        "errors": 0
+      },
+      {
+        "file": "A13b.dxf",
+        "units": 6,
+        "entities": 91,
+        "errors": 0
+      },
+      {
+        "file": "A14.dxf",
+        "units": 6,
+        "entities": 419,
+        "errors": 0
+      },
+      {
+        "file": "A15.dxf",
+        "units": 6,
+        "entities": 27,
+        "errors": 0
+      },
+      {
+        "file": "A16.dxf",
+        "units": 6,
+        "entities": 0,
+        "errors": 0
+      }
+    ],
+    "minimum_font_mm": 2.5,
+    "dimension_count": 111
+  },
+  "details": {
+    "pages": 12,
+    "dimensions": 98,
+    "native_dxf_dimensions": 98,
+    "raster_images": 0,
+    "paths": 58556,
+    "text_outside_frame": [],
+    "minimum_font_mm": 2.5,
+    "dxf_errors": [],
+    "svg_size_errors": [],
+    "model_sha256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+    "dv_h_gap_mm": 16.999244689941406,
+    "anchor_count": 68,
+    "anchor_evidence_matches": true,
+    "limitations": [
+      "Proposals not incorporated into the model by this script",
+      "No performance, load, code or statutory certification"
+    ]
+  }
+}

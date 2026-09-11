@@ -29,7 +29,7 @@ for sh in m['sheets']:
 check('DXF opens with metre units and no audit errors',not dxerrors,dxerrors);check('Native CAD dimensions match drawing register',dimcount==len(measure['dimensions']),dimcount);check('SVG sheets physically sized A2',not svgerrors,svgerrors)
 by={o['name']:o for o in geo['objects']};floor=by['Losa planta baja'];check('House footprint preserves 8 x 12 m',abs(floor['hi'][0]-floor['lo'][0]-8)<.001 and abs(floor['hi'][1]-floor['lo'][1]-12)<.001,[floor['hi'][0]-floor['lo'][0],floor['hi'][1]-floor['lo'][1]])
 steps=[o for o in geo['objects'] if o['name'].startswith('Peldaño exterior ') and o['name'].split(' ')[-1].isdigit()];check('18 source treads retained',len(steps)==18,len(steps))
-report={'status':'PASS' if all(c['pass'] for c in checks) else 'FAIL','model':m['model'],'model_sha256':m['model_sha256'],'checks':checks,'not_checked':['Municipal approval or code compliance','Engineering capacity or system performance','Independent 9.5 photographic approval'],'visual_review':'All sheets rendered; representative full-size sheets and complete contact sheet reviewed by author'}
+report={'status':'PASS' if all(c['pass'] for c in checks) else 'FAIL','model':m['model'],'model_sha256':m['model_sha256'],'checks':checks,'not_checked':['Municipal approval or code compliance','Engineering capacity or system performance','Independent 9.9 photographic approval'],'visual_review':'All sheets rendered; representative full-size sheets and complete contact sheet reviewed by author'}
 (out/'print_validation.json').write_text(json.dumps(report,indent=2,ensure_ascii=False),encoding='utf8')
 zipname=out/'Casa_de_Campo_Planos_Editables.zip'
 with zipfile.ZipFile(zipname,'w',zipfile.ZIP_DEFLATED,compresslevel=8) as z:

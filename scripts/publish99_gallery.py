@@ -14,7 +14,8 @@ code=(ROOT/'scripts/publish95_gallery.py').read_text(encoding='utf-8-sig')
 code=code.replace("src=ROOT/'review95/r6k_stills';out=ROOT/'docs/renders'",'src=SOURCE_DIR;out=DEST_DIR')
 code=code.replace("assert len(r['images'])==19","assert len(r['images'])==25")
 code=code.replace("r['source_model']","Path(r['source']).name").replace("r['source_sha256']","r['sourceSHA256']")
-code=code.replace('R6K','R7').replace('19 imágenes','25 imágenes').replace('9,5','9,9').replace('Fotografías del modelo','Imágenes del modelo')
-# The gallery may be reviewed before it replaces the public R6K bundle.
-code=code.replace('<p>Imágenes calculadas desde el modelo arquitectónico R7.','<p>Imágenes calculadas desde el modelo arquitectónico R7 en revisión. La nota integral y el hiperrealismo fotográfico exigido siguen pendientes. El visor principal y los planos indican su propia revisión. ')
+code=code.replace('R6K','R7D').replace('19 imágenes','25 imágenes').replace('9,5','9,9').replace('Fotografías del modelo','Imágenes del modelo')
+code=code.replace('../planos/','../planos99/')
+# The gallery is published separately from the retained R6K bundle.
+code=code.replace('<p>Imágenes calculadas desde el modelo arquitectónico R7D.','<p>Imágenes calculadas desde el modelo arquitectónico R7D en revisión. La nota integral y el hiperrealismo fotográfico exigido siguen pendientes. El visor principal y los planos indican su propia revisión. ')
 exec(compile(code,str(ROOT/'scripts/publish95_gallery.py'),'exec'),dict(__file__=str(ROOT/'scripts/publish95_gallery.py'),__name__='__main__',SOURCE_DIR=src,DEST_DIR=out))

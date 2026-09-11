@@ -1,0 +1,106 @@
+{
+  "revision": "R7D",
+  "date": "2026-09-11",
+  "source": "output/Casa_de_Campo_99_R7D.blend",
+  "sourceSHA256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "globalScore": 8.5,
+  "weightedUnrounded": 8.465,
+  "previousRevision": "R6K",
+  "previousScore": 8.3,
+  "target": 9.9,
+  "approved": false,
+  "photorealismApproved": false,
+  "video": "PAUSED_PENDING_EXPLICIT_APPROVAL",
+  "areas": [
+    {
+      "area": "Fidelidad geométrica, escala y alturas",
+      "weightPercent": 15,
+      "score": 9.3,
+      "basis": "Correcciones del propietario incorporadas y cotas principales coherentes; medidas físicas diferenciadas de productos genéricos."
+    },
+    {
+      "area": "Uso, distribución y circulación",
+      "weightPercent": 10,
+      "score": 8.4,
+      "basis": "Accesos y baño PB corregidos; permanecen déficit de reserva en isla y coordinación del puesto MIDI."
+    },
+    {
+      "area": "Estructura representada y apoyos",
+      "weightPercent": 10,
+      "score": 8.7,
+      "basis": "Apoyos de edificio/ventilación mejor documentados; montaje sin apoyo del controlador requiere corrección."
+    },
+    {
+      "area": "Envolvente, encuentros y agua",
+      "weightPercent": 10,
+      "score": 9.1,
+      "basis": "Interferencia de agua corregida y continuidad húmeda representada; especificación y ensayos de prestaciones pendientes."
+    },
+    {
+      "area": "Instalaciones y acústica",
+      "weightPercent": 10,
+      "score": 8.4,
+      "basis": "Ventilación física y maniobra P de mantenimiento coordinadas geométricamente; caudal, acústica y medio auxiliar por resolver."
+    },
+    {
+      "area": "Documentación",
+      "weightPercent": 10,
+      "score": 9.3,
+      "basis": "33 A2 y 209 cotas nativas coherentes; faltan cortes de los usos recién detectados y cierre de propuestas."
+    },
+    {
+      "area": "Realismo de interiores, objetos y textiles",
+      "weightPercent": 15,
+      "score": 7.6,
+      "basis": "Mejor separación de sanitarios y legibilidad; espejos deformantes, textiles rígidos, prendas y equipos genéricos."
+    },
+    {
+      "area": "Realismo exterior y paisaje",
+      "weightPercent": 10,
+      "score": 7.6,
+      "basis": "Agua y lectura del edificio mejoran; rosetas facetadas, repetición del jardín y transición de horizonte poco natural."
+    },
+    {
+      "area": "Luz y composición de cámaras",
+      "weightPercent": 5,
+      "score": 8.2,
+      "basis": "25 vistas con mejores tomas amplias/retratos; ciertos recortes y respuesta óptica/material siguen limitando credibilidad."
+    },
+    {
+      "area": "Visor, correspondencia y experiencia",
+      "weightPercent": 5,
+      "score": 7.4,
+      "basis": "Fuente actual y 13 controles verificados por constructor; raster visible distante de Cycles, GI y convergencia pendientes."
+    }
+  ],
+  "evidence": {
+    "stills": 25,
+    "plansA2": 33,
+    "nativeDimensions": 209,
+    "manifestFilesMatched": 88,
+    "stillsMatched": 25,
+    "ownVerification": "audit/r7d_final/evidence_verification.json",
+    "publicBrowserEvidence": "constructor report and screenshots; no second independent browser session",
+    "gi": "8 regions pending",
+    "sourceReadOnly": true
+  },
+  "blockers": [
+    "SAN99 fixed/moving hinge intersections",
+    "MIDI unsupported mounting and seat/key height coordination",
+    "Island knee reservation depth",
+    "Optical custom normals in quincho/suite mirrors",
+    "Rigid cloth, repetitive garments and generic equipment appearance",
+    "Angular repetitive vegetation and terrain/horizon transition",
+    "Web GI, material/lighting correspondence and photographic convergence unfinished"
+  ],
+  "falseAlarmsResolved": [
+    "No knee cavity below console: cavity exists700mm",
+    "No island overhang: actual250mm",
+    "New bedroom door same custom normals as mirrors: principal faces0deg deviation"
+  ],
+  "nextCyclePasses": [
+    "Construction and seated-use coordination",
+    "Optical normals, material/shape realism and landscape",
+    "Frozen derivatives, lighting/GI, web and publication verification"
+  ]
+}

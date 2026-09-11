@@ -1,0 +1,152 @@
+{
+  "project": "Casa de Campo",
+  "place": "Virrey del Pino, Partido de La Matanza, Buenos Aires",
+  "status": "EN REVISION R7 / SIN APROBACION 9,9",
+  "model": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7D.blend",
+  "model_sha256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "source_sha256": "48e4b0624f62460f5d401f92e9d23f2bfb92911f80b780db6e1d528cf3112980",
+  "created_utc": "2026-09-11T02:41:48.443741+00:00",
+  "pdf": "Casa_de_Campo_Planos_A2.pdf",
+  "paper_mm": [
+    594,
+    420
+  ],
+  "dxf_units": "metres",
+  "sheets": [
+    {
+      "id": "A00",
+      "title": "Indice y criterios",
+      "svg": "A00.svg",
+      "dxf": "A00.dxf"
+    },
+    {
+      "id": "A01",
+      "title": "Implantacion, paisaje y perimetro",
+      "svg": "A01.svg",
+      "dxf": "A01.dxf"
+    },
+    {
+      "id": "A02",
+      "title": "Planta baja",
+      "svg": "A02.svg",
+      "dxf": "A02.dxf"
+    },
+    {
+      "id": "A03",
+      "title": "Planta alta",
+      "svg": "A03.svg",
+      "dxf": "A03.dxf"
+    },
+    {
+      "id": "A03b",
+      "title": "Circulacion y uso en vivienda",
+      "svg": "A03b.svg",
+      "dxf": "A03b.dxf"
+    },
+    {
+      "id": "A04",
+      "title": "Cubiertas y pluviales",
+      "svg": "A04.svg",
+      "dxf": "A04.dxf"
+    },
+    {
+      "id": "A05a",
+      "title": "Fachadas",
+      "svg": "A05a.svg",
+      "dxf": "A05a.dxf"
+    },
+    {
+      "id": "A05b",
+      "title": "Fachadas",
+      "svg": "A05b.svg",
+      "dxf": "A05b.dxf"
+    },
+    {
+      "id": "A06",
+      "title": "Cortes generales",
+      "svg": "A06.svg",
+      "dxf": "A06.dxf"
+    },
+    {
+      "id": "A07",
+      "title": "Escalera, descanso y umbral",
+      "svg": "A07.svg",
+      "dxf": "A07.dxf"
+    },
+    {
+      "id": "A08",
+      "title": "Pileta y borde pavimentado",
+      "svg": "A08.svg",
+      "dxf": "A08.dxf"
+    },
+    {
+      "id": "A09",
+      "title": "Banos: plantas y elevaciones",
+      "svg": "A09.svg",
+      "dxf": "A09.dxf"
+    },
+    {
+      "id": "A10",
+      "title": "Quincho y cocinas",
+      "svg": "A10.svg",
+      "dxf": "A10.dxf"
+    },
+    {
+      "id": "A10b",
+      "title": "Monoambiente: uso y medidas",
+      "svg": "A10b.svg",
+      "dxf": "A10b.dxf"
+    },
+    {
+      "id": "A11",
+      "title": "Estudio y estrategia acustica",
+      "svg": "A11.svg",
+      "dxf": "A11.dxf"
+    },
+    {
+      "id": "A12",
+      "title": "Carpinterias y herreria",
+      "svg": "A12.svg",
+      "dxf": "A12.dxf"
+    },
+    {
+      "id": "A13",
+      "title": "Detalles de envolvente",
+      "svg": "A13.svg",
+      "dxf": "A13.dxf"
+    },
+    {
+      "id": "A13b",
+      "title": "Captacion, DVH y penetraciones",
+      "svg": "A13b.svg",
+      "dxf": "A13b.dxf"
+    },
+    {
+      "id": "A14",
+      "title": "Estructura conceptual y apoyos",
+      "svg": "A14.svg",
+      "dxf": "A14.dxf"
+    },
+    {
+      "id": "A15",
+      "title": "Instalaciones coordinadas",
+      "svg": "A15.svg",
+      "dxf": "A15.dxf"
+    },
+    {
+      "id": "A16",
+      "title": "Superficies y trazabilidad",
+      "svg": "A16.svg",
+      "dxf": "A16.dxf"
+    }
+  ],
+  "notes": [
+    "North indicative from owner; no surveyed azimuth",
+    "Network services available per owner; exact connection locations pending",
+    "Not a construction-certified project"
+  ],
+  "metrics": {
+    "dimension_count": 111,
+    "view_count": 41
+  }
+}

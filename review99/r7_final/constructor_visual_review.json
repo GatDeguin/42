@@ -1,0 +1,369 @@
+{
+  "sourceSHA256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "status": "COMPLETE · 25 vistas inspeccionadas por el constructor; pendiente dictamen independiente",
+  "images": [
+    {
+      "key": "exterior",
+      "status": "visible_complete",
+      "observations": [
+        "La envolvente, balcón, escalera, quincho y cubiertas escalonadas se leen sin oclusiones importantes.",
+        "El agua refleja cielo y entorno; el jardín mantiene transición con zonas de paso.",
+        "El terreno exterior al lote conserva una extensión muy uniforme y gris parda; es un límite visible de naturalidad a escala de la imagen."
+      ],
+      "inspect": "1200×900 vista general; original 2400×1800",
+      "imageSHA256": "d42c0953456f671a27191d0ed7695c648fd0be3527ade2672c95bd2e9fb438cd",
+      "camera": "CAM | Presentación verticales corregidas",
+      "frame": 1,
+      "file": "stills/exterior.png"
+    },
+    {
+      "key": "pileta",
+      "status": "composition_limitation",
+      "observations": [
+        "El agua, playa húmeda y escalera se leen con continuidad; reflejos y refracción visibles.",
+        "El gran paño blanco de medianera ocupa buena parte del primer plano y oculta el lateral próximo de pileta. Una toma complementaria interior al lote permitiría revisar el borde completo."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "d2d3f029ce3dbbe952e56b1f2f27f948d20ae817b1524d06955cbd8f903393ea",
+      "camera": "CAM | Pileta & playa húmeda",
+      "frame": 1,
+      "file": "stills/pileta.png"
+    },
+    {
+      "key": "huerta",
+      "status": "photographic_blocker",
+      "observations": [
+        "Los cultivos del cantero próximo muestran rosetas de hojas angulosas con pliegues rígidos: apariencia de origami, claramente visible a escala de imagen.",
+        "El cantero derecho tiene hojas anchas oscuras con escasa variación orgánica; todavía se leen como geometría simplificada.",
+        "El césped presenta distribución de briznas y densidad visual bastante uniformes; falta naturalidad local."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "05ac31bef748944c067449bd0b377e29e03c61456d80685a8b6d93b4f79d9769",
+      "camera": "CAM | Huerta",
+      "frame": 1,
+      "file": "stills/huerta.png"
+    },
+    {
+      "key": "estudio",
+      "status": "visible_complete_with_material_limits",
+      "observations": [
+        "La altura libre, paneles suspendidos, ventana, mesa y equipo se leen; la pantalla DAW contiene detalle y no queda sobreexpuesta.",
+        "Controles de consola y cajas del equipo todavía se leen como piezas genéricas repetidas; los paneles negros son muy uniformes en el plano próximo.",
+        "La vista es válida para auditar distribución, pero el equipo cercano sigue limitando la credibilidad de fotografía de un estudio real."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "5a6e2d0d68280dd47b50306c5d0c70ed85f0da0f73d910513fe1b57faab7e220",
+      "camera": "LUZ99 | Estudio amplitud",
+      "frame": 150,
+      "file": "stills/estudio.png"
+    },
+    {
+      "key": "cocina",
+      "status": "visible_complete_with_material_limits",
+      "observations": [
+        "Cocina, heladera, campana, mesada reacomodada y mesa se leen; acceso lateral despejado y reflejos del vidrio coherentes.",
+        "En sillas próximas se ven bandas horizontales regulares en la tapicería, con lectura similar a veta; conviene revisar textura/UV antes de reclamar fotografía indistinguible.",
+        "Electrodomésticos y objeto cilíndrico sobre mesa siguen siendo muy simplificados de cerca."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "e62f277fd567e043044e412f80f0d88d5efad2f0e222540c0a89db3f56d10afb",
+      "camera": "REV | Cocina comedor",
+      "frame": 150,
+      "file": "stills/cocina.png"
+    },
+    {
+      "key": "quincho",
+      "status": "visible_complete",
+      "observations": [
+        "Barra y parrilla quedan paralelas; mesa y sillas se ubican hacia el jardín y la circulación lateral se lee.",
+        "La carpintería corrediza y línea de fuego son visibles. Campana y conducto ennegrecen la franja alta, pero conservan volumen.",
+        "Mesadas y mobiliario siguen muy limpios/uniformes; mejora geométrica clara, realismo de materiales aún limitado en primer plano."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "81d245b1aff5551a72d38ad4cc976a9a62d7bf777a7710b5899049433023cac2",
+      "camera": "REV | Quincho y extracción",
+      "frame": 150,
+      "file": "stills/quincho.png"
+    },
+    {
+      "key": "dormitorio",
+      "status": "photographic_blocker",
+      "observations": [
+        "La ventana queda junto al lado longitudinal de la cama; cama y mesas de luz no se ven atravesadas por puertas.",
+        "El borde transversal de la ropa de cama presenta pliegues muy agudos y tiras delgadas superpuestas, con lectura de papel más que tejido.",
+        "Cabecero tapizado muestra bandas horizontales regulares similares a las sillas de cocina. Almohadas y superficie principal del cobertor resultan demasiado uniformes."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "0685be025485d3abcdd31c814d56aaa1b093e4333ed636c7580bf9bf8c848e55",
+      "camera": "REV | Dormitorio completo",
+      "frame": 1,
+      "file": "stills/dormitorio.png"
+    },
+    {
+      "key": "dormitorio_acceso",
+      "status": "visible_complete_with_material_limits",
+      "observations": [
+        "La cámara conserva vista clara de cama y acceso lateral, sin hoja dentro del plano de cámara.",
+        "Esta vista confirma los pliegues rígidos del borde de ropa de cama y las bandas del cabecero; son visibles a escala normal de publicación."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "9fa3764983e635e8bcd41ebe544cc85cf1e58e3264685d7de37516c051936000",
+      "camera": "REV | Dormitorio acceso",
+      "frame": 1,
+      "file": "stills/dormitorio_acceso.png"
+    },
+    {
+      "key": "vestidor",
+      "status": "visible_complete_with_material_limits",
+      "observations": [
+        "La exposición permite leer estantes, cajones y prendas; mejora respecto del vestidor oscuro.",
+        "Encuadre frontal de placard: útil para mobiliario, muestra muy poco de la circulación del vestidor.",
+        "Las prendas se leen como tiras muy planas y repetidas, sin una silueta de ropa convincente. La zona de barra/prendas junto al divisor derecho merece contraste geométrico de apoyos; no afirmo un choque sólo por la imagen.",
+        "La veta se repite con escala y contraste fuertes en paneles próximos."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "385c4c72d505bfe004900ad12d792b16b7b66574e1b5fe5720ddd35c403720a9",
+      "camera": "REV | Vestidor circulación",
+      "frame": 1,
+      "file": "stills/vestidor.png"
+    },
+    {
+      "key": "bano",
+      "status": "composition_limitation",
+      "observations": [
+        "Lavatorio, bañera, rociador, hornacina y pavimento se leen sin exposición quemada dominante.",
+        "La vista titulada baño completo recorta WC y bidé en el borde derecho/inferior. Debe leerse junto a las tomas de acceso, no como cobertura completa autónoma.",
+        "El revestimiento blanco continuo y la bañera presentan muy poca variación superficial visible; grifería/lavatorio son geométricamente simplificados."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "15cb3b781bd5917adb4c6efbe19d5ddef330bf1b1e5da9528a8943de7f97f653",
+      "camera": "REV | Baño completo",
+      "frame": 1,
+      "file": "stills/bano.png"
+    },
+    {
+      "key": "bano_acceso",
+      "status": "visible_complete_with_complement",
+      "observations": [
+        "Esta toma complementa la principal: se ven la taza WC, cisterna, tapa y el espacio ante bañera; ya no aparece el zócalo huérfano.",
+        "Bidé y lavatorio quedan parcialmente fuera del encuadre; cobertura de baño requiere la serie completa.",
+        "El vidrio se distingue por bordes/reflexión, y el desagüe de bañera es visible. La fotografía no permite certificar los mecanismos internos de bisagras SAN99."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "160c7add5509fd9713e7088a439cfee6184224c90af01b11d9b20787dbce4b79",
+      "camera": "REV | Baño desde acceso",
+      "frame": 150,
+      "file": "stills/bano_acceso.png"
+    },
+    {
+      "key": "puerta_bano",
+      "status": "visible_complete",
+      "observations": [
+        "La comunicación comedor–baño está claramente representada; hoja corrediza retirada, hueco y umbral visibles.",
+        "El paso hacia lavatorio/bañera se lee y no hay cámara atravesando la hoja.",
+        "La madera de la hoja muy próxima presenta un acabado brillante y veta dominante; revisar concordancia con el acabado elegido."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "6b0d2125d7caa91620a2ffa5fcf4130f34301b3600450b18cbbd64595f8b0562",
+      "camera": "REV | Baño acceso comedor",
+      "frame": 150,
+      "file": "stills/puerta_bano.png"
+    },
+    {
+      "key": "mono_cocina",
+      "status": "functional_check_requested",
+      "observations": [
+        "Cocina en L, isla y salida al quincho se leen completas.",
+        "Los taburetes se sitúan delante de un frente macizo; el vuelo de mesada parece corto. Verificar con cotas el espacio para rodillas antes de aprobar uso como barra.",
+        "El volumen negro alto y los electrodomésticos carecen de detalles cercanos suficientes para una lectura fotográfica; mesadas muy uniformes."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "521c3e2ad8bb7de31201267f03b66e39ce8c713a5b691ee31fd17c11de54f580",
+      "camera": "REV | Mono cocina e isla",
+      "frame": 1,
+      "file": "stills/mono_cocina.png"
+    },
+    {
+      "key": "mono_distribucion",
+      "status": "visible_complete_with_complement",
+      "observations": [
+        "Vista clara del frente operativo de isla, sofá y circulación del monoambiente.",
+        "Se confirma el frente de isla macizo; el vuelo hacia taburetes debe medirse en conjunto con mono_cocina.",
+        "No muestra el acceso al baño reubicado; esa correspondencia requiere plano/recorrido y las dos vistas específicas del baño PB.",
+        "Tapicería del sofá y frentes de cocina muy uniformes de cerca."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "32f9630e4b15edfe526da6679abca06eca4528ed454f24b2912da185de9157ff",
+      "camera": "REV | Mono distribución",
+      "frame": 1,
+      "file": "stills/mono_distribucion.png"
+    },
+    {
+      "key": "bano_mono",
+      "status": "visible_complete",
+      "observations": [
+        "La vista final conserva el encuadre de prueba: rociador, lavatorio, mampara y desagüe incluidos.",
+        "Juntas del piso y revestimiento se leen proporcionadas, sin defecto de escala grueso visible.",
+        "Porcelana, espejo y grifería aún tienen modelado simple; no se observó regresión visual del ajuste sanitario en la integración R7D."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "8751c5ea6fe7543026aa0dbb677bff594f43c126cf3efb99241908e9b3275c77",
+      "camera": "REV | Baño mono",
+      "frame": 150,
+      "file": "stills/bano_mono.png"
+    },
+    {
+      "key": "bano_mono_sanitarios",
+      "status": "visible_complete",
+      "observations": [
+        "Contorno de WC, asiento, tapa y cisterna continuo; la interferencia gruesa anterior entre asiento y depósito ya no aparece visualmente.",
+        "La relación con puerta y piso queda visible, y las juntas mantienen escala coherente con el encuadre.",
+        "Las pequeñas bisagras son visibles, pero esta vista no resuelve ni aprueba los solapes mecánicos señalados por el crítico."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "f621a4ae979d5efc7fbdba121cd3ea119722617a1723d738e4a12b1f7c814b68",
+      "camera": "REV | Baño mono sanitarios",
+      "frame": 150,
+      "file": "stills/bano_mono_sanitarios.png"
+    },
+    {
+      "key": "bano_quincho",
+      "status": "photographic_blocker",
+      "observations": [
+        "WC orientado correctamente y con contorno continuo; lavatorio y relación entre artefactos visibles.",
+        "El espejo muestra una reflexión del ladrillo en grandes diagonales/chevrones estirados, no plausible como espejo plano. Revisar normales/suavizado del espejo y geometría/UV reflejadas.",
+        "Boca de taza simplificada y grifería genérica siguen limitando el realismo cercano."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "c07be5ab062d93805aa2e3f811e307958feb5c3b9c249666491ebe7051b665d4",
+      "camera": "REV | Baño quincho",
+      "frame": 150,
+      "file": "stills/bano_quincho.png"
+    },
+    {
+      "key": "escalera",
+      "status": "visible_complete_with_complement",
+      "observations": [
+        "Peldaños, zancas, barandas, fijación superior y desembarco se leen con detalle.",
+        "La toma recorta el apoyo inferior de la escalera; para auditar esa unión hace falta el detalle/plano o un encuadre complementario.",
+        "Los reflejos del vidrio y la lectura de ladrillo/metal son coherentes; no aparece una hoja bloqueando el desembarco en esta vista."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "f5d6343a74124d5d9c9f88e16e1bec07915a1e0b1a442538872efc008361e863",
+      "camera": "REV | Escalera y desembarco",
+      "frame": 150,
+      "file": "stills/escalera.png"
+    },
+    {
+      "key": "cubiertas",
+      "status": "visible_complete_with_context_limit",
+      "observations": [
+        "Se ven cubierta alta, tramo bajo adyacente, canaleta, bajada y salidas de conductos.",
+        "El acabado de chapa mantiene ritmo y reflejos coherentes; los elementos quedan legibles.",
+        "El terreno exterior plano y la transición al horizonte HDRI mantienen una separación visual evidente. El entorno no puede tomarse como relevamiento real del emplazamiento."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "c390bd4c0f318b31ac9f525ff9c6f05431437f75af415f102f468496340c0eeb",
+      "camera": "REV | Cubierta escalonada",
+      "frame": 1,
+      "file": "stills/cubiertas.png"
+    },
+    {
+      "key": "estudio_retrato",
+      "status": "functional_check_requested",
+      "observations": [
+        "El retrato aporta buena lectura de techo y paneles respecto a puesto de trabajo; cámara libre de oclusión.",
+        "Comprobar altura de teclado/superficie frente a asiento y espacio de rodillas bajo consola: visualmente teclado alto y frente inferior macizo. Requiere medidas, no inferencia desde perspectiva.",
+        "Controles genéricos, repetición y uniformidad superficial del equipo persisten como límite fotográfico."
+      ],
+      "inspect": "900×1200 vista general; original 1800×2400",
+      "imageSHA256": "3641b7c0d4c252b92870db657deaae2129cf6cedb5ea3ae71fb45cf6cadfb947",
+      "camera": "LUZ99 | Estudio retrato",
+      "frame": 150,
+      "file": "stills/estudio_retrato.png"
+    },
+    {
+      "key": "dormitorio_retrato",
+      "status": "visible_complete_with_composition_limit",
+      "observations": [
+        "Ventana, cortina y relación de cama con muro y techo quedan claras en vertical.",
+        "El encuadre destina mucho espacio al muro/cielorraso vacío y recorta parte del pie de cama; puede refinarse para una fotografía editorial.",
+        "Persisten los pliegues rígidos del cobertor y las bandas del cabecero; la vista vertical confirma que no son sólo un efecto de la primera cámara."
+      ],
+      "inspect": "900×1200 vista general; original 1800×2400",
+      "imageSHA256": "119bc61b500784947a6d99735149279776823e93828fb2816e64553071db8093",
+      "camera": "LUZ99 | Dormitorio retrato",
+      "frame": 1,
+      "file": "stills/dormitorio_retrato.png"
+    },
+    {
+      "key": "vestidor_retrato",
+      "status": "photographic_blocker",
+      "observations": [
+        "La toma vertical permite revisar casi todo el placard y su iluminación interior, sin bloqueo por puertas.",
+        "La ropa continúa leyendo como tiras largas planas, con muy poca variación de caída y detalle textil.",
+        "La relación de la barra y prendas con el divisor derecho debe verificarse geométricamente; posible incongruencia visual de apoyo/ocupación, no choque confirmado por imagen.",
+        "La repetición y escala dominante de veta siguen visibles en la carpintería."
+      ],
+      "inspect": "900×1200 vista general; original 1800×2400",
+      "imageSHA256": "ff1556ab68acc30af0607064b32cb753f8033b5d702fb90497c14ce78a9fc60d",
+      "camera": "LUZ99 | Vestidor retrato",
+      "frame": 1,
+      "file": "stills/vestidor_retrato.png"
+    },
+    {
+      "key": "exterior_retrato",
+      "status": "visible_complete_with_context_limit",
+      "observations": [
+        "La composición vertical muestra vivienda, cubierta elevada del estudio, balcón, quincho y pileta con lectura clara.",
+        "Árbol próximo aporta profundidad; no se ve una oclusión que impida entender la envolvente principal.",
+        "Persisten la uniformidad del césped y terreno exterior y el contexto de horizonte genérico. No sustituye vista catastral/levantamiento de la propiedad."
+      ],
+      "inspect": "900×1200 vista general; original 1800×2400",
+      "imageSHA256": "99fb8f60b4522c8bac6a2113cc3c6de35c8c371d9c805318c2159199da823522",
+      "camera": "LUZ99 | Exterior jardin retrato",
+      "frame": 1,
+      "file": "stills/exterior_retrato.png"
+    },
+    {
+      "key": "bano_humano",
+      "status": "visible_complete_as_detail",
+      "observations": [
+        "Funciona como detalle de bañera a altura de uso, coherente con el título corregido; no se presenta como vista total del baño.",
+        "Mampara, grifería, hornacina y parte de WC/lavatorio visibles; misma lectura material que la prueba sanitaria.",
+        "Los aparatos recortados en bordes requieren los otros encuadres. Superficies blancas y piezas cercanas conservan simplificación perceptible."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "13c981328d3824e010790e5550fe4bd2bd6cc9afc3e4eeb780bf54406e86fe1e",
+      "camera": "LUZ99 | Bano suite humano",
+      "frame": 1,
+      "file": "stills/bano_humano.png"
+    },
+    {
+      "key": "dormitorio_puerta",
+      "status": "visible_complete_with_shading_check",
+      "observations": [
+        "El acceso directo estar–dormitorio queda mostrado; se distingue el paso y la cama, sin cámara dentro de una hoja.",
+        "La hoja del paso al vestidor se ve al fondo; su posición reduce vista del interior, pero el recorrido físico fue comprobado por separado.",
+        "En la hoja de madera del fondo aparece una franja especular diagonal muy marcada. Revisar normales/suavizado de caras planas y mapa normal para descartar artefacto de sombreado."
+      ],
+      "inspect": "1200×900 vista general; original 2000×1500",
+      "imageSHA256": "d2f0b2c1cf836cddf7d511b19f4bb40b30dea9a2e60a929550d8031dcd93b445",
+      "camera": "LUZ99 | Acceso dormitorio desde estar",
+      "frame": 150,
+      "file": "stills/dormitorio_puerta.png"
+    }
+  ],
+  "sourceUnchanged": true,
+  "integrityReport": "stills/contacts/integrity.json",
+  "stillsCount": 25,
+  "contactSheets": 5,
+  "videoRendered": false,
+  "contactLayoutInspected": [
+    "exteriores",
+    "vivienda",
+    "servicios",
+    "complementarias",
+    "retratos"
+  ]
+}

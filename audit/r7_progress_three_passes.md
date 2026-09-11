@@ -51,3 +51,10 @@ Fuente congelada: `9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc
 Estos ensayos no cierran la auditoría. El crítico amplió el barrido de herrajes SAN99 y encontró interferencias entre pedestales fijos y manguitos/brazos móviles. La tapa necesita un límite operativo explícito de 90°; a 100° alcanza la cisterna. La documentación de acceso y descenso de equipos D08 está ampliándose. Las imágenes de huerta y textiles siguen mostrando rigidez. Estos puntos quedan abiertos para la siguiente corrección.
 
 A pedido del propietario se publica R7D como candidata integrada, con visor y cuatro primeras imágenes de ese SHA. El juego completo de 25 imágenes, 33 planos y los ocho atlas de iluminación siguen en elaboración. No se asigna nota global R7D ni se afirma aprobación.
+
+
+## Cierre formal R7D —11de septiembre de2026
+
+La entrega quedó integrada con25imágenes,33planos y209cotas nativas. El crítico emitió [8,5/10](critica_integral_r7d_99.md), sin aprobación de9,9. La GI de ocho regiones y la convergencia web siguen pendientes y se califican como trabajo incompleto.
+
+Se abre el siguiente ciclo con tres pasadas: (1) mecánica sanitaria, puesto MIDI e isla; (2) espejos, materiales, textiles, prendas y botánica; (3) fuente congelada, iluminación, planos, imágenes y pruebas del visor. No se modifica la fuente R7D publicada; las correcciones se integrarán en una nueva revisión. Video pausado.

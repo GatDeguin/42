@@ -1,0 +1,83 @@
+{
+  "sha256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "frame": 150,
+  "doors": [
+    {
+      "name": "Puerta dormitorio comedor | hoja",
+      "custom": false,
+      "faces": [
+        {
+          "face": 0,
+          "area": 1.9975967407226562,
+          "smooth": false,
+          "deviations": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "face": 1,
+          "area": 1.995901107788086,
+          "smooth": false,
+          "deviations": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Puerta dormitorio comedor | tornillo hoja",
+      "custom": false,
+      "faces": [],
+      "modifiers": []
+    },
+    {
+      "name": "Puerta dormitorio comedor | tornillo hoja.001",
+      "custom": false,
+      "faces": [],
+      "modifiers": []
+    },
+    {
+      "name": "Puerta dormitorio comedor | tornillo hoja.002",
+      "custom": false,
+      "faces": [],
+      "modifiers": []
+    },
+    {
+      "name": "Puerta dormitorio comedor | tornillo hoja.003",
+      "custom": false,
+      "faces": [],
+      "modifiers": []
+    },
+    {
+      "name": "Puerta dormitorio comedor | tornillo hoja.004",
+      "custom": false,
+      "faces": [],
+      "modifiers": []
+    },
+    {
+      "name": "Puerta dormitorio comedor | tornillo hoja.005",
+      "custom": false,
+      "faces": [],
+      "modifiers": []
+    }
+  ]
+}

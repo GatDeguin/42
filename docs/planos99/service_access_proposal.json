@@ -1,0 +1,203 @@
+{
+  "model": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7D.blend",
+  "sha256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "proposal": "P temporary mobile elevating work platform1200x600, deck1.40m above NPT. Central placement X18.70..19.90/Z4.70..5.30; operator shifts laterally for each component. Temporarily move the support cabinet and its four legs before placing platform. Module drops toH5.4 then moves horizontally to platform and lowers with platform to floor. Access equipment/product/stability/load capacity not selected or validated. No claim of normative access.",
+  "temporarily_moved_furniture": [
+    "Mueble apoyo estudio",
+    "MOB95 | apoyo mueble estudio",
+    "MOB95 | apoyo mueble estudio.001",
+    "MOB95 | apoyo mueble estudio.002",
+    "MOB95 | apoyo mueble estudio.003"
+  ],
+  "rows": [
+    {
+      "id": "PROBE platform central",
+      "source_bounds": {
+        "x": [
+          18.7,
+          19.9
+        ],
+        "h": [
+          3.251,
+          4.65
+        ],
+        "z": [
+          4.7,
+          5.3
+        ]
+      },
+      "hits": [],
+      "pairs": 0
+    },
+    {
+      "id": "PROBE operator central filter",
+      "person_source_center": [
+        19.15,
+        5.51,
+        5.0
+      ],
+      "body_mm": [
+        450,
+        1720
+      ],
+      "head_height": 6.37,
+      "head_clearance_to_ceiling_m": 0.08,
+      "operator_hits": [],
+      "transfer_hits": [],
+      "operator_transfer_overlap_m3": 0.0,
+      "pairs": 0,
+      "module_x": [
+        18.783,
+        18.805
+      ],
+      "unit_z": 4.68,
+      "receive_z": 5.0,
+      "transfer_height": [
+        4.65,
+        5.655
+      ]
+    },
+    {
+      "id": "PROBE operator central filter",
+      "person_source_center": [
+        19.15,
+        5.51,
+        5.0
+      ],
+      "body_mm": [
+        450,
+        1720
+      ],
+      "head_height": 6.37,
+      "head_clearance_to_ceiling_m": 0.08,
+      "operator_hits": [],
+      "transfer_hits": [],
+      "operator_transfer_overlap_m3": 0.0,
+      "pairs": 0,
+      "module_x": [
+        18.783,
+        18.805
+      ],
+      "unit_z": 5.1,
+      "receive_z": 5.0,
+      "transfer_height": [
+        4.65,
+        5.655
+      ]
+    },
+    {
+      "id": "PROBE operator central fan",
+      "person_source_center": [
+        19.55,
+        5.51,
+        5.0
+      ],
+      "body_mm": [
+        450,
+        1720
+      ],
+      "head_height": 6.37,
+      "head_clearance_to_ceiling_m": 0.08,
+      "operator_hits": [],
+      "transfer_hits": [],
+      "operator_transfer_overlap_m3": 0.0,
+      "pairs": 0,
+      "module_x": [
+        18.949,
+        19.151
+      ],
+      "unit_z": 4.68,
+      "receive_z": 5.0,
+      "transfer_height": [
+        4.65,
+        5.655
+      ]
+    },
+    {
+      "id": "PROBE operator central fan",
+      "person_source_center": [
+        19.55,
+        5.51,
+        5.0
+      ],
+      "body_mm": [
+        450,
+        1720
+      ],
+      "head_height": 6.37,
+      "head_clearance_to_ceiling_m": 0.08,
+      "operator_hits": [],
+      "transfer_hits": [],
+      "operator_transfer_overlap_m3": 0.0,
+      "pairs": 0,
+      "module_x": [
+        18.949,
+        19.151
+      ],
+      "unit_z": 5.1,
+      "receive_z": 5.0,
+      "transfer_height": [
+        4.65,
+        5.655
+      ]
+    },
+    {
+      "id": "PROBE operator central silencer",
+      "person_source_center": [
+        18.925,
+        5.51,
+        5.0
+      ],
+      "body_mm": [
+        450,
+        1720
+      ],
+      "head_height": 6.37,
+      "head_clearance_to_ceiling_m": 0.08,
+      "operator_hits": [],
+      "transfer_hits": [],
+      "operator_transfer_overlap_m3": 0.0,
+      "pairs": 0,
+      "module_x": [
+        19.199,
+        19.801
+      ],
+      "unit_z": 4.68,
+      "receive_z": 5.0,
+      "transfer_height": [
+        4.65,
+        5.655
+      ]
+    },
+    {
+      "id": "PROBE operator central silencer",
+      "person_source_center": [
+        18.925,
+        5.51,
+        5.0
+      ],
+      "body_mm": [
+        450,
+        1720
+      ],
+      "head_height": 6.37,
+      "head_clearance_to_ceiling_m": 0.08,
+      "operator_hits": [],
+      "transfer_hits": [],
+      "operator_transfer_overlap_m3": 0.0,
+      "pairs": 0,
+      "module_x": [
+        19.199,
+        19.801
+      ],
+      "unit_z": 5.1,
+      "receive_z": 5.0,
+      "transfer_height": [
+        4.65,
+        5.655
+      ]
+    }
+  ],
+  "pass": true,
+  "source_mutation": "None; no save."
+}

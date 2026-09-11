@@ -1,0 +1,778 @@
+{
+  "status": "PASS",
+  "model": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7D.blend",
+  "model_sha256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "coordinate_axes": [
+    "X",
+    "Z depth",
+    "H height"
+  ],
+  "checks": [
+    {
+      "check": "All source SHAs equal",
+      "pass": true,
+      "evidence": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e"
+    },
+    {
+      "check": "Full-depth wet joints",
+      "pass": true,
+      "evidence": {
+        "width_mm": 2,
+        "depth_mm": 8,
+        "tile_components": 128
+      }
+    },
+    {
+      "check": "Former suite entry absent",
+      "pass": true,
+      "evidence": []
+    },
+    {
+      "check": "Orphan WC kitchen plinth absent",
+      "pass": true,
+      "evidence": "source id853 removed"
+    },
+    {
+      "check": "Door hand metadata incorporated",
+      "pass": true,
+      "evidence": "door_hands99_v1"
+    },
+    {
+      "check": "Every dimension arithmetic",
+      "pass": true,
+      "evidence": 209
+    },
+    {
+      "check": "Every native CAD dimension agrees with register",
+      "pass": true,
+      "evidence": {
+        "count": 209,
+        "failures": []
+      }
+    },
+    {
+      "check": "All physical view scales positive",
+      "pass": true,
+      "evidence": 41
+    },
+    {
+      "check": "Measured critical dimensions match displayed intent",
+      "pass": true,
+      "evidence": {
+        "count": 42,
+        "failures": []
+      }
+    }
+  ],
+  "measured_items": [
+    {
+      "item": "House structural footprint 0",
+      "class": "G",
+      "value": 8.0,
+      "units": "m",
+      "source": "Losa planta baja hi-lo",
+      "expected": 8,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "House structural footprint 1",
+      "class": "G",
+      "value": 12.0,
+      "units": "m",
+      "source": "Losa planta baja hi-lo",
+      "expected": 12,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "Study finished floor",
+      "class": "G",
+      "value": 3.25,
+      "units": "m",
+      "source": "Piso estudio.maxH",
+      "expected": 3.25,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "Bath PA finished floor",
+      "class": "G",
+      "value": 3.25,
+      "units": "m",
+      "source": "Piso baño vivienda.maxH",
+      "expected": 3.25,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "Bath PA ceiling",
+      "class": "G",
+      "value": 5.849999904632568,
+      "units": "m",
+      "source": "Cielorraso baño.minH",
+      "expected": 5.85,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "Mesa mono tapa above NPT",
+      "class": "G",
+      "value": 0.7500000381469727,
+      "units": "m",
+      "source": "Mesa mono tapa.maxH minus .21",
+      "expected": 0.75,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "Silla mono 1 asiento above NPT",
+      "class": "G",
+      "value": 0.4600000166893006,
+      "units": "m",
+      "source": "Silla mono 1 asiento.maxH minus .21",
+      "expected": 0.46,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "Silla mono 2 asiento above NPT",
+      "class": "G",
+      "value": 0.4600000166893006,
+      "units": "m",
+      "source": "Silla mono 2 asiento.maxH minus .21",
+      "expected": 0.46,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "Isla cocina mono tapa above NPT",
+      "class": "G",
+      "value": 0.9000000143051148,
+      "units": "m",
+      "source": "Isla cocina mono tapa.maxH minus .21",
+      "expected": 0.9,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "Mesada cocina mono lateral above NPT",
+      "class": "G",
+      "value": 0.9000000143051148,
+      "units": "m",
+      "source": "Mesada cocina mono lateral.maxH minus .21",
+      "expected": 0.9,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "Mesa comedor tapa above NPT",
+      "class": "G",
+      "value": 0.75,
+      "units": "m",
+      "source": "Mesa comedor tapa.maxH minus3.25",
+      "expected": 0.75,
+      "tolerance": 0.0001,
+      "pass": true
+    },
+    {
+      "item": "Mesa baja vivienda above NPT",
+      "class": "G",
+      "value": 0.39999985694885254,
+      "units": "m",
+      "source": "Mesa baja vivienda.maxH minus3.25",
+      "expected": 0.4,
+      "tolerance": 0.0001,
+      "pass": true
+    },
+    {
+      "item": "Dining approach to wallZ9.07",
+      "class": "G",
+      "value": 0.8050009536743161,
+      "units": "m",
+      "source": "Mesa comedor tapa.minZ minus9.07",
+      "expected": 0.805,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "Mono island to fridge handle",
+      "class": "G",
+      "value": 1.0759997367858887,
+      "units": "m",
+      "source": "Handle.minZ minus island.maxZ",
+      "expected": 1.076,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "WC mono body width",
+      "class": "G",
+      "value": 0.4200000762939453,
+      "units": "m",
+      "source": "Inodoro mono hiX-loX",
+      "expected": 0.42,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "WC mono body depth",
+      "class": "G",
+      "value": 0.619999885559082,
+      "units": "m",
+      "source": "Inodoro mono hiZ-loZ",
+      "expected": 0.62,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "WC mono body height",
+      "class": "G",
+      "value": 0.4299999922513962,
+      "units": "m",
+      "source": "Inodoro mono hiH-loH",
+      "expected": 0.43,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "WC mono seat height",
+      "class": "G",
+      "value": 0.4549999618530274,
+      "units": "m",
+      "source": "Inodoro mono | asiento hiH-NPT",
+      "expected": 0.455,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "WC mono seat width",
+      "class": "G",
+      "value": 0.37999916076660156,
+      "units": "m",
+      "source": "Inodoro mono | asiento hiX-loX",
+      "expected": 0.38,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "WC mono seat depth",
+      "class": "G",
+      "value": 0.44500017166137695,
+      "units": "m",
+      "source": "Inodoro mono | asiento hiZ-loZ",
+      "expected": 0.445,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "WC quincho body width",
+      "class": "G",
+      "value": 0.4200000762939453,
+      "units": "m",
+      "source": "Inodoro quincho hiX-loX",
+      "expected": 0.42,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "WC quincho body depth",
+      "class": "G",
+      "value": 0.619999885559082,
+      "units": "m",
+      "source": "Inodoro quincho hiZ-loZ",
+      "expected": 0.62,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "WC quincho body height",
+      "class": "G",
+      "value": 0.4299999922513962,
+      "units": "m",
+      "source": "Inodoro quincho hiH-loH",
+      "expected": 0.43,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "WC quincho seat height",
+      "class": "G",
+      "value": 0.4549999618530274,
+      "units": "m",
+      "source": "Inodoro quincho | asiento hiH-NPT",
+      "expected": 0.455,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "WC quincho seat width",
+      "class": "G",
+      "value": 0.37999916076660156,
+      "units": "m",
+      "source": "Inodoro quincho | asiento hiX-loX",
+      "expected": 0.38,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "WC quincho seat depth",
+      "class": "G",
+      "value": 0.44499969482421875,
+      "units": "m",
+      "source": "Inodoro quincho | asiento hiZ-loZ",
+      "expected": 0.445,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "WC suite body width",
+      "class": "G",
+      "value": 0.4500007629394531,
+      "units": "m",
+      "source": "Inodoro vivienda hiX-loX",
+      "expected": 0.45,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "WC suite body depth",
+      "class": "G",
+      "value": 0.6599998474121094,
+      "units": "m",
+      "source": "Inodoro vivienda hiZ-loZ",
+      "expected": 0.66,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "WC suite body height",
+      "class": "G",
+      "value": 0.43000006675720215,
+      "units": "m",
+      "source": "Inodoro vivienda hiH-loH",
+      "expected": 0.43,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "WC suite seat height",
+      "class": "G",
+      "value": 0.4550001621246338,
+      "units": "m",
+      "source": "Inodoro suite | asiento hiH-NPT",
+      "expected": 0.455,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "WC suite seat width",
+      "class": "G",
+      "value": 0.37999916076660156,
+      "units": "m",
+      "source": "Inodoro suite | asiento hiX-loX",
+      "expected": 0.38,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "WC suite seat depth",
+      "class": "G",
+      "value": 0.44500017166137695,
+      "units": "m",
+      "source": "Inodoro suite | asiento hiZ-loZ",
+      "expected": 0.445,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "Baño mono puerta | hoja closed leaf width",
+      "class": "G",
+      "value": 0.9149999916553497,
+      "units": "m",
+      "source": "Baño mono puerta | hoja evaluated frame1 max plan span",
+      "expected": 0.915,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "Puerta dormitorio comedor | hoja closed leaf width",
+      "class": "G",
+      "value": 0.9079990386962891,
+      "units": "m",
+      "source": "Puerta dormitorio comedor | hoja evaluated frame1 max plan span",
+      "expected": 0.908,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "Puerta dormitorio closed leaf width",
+      "class": "G",
+      "value": 0.8199996948242188,
+      "units": "m",
+      "source": "Puerta dormitorio evaluated frame1 max plan span",
+      "expected": 0.82,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "P05 conservative projected clearance",
+      "class": "G",
+      "value": 0.8059978485107422,
+      "units": "m",
+      "source": "Frame150: inward handle.minX minus closing rebate.maxX; full open leaf depth projected",
+      "expected": 0.806,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "P05 opening throat at wall",
+      "class": "G",
+      "value": 0.8479976654052734,
+      "units": "m",
+      "source": "Frame150: open leaf.minX minus closing rebate.maxX at wall throat",
+      "expected": 0.848,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "Pool water lo",
+      "class": "G",
+      "value": -1.3899999856948853,
+      "units": "m",
+      "source": "Agua de pileta.loH",
+      "expected": -1.39,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "Pool water hi",
+      "class": "G",
+      "value": -0.029999971389770508,
+      "units": "m",
+      "source": "Agua de pileta.hiH",
+      "expected": -0.03,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "Wet shelf depth of water",
+      "class": "G",
+      "value": 0.050000028610229494,
+      "units": "m",
+      "source": "water.maxH minus shelf H-.080",
+      "expected": 0.05,
+      "tolerance": 2e-05,
+      "pass": true
+    },
+    {
+      "item": "Shower lowest nozzle above floor",
+      "class": "G",
+      "value": 2.0999000453948975,
+      "units": "m",
+      "source": "Ducha baño mono* minH minus .21",
+      "expected": 2.0999,
+      "tolerance": 3e-05,
+      "pass": true
+    },
+    {
+      "item": "Minimum new ventilation height",
+      "class": "G",
+      "value": 6.453000068664551,
+      "units": "m",
+      "source": "All VENT99 minH",
+      "expected": 6.453,
+      "tolerance": 2e-05,
+      "pass": true
+    }
+  ],
+  "all_dimension_count": 209,
+  "carpentry_schedule": [
+    {
+      "ref": "P01i",
+      "object": "Puerta doble mono izquierda vidrio",
+      "description": "Corredera PB / vidrio",
+      "closed_bounds": {
+        "lo": [
+          16.809999465942383,
+          6.202500343322754,
+          0.26999998092651367
+        ],
+        "hi": [
+          17.94999885559082,
+          6.21150016784668,
+          2.569999933242798
+        ]
+      }
+    },
+    {
+      "ref": "P01d",
+      "object": "Puerta doble mono derecha vidrio",
+      "description": "Corredera PB / vidrio",
+      "closed_bounds": {
+        "lo": [
+          18.05000114440918,
+          6.202500343322754,
+          0.26999998092651367
+        ],
+        "hi": [
+          19.190000534057617,
+          6.21150016784668,
+          2.569999933242798
+        ]
+      }
+    },
+    {
+      "ref": "P02",
+      "object": "Baño mono puerta | hoja",
+      "description": "Abatible bano mono",
+      "closed_bounds": {
+        "lo": [
+          19.252500534057617,
+          0.4025000035762787,
+          0.2199999988079071
+        ],
+        "hi": [
+          19.297500610351562,
+          1.3174999952316284,
+          2.4200000762939453
+        ]
+      }
+    },
+    {
+      "ref": "P03",
+      "object": "Puerta baño quincho",
+      "description": "Abatible bano pileta",
+      "closed_bounds": {
+        "lo": [
+          20.809999465942383,
+          11.897500038146973,
+          0.2099999189376831
+        ],
+        "hi": [
+          21.6299991607666,
+          11.942500114440918,
+          2.3899998664855957
+        ]
+      }
+    },
+    {
+      "ref": "P04",
+      "object": "Puerta acceso estudio",
+      "description": "Acceso estudio",
+      "closed_bounds": {
+        "lo": [
+          14.194999694824219,
+          4.885000228881836,
+          3.2599997520446777
+        ],
+        "hi": [
+          14.260000228881836,
+          5.739999771118164,
+          5.599999904632568
+        ]
+      }
+    },
+    {
+      "ref": "P05",
+      "object": "Puerta dormitorio comedor | hoja",
+      "description": "Dormitorio / estar",
+      "closed_bounds": {
+        "lo": [
+          16.58950424194336,
+          9.009998321533203,
+          3.259999990463257
+        ],
+        "hi": [
+          17.49750328063965,
+          9.054998397827148,
+          5.460000038146973
+        ]
+      }
+    },
+    {
+      "ref": "P06",
+      "object": "Puerta dormitorio",
+      "description": "Dormitorio",
+      "closed_bounds": {
+        "lo": [
+          17.597501754760742,
+          7.2699995040893555,
+          3.260000467300415
+        ],
+        "hi": [
+          17.642501831054688,
+          8.089999198913574,
+          5.430000305175781
+        ]
+      }
+    },
+    {
+      "ref": "P07",
+      "object": "Puerta baño vivienda",
+      "description": "Bano vivienda",
+      "closed_bounds": {
+        "lo": [
+          19.39750099182129,
+          7.150000095367432,
+          3.25
+        ],
+        "hi": [
+          19.4424991607666,
+          7.96999979019165,
+          5.430000305175781
+        ]
+      }
+    },
+    {
+      "ref": "V01",
+      "object": "Ventana DVH estudio vidrio",
+      "description": "DVH estudio / paño",
+      "closed_bounds": {
+        "lo": [
+          13.967499732971191,
+          1.5,
+          4.059999942779541
+        ],
+        "hi": [
+          13.976500511169434,
+          4.5,
+          5.78000020980835
+        ]
+      }
+    },
+    {
+      "ref": "V02",
+      "object": "Puerta ventana dormitorio vidrio",
+      "description": "Lateral dormitorio / paño",
+      "closed_bounds": {
+        "lo": [
+          13.967499732971191,
+          6.700000286102295,
+          3.8400001525878906
+        ],
+        "hi": [
+          13.976500511169434,
+          8.40000057220459,
+          5.920000076293945
+        ]
+      }
+    },
+    {
+      "ref": "P08a",
+      "object": "Corrediza lateral A vidrio",
+      "description": "Corredera lateral A / vidrio",
+      "closed_bounds": {
+        "lo": [
+          13.817500114440918,
+          9.175000190734863,
+          3.2199997901916504
+        ],
+        "hi": [
+          13.82650089263916,
+          10.324999809265137,
+          5.759999752044678
+        ]
+      }
+    },
+    {
+      "ref": "P08b",
+      "object": "Corrediza lateral B vidrio",
+      "description": "Corredera lateral B / vidrio",
+      "closed_bounds": {
+        "lo": [
+          13.964499473571777,
+          10.375,
+          3.2199997901916504
+        ],
+        "hi": [
+          13.97350025177002,
+          11.524999618530273,
+          5.759999752044678
+        ]
+      }
+    },
+    {
+      "ref": "P09",
+      "object": "Corrediza posterior A vidrio",
+      "description": "Corredera posterior A / vidrio",
+      "closed_bounds": {
+        "lo": [
+          14.745000839233398,
+          11.967499732971191,
+          3.2199997901916504
+        ],
+        "hi": [
+          16.020000457763672,
+          11.976500511169434,
+          5.759999752044678
+        ]
+      }
+    },
+    {
+      "ref": "P10",
+      "object": "Corrediza posterior B vidrio",
+      "description": "Corredera posterior B / vidrio",
+      "closed_bounds": {
+        "lo": [
+          17.845001220703125,
+          11.964499473571777,
+          3.2199997901916504
+        ],
+        "hi": [
+          19.520000457763672,
+          11.97350025177002,
+          5.759999752044678
+        ]
+      }
+    },
+    {
+      "ref": "H01",
+      "object": "Portón negro",
+      "description": "Porton / hoja",
+      "closed_bounds": {
+        "lo": [
+          11.0,
+          0.1899999976158142,
+          0.08500003814697266
+        ],
+        "hi": [
+          14.0,
+          0.28999999165534973,
+          2.0850000381469727
+        ]
+      }
+    },
+    {
+      "ref": "P11",
+      "object": "Puerta baño comedor",
+      "description": "Corredera bano/comedor",
+      "closed_bounds": {
+        "lo": [
+          19.510000228881836,
+          8.744999885559082,
+          3.260000228881836
+        ],
+        "hi": [
+          20.559999465942383,
+          8.785000801086426,
+          5.5
+        ]
+      }
+    }
+  ],
+  "north": {
+    "page_direction": "down-left with Cedro Misionero at top",
+    "source_vector": [
+      -1,
+      0,
+      1
+    ],
+    "authority": "Owner reference; no measured azimuth"
+  },
+  "limits": [
+    "Every CAD dimension and register arithmetic checked; selected critical dimensions independently recomputed from evaluated mesh bounds.",
+    "This does not prove every annotation by physical survey or validate normative ergonomics, load capacity, hydraulics, acoustics or products.",
+    "P maintenance platform is a separate spatial proposal, not a modeled or selected certified product."
+  ]
+}

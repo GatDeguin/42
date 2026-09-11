@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="594mm" height="420mm" viewBox="0 0 594 420"><rect width="594" height="420" fill="white"/>
+<polygon points="10.0000,10.0000 584.0000,10.0000 584.0000,410.0000 10.0000,410.0000" stroke="#384c55" stroke-width="0.3" fill="none"/>
+<text x="19" y="22" fill="#384c55" font-family="Arial" font-size="4.8" font-weight="bold" text-anchor="start">CASA DE CAMPO / DETALLES R7</text>
+<text x="575" y="22" fill="#384c55" font-family="Arial" font-size="4.2" font-weight="bold" text-anchor="end">D06 | Acustica: panel, cielorraso y fijaciones</text>
+<text x="19" y="30" fill="#75838a" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">VIRREY DEL PINO, LA MATANZA, BUENOS AIRES</text>
+<text x="575" y="30" fill="#75838a" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="end">Responde C6 | se conserva cara inferior libre +6,45 y piso +3,25</text>
+<line x1="10.0000" y1="37.0000" x2="584.0000" y2="37.0000" stroke="#384c55" stroke-width="0.25"/>
+<text x="20" y="47" fill="#384c55" font-family="Arial" font-size="2.7" font-weight="bold" text-anchor="start">G = medido / gris</text>
+<text x="112" y="47" fill="#1c6b92" font-family="Arial" font-size="2.7" font-weight="bold" text-anchor="start">P = propuesta dimensional / azul</text>
+<text x="288" y="47" fill="#75838a" font-family="Arial" font-size="2.7" font-weight="normal" text-anchor="start">Todas las cotas en mm salvo niveles en m</text>
+<line x1="10.0000" y1="383.0000" x2="584.0000" y2="383.0000" stroke="#384c55" stroke-width="0.3"/>
+<text x="20" y="391" fill="#a25228" font-family="Arial" font-size="2.9" font-weight="bold" text-anchor="start">EN REVISION - PROPUESTAS DE COORDINACION, SIN CALCULO DE CAPACIDAD</text>
+<text x="20" y="399" fill="#75838a" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="start">Base G: Casa_de_Campo_99_R7D.blend / 9cf1a0e2f1b1a606</text>
+<text x="20" y="406" fill="#75838a" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="start">G acredita geometria, no capacidad. P identifica propuestas; su presencia3D no valida prestaciones.</text>
+<text x="575" y="392" fill="#384c55" font-family="Arial" font-size="2.8" font-weight="normal" text-anchor="end">A2 / imprimir al 100 %</text>
+<text x="575" y="405" fill="#75838a" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="end">07 / 10-09-2026</text>
+<text x="30" y="78" fill="#1c6b92" font-family="Arial" font-size="3.2" font-weight="bold" text-anchor="start">11 Panel de80 / montaje P dentro de huella | 1:5</text>
+<polygon points="60.0000,269.0000 100.0000,269.0000 100.0000,125.0000 60.0000,125.0000" stroke="#384c55" stroke-width="0.2" fill="#edf1f2"/>
+<line x1="60.0000" y1="125.0000" x2="60.0000" y2="125.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="60.0000" y1="133.0000" x2="68.0000" y2="125.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="60.0000" y1="141.0000" x2="76.0000" y2="125.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="60.0000" y1="149.0000" x2="84.0000" y2="125.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="60.0000" y1="157.0000" x2="92.0000" y2="125.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="60.0000" y1="165.0000" x2="100.0000" y2="125.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="60.0000" y1="173.0000" x2="100.0000" y2="133.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="60.0000" y1="181.0000" x2="100.0000" y2="141.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="60.0000" y1="189.0000" x2="100.0000" y2="149.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="60.0000" y1="197.0000" x2="100.0000" y2="157.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="60.0000" y1="205.0000" x2="100.0000" y2="165.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="60.0000" y1="213.0000" x2="100.0000" y2="173.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="60.0000" y1="221.0000" x2="100.0000" y2="181.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="60.0000" y1="229.0000" x2="100.0000" y2="189.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="60.0000" y1="237.0000" x2="100.0000" y2="197.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="60.0000" y1="245.0000" x2="100.0000" y2="205.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="60.0000" y1="253.0000" x2="100.0000" y2="213.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="60.0000" y1="261.0000" x2="100.0000" y2="221.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="60.0000" y1="269.0000" x2="100.0000" y2="229.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="68.0000" y1="269.0000" x2="100.0000" y2="237.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="76.0000" y1="269.0000" x2="100.0000" y2="245.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="84.0000" y1="269.0000" x2="100.0000" y2="253.0000" stroke="#75838a" stroke-width="0.1"/>
+<line x1="92.0000" y1="269.0000" x2="100.0000" y2="261.0000" stroke="#75838a" stroke-width="0.1"/>
+<polygon points="100.0000,249.0000 116.0000,249.0000 116.0000,129.0000 100.0000,129.0000" stroke="#384c55" stroke-width="0.3" fill="none"/>
+<polygon points="105.8000,246.6000 115.8000,246.6000 115.8000,131.4000 105.8000,131.4000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="115.8000,249.0000 116.0000,249.0000 116.0000,129.0000 115.8000,129.0000" stroke="#1c6b92" stroke-width="0.35" fill="none"/>
+<polygon points="100.0000,249.0000 116.0000,249.0000 116.0000,246.6000 100.0000,246.6000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="100.0000,131.4000 116.0000,131.4000 116.0000,129.0000 100.0000,129.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="100.0000,241.0000 104.8000,241.0000 104.8000,237.8000 103.4000,237.8000 103.4000,239.6000 100.0000,239.6000" stroke="#1c6b92" stroke-width="0.25" fill="none"/>
+<polygon points="94.0000,241.0000 102.0000,241.0000 102.0000,239.8000 94.0000,239.8000" stroke="#1c6b92" stroke-width="0.25" fill="none"/>
+<polygon points="100.0000,139.4000 104.8000,139.4000 104.8000,136.2000 103.4000,136.2000 103.4000,138.0000 100.0000,138.0000" stroke="#1c6b92" stroke-width="0.25" fill="none"/>
+<polygon points="94.0000,139.4000 102.0000,139.4000 102.0000,138.2000 94.0000,138.2000" stroke="#1c6b92" stroke-width="0.25" fill="none"/>
+<line x1="100.0000" y1="108.0000" x2="116.0000" y2="108.0000" stroke="#384c55" stroke-width="0.13"/>
+<line x1="99.0000" y1="109.0000" x2="101.0000" y2="107.0000" stroke="#384c55" stroke-width="0.2"/>
+<line x1="115.0000" y1="109.0000" x2="117.0000" y2="107.0000" stroke="#384c55" stroke-width="0.2"/>
+<polygon points="100.7508,103.9000 115.2492,103.9000 115.2492,107.5000 100.7508,107.5000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="108.0" y="106.5" fill="#384c55" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="middle">80 G huella</text>
+<line x1="100.0000" y1="119.0000" x2="105.8000" y2="119.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="99.0000" y1="120.0000" x2="101.0000" y2="118.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="104.8000" y1="120.0000" x2="106.8000" y2="118.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="97.0968,114.9000 108.7032,114.9000 108.7032,118.5000 97.0968,118.5000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="102.9" y="117.5" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="middle">29 P aire</text>
+<line x1="105.8000" y1="93.0000" x2="115.8000" y2="93.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="104.8000" y1="94.0000" x2="106.8000" y2="92.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="114.8000" y1="94.0000" x2="116.8000" y2="92.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="104.7067,88.9000 116.8933,88.9000 116.8933,92.5000 104.7067,92.5000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="110.8" y="91.5" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="middle">50 P lana</text>
+<line x1="150.0000" y1="249.0000" x2="150.0000" y2="129.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="149.0000" y1="250.0000" x2="151.0000" y2="248.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="149.0000" y1="130.0000" x2="151.0000" y2="128.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="151.4000,187.4000 168.6443,187.4000 168.6443,191.0000 151.4000,191.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="152.0" y="190.0" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">600 P modulo</text>
+<line x1="115.8000" y1="199.0000" x2="29.0000" y2="307.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<line x1="29.0000" y1="307.0000" x2="32.0000" y2="307.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<text x="33" y="308" fill="#1c6b92" font-family="Arial" font-size="2.7" font-weight="normal" text-anchor="start">P tela porosa1 y velo de contencion; lana mineral50, bastidor12. Aire posterior29. Dos grapas Z desmontables y retenida inferior.</text>
+<line x1="98.0000" y1="139.6000" x2="29.0000" y2="330.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<line x1="29.0000" y1="330.0000" x2="32.0000" y2="330.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<text x="33" y="331" fill="#1c6b92" font-family="Arial" font-size="2.7" font-weight="normal" text-anchor="start">P fijaciones murales Ø6 a soporte resistente. El bastidor recibe el herraje; no se cuelga de la tela ni de la lana.</text>
+<text x="333" y="78" fill="#1c6b92" font-family="Arial" font-size="3.2" font-weight="bold" text-anchor="start">Cielorraso P sobre bafle G / corte parcial | 1:5</text>
+<polygon points="383.0000,257.0000 503.0000,257.0000 503.0000,233.0000 383.0000,233.0000" stroke="#384c55" stroke-width="0.2" fill="#edf1f2"/>
+<polygon points="347.0000,257.0000 377.0000,257.0000 377.0000,253.4000 347.0000,253.4000" stroke="#384c55" stroke-width="0.2" fill="#edf1f2"/>
+<polygon points="509.0000,257.0000 565.0000,257.0000 565.0000,253.4000 509.0000,253.4000" stroke="#384c55" stroke-width="0.2" fill="#edf1f2"/>
+<polygon points="347.0000,227.0000 565.0000,227.0000 565.0000,224.0000 347.0000,224.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="347.0000,224.0000 565.0000,224.0000 565.0000,221.0000 347.0000,221.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="347.0000,220.6000 565.0000,220.6000 565.0000,213.6000 347.0000,213.6000" stroke="#1c6b92" stroke-width="0.25" fill="none"/>
+<polygon points="349.0000,212.0000 365.0000,212.0000 365.0000,168.0000 349.0000,168.0000" stroke="#384c55" stroke-width="0.2" fill="#edf1f2"/>
+<polygon points="488.2000,212.0000 504.2000,212.0000 504.2000,168.0000 488.2000,168.0000" stroke="#384c55" stroke-width="0.2" fill="#edf1f2"/>
+<polygon points="365.0000,205.0000 488.2000,205.0000 488.2000,197.0000 365.0000,197.0000" stroke="#1c6b92" stroke-width="0.3" fill="#e4f2f8"/>
+<polygon points="366.2000,203.8000 487.0000,203.8000 487.0000,198.2000 366.2000,198.2000" stroke="#1c6b92" stroke-width="0.18" fill="#ffffff"/>
+<polygon points="365.0000,209.0000 366.2000,209.0000 366.2000,193.0000 365.0000,193.0000" stroke="#1c6b92" stroke-width="0.25" fill="#e4f2f8"/>
+<polygon points="487.0000,209.0000 488.2000,209.0000 488.2000,193.0000 487.0000,193.0000" stroke="#1c6b92" stroke-width="0.25" fill="#e4f2f8"/>
+<polygon points="354.0000,207.4000 368.0000,207.4000 368.0000,205.8000 354.0000,205.8000" stroke="#1c6b92" stroke-width="0.25" fill="none"/>
+<polygon points="354.0000,196.0000 368.0000,196.0000 368.0000,194.4000 354.0000,194.4000" stroke="#1c6b92" stroke-width="0.25" fill="none"/>
+<polygon points="486.0000,207.4000 500.0000,207.4000 500.0000,205.8000 486.0000,205.8000" stroke="#1c6b92" stroke-width="0.25" fill="none"/>
+<polygon points="486.0000,196.0000 500.0000,196.0000 500.0000,194.4000 486.0000,194.4000" stroke="#1c6b92" stroke-width="0.25" fill="none"/>
+<polygon points="389.0000,233.0000 390.2000,233.0000 390.2000,193.4000 389.0000,193.4000" stroke="#1c6b92" stroke-width="0.25" fill="none"/>
+<polygon points="387.2000,229.8000 392.0000,229.8000 392.0000,228.8000 387.2000,228.8000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="387.2000,219.6000 392.0000,219.6000 392.0000,218.6000 387.2000,218.6000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="386.6000,217.0000 392.6000,217.0000 392.6000,214.0000 386.6000,214.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="387.4000,197.0000 391.8000,197.0000 391.8000,196.4000 387.4000,196.4000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="388.2000,196.4000 391.0000,196.4000 391.0000,195.0000 388.2000,195.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="469.0000,233.0000 470.2000,233.0000 470.2000,193.4000 469.0000,193.4000" stroke="#1c6b92" stroke-width="0.25" fill="none"/>
+<polygon points="467.2000,229.8000 472.0000,229.8000 472.0000,228.8000 467.2000,228.8000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="467.2000,219.6000 472.0000,219.6000 472.0000,218.6000 467.2000,218.6000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="466.6000,217.0000 472.6000,217.0000 472.6000,214.0000 466.6000,214.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="467.4000,197.0000 471.8000,197.0000 471.8000,196.4000 467.4000,196.4000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="468.2000,196.4000 471.0000,196.4000 471.0000,195.0000 468.2000,195.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<line x1="357.0000" y1="149.0000" x2="496.2000" y2="149.0000" stroke="#384c55" stroke-width="0.13"/>
+<line x1="356.0000" y1="150.0000" x2="358.0000" y2="148.0000" stroke="#384c55" stroke-width="0.2"/>
+<line x1="495.2000" y1="150.0000" x2="497.2000" y2="148.0000" stroke="#384c55" stroke-width="0.2"/>
+<polygon points="415.5937,144.9000 437.6063,144.9000 437.6063,148.5000 415.5937,148.5000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="426.6" y="147.5" fill="#384c55" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="middle">696 G ejes cabios</text>
+<line x1="375.0000" y1="257.4000" x2="375.0000" y2="227.0000" stroke="#1c6b92" stroke-width="0.3"/>
+<line x1="375.0000" y1="227.0000" x2="377.0000" y2="227.0000" stroke="#1c6b92" stroke-width="0.3"/>
+<line x1="508.0000" y1="257.4000" x2="508.0000" y2="227.0000" stroke="#1c6b92" stroke-width="0.3"/>
+<line x1="508.0000" y1="227.0000" x2="506.0000" y2="227.0000" stroke="#1c6b92" stroke-width="0.3"/>
+<line x1="561.0000" y1="257.0000" x2="561.0000" y2="233.0000" stroke="#384c55" stroke-width="0.13"/>
+<line x1="560.0000" y1="258.0000" x2="562.0000" y2="256.0000" stroke="#384c55" stroke-width="0.2"/>
+<line x1="560.0000" y1="234.0000" x2="562.0000" y2="232.0000" stroke="#384c55" stroke-width="0.2"/>
+<polygon points="562.4000,243.4000 570.6827,243.4000 570.6827,247.0000 562.4000,247.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="563.0" y="246.0" fill="#384c55" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">120 G</text>
+<line x1="531.0000" y1="233.0000" x2="531.0000" y2="227.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="530.0000" y1="234.0000" x2="532.0000" y2="232.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="530.0000" y1="228.0000" x2="532.0000" y2="226.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="532.4000,228.4000 544.0063,228.4000 544.0063,232.0000 532.4000,232.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="533.0" y="231.0" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">30 P aire</text>
+<line x1="541.0000" y1="227.0000" x2="541.0000" y2="221.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="540.0000" y1="228.0000" x2="542.0000" y2="226.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="540.0000" y1="222.0000" x2="542.0000" y2="220.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="542.4000,222.4000 551.6945,222.4000 551.6945,226.0000 542.4000,226.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="543.0" y="225.0" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">2x15 P</text>
+<polygon points="432.6332,266.2000 473.3668,266.2000 473.3668,270.0000 432.6332,270.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="453.0" y="269.0" fill="#384c55" font-family="Arial" font-size="2.8" font-weight="normal" text-anchor="middle">G cara inferior +6,45 =3,20 libre</text>
+<line x1="469.6000" y1="196.6000" x2="329.0000" y2="281.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<line x1="329.0000" y1="281.0000" x2="332.0000" y2="281.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<text x="333" y="282" fill="#1c6b92" font-family="Arial" font-size="2.7" font-weight="normal" text-anchor="start">P4 M6 continuos desde bastidor hasta perfil secundario40 x40 x3, con arandela/tuerca superior y retenida secundaria independiente.</text>
+<line x1="488.0000" y1="195.0000" x2="329.0000" y2="304.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<line x1="329.0000" y1="304.0000" x2="332.0000" y2="304.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<text x="333" y="305" fill="#1c6b92" font-family="Arial" font-size="2.7" font-weight="normal" text-anchor="start">P escuadras60 x60 x6 con2 fijacionesØ8 al cabio en cada extremo. Espesor, tornillos y separacion por calcular; la carga no termina en el yeso.</text>
+<line x1="483.0000" y1="224.0000" x2="329.0000" y2="326.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<line x1="329.0000" y1="326.0000" x2="332.0000" y2="326.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<text x="333" y="327" fill="#1c6b92" font-family="Arial" font-size="2.7" font-weight="normal" text-anchor="start">P barrera hermetica2x15 a +6,60/+6,63, juntas alternadas y sello perimetral. La nube y la cara visible conservan +6,45. Espacio disponible se coteja contra cabios.</text>
+<text x="31" y="370" fill="#384c55" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="start">R3 | GIK Acoustics: How to Hang Acoustic Panels</text>
+<a href="https://www.gikacoustics.net/en-gb/blogs/knowledge-base/how-to-hang-acoustic-panels"><rect x="31" y="367" width="265" height="5" fill="transparent"/></a>
+<text x="333" y="370" fill="#384c55" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="start">R6 | ROCKWOOL: Acoustic insulation - installation and flanking</text>
+<a href="https://www.rockwool.com/north-america/applications/acoustic-insulation/"><rect x="333" y="367" width="230" height="5" fill="transparent"/></a>
+</svg>

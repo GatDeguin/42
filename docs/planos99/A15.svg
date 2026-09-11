@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="594mm" height="420mm" viewBox="0 0 594 420">
+<rect width="594" height="420" fill="white"/>
+<polygon points="10.0000,10.0000 584.0000,10.0000 584.0000,410.0000 10.0000,410.0000" fill="none" stroke="#172b35" stroke-width="0.35"/>
+<text x="18.0000" y="21.0000" font-family="Arial" font-size="4.8" font-weight="bold" fill="#172b35" text-anchor="start">CASA DE CAMPO</text>
+<text x="18.0000" y="28.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#6f7e83" text-anchor="start">VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO</text>
+<text x="577.0000" y="21.0000" font-family="Arial" font-size="4.2" font-weight="bold" fill="#172b35" text-anchor="end">A15 | Instalaciones coordinadas</text>
+<text x="577.0000" y="28.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#6f7e83" text-anchor="end">Nodos reales de consumo; enlaces funcionales propuestos P</text>
+<line x1="10.0000" y1="34.0000" x2="584.0000" y2="34.0000" stroke="#172b35" stroke-width="0.25"/>
+<line x1="10.0000" y1="384.0000" x2="584.0000" y2="384.0000" stroke="#172b35" stroke-width="0.3"/>
+<text x="18.0000" y="393.0000" font-family="Arial" font-size="3" font-weight="bold" fill="#ac5b27" text-anchor="start">EN REVISION R7 / SIN APROBACION 9,9 | NO APTO PARA CONSTRUCCION</text>
+<text x="18.0000" y="401.0000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#6f7e83" text-anchor="start">Modelo: Casa_de_Campo_99_R7D.blend | SHA256 9cf1a0e2f1b1a606 | 10/09/2026</text>
+<text x="375.0000" y="393.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">A2 594 x 420 mm | imprimir al 100 %</text>
+<text x="375.0000" y="401.0000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#6f7e83" text-anchor="start">Metros salvo indicacion | cotas prevalecen al escalimetro</text>
+<text x="577.0000" y="407.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#172b35" text-anchor="end">20</text>
+<text x="32.0000" y="73.0000" font-family="Arial" font-size="3.2" font-weight="bold" fill="#236a86" text-anchor="start">01 Coordinacion general / PB | 1:100</text>
+<polygon points="32.0000,90.0000 252.0000,90.0000 252.0000,290.0000 32.0000,290.0000" fill="none" stroke="#172b35" stroke-width="0.35"/>
+<polygon points="172.0000,90.0000 252.0000,90.0000 252.0000,210.0000 172.0000,210.0000" fill="none" stroke="#172b35" stroke-width="0.25"/>
+<polygon points="162.0000,240.0000 232.0000,240.0000 232.0000,270.0000 162.0000,270.0000" fill="none" stroke="#236a86" stroke-width="0.25"/>
+<polygon points="180.0000,132.2000 181.6000,132.2000 181.6000,133.8000 180.0000,133.8000" fill="#236a86" stroke="#236a86" stroke-width="0.2"/>
+<polygon points="170.2913,130.5000 177.3087,130.5000 177.3087,134.3000 170.2913,134.3000" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="173.8000" y="133.0000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#236a86" text-anchor="middle">AF-1</text>
+<line x1="180.8000" y1="133.0000" x2="245.0000" y2="133.0000" stroke="#236a86" stroke-width="0.2" stroke-dasharray="2 1"/>
+<polygon points="229.7000,102.7000 231.3000,102.7000 231.3000,104.3000 229.7000,104.3000" fill="#236a86" stroke="#236a86" stroke-width="0.2"/>
+<polygon points="220.7548,101.0000 226.2452,101.0000 226.2452,104.8000 220.7548,104.8000" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="223.5000" y="103.5000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#236a86" text-anchor="middle">B-1</text>
+<line x1="230.5000" y1="103.5000" x2="245.0000" y2="103.5000" stroke="#236a86" stroke-width="0.2" stroke-dasharray="2 1"/>
+<polygon points="238.1000,170.7000 239.7000,170.7000 239.7000,172.3000 238.1000,172.3000" fill="#236a86" stroke="#236a86" stroke-width="0.2"/>
+<polygon points="229.0163,169.0000 234.7837,169.0000 234.7837,172.8000 229.0163,172.8000" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="231.9000" y="171.5000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#236a86" text-anchor="middle">Q-1</text>
+<line x1="238.9000" y1="171.5000" x2="245.0000" y2="171.5000" stroke="#236a86" stroke-width="0.2" stroke-dasharray="2 1"/>
+<polygon points="239.5000,197.0000 241.1000,197.0000 241.1000,198.6000 239.5000,198.6000" fill="#236a86" stroke="#236a86" stroke-width="0.2"/>
+<polygon points="230.5548,195.3000 236.0452,195.3000 236.0452,199.1000 230.5548,199.1000" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="233.3000" y="197.8000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#236a86" text-anchor="middle">B-3</text>
+<line x1="240.3000" y1="197.8000" x2="245.0000" y2="197.8000" stroke="#236a86" stroke-width="0.2" stroke-dasharray="2 1"/>
+<polygon points="244.2000,164.8000 245.8000,164.8000 245.8000,166.4000 244.2000,166.4000" fill="#236a86" stroke="#236a86" stroke-width="0.2"/>
+<polygon points="233.2400,163.1000 242.7600,163.1000 242.7600,166.9000 233.2400,166.9000" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="238.0000" y="165.6000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#236a86" text-anchor="middle">B-2 PA</text>
+<line x1="245.0000" y1="165.6000" x2="245.0000" y2="165.6000" stroke="#236a86" stroke-width="0.2" stroke-dasharray="2 1"/>
+<polygon points="246.2000,193.2000 247.8000,193.2000 247.8000,194.8000 246.2000,194.8000" fill="#236a86" stroke="#236a86" stroke-width="0.2"/>
+<polygon points="235.1711,191.5000 244.8289,191.5000 244.8289,195.3000 235.1711,195.3000" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="240.0000" y="194.0000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#236a86" text-anchor="middle">C-2 PA</text>
+<line x1="247.0000" y1="194.0000" x2="245.0000" y2="194.0000" stroke="#236a86" stroke-width="0.2" stroke-dasharray="2 1"/>
+<line x1="245.0000" y1="100.0000" x2="245.0000" y2="200.0000" stroke="#236a86" stroke-width="0.3" stroke-dasharray="2 1"/>
+<line x1="245.0000" y1="100.0000" x2="152.0000" y2="100.0000" stroke="#236a86" stroke-width="0.3" stroke-dasharray="2 1"/>
+<polygon points="137.4662,92.2000 160.5338,92.2000 160.5338,96.3000 137.4662,96.3000" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="149.0000" y="95.0000" font-family="Arial" font-size="2.8" font-weight="bold" fill="#ac5b27" text-anchor="middle">ACOMETIDAS P</text>
+<polygon points="236.0000,250.0000 246.0000,250.0000 246.0000,260.0000 236.0000,260.0000" fill="none" stroke="#ac5b27" stroke-width="0.2"/>
+<polygon points="206.7821,277.2000 227.2179,277.2000 227.2179,281.3000 206.7821,281.3000" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="217.0000" y="280.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#ac5b27" text-anchor="middle">Equipo pileta P</text>
+<line x1="232.0000" y1="255.0000" x2="236.0000" y2="255.0000" stroke="#236a86" stroke-width="0.2" stroke-dasharray="2 1"/>
+<text x="302.0000" y="52.0000" font-family="Arial" font-size="3.7" font-weight="bold" fill="#236a86" text-anchor="start">AGUA / DESAGUE / PLUVIAL</text>
+<text x="302.0000" y="59.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">AF-1 cocina mono; B-1 bano mono; Q-1 quincho; B-3 bano pileta; B-2 bano PA; C-2 cocina PA. Nodos sobre equipos reales del modelo.</text>
+<text x="302.0000" y="66.4000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Las lineas punteadas son relaciones funcionales, no tuberias ejecutivas. Recorridos, diametros, pendientes, ventilaciones, registros y acometidas se definen con el proyecto sanitario.</text>
+<text x="302.0000" y="73.8000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Pluvial: captacion y bajadas en A04. Destino final de descarga propuesto; red y cota de conexion exactas pendientes.</text>
+<text x="302.0000" y="81.2000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Pileta P: skimmer / toma de fondo -&gt; prefiltro / bomba -&gt; filtro -&gt; retornos. Prever valvulas, vaciado, renovacion y medidas de seguridad; equipo y tuberias por calcular.</text>
+<text x="302.0000" y="200.0000" font-family="Arial" font-size="3.7" font-weight="bold" fill="#236a86" text-anchor="start">ELECTRICIDAD / ILUMINACION / EXTRACCION</text>
+<text x="302.0000" y="207.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Servicios de red disponibles segun propietario. Tablero y medidor propuestos junto al acceso; ubicacion final segun prestador.</text>
+<text x="302.0000" y="214.4000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">P: separar circuitos de iluminacion, tomas generales, cocinas, pileta y estudio. Definir potencias, protecciones, puesta a tierra y equipotencialidad.</text>
+<text x="302.0000" y="221.8000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">G: luminarias representadas no equivalen a calculo luminotecnico ni conexion electrica.</text>
+<text x="302.0000" y="229.2000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">G: conductos de horno, parrilla y cocina presentes. Ver A10: caudal, limpieza, aislamiento y reposicion de aire pendientes.</text>
+<text x="302.0000" y="236.6000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">P modelado: D08 representa impulsion y extraccion independientes con soportes a cabios, registro, filtros y terminales separados2,52m. Caudales, productos y prestaciones pendientes.</text>
+<text x="33.0000" y="334.0000" font-family="Arial" font-size="3.1" font-weight="normal" fill="#ac5b27" text-anchor="start">CRITERIO DE COORDINACION: localizar consumos y cruces antes de dimensionar redes. Sin cotas de servicio ni calculos no se presenta este esquema como</text>
+<text x="33.0000" y="339.1000" font-family="Arial" font-size="3.1" font-weight="normal" fill="#ac5b27" text-anchor="start">instalacion completa o certificada.</text>
+</svg>

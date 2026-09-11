@@ -1,0 +1,58 @@
+{
+  "modelSHA256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "purpose": "Recortes de inspección1:1, sin retoque ni cambio de color",
+  "images": [
+    {
+      "key": "huerta",
+      "sourceSHA256": "05ac31bef748944c067449bd0b377e29e03c61456d80685a8b6d93b4f79d9769",
+      "cropBoxPixels": [
+        650,
+        880,
+        1400,
+        1450
+      ],
+      "scale": 1,
+      "file": "huerta_detalle.png",
+      "sha256": "5356710cc28100d2c3529674f5ccce017bb6f105cefe5522ed9ca604dbbb5eba"
+    },
+    {
+      "key": "dormitorio",
+      "sourceSHA256": "0685be025485d3abcdd31c814d56aaa1b093e4333ed636c7580bf9bf8c848e55",
+      "cropBoxPixels": [
+        550,
+        800,
+        1650,
+        1270
+      ],
+      "scale": 1,
+      "file": "dormitorio_detalle.png",
+      "sha256": "347a9295d278fd8c476ad67264d89d3e4436a06de98a49ba6c0aba0b379cc343"
+    },
+    {
+      "key": "estudio",
+      "sourceSHA256": "5a6e2d0d68280dd47b50306c5d0c70ed85f0da0f73d910513fe1b57faab7e220",
+      "cropBoxPixels": [
+        430,
+        730,
+        1330,
+        1350
+      ],
+      "scale": 1,
+      "file": "estudio_detalle.png",
+      "sha256": "92f5b031a430fe1cee355d6461c36d7a5dc71f242d70164d41be94f8ffc8fb14"
+    },
+    {
+      "key": "cocina",
+      "sourceSHA256": "e62f277fd567e043044e412f80f0d88d5efad2f0e222540c0a89db3f56d10afb",
+      "cropBoxPixels": [
+        470,
+        970,
+        1450,
+        1480
+      ],
+      "scale": 1,
+      "file": "cocina_detalle.png",
+      "sha256": "dbc1334cc4726343bfc183ae80e50588a5edcb1c6ca7c59f418acfe4e7d401bd"
+    }
+  ]
+}

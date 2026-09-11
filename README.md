@@ -1,12 +1,12 @@
 # Casa de campo · modelo y documentación arquitectónica
 
-**[Explorar R7D en 3D](https://gatdeguin.github.io/42/)** · **[Estado e imágenes R7D](https://gatdeguin.github.io/42/avance-r7/)** · [Descargar Blender R7D](https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R7D.blend) · [Descargar GLB](https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R7D.glb).
+**[Explorar R7D en 3D](https://gatdeguin.github.io/42/)** · **[25 imágenes R7D](https://gatdeguin.github.io/42/renders99/)** · **[33 planos R7D](https://gatdeguin.github.io/42/planos99/)** · [Estado de revisión](https://gatdeguin.github.io/42/avance-r7/) · [Descargar Blender R7D](https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R7D.blend) · [Descargar GLB](https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R7D.glb).
 
-Reconstrucción editable en Virrey del Pino, La Matanza, Buenos Aires. **R7D es una candidata integrada en revisión; no tiene nota global ni aprobación.** El objetivo solicitado es9,9/10 e hiperrealismo fotográfico. Última auditoría formalR6K: **8,3/10**, sin aprobación.
+Reconstrucción editable en Virrey del Pino, La Matanza, Buenos Aires. **R7D obtuvo 8,5/10 en la [auditoría integral independiente](https://github.com/GatDeguin/42/blob/main/audit/critica_integral_r7d_99.md), sin aprobación.** El objetivo solicitado es 9,9/10 e hiperrealismo fotográfico. La revisión anterior R6K obtuvo 8,3/10.
 
-R7D incorpora el baño PB junto a fachada/medianera, elimina la puerta vestidor–comedor y agrega dormitorio–estar. Integra revestimientos húmedos, ventilación y sanitarios revisados. Estudio3,20m libres; vivienda2,60m. Puertas, agua, alturas y encuentros tienen controles geométricos; la auditoría independiente aún debe cerrar el conjunto.
+R7D incorpora el baño PB junto a fachada/medianera, elimina la puerta vestidor–comedor y agrega dormitorio–estar. Integra revestimientos húmedos, ventilación y sanitarios revisados. Estudio3,20m libres; vivienda 2,60 m. Puertas, agua, alturas y encuentros tienen controles geométricos; la auditoría independiente exige tres nuevas pasadas correctivas.
 
-**Reservas conocidas:** el crítico detectó interferencias de herrajes sanitarios y las hojas de huerta siguen rígidas. La iluminación web por ambiente y el juego completo de25stills/33planos se están terminando desde el mismo SHA. El visor principal ahora muestraR7D; las [19imágenes anteriores](https://gatdeguin.github.io/42/renders/) y [33planos anteriores](https://gatdeguin.github.io/42/planos/) continúan rotuladosR6K.
+**Reservas conocidas:** el crítico detectó interferencias de herrajes sanitarios y las hojas de huerta siguen rígidas. La iluminación web por ambiente sigue pendiente. Ya están publicados el visor, 25 imágenes y 33 planos de R7D desde el mismo SHA. El PDF es vectorial y el ZIP incluye SVG/DXF con 209 cotas nativas. Las [19imágenes anteriores](https://gatdeguin.github.io/42/renders/) y [33planos anteriores](https://gatdeguin.github.io/42/planos/) se conservan como archivo R6K.
 
 [Controles y huellas de la publicación R7D](review99/github_r7d_progress/README.md) · [Protocolo independiente](audit/r7_review_requirements.md). **Video pausado hasta autorización explícita.**
 
