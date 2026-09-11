@@ -1,0 +1,80 @@
+{
+  "url": "http://127.0.0.1:8420/avance-r7/",
+  "errors": [],
+  "views": [
+    {
+      "key": "desktop",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "imageReady": true,
+      "links": [
+        {
+          "text": "42 / CASA DE CAMPO",
+          "href": "http://127.0.0.1:8420/"
+        },
+        {
+          "text": "Proyecto en GitHub ↗",
+          "href": "https://github.com/GatDeguin/42"
+        },
+        {
+          "text": "Descargar Blender R7 de avance ↓",
+          "href": "https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R7_avance.blend"
+        },
+        {
+          "text": "visor interactivo",
+          "href": "http://127.0.0.1:8420/"
+        },
+        {
+          "text": "19 imágenes",
+          "href": "http://127.0.0.1:8420/renders/"
+        },
+        {
+          "text": "33 láminas",
+          "href": "http://127.0.0.1:8420/planos/"
+        },
+        {
+          "text": "Controles, archivo y huella de esta publicación ↗",
+          "href": "https://github.com/GatDeguin/42/blob/main/review99/github_progress/README.md"
+        }
+      ]
+    },
+    {
+      "key": "mobile",
+      "width": 390,
+      "scrollWidth": 390,
+      "imageReady": true,
+      "links": [
+        {
+          "text": "42 / CASA DE CAMPO",
+          "href": "http://127.0.0.1:8420/"
+        },
+        {
+          "text": "Proyecto en GitHub ↗",
+          "href": "https://github.com/GatDeguin/42"
+        },
+        {
+          "text": "Descargar Blender R7 de avance ↓",
+          "href": "https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R7_avance.blend"
+        },
+        {
+          "text": "visor interactivo",
+          "href": "http://127.0.0.1:8420/"
+        },
+        {
+          "text": "19 imágenes",
+          "href": "http://127.0.0.1:8420/renders/"
+        },
+        {
+          "text": "33 láminas",
+          "href": "http://127.0.0.1:8420/planos/"
+        },
+        {
+          "text": "Controles, archivo y huella de esta publicación ↗",
+          "href": "https://github.com/GatDeguin/42/blob/main/review99/github_progress/README.md"
+        }
+      ]
+    }
+  ],
+  "scope": "Static R7 progress page, desktop and touch viewport emulation. No claim of final R7 model viewer QA.",
+  "passed": true
+}

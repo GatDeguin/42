@@ -1,0 +1,19 @@
+{
+  "report": "audit\\critica_integral_95_02.md",
+  "sha256": "ef44d4d060f2a2db0fddc8a74f3529b1ac6b64dc3e953a2699f13d4e020500ed",
+  "global_score": 8.3,
+  "raw_weighted_score": 8.26,
+  "next_acceptance_threshold": 9.9,
+  "approved": false,
+  "source_sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+  "public_url": "https://gatdeguin.github.io/42/",
+  "primary_blocks": [
+    "C1 water-floor intersection 114 mm / 2.148717 m3",
+    "V1 nonphotographic textiles and equipment",
+    "V2 botany/landscape and web foliage loss",
+    "V3 Cycles-web material/light mismatch",
+    "V4 progressive noise and camera composition",
+    "C2 wet-wall finish not demonstrated",
+    "C3 D08 physical coordination pending"
+  ]
+}

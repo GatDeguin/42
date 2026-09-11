@@ -1,0 +1,40 @@
+{
+  "status": "EN REVISIÓN; no aprobación9,9",
+  "model": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7A_layout.blend",
+  "sha256": "1c0ef5e95994315508bf8332e6868d459b882a359451596496ed32cae706454c",
+  "source_model": "output/Casa_de_Campo_99_R7A.blend",
+  "source_sha256": "c25f6d9be283081d49733aa0e2f60d2c458b3b5fcb1de9092f59707404903d7f",
+  "constructor": "scripts/correcciones99_layout_r7.py",
+  "constructor_finish": "scripts/correcciones99_layout_finish.py",
+  "full_sweeps": {
+    "report": "review99/layout_r7a_checks.json",
+    "source_sha256": "520b17d86aa04752095a09d01d23c4cc78c80a6c8fdf99691bddafb80a46264b",
+    "poses_per_door": 41,
+    "doors": 2,
+    "boolean_pairs": 961,
+    "hard_hits": []
+  },
+  "final_delta": {
+    "report": "review99/layout_final_delta_checks.json",
+    "equivalent_neighborhood_objects": 125,
+    "local_reservations_pass": true
+  },
+  "door_clear_m": {
+    "DOOR | bedroomDining": 0.8129996490478497,
+    "DOOR | bathroomMono": 0.813000103235245
+  },
+  "dining_passage_m": 0.8050012588500977,
+  "interfaces": "review99/layout_interfaces_geometry.json",
+  "details": "review99/layout_r7a_details.json",
+  "diagrams": [
+    "review99/layout/layout_PB.svg",
+    "review99/layout/layout_PA.svg"
+  ],
+  "limits": [
+    "Acabados húmedos y D08 pendientes de esta pasada constructiva.",
+    "Cámaras y recorridos deben actualizarse por nueva distribución.",
+    "Frente WC mono780mm a pared; lateral WC–mampara828mm aprox.; huellas no equivalen a certificación de comodidad.",
+    "Plantas de coordinación usan envolventes de muebles G y huellas P; planos finales aún no emitidos."
+  ],
+  "pass_for_layout_integration": true
+}

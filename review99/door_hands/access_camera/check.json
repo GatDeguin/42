@@ -1,0 +1,26 @@
+{
+  "name": "LUZ99 | Acceso dormitorio desde estar",
+  "position_source": [
+    17.08,
+    4.85,
+    10.55
+  ],
+  "target_source": [
+    16.2,
+    4.85,
+    7.32
+  ],
+  "lens_mm": 20,
+  "shift_y": -0.12,
+  "presentation_frame": 150,
+  "aspect": [
+    4,
+    3
+  ],
+  "video_rendered": false,
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7C_hands_preview.blend",
+  "sourceSHA256": "c747143332f00b7888512caad1be7ee7accfd30cb1a57f2703f63bfb6e39f3b9",
+  "existing_changes": [],
+  "idempotence": true,
+  "eye_and_body225mm_hits": []
+}

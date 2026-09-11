@@ -1,0 +1,608 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7C_hands_preview.blend",
+  "sha256": "c747143332f00b7888512caad1be7ee7accfd30cb1a57f2703f63bfb6e39f3b9",
+  "checks": [
+    {
+      "name": "REV | Dormitorio acceso",
+      "source_position": [
+        14.569999694824219,
+        4.869999885559082,
+        8.600000381469727
+      ],
+      "lens_mm": 24.0,
+      "aspect": [
+        16,
+        9
+      ],
+      "presentation_frame": 1,
+      "door_opens": {
+        "DOOR | bedroomLink": 0.0,
+        "DOOR | bedroomDining": 0.0
+      },
+      "ray_grid": [
+        15,
+        11
+      ],
+      "moving_door_coverage_fraction": 0.07878787878787878,
+      "near_obstruction": false,
+      "minimum_distance_m": 1.6874613580871212,
+      "central_first_hit": {
+        "sample": [
+          7,
+          5
+        ],
+        "object": "Cabezal dormitorio",
+        "distance_m": 3.108414007849591,
+        "door": false
+      },
+      "door_hits": [
+        {
+          "sample": [
+            13,
+            2
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 3.569118224887084,
+          "door": true
+        },
+        {
+          "sample": [
+            14,
+            2
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 3.4514014486693685,
+          "door": true
+        },
+        {
+          "sample": [
+            13,
+            3
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 3.4908607061816537,
+          "door": true
+        },
+        {
+          "sample": [
+            14,
+            3
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 3.3814429402611594,
+          "door": true
+        },
+        {
+          "sample": [
+            13,
+            4
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 3.428789642569309,
+          "door": true
+        },
+        {
+          "sample": [
+            14,
+            4
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 3.325805796236262,
+          "door": true
+        },
+        {
+          "sample": [
+            13,
+            5
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 3.3826303322882074,
+          "door": true
+        },
+        {
+          "sample": [
+            14,
+            5
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 3.2842622735798215,
+          "door": true
+        },
+        {
+          "sample": [
+            14,
+            6
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 3.2564473848319713,
+          "door": true
+        },
+        {
+          "sample": [
+            14,
+            7
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 3.241861469467812,
+          "door": true
+        },
+        {
+          "sample": [
+            14,
+            8
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 3.239880405392982,
+          "door": true
+        },
+        {
+          "sample": [
+            14,
+            9
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 3.2497753842414743,
+          "door": true
+        },
+        {
+          "sample": [
+            14,
+            10
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 3.2707359391592297,
+          "door": true
+        }
+      ]
+    },
+    {
+      "name": "REV | Dormitorio completo",
+      "source_position": [
+        17.1200008392334,
+        4.860000133514404,
+        8.539999961853027
+      ],
+      "lens_mm": 22.0,
+      "aspect": [
+        16,
+        9
+      ],
+      "presentation_frame": 1,
+      "door_opens": {
+        "DOOR | bedroomLink": 0.0,
+        "DOOR | bedroomDining": 0.0
+      },
+      "ray_grid": [
+        15,
+        11
+      ],
+      "moving_door_coverage_fraction": 0.0,
+      "near_obstruction": false,
+      "minimum_distance_m": 1.4994833771819978,
+      "central_first_hit": {
+        "sample": [
+          7,
+          5
+        ],
+        "object": "R7B | Almohada 1 | funda relleno y compresión",
+        "distance_m": 2.6150525395237483,
+        "door": false
+      },
+      "door_hits": []
+    },
+    {
+      "name": "LUZ99 | Dormitorio desde paso",
+      "source_position": [
+        18.200000762939453,
+        4.78000020980835,
+        7.71999979019165
+      ],
+      "lens_mm": 24.0,
+      "aspect": [
+        4,
+        3
+      ],
+      "presentation_frame": 150,
+      "door_opens": {
+        "DOOR | bedroomLink": 1.0,
+        "DOOR | bedroomDining": 1.0
+      },
+      "ray_grid": [
+        15,
+        11
+      ],
+      "moving_door_coverage_fraction": 0.2545454545454545,
+      "near_obstruction": false,
+      "minimum_distance_m": 0.6978647005487371,
+      "central_first_hit": {
+        "sample": [
+          7,
+          5
+        ],
+        "object": "R7B | Cortina 1 | pliegues suspendidos",
+        "distance_m": 4.072967710280837,
+        "door": false
+      },
+      "door_hits": [
+        {
+          "sample": [
+            0,
+            0
+          ],
+          "object": "Puerta dormitorio comedor | hoja",
+          "distance_m": 0.9624389765331942,
+          "door": true
+        },
+        {
+          "sample": [
+            9,
+            0
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 1.3671945244744907,
+          "door": true
+        },
+        {
+          "sample": [
+            10,
+            0
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 1.085125633395559,
+          "door": true
+        },
+        {
+          "sample": [
+            11,
+            0
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.9106418067543652,
+          "door": true
+        },
+        {
+          "sample": [
+            9,
+            1
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 1.306537726759793,
+          "door": true
+        },
+        {
+          "sample": [
+            10,
+            1
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 1.0402758476536231,
+          "door": true
+        },
+        {
+          "sample": [
+            11,
+            1
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.8755279974537483,
+          "door": true
+        },
+        {
+          "sample": [
+            9,
+            2
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 1.256427968405239,
+          "door": true
+        },
+        {
+          "sample": [
+            10,
+            2
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 1.0033766615038715,
+          "door": true
+        },
+        {
+          "sample": [
+            11,
+            2
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.8467345346463784,
+          "door": true
+        },
+        {
+          "sample": [
+            9,
+            3
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 1.2175116789196951,
+          "door": true
+        },
+        {
+          "sample": [
+            10,
+            3
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.9749525035696792,
+          "door": true
+        },
+        {
+          "sample": [
+            11,
+            3
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.8246765989354293,
+          "door": true
+        },
+        {
+          "sample": [
+            12,
+            3
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.7915113661718668,
+          "door": true
+        },
+        {
+          "sample": [
+            9,
+            4
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 1.190252874573031,
+          "door": true
+        },
+        {
+          "sample": [
+            10,
+            4
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.9553818794990037,
+          "door": true
+        },
+        {
+          "sample": [
+            11,
+            4
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.8096641720797914,
+          "door": true
+        },
+        {
+          "sample": [
+            12,
+            4
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.7666042813781341,
+          "door": true
+        },
+        {
+          "sample": [
+            9,
+            5
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 1.1748507039609737,
+          "door": true
+        },
+        {
+          "sample": [
+            10,
+            5
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.9448538575957343,
+          "door": true
+        },
+        {
+          "sample": [
+            11,
+            5
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.8018545041341558,
+          "door": true
+        },
+        {
+          "sample": [
+            12,
+            5
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.7487921214614595,
+          "door": true
+        },
+        {
+          "sample": [
+            9,
+            6
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 1.1711863606396025,
+          "door": true
+        },
+        {
+          "sample": [
+            10,
+            6
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.9433197258481419,
+          "door": true
+        },
+        {
+          "sample": [
+            11,
+            6
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.8012285041882636,
+          "door": true
+        },
+        {
+          "sample": [
+            12,
+            6
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.7377492530691563,
+          "door": true
+        },
+        {
+          "sample": [
+            9,
+            7
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 1.1788144348662828,
+          "door": true
+        },
+        {
+          "sample": [
+            10,
+            7
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.9504874704121461,
+          "door": true
+        },
+        {
+          "sample": [
+            11,
+            7
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.8075821014042703,
+          "door": true
+        },
+        {
+          "sample": [
+            12,
+            7
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.7330267712630687,
+          "door": true
+        },
+        {
+          "sample": [
+            9,
+            8
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 1.1969983524434762,
+          "door": true
+        },
+        {
+          "sample": [
+            10,
+            8
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.9658471837562976,
+          "door": true
+        },
+        {
+          "sample": [
+            11,
+            8
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.8205426954669448,
+          "door": true
+        },
+        {
+          "sample": [
+            12,
+            8
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.7340733845307951,
+          "door": true
+        },
+        {
+          "sample": [
+            9,
+            9
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 1.2247848172127949,
+          "door": true
+        },
+        {
+          "sample": [
+            10,
+            9
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.9887165027103236,
+          "door": true
+        },
+        {
+          "sample": [
+            11,
+            9
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.8396034129711892,
+          "door": true
+        },
+        {
+          "sample": [
+            12,
+            9
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.7412093555800453,
+          "door": true
+        },
+        {
+          "sample": [
+            9,
+            10
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 1.261086934628608,
+          "door": true
+        },
+        {
+          "sample": [
+            10,
+            10
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 1.0183134113235812,
+          "door": true
+        },
+        {
+          "sample": [
+            11,
+            10
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.8641746588753226,
+          "door": true
+        },
+        {
+          "sample": [
+            12,
+            10
+          ],
+          "object": "Puerta dormitorio",
+          "distance_m": 0.759473501790888,
+          "door": true
+        }
+      ]
+    }
+  ]
+}

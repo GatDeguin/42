@@ -1,0 +1,63 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7_avance.blend",
+  "sourceSHA256": "2fb66250a3634a3b956244220d0f52f587623c1d0b0179c9ee0a5fd0d9b2bf46",
+  "geometryComparedWith": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7C_hands_preview.blend",
+  "comparisonSHA256": "c747143332f00b7888512caad1be7ee7accfd30cb1a57f2703f63bfb6e39f3b9",
+  "geometryEquivalence": {
+    "meshes": 5611,
+    "changed": [],
+    "missing": [],
+    "added": [],
+    "method": "Base mesh positions/topology, frame1 world matrices, material assignments, modifier names/types and render visibility. Only added camera, prepared camera route and scene memberships/metadata differ."
+  },
+  "scenes": [
+    {
+      "name": "CASA DE CAMPO | Atardecer",
+      "objects": 5890,
+      "sameObjects": true,
+      "videoPaused": true
+    },
+    {
+      "name": "CASA DE CAMPO | DÍA",
+      "objects": 5890,
+      "sameObjects": true,
+      "videoPaused": true
+    },
+    {
+      "name": "CASA DE CAMPO | NOCHE",
+      "objects": 5890,
+      "sameObjects": true,
+      "videoPaused": true
+    },
+    {
+      "name": "INSPECCIÓN | Planta alta",
+      "objects": 5890,
+      "sameObjects": true,
+      "videoPaused": true
+    }
+  ],
+  "packedFileImages": 82,
+  "unpacked": [],
+  "doorRigs": [
+    "DOOR | balconyRear_A",
+    "DOOR | balconyRear_B",
+    "DOOR | balconySide",
+    "DOOR | bathDining",
+    "DOOR | bathLink",
+    "DOOR | bathroomMono",
+    "DOOR | bedroomDining",
+    "DOOR | bedroomLink",
+    "DOOR | gate",
+    "DOOR | mono_L",
+    "DOOR | mono_R",
+    "DOOR | poolBath",
+    "DOOR | studio"
+  ],
+  "routePassed": true,
+  "routeRays": 9000,
+  "proofImageSHA256": "4dd116053ac8688c6b70255244aec9053e0596d6d16255615c774840718465a9",
+  "proofIdentical": true,
+  "passed": true,
+  "videoRendered": false,
+  "scope": "Checkpoint preservation and stated camera-ray controls; no global photographic/architectural approval."
+}

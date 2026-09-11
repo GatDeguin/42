@@ -1,0 +1,556 @@
+{
+  "model": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7A_layout_preview3.blend",
+  "sha256": "520b17d86aa04752095a09d01d23c4cc78c80a6c8fdf99691bddafb80a46264b",
+  "door_checks": [
+    {
+      "rig": "DOOR | bedroomDining",
+      "nearby_active_objects": [
+        "Losa entre plantas",
+        "Piso vivienda",
+        "Vestidor tabique dormitorio paño B",
+        "Vestidor cierre al estar paño A",
+        "Dormitorio tabique transversal",
+        "Alfombra comedor",
+        "Mesa comedor tapa",
+        "Mesa comedor pata -0.640.29",
+        "Silla comedor sur -0.49 asiento",
+        "Silla comedor sur -0.49 respaldo",
+        "Silla comedor sur -0.49 pata 1-1",
+        "Silla comedor sur -0.49 pata 11",
+        "Lámpara comedor",
+        "Cable lámpara comedor 17.69",
+        "Sofá vivienda base",
+        "Sofá vivienda respaldo",
+        "Sofá vivienda brazo 1",
+        "Sofá vivienda pata 1-1",
+        "Sofá vivienda pata 11",
+        "Zócalo vestidor frente izquierdo",
+        "LAY99 | umbral dormitorio base40",
+        "LAY99 | umbral dormitorio baldosa10",
+        "Puerta dormitorio comedor | jamba bisagra",
+        "Puerta dormitorio comedor | jamba cierre",
+        "Puerta dormitorio comedor | dintel",
+        "Puerta dormitorio comedor | galce bisagra",
+        "Puerta dormitorio comedor | junta bisagra",
+        "Puerta dormitorio comedor | galce cierre",
+        "Puerta dormitorio comedor | junta cierre",
+        "Puerta dormitorio comedor | galce superior",
+        "Puerta dormitorio comedor | junta superior",
+        "Puerta dormitorio comedor | bisagra placa fija",
+        "Puerta dormitorio comedor | bisagra eje",
+        "Puerta dormitorio comedor | bisagra nudillo 0",
+        "Puerta dormitorio comedor | bisagra ala 0",
+        "Puerta dormitorio comedor | bisagra nudillo 2",
+        "Puerta dormitorio comedor | bisagra ala 2",
+        "Puerta dormitorio comedor | tornillo marco",
+        "Puerta dormitorio comedor | tornillo marco.001",
+        "Puerta dormitorio comedor | bisagra placa fija.001",
+        "Puerta dormitorio comedor | bisagra eje.001",
+        "Puerta dormitorio comedor | bisagra nudillo 0.001",
+        "Puerta dormitorio comedor | bisagra ala 0.001",
+        "Puerta dormitorio comedor | bisagra nudillo 2.001",
+        "Puerta dormitorio comedor | bisagra ala 2.001",
+        "Puerta dormitorio comedor | tornillo marco.002",
+        "Puerta dormitorio comedor | tornillo marco.003",
+        "Puerta dormitorio comedor | bisagra placa fija.002",
+        "Puerta dormitorio comedor | bisagra eje.002",
+        "Puerta dormitorio comedor | bisagra nudillo 0.002",
+        "Puerta dormitorio comedor | bisagra ala 0.002",
+        "Puerta dormitorio comedor | bisagra nudillo 2.002",
+        "Puerta dormitorio comedor | bisagra ala 2.002",
+        "Puerta dormitorio comedor | tornillo marco.004",
+        "Puerta dormitorio comedor | tornillo marco.005"
+      ],
+      "poses": [
+        {
+          "open": 0.0,
+          "evaluated_boolean_pairs": 14,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.025,
+          "evaluated_boolean_pairs": 9,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.05,
+          "evaluated_boolean_pairs": 4,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.075,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.1,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.125,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.15,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.175,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.2,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.225,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.25,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.275,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.3,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.325,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.35,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.375,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.4,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.425,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.45,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.475,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.5,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.525,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.55,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.575,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.6,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.625,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.65,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.675,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.7,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.725,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.75,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.775,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.8,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.825,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.85,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.875,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.9,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.925,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.95,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.975,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        },
+        {
+          "open": 1.0,
+          "evaluated_boolean_pairs": 3,
+          "hard_hits": 0
+        }
+      ],
+      "hard_intersections": [],
+      "open90_max_moving_coordinate": 16.66950035095215,
+      "clear90_between_frame_and_moving_m": 0.8354996490478506,
+      "clear90_conservative_including_rebate_m": 0.8129996490478497,
+      "width_pass": true
+    },
+    {
+      "rig": "DOOR | bathroomMono",
+      "nearby_active_objects": [
+        "Losa planta baja",
+        "Fachada ciega de ladrillo",
+        "Entorno | terreno continuo",
+        "BTH95 | mono baño mortero30",
+        "BTH95 | mono baño membrana2",
+        "BTH95 | mono baño adhesivo8",
+        "Piso baño mono",
+        "BTH95 | mono base30",
+        "BTH95 | mono adhesivo10",
+        "Piso monoambiente",
+        "LAY99 | baño mono trasdosado frontal60",
+        "LAY99 | baño mono oeste norte",
+        "LAY99 | baño mono oeste sur",
+        "LAY99 | baño mono oeste dintel",
+        "LAY99 | umbral baño mono mortero30",
+        "LAY99 | umbral baño mono membrana2",
+        "LAY99 | umbral baño mono adhesivo8",
+        "LAY99 | umbral baño mono baldosa10",
+        "Baño mono puerta | jamba bisagra",
+        "Baño mono puerta | jamba cierre",
+        "Baño mono puerta | dintel",
+        "Baño mono puerta | galce bisagra",
+        "Baño mono puerta | junta bisagra",
+        "Baño mono puerta | galce cierre",
+        "Baño mono puerta | junta cierre",
+        "Baño mono puerta | galce superior",
+        "Baño mono puerta | junta superior",
+        "Baño mono puerta | bisagra placa fija",
+        "Baño mono puerta | bisagra eje",
+        "Baño mono puerta | bisagra nudillo 0",
+        "Baño mono puerta | bisagra ala 0",
+        "Baño mono puerta | bisagra nudillo 2",
+        "Baño mono puerta | bisagra ala 2",
+        "Baño mono puerta | tornillo marco",
+        "Baño mono puerta | tornillo marco.001",
+        "Baño mono puerta | bisagra placa fija.001",
+        "Baño mono puerta | bisagra eje.001",
+        "Baño mono puerta | bisagra nudillo 0.001",
+        "Baño mono puerta | bisagra ala 0.001",
+        "Baño mono puerta | bisagra nudillo 2.001",
+        "Baño mono puerta | bisagra ala 2.001",
+        "Baño mono puerta | tornillo marco.002",
+        "Baño mono puerta | tornillo marco.003",
+        "Baño mono puerta | bisagra placa fija.002",
+        "Baño mono puerta | bisagra eje.002",
+        "Baño mono puerta | bisagra nudillo 0.002",
+        "Baño mono puerta | bisagra ala 0.002",
+        "Baño mono puerta | bisagra nudillo 2.002",
+        "Baño mono puerta | bisagra ala 2.002",
+        "Baño mono puerta | tornillo marco.004",
+        "Baño mono puerta | tornillo marco.005"
+      ],
+      "poses": [
+        {
+          "open": 0.0,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.025,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.05,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.075,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.1,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.125,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.15,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.175,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.2,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.225,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.25,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.275,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.3,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.325,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.35,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.375,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.4,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.425,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.45,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.475,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.5,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.525,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.55,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.575,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.6,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.625,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.65,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.675,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.7,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.725,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.75,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.775,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.8,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.825,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.85,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.875,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.9,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.925,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.95,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.975,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        },
+        {
+          "open": 1.0,
+          "evaluated_boolean_pairs": 20,
+          "hard_hits": 0
+        }
+      ],
+      "hard_intersections": [],
+      "open90_max_moving_coordinate": 0.48949989676475525,
+      "clear90_between_frame_and_moving_m": 0.8355001032352449,
+      "clear90_conservative_including_rebate_m": 0.813000103235245,
+      "width_pass": true
+    }
+  ],
+  "boolean_pairs": 961,
+  "hard_hits": [],
+  "dining_passage_m": 0.8050012588500977,
+  "closed_leaf_does_not_project_into_dining_passage": true,
+  "rig_count": 13,
+  "removed_suite_entry": true,
+  "bedroom_door_exists": true,
+  "pose_mode": "41 full",
+  "scope": "41 evenly spaced poses of both new assemblies against all active meshes whose evaluated bounds meet their sweep neighborhoods. No renders, no file save. Designed fixed screws embedded in frames are not moving objects; all moving hinges and handles are checked.",
+  "pass": true
+}

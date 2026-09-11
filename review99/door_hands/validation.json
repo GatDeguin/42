@@ -1,0 +1,1205 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7C_hands_preview.blend",
+  "sourceSHA256": "c747143332f00b7888512caad1be7ee7accfd30cb1a57f2703f63bfb6e39f3b9",
+  "door_checks": [
+    {
+      "rig": "DOOR | bedroomLink",
+      "moving": [
+        "HAND99 | bedroomLink ala 1-1",
+        "HAND99 | bedroomLink ala 2-1",
+        "HAND99 | bedroomLink ala 3-1",
+        "HAND99 | bedroomLink bisagra movil 1",
+        "HAND99 | bedroomLink bisagra movil 2",
+        "HAND99 | bedroomLink bisagra movil 3",
+        "HAND99 | bedroomLink manija palanca",
+        "HAND99 | bedroomLink manija palanca.001",
+        "HAND99 | bedroomLink manija roseta",
+        "HAND99 | bedroomLink manija roseta.001",
+        "HAND99 | bedroomLink manija vastago",
+        "HAND99 | bedroomLink manija vastago.001",
+        "HAND99 | bedroomLink nudillo 1-1",
+        "HAND99 | bedroomLink nudillo 2-1",
+        "HAND99 | bedroomLink nudillo 3-1",
+        "HAND99 | bedroomLink spindle",
+        "HAND99 | bedroomLink tornillo hoja 1",
+        "HAND99 | bedroomLink tornillo hoja 1.001",
+        "HAND99 | bedroomLink tornillo hoja 2",
+        "HAND99 | bedroomLink tornillo hoja 2.001",
+        "HAND99 | bedroomLink tornillo hoja 3",
+        "HAND99 | bedroomLink tornillo hoja 3.001",
+        "Puerta dormitorio"
+      ],
+      "poses": [
+        {
+          "open": 0.0,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.025,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.05,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.075,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.1,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.125,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.15,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.175,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.2,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.225,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.25,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.275,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.325,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.35,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.375,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.4,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.425,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.45,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.475,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.5,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.525,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.55,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.575,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.6,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.625,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.65,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.675,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.7,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.725,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.75,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.775,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.8,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.825,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.85,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.875,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.9,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.925,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.95,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.975,
+          "hard_hits": 0
+        },
+        {
+          "open": 1.0,
+          "hard_hits": 0
+        }
+      ]
+    },
+    {
+      "rig": "DOOR | bedroomDining",
+      "moving": [
+        "Puerta dormitorio comedor | bisagra ala 1",
+        "Puerta dormitorio comedor | bisagra ala 1.001",
+        "Puerta dormitorio comedor | bisagra ala 1.002",
+        "Puerta dormitorio comedor | bisagra nudillo 1",
+        "Puerta dormitorio comedor | bisagra nudillo 1.001",
+        "Puerta dormitorio comedor | bisagra nudillo 1.002",
+        "Puerta dormitorio comedor | bisagra placa movil",
+        "Puerta dormitorio comedor | bisagra placa movil.001",
+        "Puerta dormitorio comedor | bisagra placa movil.002",
+        "Puerta dormitorio comedor | burlete inferior soporte",
+        "Puerta dormitorio comedor | hoja",
+        "Puerta dormitorio comedor | manija palanca",
+        "Puerta dormitorio comedor | manija palanca.001",
+        "Puerta dormitorio comedor | manija roseta",
+        "Puerta dormitorio comedor | manija roseta.001",
+        "Puerta dormitorio comedor | manija vástago",
+        "Puerta dormitorio comedor | manija vástago.001",
+        "Puerta dormitorio comedor | tornillo hoja",
+        "Puerta dormitorio comedor | tornillo hoja.001",
+        "Puerta dormitorio comedor | tornillo hoja.002",
+        "Puerta dormitorio comedor | tornillo hoja.003",
+        "Puerta dormitorio comedor | tornillo hoja.004",
+        "Puerta dormitorio comedor | tornillo hoja.005"
+      ],
+      "poses": [
+        {
+          "open": 0.0,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.025,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.05,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.075,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.1,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.125,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.15,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.175,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.2,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.225,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.25,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.275,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.3,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.325,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.35,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.375,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.4,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.425,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.45,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.475,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.5,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.525,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.55,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.575,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.6,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.625,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.65,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.675,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.7,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.725,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.75,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.775,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.8,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.825,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.85,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.875,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.9,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.925,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.95,
+          "hard_hits": 0
+        },
+        {
+          "open": 0.975,
+          "hard_hits": 0
+        },
+        {
+          "open": 1.0,
+          "hard_hits": 0
+        }
+      ]
+    }
+  ],
+  "static_objects": [
+    "R7B | Manta dormitorio | caída CPU",
+    "R7B | Manta | costura doble 0",
+    "R7B | Manta | costura doble 1",
+    "R7B | Manta | costura doble 2",
+    "Piso vivienda",
+    "Vestidor tabique dormitorio paño A",
+    "Vestidor tabique dormitorio paño B",
+    "Vestidor tabique dormitorio dintel",
+    "Vestidor cierre al estar paño A",
+    "Vestidor cierre al estar dintel",
+    "Dormitorio tabique transversal",
+    "Puerta dormitorio marco -1",
+    "Puerta dormitorio marco 1",
+    "Puerta dormitorio marco superior",
+    "Alfombra comedor",
+    "Mesa comedor tapa",
+    "Mesa comedor pata -0.64-0.29",
+    "Mesa comedor pata -0.640.29",
+    "Silla comedor norte -0.49 asiento",
+    "Silla comedor norte -0.49 pata -11",
+    "Silla comedor sur -0.49 asiento",
+    "Silla comedor sur -0.49 respaldo",
+    "Silla comedor sur -0.49 pata 1-1",
+    "Silla comedor sur -0.49 pata 11",
+    "Sofá vivienda base",
+    "Sofá vivienda respaldo",
+    "Sofá vivienda brazo 1",
+    "Sofá vivienda pata 1-1",
+    "Sofá vivienda pata 11",
+    "Cama dormitorio base",
+    "Cama dormitorio colchón",
+    "Cama dormitorio costura colchón",
+    "Premarco dormitorio | jamba",
+    "Premarco dormitorio | jamba.001",
+    "MOB95 | pata cama.003",
+    "Zócalo vestidor frente izquierdo",
+    "LAY99 | cierre vestidor estar",
+    "LAY99 | rodapie vestidor enrasado",
+    "LAY99 | rodapie estar enrasado",
+    "LAY99 | umbral dormitorio baldosa10",
+    "Puerta dormitorio comedor | jamba bisagra",
+    "Puerta dormitorio comedor | jamba cierre",
+    "Puerta dormitorio comedor | dintel",
+    "Puerta dormitorio comedor | galce bisagra",
+    "Puerta dormitorio comedor | junta bisagra",
+    "Puerta dormitorio comedor | galce cierre",
+    "Puerta dormitorio comedor | junta cierre",
+    "Puerta dormitorio comedor | galce superior",
+    "Puerta dormitorio comedor | junta superior",
+    "Puerta dormitorio comedor | bisagra placa fija",
+    "Puerta dormitorio comedor | bisagra eje",
+    "Puerta dormitorio comedor | bisagra nudillo 0",
+    "Puerta dormitorio comedor | bisagra ala 0",
+    "Puerta dormitorio comedor | bisagra nudillo 2",
+    "Puerta dormitorio comedor | bisagra ala 2",
+    "Puerta dormitorio comedor | tornillo marco",
+    "Puerta dormitorio comedor | tornillo marco.001",
+    "Puerta dormitorio comedor | bisagra placa fija.001",
+    "Puerta dormitorio comedor | bisagra eje.001",
+    "Puerta dormitorio comedor | bisagra nudillo 0.001",
+    "Puerta dormitorio comedor | bisagra ala 0.001",
+    "Puerta dormitorio comedor | bisagra nudillo 2.001",
+    "Puerta dormitorio comedor | bisagra ala 2.001",
+    "Puerta dormitorio comedor | tornillo marco.002",
+    "Puerta dormitorio comedor | tornillo marco.003",
+    "Puerta dormitorio comedor | bisagra placa fija.002",
+    "Puerta dormitorio comedor | bisagra eje.002",
+    "Puerta dormitorio comedor | bisagra nudillo 0.002",
+    "Puerta dormitorio comedor | bisagra ala 0.002",
+    "Puerta dormitorio comedor | bisagra nudillo 2.002",
+    "Puerta dormitorio comedor | bisagra ala 2.002",
+    "Puerta dormitorio comedor | tornillo marco.004",
+    "Puerta dormitorio comedor | tornillo marco.005",
+    "HAND99 | bedroomLink bisagra fija 1",
+    "HAND99 | bedroomLink eje 1",
+    "HAND99 | bedroomLink nudillo 1-0",
+    "HAND99 | bedroomLink ala 1-0",
+    "HAND99 | bedroomLink nudillo 1-2",
+    "HAND99 | bedroomLink ala 1-2",
+    "HAND99 | bedroomLink tornillo marco 1",
+    "HAND99 | bedroomLink tornillo marco 1.001",
+    "HAND99 | bedroomLink bisagra fija 2",
+    "HAND99 | bedroomLink eje 2",
+    "HAND99 | bedroomLink nudillo 2-0",
+    "HAND99 | bedroomLink ala 2-0",
+    "HAND99 | bedroomLink nudillo 2-2",
+    "HAND99 | bedroomLink ala 2-2",
+    "HAND99 | bedroomLink tornillo marco 2",
+    "HAND99 | bedroomLink tornillo marco 2.001",
+    "HAND99 | bedroomLink bisagra fija 3",
+    "HAND99 | bedroomLink eje 3",
+    "HAND99 | bedroomLink nudillo 3-0",
+    "HAND99 | bedroomLink ala 3-0",
+    "HAND99 | bedroomLink nudillo 3-2",
+    "HAND99 | bedroomLink ala 3-2",
+    "HAND99 | bedroomLink tornillo marco 3",
+    "HAND99 | bedroomLink tornillo marco 3.001",
+    "HAND99 | bedroomLink galce bisagra",
+    "HAND99 | bedroomLink junta bisagra",
+    "HAND99 | bedroomLink galce cierre",
+    "HAND99 | bedroomLink junta cierre",
+    "HAND99 | bedroomLink galce superior",
+    "HAND99 | bedroomLink junta superior"
+  ],
+  "hard_intersections": [],
+  "boolean_pairs": 886,
+  "combined_doors": {
+    "exact_continuous_z_intervals": {
+      "DOOR | bedroomLink": [
+        7.228999137878418,
+        8.091048877602192
+      ],
+      "DOOR | bedroomDining": [
+        8.102002143859362,
+        9.096999168395996
+      ]
+    },
+    "minimum_separation_m": 0.010953266257169858,
+    "all_41_by_41_combinations_separated": true,
+    "proof": "Analytic extrema of each evaluated vertex under both -pi/2 rotations; a positive separating sourceZ plane proves disjoint sweeps."
+  },
+  "person": {
+    "diameter_m": 0.45,
+    "height_m": 1.72,
+    "floor_m": 3.25,
+    "feet_clearance_m": 0.015,
+    "waypoints_source_xz": [
+      [
+        16.9,
+        9.4
+      ],
+      [
+        16.97,
+        9.0
+      ],
+      [
+        17.08,
+        8.45
+      ],
+      [
+        17.1,
+        7.72
+      ],
+      [
+        17.7,
+        7.68
+      ],
+      [
+        18.12,
+        7.68
+      ]
+    ],
+    "samples": 73,
+    "spacing_max_m": 0.04,
+    "hits": [],
+    "pass": true
+  },
+  "open90_bounds": {
+    "DOOR | bedroomLink": {
+      "HAND99 | bedroomLink ala 1-1": {
+        "x": [
+          17.589500427246094,
+          17.595544815063477
+        ],
+        "z": [
+          7.26800012588501,
+          7.269999027252197
+        ],
+        "h": [
+          3.5160000324249268,
+          3.5439999103546143
+        ]
+      },
+      "HAND99 | bedroomLink ala 2-1": {
+        "x": [
+          17.589500427246094,
+          17.595544815063477
+        ],
+        "z": [
+          7.26800012588501,
+          7.269999027252197
+        ],
+        "h": [
+          4.285999774932861,
+          4.314000129699707
+        ]
+      },
+      "HAND99 | bedroomLink ala 3-1": {
+        "x": [
+          17.589500427246094,
+          17.595544815063477
+        ],
+        "z": [
+          7.26800012588501,
+          7.269999027252197
+        ],
+        "h": [
+          5.165999889373779,
+          5.193999767303467
+        ]
+      },
+      "HAND99 | bedroomLink bisagra movil 1": {
+        "x": [
+          17.561498641967773,
+          17.59149932861328
+        ],
+        "z": [
+          7.26800012588501,
+          7.269999027252197
+        ],
+        "h": [
+          3.5160000324249268,
+          3.5439999103546143
+        ]
+      },
+      "HAND99 | bedroomLink bisagra movil 2": {
+        "x": [
+          17.561498641967773,
+          17.59149932861328
+        ],
+        "z": [
+          7.26800012588501,
+          7.269999027252197
+        ],
+        "h": [
+          4.285999774932861,
+          4.314000129699707
+        ]
+      },
+      "HAND99 | bedroomLink bisagra movil 3": {
+        "x": [
+          17.561498641967773,
+          17.59149932861328
+        ],
+        "z": [
+          7.26800012588501,
+          7.269999027252197
+        ],
+        "h": [
+          5.165999889373779,
+          5.193999767303467
+        ]
+      },
+      "HAND99 | bedroomLink manija palanca": {
+        "x": [
+          16.88249969482422,
+          16.982498168945312
+        ],
+        "z": [
+          7.228999614715576,
+          7.240999698638916
+        ],
+        "h": [
+          4.323999881744385,
+          4.335999965667725
+        ]
+      },
+      "HAND99 | bedroomLink manija palanca.001": {
+        "x": [
+          16.88249969482422,
+          16.982498168945312
+        ],
+        "z": [
+          7.34399938583374,
+          7.35599946975708
+        ],
+        "h": [
+          4.323999881744385,
+          4.335999965667725
+        ]
+      },
+      "HAND99 | bedroomLink manija roseta": {
+        "x": [
+          16.859498977661133,
+          16.905500411987305
+        ],
+        "z": [
+          7.267000198364258,
+          7.270000457763672
+        ],
+        "h": [
+          4.307000160217285,
+          4.352999687194824
+        ]
+      },
+      "HAND99 | bedroomLink manija roseta.001": {
+        "x": [
+          16.859498977661133,
+          16.905500411987305
+        ],
+        "z": [
+          7.315000534057617,
+          7.318000793457031
+        ],
+        "h": [
+          4.307000160217285,
+          4.352999687194824
+        ]
+      },
+      "HAND99 | bedroomLink manija vastago": {
+        "x": [
+          16.87649917602539,
+          16.888500213623047
+        ],
+        "z": [
+          7.23499870300293,
+          7.266998291015625
+        ],
+        "h": [
+          4.323999881744385,
+          4.335999965667725
+        ]
+      },
+      "HAND99 | bedroomLink manija vastago.001": {
+        "x": [
+          16.87649917602539,
+          16.888500213623047
+        ],
+        "z": [
+          7.317998886108398,
+          7.349998474121094
+        ],
+        "h": [
+          4.323999881744385,
+          4.335999965667725
+        ]
+      },
+      "HAND99 | bedroomLink nudillo 1-1": {
+        "x": [
+          17.59149932861328,
+          17.603500366210938
+        ],
+        "z": [
+          7.2639994621276855,
+          7.275999546051025
+        ],
+        "h": [
+          3.5160000324249268,
+          3.5439999103546143
+        ]
+      },
+      "HAND99 | bedroomLink nudillo 2-1": {
+        "x": [
+          17.59149932861328,
+          17.603500366210938
+        ],
+        "z": [
+          7.2639994621276855,
+          7.275999546051025
+        ],
+        "h": [
+          4.2860002517700195,
+          4.314000129699707
+        ]
+      },
+      "HAND99 | bedroomLink nudillo 3-1": {
+        "x": [
+          17.59149932861328,
+          17.603500366210938
+        ],
+        "z": [
+          7.2639994621276855,
+          7.275999546051025
+        ],
+        "h": [
+          5.165999889373779,
+          5.193999767303467
+        ]
+      },
+      "HAND99 | bedroomLink spindle": {
+        "x": [
+          16.87849998474121,
+          16.886499404907227
+        ],
+        "z": [
+          7.263498306274414,
+          7.321498870849609
+        ],
+        "h": [
+          4.325999736785889,
+          4.334000110626221
+        ]
+      },
+      "HAND99 | bedroomLink tornillo hoja 1": {
+        "x": [
+          17.580699920654297,
+          17.584300994873047
+        ],
+        "z": [
+          7.267000198364258,
+          7.284000396728516
+        ],
+        "h": [
+          3.5281999111175537,
+          3.5318000316619873
+        ]
+      },
+      "HAND99 | bedroomLink tornillo hoja 1.001": {
+        "x": [
+          17.567699432373047,
+          17.571300506591797
+        ],
+        "z": [
+          7.267000198364258,
+          7.284000396728516
+        ],
+        "h": [
+          3.5281999111175537,
+          3.5318000316619873
+        ]
+      },
+      "HAND99 | bedroomLink tornillo hoja 2": {
+        "x": [
+          17.580699920654297,
+          17.584300994873047
+        ],
+        "z": [
+          7.267000198364258,
+          7.284000396728516
+        ],
+        "h": [
+          4.2982001304626465,
+          4.30180025100708
+        ]
+      },
+      "HAND99 | bedroomLink tornillo hoja 2.001": {
+        "x": [
+          17.567699432373047,
+          17.571300506591797
+        ],
+        "z": [
+          7.267000198364258,
+          7.284000396728516
+        ],
+        "h": [
+          4.2982001304626465,
+          4.30180025100708
+        ]
+      },
+      "HAND99 | bedroomLink tornillo hoja 3": {
+        "x": [
+          17.580699920654297,
+          17.584300994873047
+        ],
+        "z": [
+          7.267000198364258,
+          7.284000396728516
+        ],
+        "h": [
+          5.178199768066406,
+          5.18179988861084
+        ]
+      },
+      "HAND99 | bedroomLink tornillo hoja 3.001": {
+        "x": [
+          17.567699432373047,
+          17.571300506591797
+        ],
+        "z": [
+          7.267000198364258,
+          7.284000396728516
+        ],
+        "h": [
+          5.178199768066406,
+          5.18179988861084
+        ]
+      },
+      "Puerta dormitorio": {
+        "x": [
+          16.77750015258789,
+          17.59749984741211
+        ],
+        "z": [
+          7.2700018882751465,
+          7.315001964569092
+        ],
+        "h": [
+          3.260000467300415,
+          5.430000305175781
+        ]
+      }
+    },
+    "DOOR | bedroomDining": {
+      "Puerta dormitorio comedor | bisagra ala 1": {
+        "x": [
+          17.497501373291016,
+          17.499502182006836
+        ],
+        "z": [
+          9.00200080871582,
+          9.008047103881836
+        ],
+        "h": [
+          3.5160000324249268,
+          3.5439999103546143
+        ]
+      },
+      "Puerta dormitorio comedor | bisagra ala 1.001": {
+        "x": [
+          17.497501373291016,
+          17.499502182006836
+        ],
+        "z": [
+          9.00200080871582,
+          9.008047103881836
+        ],
+        "h": [
+          4.285999774932861,
+          4.314000129699707
+        ]
+      },
+      "Puerta dormitorio comedor | bisagra ala 1.002": {
+        "x": [
+          17.497501373291016,
+          17.499502182006836
+        ],
+        "z": [
+          9.00200080871582,
+          9.008047103881836
+        ],
+        "h": [
+          5.201000213623047,
+          5.229000091552734
+        ]
+      },
+      "Puerta dormitorio comedor | bisagra nudillo 1": {
+        "x": [
+          17.491500854492188,
+          17.503501892089844
+        ],
+        "z": [
+          9.003999710083008,
+          9.015998840332031
+        ],
+        "h": [
+          3.5160000324249268,
+          3.5439999103546143
+        ]
+      },
+      "Puerta dormitorio comedor | bisagra nudillo 1.001": {
+        "x": [
+          17.491500854492188,
+          17.503501892089844
+        ],
+        "z": [
+          9.003999710083008,
+          9.015998840332031
+        ],
+        "h": [
+          4.2860002517700195,
+          4.314000129699707
+        ]
+      },
+      "Puerta dormitorio comedor | bisagra nudillo 1.002": {
+        "x": [
+          17.491500854492188,
+          17.503501892089844
+        ],
+        "z": [
+          9.003999710083008,
+          9.015998840332031
+        ],
+        "h": [
+          5.201000213623047,
+          5.229000091552734
+        ]
+      },
+      "Puerta dormitorio comedor | bisagra placa movil": {
+        "x": [
+          17.497501373291016,
+          17.499502182006836
+        ],
+        "z": [
+          8.974000930786133,
+          9.00400161743164
+        ],
+        "h": [
+          3.5160000324249268,
+          3.5439999103546143
+        ]
+      },
+      "Puerta dormitorio comedor | bisagra placa movil.001": {
+        "x": [
+          17.497501373291016,
+          17.499502182006836
+        ],
+        "z": [
+          8.974000930786133,
+          9.00400161743164
+        ],
+        "h": [
+          4.285999774932861,
+          4.314000129699707
+        ]
+      },
+      "Puerta dormitorio comedor | bisagra placa movil.002": {
+        "x": [
+          17.497501373291016,
+          17.499502182006836
+        ],
+        "z": [
+          8.974000930786133,
+          9.00400161743164
+        ],
+        "h": [
+          5.201000213623047,
+          5.229000091552734
+        ]
+      },
+      "Puerta dormitorio comedor | burlete inferior soporte": {
+        "x": [
+          17.46750259399414,
+          17.482501983642578
+        ],
+        "z": [
+          8.121847152709961,
+          8.990152359008789
+        ],
+        "h": [
+          3.259999990463257,
+          3.2720000743865967
+        ]
+      },
+      "Puerta dormitorio comedor | hoja": {
+        "x": [
+          17.45250129699707,
+          17.497501373291016
+        ],
+        "z": [
+          8.102001190185547,
+          9.010000228881836
+        ],
+        "h": [
+          3.259999990463257,
+          5.460000038146973
+        ]
+      },
+      "Puerta dormitorio comedor | manija palanca": {
+        "x": [
+          17.525501251220703,
+          17.539501190185547
+        ],
+        "z": [
+          8.207000732421875,
+          8.307001113891602
+        ],
+        "h": [
+          4.322999954223633,
+          4.336999893188477
+        ]
+      },
+      "Puerta dormitorio comedor | manija palanca.001": {
+        "x": [
+          17.41050148010254,
+          17.424501419067383
+        ],
+        "z": [
+          8.207000732421875,
+          8.307001113891602
+        ],
+        "h": [
+          4.322999954223633,
+          4.336999893188477
+        ]
+      },
+      "Puerta dormitorio comedor | manija roseta": {
+        "x": [
+          17.497501373291016,
+          17.500503540039062
+        ],
+        "z": [
+          8.182000160217285,
+          8.231999397277832
+        ],
+        "h": [
+          4.304999828338623,
+          4.355000019073486
+        ]
+      },
+      "Puerta dormitorio comedor | manija roseta.001": {
+        "x": [
+          17.449501037597656,
+          17.452503204345703
+        ],
+        "z": [
+          8.182000160217285,
+          8.231999397277832
+        ],
+        "h": [
+          4.304999828338623,
+          4.355000019073486
+        ]
+      },
+      "Puerta dormitorio comedor | manija vástago": {
+        "x": [
+          17.50050163269043,
+          17.532503128051758
+        ],
+        "z": [
+          8.199999809265137,
+          8.21399974822998
+        ],
+        "h": [
+          4.322999954223633,
+          4.336999893188477
+        ]
+      },
+      "Puerta dormitorio comedor | manija vástago.001": {
+        "x": [
+          17.41750144958496,
+          17.44950294494629
+        ],
+        "z": [
+          8.199999809265137,
+          8.21399974822998
+        ],
+        "h": [
+          4.322999954223633,
+          4.336999893188477
+        ]
+      },
+      "Puerta dormitorio comedor | tornillo hoja": {
+        "x": [
+          17.483501434326172,
+          17.500503540039062
+        ],
+        "z": [
+          8.993200302124023,
+          8.99679946899414
+        ],
+        "h": [
+          3.5281999111175537,
+          3.5318000316619873
+        ]
+      },
+      "Puerta dormitorio comedor | tornillo hoja.001": {
+        "x": [
+          17.483501434326172,
+          17.500503540039062
+        ],
+        "z": [
+          8.980199813842773,
+          8.98379898071289
+        ],
+        "h": [
+          3.5281999111175537,
+          3.5318000316619873
+        ]
+      },
+      "Puerta dormitorio comedor | tornillo hoja.002": {
+        "x": [
+          17.483501434326172,
+          17.500503540039062
+        ],
+        "z": [
+          8.993200302124023,
+          8.99679946899414
+        ],
+        "h": [
+          4.2982001304626465,
+          4.30180025100708
+        ]
+      },
+      "Puerta dormitorio comedor | tornillo hoja.003": {
+        "x": [
+          17.483501434326172,
+          17.500503540039062
+        ],
+        "z": [
+          8.980199813842773,
+          8.98379898071289
+        ],
+        "h": [
+          4.2982001304626465,
+          4.30180025100708
+        ]
+      },
+      "Puerta dormitorio comedor | tornillo hoja.004": {
+        "x": [
+          17.483501434326172,
+          17.500503540039062
+        ],
+        "z": [
+          8.993200302124023,
+          8.99679946899414
+        ],
+        "h": [
+          5.213200092315674,
+          5.216800212860107
+        ]
+      },
+      "Puerta dormitorio comedor | tornillo hoja.005": {
+        "x": [
+          17.483501434326172,
+          17.500503540039062
+        ],
+        "z": [
+          8.980199813842773,
+          8.98379898071289
+        ],
+        "h": [
+          5.213200092315674,
+          5.216800212860107
+        ]
+      }
+    }
+  },
+  "rig_count": 13,
+  "seconds": 508.49479055404663,
+  "pass": true
+}

@@ -1,0 +1,1962 @@
+{
+  "revision": "R7 avance",
+  "status": "IN_REVIEW_NOT_APPROVED",
+  "targetGlobalScore": 9.9,
+  "score": null,
+  "base": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7C_hands_preview.blend",
+  "baseSHA256": "c747143332f00b7888512caad1be7ee7accfd30cb1a57f2703f63bfb6e39f3b9",
+  "output": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7_avance.blend",
+  "outputSHA256": "2fb66250a3634a3b956244220d0f52f587623c1d0b0179c9ee0a5fd0d9b2bf46",
+  "bytes": 361458601,
+  "objects": 5890,
+  "scenes": [
+    {
+      "name": "CASA DE CAMPO | Atardecer",
+      "objects": 5890
+    },
+    {
+      "name": "CASA DE CAMPO | DÍA",
+      "objects": 5890
+    },
+    {
+      "name": "CASA DE CAMPO | NOCHE",
+      "objects": 5890
+    },
+    {
+      "name": "INSPECCIÓN | Planta alta",
+      "objects": 5890
+    }
+  ],
+  "videoRendered": false,
+  "routePassed": true,
+  "patchReports": {
+    "correcciones99_camara_acceso.py": {
+      "name": "LUZ99 | Acceso dormitorio desde estar",
+      "position_source": [
+        17.08,
+        4.85,
+        10.55
+      ],
+      "target_source": [
+        16.2,
+        4.85,
+        7.32
+      ],
+      "lens_mm": 20,
+      "shift_y": -0.12,
+      "presentation_frame": 150,
+      "aspect": [
+        4,
+        3
+      ],
+      "video_rendered": false
+    },
+    "finish99_metadata.py": {
+      "objects": [
+        {
+          "name": "R7B | Manta dormitorio | caída CPU",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Manta | costura doble 0",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Manta | costura doble 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Manta | costura doble 2",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Manta | costura doble 3",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Almohada 1 | funda relleno y compresión",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Almohada 1 | costura perimetral",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Almohada 2 | funda relleno y compresión",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Almohada 2 | costura perimetral",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 1 | pliegues suspendidos",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 1 | cabezal",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 1 | dobladillo",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 1 | cinta al carro 0",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 1 | cinta al carro 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 1 | cinta al carro 2",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 1 | cinta al carro 3",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 1 | cinta al carro 4",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 1 | cinta al carro 5",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 1 | cinta al carro 6",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 2 | pliegues suspendidos",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 2 | cabezal",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 2 | dobladillo",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 2 | cinta al carro 0",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 2 | cinta al carro 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 2 | cinta al carro 2",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 2 | cinta al carro 3",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 2 | cinta al carro 4",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 2 | cinta al carro 5",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Cortina 2 | cinta al carro 6",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 0 | torso tejido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 0 | bajo cosido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 0 | cuello",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 0 | solapa cuello -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 0 | manga -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 0 | puño -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 0 | solapa cuello 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 0 | manga 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 0 | puño 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 0 | tapeta",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 0 | botón 0.18",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 0 | botón 0.31",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 0 | botón 0.44",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 0 | botón 0.58",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 0 | botón 0.71",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 0 | botón 0.84",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 0 | gancho apoyado barral",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 0 | percha hombros 420",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 1 | torso tejido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 1 | bajo cosido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 1 | cuello",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 1 | solapa cuello -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 1 | manga -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 1 | puño -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 1 | solapa cuello 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 1 | manga 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 1 | puño 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 1 | tapeta",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 1 | botón 0.18",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 1 | botón 0.31",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 1 | botón 0.44",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 1 | botón 0.58",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 1 | botón 0.71",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 1 | botón 0.84",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 1 | gancho apoyado barral",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 1 | percha hombros 420",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 2 | torso tejido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 2 | bajo cosido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 2 | cuello",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 2 | solapa cuello -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 2 | manga -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 2 | puño -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 2 | solapa cuello 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 2 | manga 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 2 | puño 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 2 | tapeta",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 2 | botón 0.18",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 2 | botón 0.31",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 2 | botón 0.44",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 2 | botón 0.58",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 2 | botón 0.71",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 2 | botón 0.84",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 2 | gancho apoyado barral",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 2 | percha hombros 420",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 3 | torso tejido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 3 | bajo cosido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 3 | cuello",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 3 | solapa cuello -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 3 | manga -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 3 | puño -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 3 | solapa cuello 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 3 | manga 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 3 | puño 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 3 | tapeta",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 3 | botón 0.18",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 3 | botón 0.31",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 3 | botón 0.44",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 3 | botón 0.58",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 3 | botón 0.71",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 3 | botón 0.84",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 3 | gancho apoyado barral",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 3 | percha hombros 420",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 4 | torso tejido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 4 | bajo cosido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 4 | cuello",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 4 | solapa cuello -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 4 | manga -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 4 | puño -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 4 | solapa cuello 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 4 | manga 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 4 | puño 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 4 | tapeta",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 4 | botón 0.18",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 4 | botón 0.31",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 4 | botón 0.44",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 4 | botón 0.58",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 4 | botón 0.71",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 4 | botón 0.84",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 4 | gancho apoyado barral",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 4 | percha hombros 420",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 5 | torso tejido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 5 | bajo cosido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 5 | cuello",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 5 | solapa cuello -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 5 | manga -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 5 | puño -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 5 | solapa cuello 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 5 | manga 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 5 | puño 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 5 | tapeta",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 5 | botón 0.18",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 5 | botón 0.31",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 5 | botón 0.44",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 5 | botón 0.58",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 5 | botón 0.71",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 5 | botón 0.84",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 5 | gancho apoyado barral",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 5 | percha hombros 420",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 6 | torso tejido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 6 | bajo cosido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 6 | cuello",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 6 | solapa cuello -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 6 | manga -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 6 | puño -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 6 | solapa cuello 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 6 | manga 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 6 | puño 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 6 | tapeta",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 6 | botón 0.18",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 6 | botón 0.31",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 6 | botón 0.44",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 6 | botón 0.58",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 6 | botón 0.71",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 6 | botón 0.84",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 6 | gancho apoyado barral",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Prenda 6 | percha hombros 420",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 1 | sustrato labrado",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 1 | agregados milimétricos 0",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 1 | agregados milimétricos 1",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 1 | agregados milimétricos 2",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 1 | agregados milimétricos 3",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 1 | lechuga de hoja hojas",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 1 | nervaduras",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 1 | tallos pecíolos",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 2 | sustrato labrado",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 2 | agregados milimétricos 0",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 2 | agregados milimétricos 1",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 2 | agregados milimétricos 2",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 2 | agregados milimétricos 3",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 2 | fruto 0",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 2 | fruto 2",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 2 | fruto 3",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 2 | fruto 5",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 2 | fruto 6",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 2 | pimiento compacto hojas",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 2 | nervaduras",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 2 | tallos pecíolos",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 3 | sustrato labrado",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 3 | agregados milimétricos 0",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 3 | agregados milimétricos 1",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 3 | agregados milimétricos 2",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 3 | agregados milimétricos 3",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 3 | acelga hojas",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 3 | nervaduras",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 3 | tallos pecíolos",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 4 | sustrato labrado",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 4 | agregados milimétricos 0",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 4 | agregados milimétricos 1",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 4 | agregados milimétricos 2",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 4 | agregados milimétricos 3",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 4 | albahaca hojas",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 4 | nervaduras",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R7B | Huerta 4 | tallos pecíolos",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        }
+      ],
+      "cameras": [
+        {
+          "name": "CAM | Casa & paisaje",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Pileta & playa húmeda",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Escalera & acceso",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Estudio de grabación",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Cocina & comedor",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Cocina",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Comedor",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Vestidor pasante",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Dormitorio",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Baño de pileta",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Quincho",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Implantación general",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Distribución · planta alta",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Huerta",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Balcón",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Fachada de acceso",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Baño suite",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Monoambiente",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Presentación verticales corregidas",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Planta alta ortogonal",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Dormitorio completo",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Dormitorio acceso",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Baño completo",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Baño desde acceso",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Vestidor circulación",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Estudio y cubierta",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Cocina comedor",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Quincho y extracción",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Escalera y desembarco",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Cubierta escalonada",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Portón y riel",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Baño acceso comedor",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Mono cocina e isla",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Mono distribución",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Baño mono",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Baño quincho",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Baño mono sanitarios",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "LUZ99 | Estudio amplitud",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "LUZ99 | Estudio retrato",
+          "resolution": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "name": "LUZ99 | Dormitorio desde paso",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "LUZ99 | Dormitorio amplitud",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "LUZ99 | Dormitorio retrato",
+          "resolution": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "name": "LUZ99 | Vestidor retrato",
+          "resolution": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "name": "LUZ99 | Exterior jardin retrato",
+          "resolution": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "name": "LUZ99 | Quincho amplitud",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "LUZ99 | Bano suite humano",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "LUZ99 | Bano PB desde puerta",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "LUZ99 | Acceso dormitorio desde estar",
+          "resolution": [
+            2400,
+            1800
+          ]
+        }
+      ]
+    },
+    "sceneSynchronization": {
+      "before": [
+        {
+          "name": "CASA DE CAMPO | Atardecer",
+          "objects": 5891,
+          "camera": "CAM | Presentación verticales corregidas"
+        },
+        {
+          "name": "CASA DE CAMPO | DÍA",
+          "objects": 5004,
+          "camera": "CAM | Presentación verticales corregidas"
+        },
+        {
+          "name": "CASA DE CAMPO | NOCHE",
+          "objects": 5004,
+          "camera": "CAM | Presentación verticales corregidas"
+        },
+        {
+          "name": "INSPECCIÓN | Planta alta",
+          "objects": 4903,
+          "camera": "CAM | Planta alta ortogonal"
+        },
+        {
+          "name": "RECORRIDO | Continuo",
+          "objects": 5005,
+          "camera": "TOUR | Recorrido continuo"
+        }
+      ],
+      "after": [
+        {
+          "name": "CASA DE CAMPO | DÍA",
+          "objects": 5890,
+          "sameMembership": true,
+          "world": "Cielo físico | DÍA",
+          "camera": "CAM | Presentación verticales corregidas"
+        },
+        {
+          "name": "CASA DE CAMPO | NOCHE",
+          "objects": 5890,
+          "sameMembership": true,
+          "world": "Cielo físico | NOCHE",
+          "camera": "CAM | Presentación verticales corregidas"
+        },
+        {
+          "name": "INSPECCIÓN | Planta alta",
+          "objects": 5890,
+          "sameMembership": true,
+          "world": "Cielo físico | DÍA",
+          "camera": "CAM | Planta alta ortogonal"
+        }
+      ],
+      "mainObjects": 5890,
+      "removedGeneratedLegacy": [
+        "RECORRIDO | Continuo",
+        "TOUR | Recorrido continuo"
+      ],
+      "retainedTour": "TOUR | Recorrido virtual",
+      "videoRendered": false
+    }
+  },
+  "scripts": {
+    "correcciones99_camara_acceso.py": "e53cffa846e9af56cbca0b967e28deadf711f1a2d63444a993bf7fd5998e5c40",
+    "finish99_metadata.py": "7d82ce968241a9128a05e437edab1a01bc5b331a6b0c7afe4ca0b8d69410b300",
+    "correcciones99_recorrido.py": "bef99817debc1f2f9ad091c1c6c3244b5dadc0d5989a01fea791461a5ac210d4",
+    "sync99_scene_variants.py": "d57b5da98adde311ff86bc607391e05e1a027089d8f52e7a4354b5e86569944c",
+    "publish99_checkpoint.py": "12e43fbbe51563f522a2d24dd7812aa125a5c4000fca0b92fb23fa6fa5b36aa8"
+  }
+}

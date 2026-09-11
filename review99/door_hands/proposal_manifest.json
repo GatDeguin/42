@@ -1,0 +1,758 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7C_preview.blend",
+  "sourceSHA256": "f2db43178677a0981751e197bf5af7c59739b2b5f5987d44f625cf5ab2c1f842",
+  "output": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7C_hands_preview.blend",
+  "outputSHA256": "c747143332f00b7888512caad1be7ee7accfd30cb1a57f2703f63bfb6e39f3b9",
+  "patch": {
+    "version": 1,
+    "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7C_preview.blend",
+    "existing_scope": [
+      "Puerta dormitorio",
+      "Puerta dormitorio manija",
+      "Puerta dormitorio marco -1",
+      "Puerta dormitorio marco 1",
+      "Puerta dormitorio marco superior",
+      "Premarco dormitorio | jamba",
+      "Premarco dormitorio | jamba.001",
+      "DOOR | bedroomLink",
+      "DOOR | bedroomDining",
+      "Puerta dormitorio comedor | jamba bisagra",
+      "Puerta dormitorio comedor | jamba cierre",
+      "Puerta dormitorio comedor | dintel",
+      "Puerta dormitorio comedor | hoja",
+      "Puerta dormitorio comedor | galce bisagra",
+      "Puerta dormitorio comedor | junta bisagra",
+      "Puerta dormitorio comedor | galce cierre",
+      "Puerta dormitorio comedor | junta cierre",
+      "Puerta dormitorio comedor | galce superior",
+      "Puerta dormitorio comedor | junta superior",
+      "Puerta dormitorio comedor | bisagra placa fija",
+      "Puerta dormitorio comedor | bisagra placa movil",
+      "Puerta dormitorio comedor | bisagra eje",
+      "Puerta dormitorio comedor | bisagra nudillo 0",
+      "Puerta dormitorio comedor | bisagra ala 0",
+      "Puerta dormitorio comedor | bisagra nudillo 1",
+      "Puerta dormitorio comedor | bisagra ala 1",
+      "Puerta dormitorio comedor | bisagra nudillo 2",
+      "Puerta dormitorio comedor | bisagra ala 2",
+      "Puerta dormitorio comedor | tornillo marco",
+      "Puerta dormitorio comedor | tornillo marco.001",
+      "Puerta dormitorio comedor | tornillo hoja",
+      "Puerta dormitorio comedor | tornillo hoja.001",
+      "Puerta dormitorio comedor | bisagra placa fija.001",
+      "Puerta dormitorio comedor | bisagra placa movil.001",
+      "Puerta dormitorio comedor | bisagra eje.001",
+      "Puerta dormitorio comedor | bisagra nudillo 0.001",
+      "Puerta dormitorio comedor | bisagra ala 0.001",
+      "Puerta dormitorio comedor | bisagra nudillo 1.001",
+      "Puerta dormitorio comedor | bisagra ala 1.001",
+      "Puerta dormitorio comedor | bisagra nudillo 2.001",
+      "Puerta dormitorio comedor | bisagra ala 2.001",
+      "Puerta dormitorio comedor | tornillo marco.002",
+      "Puerta dormitorio comedor | tornillo marco.003",
+      "Puerta dormitorio comedor | tornillo hoja.002",
+      "Puerta dormitorio comedor | tornillo hoja.003",
+      "Puerta dormitorio comedor | bisagra placa fija.002",
+      "Puerta dormitorio comedor | bisagra placa movil.002",
+      "Puerta dormitorio comedor | bisagra eje.002",
+      "Puerta dormitorio comedor | bisagra nudillo 0.002",
+      "Puerta dormitorio comedor | bisagra ala 0.002",
+      "Puerta dormitorio comedor | bisagra nudillo 1.002",
+      "Puerta dormitorio comedor | bisagra ala 1.002",
+      "Puerta dormitorio comedor | bisagra nudillo 2.002",
+      "Puerta dormitorio comedor | bisagra ala 2.002",
+      "Puerta dormitorio comedor | tornillo marco.004",
+      "Puerta dormitorio comedor | tornillo marco.005",
+      "Puerta dormitorio comedor | tornillo hoja.004",
+      "Puerta dormitorio comedor | tornillo hoja.005",
+      "Puerta dormitorio comedor | manija roseta",
+      "Puerta dormitorio comedor | manija vástago",
+      "Puerta dormitorio comedor | manija palanca",
+      "Puerta dormitorio comedor | manija roseta.001",
+      "Puerta dormitorio comedor | manija vástago.001",
+      "Puerta dormitorio comedor | manija palanca.001",
+      "Puerta dormitorio comedor | burlete inferior soporte"
+    ],
+    "geometry_proposal": "Same raw openings; north-hand bedroomLink, right-hand/inward bedroomDining, 7mm wider closing jamb.",
+    "bedroomLink": {
+      "pivot_source": [
+        17.59749984741211,
+        3.25,
+        7.2699995040893555
+      ],
+      "driver": "opening * -pi/2",
+      "raw_opening_source_z": [
+        7.23,
+        8.13
+      ],
+      "leaf_m": [
+        0.82,
+        0.045,
+        2.17
+      ],
+      "bottom_clearance_m": 0.01,
+      "hardware": "3x12mm sleeved knuckle hinges;5mm pins; two lever handles;13+2mm stops/seals"
+    },
+    "bedroomDining": {
+      "pivot_source": [
+        17.497501373291016,
+        3.25,
+        9.00999927520752
+      ],
+      "driver": "opening * -pi/2",
+      "raw_opening_source_x": [
+        16.54,
+        17.54
+      ],
+      "leaf_width_m": 0.908,
+      "closing_jamb_mm": 42,
+      "hinge_jamb_mm": 35,
+      "wall_depth_source_z": [
+        8.93,
+        9.07
+      ],
+      "galce_max_source_z": 9.07
+    },
+    "new_objects": [
+      "HAND99 | bedroomLink bisagra fija 1",
+      "HAND99 | bedroomLink bisagra movil 1",
+      "HAND99 | bedroomLink eje 1",
+      "HAND99 | bedroomLink nudillo 1-0",
+      "HAND99 | bedroomLink ala 1-0",
+      "HAND99 | bedroomLink nudillo 1-1",
+      "HAND99 | bedroomLink ala 1-1",
+      "HAND99 | bedroomLink nudillo 1-2",
+      "HAND99 | bedroomLink ala 1-2",
+      "HAND99 | bedroomLink tornillo marco 1",
+      "HAND99 | bedroomLink tornillo marco 1.001",
+      "HAND99 | bedroomLink tornillo hoja 1",
+      "HAND99 | bedroomLink tornillo hoja 1.001",
+      "HAND99 | bedroomLink bisagra fija 2",
+      "HAND99 | bedroomLink bisagra movil 2",
+      "HAND99 | bedroomLink eje 2",
+      "HAND99 | bedroomLink nudillo 2-0",
+      "HAND99 | bedroomLink ala 2-0",
+      "HAND99 | bedroomLink nudillo 2-1",
+      "HAND99 | bedroomLink ala 2-1",
+      "HAND99 | bedroomLink nudillo 2-2",
+      "HAND99 | bedroomLink ala 2-2",
+      "HAND99 | bedroomLink tornillo marco 2",
+      "HAND99 | bedroomLink tornillo marco 2.001",
+      "HAND99 | bedroomLink tornillo hoja 2",
+      "HAND99 | bedroomLink tornillo hoja 2.001",
+      "HAND99 | bedroomLink bisagra fija 3",
+      "HAND99 | bedroomLink bisagra movil 3",
+      "HAND99 | bedroomLink eje 3",
+      "HAND99 | bedroomLink nudillo 3-0",
+      "HAND99 | bedroomLink ala 3-0",
+      "HAND99 | bedroomLink nudillo 3-1",
+      "HAND99 | bedroomLink ala 3-1",
+      "HAND99 | bedroomLink nudillo 3-2",
+      "HAND99 | bedroomLink ala 3-2",
+      "HAND99 | bedroomLink tornillo marco 3",
+      "HAND99 | bedroomLink tornillo marco 3.001",
+      "HAND99 | bedroomLink tornillo hoja 3",
+      "HAND99 | bedroomLink tornillo hoja 3.001",
+      "HAND99 | bedroomLink manija roseta",
+      "HAND99 | bedroomLink manija vastago",
+      "HAND99 | bedroomLink manija palanca",
+      "HAND99 | bedroomLink manija roseta.001",
+      "HAND99 | bedroomLink manija vastago.001",
+      "HAND99 | bedroomLink manija palanca.001",
+      "HAND99 | bedroomLink spindle",
+      "HAND99 | bedroomLink galce bisagra",
+      "HAND99 | bedroomLink junta bisagra",
+      "HAND99 | bedroomLink galce cierre",
+      "HAND99 | bedroomLink junta cierre",
+      "HAND99 | bedroomLink galce superior",
+      "HAND99 | bedroomLink junta superior"
+    ],
+    "rig_count": 13
+  },
+  "preservation": {
+    "outside_scope_changes": [],
+    "existing_objects_missing": [],
+    "pass": true
+  },
+  "idempotence": true,
+  "normal_orientation": [
+    {
+      "name": "Puerta dormitorio",
+      "matrixDet": 0.08044200390577316,
+      "signedLocalVolume": 0.9948180767232702
+    },
+    {
+      "name": "Puerta dormitorio manija",
+      "matrixDet": 0.00014336001186165959,
+      "signedLocalVolume": 0.994318348252395
+    },
+    {
+      "name": "Puerta dormitorio marco -1",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 0.009761053017386122
+    },
+    {
+      "name": "Puerta dormitorio marco 1",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 0.009759474263258962
+    },
+    {
+      "name": "Puerta dormitorio marco superior",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 0.0040008977793619
+    },
+    {
+      "name": "Premarco dormitorio | jamba",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 0.007103999773979186
+    },
+    {
+      "name": "Premarco dormitorio | jamba.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 0.007103999773979188
+    },
+    {
+      "name": "Puerta dormitorio comedor | jamba bisagra",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 0.011024903869838454
+    },
+    {
+      "name": "Puerta dormitorio comedor | jamba cierre",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 0.013230485456006136
+    },
+    {
+      "name": "Puerta dormitorio comedor | dintel",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 0.0048999572754837295
+    },
+    {
+      "name": "Puerta dormitorio comedor | hoja",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 0.08988388426291401
+    },
+    {
+      "name": "Puerta dormitorio comedor | galce bisagra",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 0.0006434979988034217
+    },
+    {
+      "name": "Puerta dormitorio comedor | junta bisagra",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 9.89887986861844e-05
+    },
+    {
+      "name": "Puerta dormitorio comedor | galce cierre",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 0.0006434979988034495
+    },
+    {
+      "name": "Puerta dormitorio comedor | junta cierre",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 9.89887986861844e-05
+    },
+    {
+      "name": "Puerta dormitorio comedor | galce superior",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 0.00025682515729933677
+    },
+    {
+      "name": "Puerta dormitorio comedor | junta superior",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.072764783003623e-05
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra placa fija",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 6.073657660920833e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra placa movil",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.679909360212113e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra eje",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7858514577400606e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra nudillo 0",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.4488728892996533e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra ala 0",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.068490346212478e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra nudillo 1",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.4488728892996533e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra ala 1",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.0674223077631845e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra nudillo 2",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.4488728892996533e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra ala 2",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.0684903462374147e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | tornillo marco",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.9119532673403216e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | tornillo marco.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.9119532673403216e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | tornillo hoja",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7107101813787375e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | tornillo hoja.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7107101813787375e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra placa fija.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 6.073625483142163e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra placa movil.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.6799379694012952e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra eje.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7858514577400606e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra nudillo 0.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.4488728892996533e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra ala 0.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.0684903462515093e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra nudillo 1.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.4489145935382317e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra ala 1.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.0674745490235473e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra nudillo 2.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.4488728892996533e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra ala 2.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.06849034628783e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | tornillo marco.002",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.9119532673403216e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | tornillo marco.003",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.9119532673403216e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | tornillo hoja.002",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7107101813787375e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | tornillo hoja.003",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7107101813787375e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra placa fija.002",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 6.073657660884404e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra placa movil.002",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.6799093602859472e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra eje.002",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7858514577400606e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra nudillo 0.002",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.4488728892996533e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra ala 0.002",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.068490346248799e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra nudillo 1.002",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.4488728892996533e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra ala 1.002",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.067422307775924e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra nudillo 2.002",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.4488728892996533e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | bisagra ala 2.002",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.0684903462965037e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | tornillo marco.004",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.9119532673403216e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | tornillo marco.005",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.9119532673403216e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | tornillo hoja.004",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7107101813787375e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | tornillo hoja.005",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7107101813787375e-07
+    },
+    {
+      "name": "Puerta dormitorio comedor | manija roseta",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 5.823932137768842e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | manija vástago",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 4.869876739014505e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | manija palanca",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.5218618796554301e-05
+    },
+    {
+      "name": "Puerta dormitorio comedor | manija roseta.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 5.823932137768842e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | manija vástago.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 4.869876739014505e-06
+    },
+    {
+      "name": "Puerta dormitorio comedor | manija palanca.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.5218618796554301e-05
+    },
+    {
+      "name": "Puerta dormitorio comedor | burlete inferior soporte",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 0.00015628967050066583
+    },
+    {
+      "name": "HAND99 | bedroomLink bisagra fija 1",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 6.076296901665404e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink bisagra movil 1",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.679081571115404e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink eje 1",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7858514577400606e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink nudillo 1-0",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.4488728892996533e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink ala 1-0",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.065989352979572e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink nudillo 1-1",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.4488728892996533e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink ala 1-1",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.0659893512275435e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink nudillo 1-2",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.4488728892996533e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink ala 1-2",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.0659893526933425e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink tornillo marco 1",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7107101813787375e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink tornillo marco 1.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7107101813787375e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink tornillo hoja 1",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7107101813787375e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink tornillo hoja 1.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7107101813787375e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink bisagra fija 2",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 6.076264708713974e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink bisagra movil 2",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.6791101657394683e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink eje 2",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7858514577400606e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink nudillo 2-0",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.4488728892996533e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink ala 2-0",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.0659893535509464e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink nudillo 2-1",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.4489145935382317e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink ala 2-1",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.0660415649296343e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink nudillo 2-2",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.4488728892996533e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink ala 2-2",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.065989353275559e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink tornillo marco 2",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7107101813787375e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink tornillo marco 2.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7107101813787375e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink tornillo hoja 2",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7107101813787375e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink tornillo hoja 2.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7107101813787375e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink bisagra fija 3",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 6.07626470870877e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink bisagra movil 3",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.679081571115404e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink eje 3",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7858514577400606e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink nudillo 3-0",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.4488728892996533e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink ala 3-0",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.065989353044624e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink nudillo 3-1",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.4488728892996533e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink ala 3-1",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.0659893509760086e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink nudillo 3-2",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.4488728892996533e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink ala 3-2",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.065989353225686e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink tornillo marco 3",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7107101813787375e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink tornillo marco 3.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7107101813787375e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink tornillo hoja 3",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7107101813787375e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink tornillo hoja 3.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.7107101813787375e-07
+    },
+    {
+      "name": "HAND99 | bedroomLink manija roseta",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 4.9293758763374926e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink manija vastago",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.577868217569906e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink manija palanca",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.1180971467599581e-05
+    },
+    {
+      "name": "HAND99 | bedroomLink manija roseta.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 4.9293758763374926e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink manija vastago.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 3.577868217569906e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink manija palanca.001",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 1.1180971467599581e-05
+    },
+    {
+      "name": "HAND99 | bedroomLink spindle",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.8822371692474274e-06
+    },
+    {
+      "name": "HAND99 | bedroomLink galce bisagra",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 0.0006346567426056549
+    },
+    {
+      "name": "HAND99 | bedroomLink junta bisagra",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 9.768964388906509e-05
+    },
+    {
+      "name": "HAND99 | bedroomLink galce cierre",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 0.0006346567426407934
+    },
+    {
+      "name": "HAND99 | bedroomLink junta cierre",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 9.768964385548085e-05
+    },
+    {
+      "name": "HAND99 | bedroomLink galce superior",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 0.00017856730082550787
+    },
+    {
+      "name": "HAND99 | bedroomLink junta superior",
+      "matrixDet": 1.0,
+      "signedLocalVolume": 2.7486001256862846e-05
+    }
+  ],
+  "status": "Geometric and local circulation checks passed; pending integration and critic review",
+  "validation_report": "review99/door_hands/validation.json",
+  "camera_report": "review99/door_hands/cameras.json"
+}

@@ -1,0 +1,788 @@
+{
+  "input": "D:\\2026\\42\\output\\Casa_de_Campo_95_R6K.blend",
+  "input_sha256": "a3663a5081dac391303f25b8e9994b1a412a008e971642af29fc2cbee849aa90",
+  "scope": "Only evaluated water mesh clipped against 14 existing pool solids. Architecture, finishes, materials, rigs and surrounding objects preserved. No hydraulic calculation or certified system implied.",
+  "cause": "Uniform Solidify1.474 m created water through floor, four walls, steps and shelf.",
+  "before_water_bounds_source_m": {
+    "x": [
+      13.109999656677246,
+      19.889999389648438
+    ],
+    "y": [
+      -1.503999948501587,
+      -0.029999971389770508
+    ],
+    "z": [
+      15.109999656677246,
+      17.889999389648438
+    ]
+  },
+  "before_water_mesh": {
+    "vertices": 2750,
+    "faces": 5340,
+    "edges": 8088,
+    "volume_m3": 27.78253740577388,
+    "non_manifold_edges": 0,
+    "loose_vertices": 0,
+    "connected_components": 1,
+    "component_signed_volumes_m3": [
+      27.78253483896443
+    ]
+  },
+  "before_intersections": [
+    {
+      "solid": "Fondo de pileta",
+      "volume_m3": 2.1487166079470503
+    },
+    {
+      "solid": "Borde pileta norte",
+      "volume_m3": 0.09216696562071647
+    },
+    {
+      "solid": "Borde pileta sur",
+      "volume_m3": 0.09214062890403696
+    },
+    {
+      "solid": "Borde pileta oeste",
+      "volume_m3": 0.03779117235822355
+    },
+    {
+      "solid": "Borde pileta este",
+      "volume_m3": 0.03778037199848426
+    },
+    {
+      "solid": "Escalón pileta 0",
+      "volume_m3": 0.083799976122918
+    },
+    {
+      "solid": "Escalón pileta 1",
+      "volume_m3": 0.0837999964555423
+    },
+    {
+      "solid": "Escalón pileta 2",
+      "volume_m3": 0.0837999555634916
+    },
+    {
+      "solid": "Banda húmeda pileta norte",
+      "volume_m3": 0.0
+    },
+    {
+      "solid": "Banda húmeda pileta sur",
+      "volume_m3": 0.0
+    },
+    {
+      "solid": "Nariz playa húmeda",
+      "volume_m3": 0.010299847388198613
+    },
+    {
+      "solid": "Junta borde pileta medianera",
+      "volume_m3": 0.0019259206797866968
+    },
+    {
+      "solid": "Playa húmeda pileta",
+      "volume_m3": 1.2671061515810973
+    },
+    {
+      "solid": "Playa húmeda pileta escalón",
+      "volume_m3": 0.28269830041397964
+    }
+  ],
+  "after_water_bounds_source_m": {
+    "x": [
+      13.115500450134277,
+      19.88450050354004
+    ],
+    "y": [
+      -1.3899999856948853,
+      -0.029999971389770508
+    ],
+    "z": [
+      15.115500450134277,
+      17.88450050354004
+    ]
+  },
+  "after_water_mesh": {
+    "vertices": 2290,
+    "faces": 3687,
+    "edges": 5975,
+    "volume_m3": 23.576896621809947,
+    "non_manifold_edges": 0,
+    "loose_vertices": 0,
+    "connected_components": 1,
+    "component_signed_volumes_m3": [
+      23.576896189646277
+    ]
+  },
+  "after_intersections": [
+    {
+      "solid": "Fondo de pileta",
+      "volume_m3": 0.0,
+      "pass": true
+    },
+    {
+      "solid": "Borde pileta norte",
+      "volume_m3": 1.3948517341155764e-10,
+      "pass": true
+    },
+    {
+      "solid": "Borde pileta sur",
+      "volume_m3": 8.376341162352752e-09,
+      "pass": true
+    },
+    {
+      "solid": "Borde pileta oeste",
+      "volume_m3": 1.7320752414263195e-10,
+      "pass": true
+    },
+    {
+      "solid": "Borde pileta este",
+      "volume_m3": 4.6222499786030546e-11,
+      "pass": true
+    },
+    {
+      "solid": "Escalón pileta 0",
+      "volume_m3": 2.981991285844199e-10,
+      "pass": true
+    },
+    {
+      "solid": "Escalón pileta 1",
+      "volume_m3": 1.7568075640073122e-10,
+      "pass": true
+    },
+    {
+      "solid": "Escalón pileta 2",
+      "volume_m3": 3.097659585435397e-10,
+      "pass": true
+    },
+    {
+      "solid": "Banda húmeda pileta norte",
+      "volume_m3": 0.0,
+      "pass": true
+    },
+    {
+      "solid": "Banda húmeda pileta sur",
+      "volume_m3": 0.0,
+      "pass": true
+    },
+    {
+      "solid": "Nariz playa húmeda",
+      "volume_m3": 0.0,
+      "pass": true
+    },
+    {
+      "solid": "Junta borde pileta medianera",
+      "volume_m3": 0.0,
+      "pass": true
+    },
+    {
+      "solid": "Playa húmeda pileta",
+      "volume_m3": 0.0,
+      "pass": true
+    },
+    {
+      "solid": "Playa húmeda pileta escalón",
+      "volume_m3": 0.0,
+      "pass": true
+    }
+  ],
+  "contacts": [
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 13.13,
+      "source_z": 15.13,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 13.13,
+      "source_z": 15.7,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 13.13,
+      "source_z": 16.5,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 13.13,
+      "source_z": 16.9,
+      "solid": "Escalón pileta 2",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 13.13,
+      "source_z": 17.2,
+      "solid": "Escalón pileta 1",
+      "gap_m": 2.9802322387695312e-08,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 13.13,
+      "source_z": 17.6,
+      "solid": "Escalón pileta 0",
+      "gap_m": 1.4901161193847656e-08,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 13.13,
+      "source_z": 17.86,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 13.65,
+      "source_z": 15.13,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 13.65,
+      "source_z": 15.7,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 13.65,
+      "source_z": 16.5,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 13.65,
+      "source_z": 16.9,
+      "solid": "Escalón pileta 2",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 13.65,
+      "source_z": 17.2,
+      "solid": "Escalón pileta 1",
+      "gap_m": 2.9802322387695312e-08,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 13.65,
+      "source_z": 17.6,
+      "solid": "Escalón pileta 0",
+      "gap_m": 1.4901161193847656e-08,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 13.65,
+      "source_z": 17.86,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 14.2,
+      "source_z": 15.13,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 14.2,
+      "source_z": 15.7,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 14.2,
+      "source_z": 16.5,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 14.2,
+      "source_z": 16.9,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 14.2,
+      "source_z": 17.2,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 14.2,
+      "source_z": 17.6,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 14.2,
+      "source_z": 17.86,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 15.5,
+      "source_z": 15.13,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 15.5,
+      "source_z": 15.7,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 15.5,
+      "source_z": 16.5,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 15.5,
+      "source_z": 16.9,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 15.5,
+      "source_z": 17.2,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 15.5,
+      "source_z": 17.6,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 15.5,
+      "source_z": 17.86,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 17,
+      "source_z": 15.13,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 17,
+      "source_z": 15.7,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 17,
+      "source_z": 16.5,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 17,
+      "source_z": 16.9,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 17,
+      "source_z": 17.2,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 17,
+      "source_z": 17.6,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 17,
+      "source_z": 17.86,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 18.22,
+      "source_z": 15.13,
+      "solid": "Fondo de pileta",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 18.22,
+      "source_z": 15.7,
+      "solid": "Playa húmeda pileta escalón",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 18.22,
+      "source_z": 16.5,
+      "solid": "Playa húmeda pileta escalón",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 18.22,
+      "source_z": 16.9,
+      "solid": "Playa húmeda pileta escalón",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 18.22,
+      "source_z": 17.2,
+      "solid": "Playa húmeda pileta escalón",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 18.22,
+      "source_z": 17.6,
+      "solid": "Playa húmeda pileta escalón",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 18.22,
+      "source_z": 17.86,
+      "solid": "Playa húmeda pileta escalón",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 18.46,
+      "source_z": 15.13,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 18.46,
+      "source_z": 15.7,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 18.46,
+      "source_z": 16.5,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 18.46,
+      "source_z": 16.9,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 18.46,
+      "source_z": 17.2,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 18.46,
+      "source_z": 17.6,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 18.46,
+      "source_z": 17.86,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 19.2,
+      "source_z": 15.13,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 19.2,
+      "source_z": 15.7,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 19.2,
+      "source_z": 16.5,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 19.2,
+      "source_z": 16.9,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 19.2,
+      "source_z": 17.2,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 19.2,
+      "source_z": 17.6,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 19.2,
+      "source_z": 17.86,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 19.87,
+      "source_z": 15.13,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 19.87,
+      "source_z": 15.7,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 19.87,
+      "source_z": 16.5,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 19.87,
+      "source_z": 16.9,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 19.87,
+      "source_z": 17.2,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 19.87,
+      "source_z": 17.6,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 19.87,
+      "source_z": 17.86,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 13.65,
+      "source_z": 17.65,
+      "solid": "Escalón pileta 0",
+      "gap_m": 1.4901161193847656e-08,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 13.65,
+      "source_z": 17.23,
+      "solid": "Escalón pileta 1",
+      "gap_m": 2.9802322387695312e-08,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 13.65,
+      "source_z": 16.91,
+      "solid": "Escalón pileta 2",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 18.22,
+      "source_z": 16.5,
+      "solid": "Playa húmeda pileta escalón",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "vertical_first_interface",
+      "source_x": 19.2,
+      "source_z": 16.5,
+      "solid": "Playa húmeda pileta",
+      "gap_m": 7.450580596923828e-09,
+      "pass": true
+    },
+    {
+      "kind": "wall_contact",
+      "solid": "Borde pileta oeste",
+      "gap_m": 9.313225746154785e-10,
+      "pass": true
+    },
+    {
+      "kind": "wall_contact",
+      "solid": "Borde pileta este",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "wall_contact",
+      "solid": "Borde pileta norte",
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "kind": "wall_contact",
+      "solid": "Borde pileta sur",
+      "gap_m": 0.0,
+      "pass": true
+    }
+  ],
+  "unchanged_objects": true,
+  "object_names_preserved": true,
+  "rig_count": 13,
+  "new_materials": [],
+  "changed_objects": [
+    "Agua de pileta"
+  ],
+  "hidden_joint_closure": {
+    "location": "East end of wet shelf at X19.88 against east basin wall",
+    "original_gap_m": 1.907e-06,
+    "water_only_cutter_extension_into_wall_m": 0.001001,
+    "finish_geometry_changed": false
+  },
+  "preserved_datums": {
+    "water_crest_m": -0.029999971389770508,
+    "wet_shelf_top_m": -0.07999999821186066,
+    "basin_cap_m": 0.06999999284744263,
+    "nominal_basin_width_m": 7.0,
+    "nominal_basin_depth_m": 3.0
+  },
+  "limitations": [
+    "Existing support/finish assemblies are unaltered; no structural proof is claimed.",
+    "Water boundary coincides with physical surfaces without an artificial optical air gap.",
+    "Filtration, operating level, circulation, drainage and safety require a hydraulic project.",
+    "Unmodeled wet-wall finishes and D08 ventilation coordination remain separate tasks."
+  ],
+  "pass": true,
+  "output": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7A.blend",
+  "output_sha256": "c25f6d9be283081d49733aa0e2f60d2c458b3b5fcb1de9092f59707404903d7f",
+  "input_unchanged": true
+}
