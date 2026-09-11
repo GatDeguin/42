@@ -1,0 +1,6 @@
+{
+  "three": "0.180.0",
+  "three-gpu-pathtracer": "0.0.24",
+  "three-mesh-bvh": "0.9.5",
+  "esbuild": "0.25.10"
+}

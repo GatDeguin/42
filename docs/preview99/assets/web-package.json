@@ -1,0 +1,625 @@
+{
+  "sourceSHA256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "sourceModel": "Casa_de_Campo_99_R7D.blend",
+  "entrypoint": "house.gltf",
+  "originalGLBSHA256": "11144e8c21cd92da1dadae74b42e3689fbb34402d33bff74d21f378cc6bf1910",
+  "originalGLBBytes": 128158876,
+  "files": [
+    {
+      "uri": "house.gltf",
+      "bytes": 4683913,
+      "sha256": "e4285768ca29af1017c512ee72cb5d8ab3d1ea9ed6e6530d0d998c524d96fdbd"
+    },
+    {
+      "uri": "geometry-0.bin",
+      "bytes": 32383276,
+      "sha256": "b4d59122305318075da50daca57d460a3d473dcc6cc03671fb14b5b10618eb72"
+    },
+    {
+      "uri": "textures99/f33ec86f769dac570068716565f6d1017964c5866ffa855e3ab2b02b8e7f5f74.webp",
+      "bytes": 4989676,
+      "sha256": "f33ec86f769dac570068716565f6d1017964c5866ffa855e3ab2b02b8e7f5f74"
+    },
+    {
+      "uri": "textures99/365804dac49cac082868aa3b2d984c769c3be2eab137746f9dcfb6ad8ee3725a.jpg",
+      "bytes": 1806923,
+      "sha256": "365804dac49cac082868aa3b2d984c769c3be2eab137746f9dcfb6ad8ee3725a"
+    },
+    {
+      "uri": "textures99/34bf5a95cc6277d9d2efe185e5ab350b63bc43e7a9bb14e21e66353b21f7607b.webp",
+      "bytes": 3290824,
+      "sha256": "34bf5a95cc6277d9d2efe185e5ab350b63bc43e7a9bb14e21e66353b21f7607b"
+    },
+    {
+      "uri": "textures99/44d7e9beb6c5e95a9a2923d82c3f571786e94c14a56f8bd4b6bc88bca6fd4ae4.webp",
+      "bytes": 479626,
+      "sha256": "44d7e9beb6c5e95a9a2923d82c3f571786e94c14a56f8bd4b6bc88bca6fd4ae4"
+    },
+    {
+      "uri": "textures99/904256ce97698408ee7182db4bd324f433851e7b68bdeb378d4b924f17e1e8e0.webp",
+      "bytes": 125938,
+      "sha256": "904256ce97698408ee7182db4bd324f433851e7b68bdeb378d4b924f17e1e8e0"
+    },
+    {
+      "uri": "textures99/ce57c3ea1eac55e8d2e79b7f0a283c198131efe4e4de592e7d7d4bd7f91da6f0.webp",
+      "bytes": 390414,
+      "sha256": "ce57c3ea1eac55e8d2e79b7f0a283c198131efe4e4de592e7d7d4bd7f91da6f0"
+    },
+    {
+      "uri": "textures99/8cc03470eb7d48c2ad32bcc3fceec3ebe31ae9fd8c3e2ca02cd54cb7753f3b09.webp",
+      "bytes": 189908,
+      "sha256": "8cc03470eb7d48c2ad32bcc3fceec3ebe31ae9fd8c3e2ca02cd54cb7753f3b09"
+    },
+    {
+      "uri": "textures99/ba7daed157cd2fcddd776863fa458be4e3f87e3ac6dc491a9be3522b1e586b60.webp",
+      "bytes": 85416,
+      "sha256": "ba7daed157cd2fcddd776863fa458be4e3f87e3ac6dc491a9be3522b1e586b60"
+    },
+    {
+      "uri": "textures99/6c24929009a419dadfb85ce644f1ba8dced42246e1c9b048f42d02f6a660c01e.webp",
+      "bytes": 29986,
+      "sha256": "6c24929009a419dadfb85ce644f1ba8dced42246e1c9b048f42d02f6a660c01e"
+    },
+    {
+      "uri": "textures99/a145ef6b8f99491c180b3b12ff0d7e63bce19185886ff0de98cdd0dac01cb4e5.webp",
+      "bytes": 4294866,
+      "sha256": "a145ef6b8f99491c180b3b12ff0d7e63bce19185886ff0de98cdd0dac01cb4e5"
+    },
+    {
+      "uri": "textures99/1a732c09af425e41234fa601fbf785871bdf52035ac78331973961016fb4e960.jpg",
+      "bytes": 1872186,
+      "sha256": "1a732c09af425e41234fa601fbf785871bdf52035ac78331973961016fb4e960"
+    },
+    {
+      "uri": "textures99/2b2f44534d38f239f4cfe003fbcb71068cf91368f5a6384d8ca2e153a7d947a7.webp",
+      "bytes": 3089188,
+      "sha256": "2b2f44534d38f239f4cfe003fbcb71068cf91368f5a6384d8ca2e153a7d947a7"
+    },
+    {
+      "uri": "textures99/0b30afe6097144d1962d89ee75471596e14b0931121224c4edd21408ec40da53.webp",
+      "bytes": 133800,
+      "sha256": "0b30afe6097144d1962d89ee75471596e14b0931121224c4edd21408ec40da53"
+    },
+    {
+      "uri": "textures99/a35bde0b3f84efd52420b58b48a6a34983b5658de9e3221a630facd2553e6367.webp",
+      "bytes": 6844726,
+      "sha256": "a35bde0b3f84efd52420b58b48a6a34983b5658de9e3221a630facd2553e6367"
+    },
+    {
+      "uri": "textures99/0aaeb3a2d87b6d6da23fccf43f2467b83ae2c6fe37309f05bfa592e525fc597c.webp",
+      "bytes": 4946750,
+      "sha256": "0aaeb3a2d87b6d6da23fccf43f2467b83ae2c6fe37309f05bfa592e525fc597c"
+    },
+    {
+      "uri": "textures99/5052502e4a7b44fcdc0e23b6588bbfd82289658ee85d8eb41fef53ba6b54f8f0.webp",
+      "bytes": 2418634,
+      "sha256": "5052502e4a7b44fcdc0e23b6588bbfd82289658ee85d8eb41fef53ba6b54f8f0"
+    },
+    {
+      "uri": "textures99/0037948c6b41f4f0916953f681ec05797525d4e542426e1033c1958af5a042f9.webp",
+      "bytes": 117340,
+      "sha256": "0037948c6b41f4f0916953f681ec05797525d4e542426e1033c1958af5a042f9"
+    },
+    {
+      "uri": "textures99/0fc3538184d410368b9e0bb4bc893007abdf86f8a78e4a2025ad5288d970705f.webp",
+      "bytes": 85388,
+      "sha256": "0fc3538184d410368b9e0bb4bc893007abdf86f8a78e4a2025ad5288d970705f"
+    },
+    {
+      "uri": "textures99/cf270b9b12932d24170e8883bf566c471e5dcabf52e0028d9872d6dd3fda6e31.webp",
+      "bytes": 1770698,
+      "sha256": "cf270b9b12932d24170e8883bf566c471e5dcabf52e0028d9872d6dd3fda6e31"
+    },
+    {
+      "uri": "textures99/5031aecfe1f21bc21382ddaf73a65ae3c305824c3fae203dd8142abab35319e8.webp",
+      "bytes": 1738498,
+      "sha256": "5031aecfe1f21bc21382ddaf73a65ae3c305824c3fae203dd8142abab35319e8"
+    },
+    {
+      "uri": "textures99/029c4de60ec8e0249ea1780be5d030817346990e6f3344c44af21fdedba14605.webp",
+      "bytes": 539812,
+      "sha256": "029c4de60ec8e0249ea1780be5d030817346990e6f3344c44af21fdedba14605"
+    },
+    {
+      "uri": "textures99/0f4d907fdcae848bdba32cf37eef1017c463f53eb1cb2cafd858dc7b8b6b278c.webp",
+      "bytes": 4374898,
+      "sha256": "0f4d907fdcae848bdba32cf37eef1017c463f53eb1cb2cafd858dc7b8b6b278c"
+    },
+    {
+      "uri": "textures99/036228d14aa362980b589b6e4b7b89d2e85d80d6876423a6800fc06b229f5b53.png",
+      "bytes": 2347683,
+      "sha256": "036228d14aa362980b589b6e4b7b89d2e85d80d6876423a6800fc06b229f5b53"
+    },
+    {
+      "uri": "textures99/aefff81358953d0cb18916d8787c39ff124aa32222742f331f237ccbb2300464.webp",
+      "bytes": 691662,
+      "sha256": "aefff81358953d0cb18916d8787c39ff124aa32222742f331f237ccbb2300464"
+    },
+    {
+      "uri": "textures99/fbd281c525f1eb686d875ee483182fd63aa58326b78dd6d8722e3a92831c67a7.webp",
+      "bytes": 8242492,
+      "sha256": "fbd281c525f1eb686d875ee483182fd63aa58326b78dd6d8722e3a92831c67a7"
+    },
+    {
+      "uri": "textures99/4ab3210b6ec6bb1181145500bca71d1c1f81ead6baaa8600f5979c2cec50c6a4.jpg",
+      "bytes": 3170612,
+      "sha256": "4ab3210b6ec6bb1181145500bca71d1c1f81ead6baaa8600f5979c2cec50c6a4"
+    },
+    {
+      "uri": "textures99/2e4b825c1e869837be27cc3bc1e062accddb032b7bb0487dd53e7e39177313eb.webp",
+      "bytes": 1651898,
+      "sha256": "2e4b825c1e869837be27cc3bc1e062accddb032b7bb0487dd53e7e39177313eb"
+    },
+    {
+      "uri": "textures99/6b4efcfa50f22e0fd6b4e60031e2bd6b22761b0f3efe7b3e4e227201feb8006d.webp",
+      "bytes": 326138,
+      "sha256": "6b4efcfa50f22e0fd6b4e60031e2bd6b22761b0f3efe7b3e4e227201feb8006d"
+    },
+    {
+      "uri": "textures99/4ca803e1cf8c9ba02c666b6fd413d50a0115a2e9814e5d450572f32cd3f82052.webp",
+      "bytes": 85390,
+      "sha256": "4ca803e1cf8c9ba02c666b6fd413d50a0115a2e9814e5d450572f32cd3f82052"
+    },
+    {
+      "uri": "textures99/c43447a010cfd05c6ecb5424ab2ab3677964773dc09e0ec4dc499622d0983027.webp",
+      "bytes": 2485194,
+      "sha256": "c43447a010cfd05c6ecb5424ab2ab3677964773dc09e0ec4dc499622d0983027"
+    },
+    {
+      "uri": "textures99/8e1c6d21365d4b89bc5a35ab664da98a78dbc3ab9ba6100474881c8619a5b113.jpg",
+      "bytes": 4766204,
+      "sha256": "8e1c6d21365d4b89bc5a35ab664da98a78dbc3ab9ba6100474881c8619a5b113"
+    },
+    {
+      "uri": "textures99/a9033175f3336d0a5f61a71615d19f8bd30ef5629daa81db35ada527dc300229.webp",
+      "bytes": 490090,
+      "sha256": "a9033175f3336d0a5f61a71615d19f8bd30ef5629daa81db35ada527dc300229"
+    },
+    {
+      "uri": "textures99/30a503cab8f93f28ebb14f660996a4f699f747b555487c4476fed85ea0d11209.webp",
+      "bytes": 226958,
+      "sha256": "30a503cab8f93f28ebb14f660996a4f699f747b555487c4476fed85ea0d11209"
+    },
+    {
+      "uri": "textures99/32868ee93af6f92a06bd7912633e4b1fb13420df8fea94868ff94f78bcf11f66.webp",
+      "bytes": 85498,
+      "sha256": "32868ee93af6f92a06bd7912633e4b1fb13420df8fea94868ff94f78bcf11f66"
+    },
+    {
+      "uri": "textures99/13da4425cea2c041e705d903033a3559a570a1a18fd7f1e0d03db9038bff38e6.webp",
+      "bytes": 189748,
+      "sha256": "13da4425cea2c041e705d903033a3559a570a1a18fd7f1e0d03db9038bff38e6"
+    },
+    {
+      "uri": "textures99/69872359c04f2f0830f03cba89edbdc77af72bea36ba0836f97c4ca41f68e585.webp",
+      "bytes": 85396,
+      "sha256": "69872359c04f2f0830f03cba89edbdc77af72bea36ba0836f97c4ca41f68e585"
+    },
+    {
+      "uri": "textures99/f4876b174df29d16958e9eee0a8bc5911866d13d1ec8df4ba395bb67a4cf342b.webp",
+      "bytes": 189918,
+      "sha256": "f4876b174df29d16958e9eee0a8bc5911866d13d1ec8df4ba395bb67a4cf342b"
+    },
+    {
+      "uri": "textures99/b7e0feeaaad17c6647e59a407302c1f25611f5caf557a0a312eb45ebf9c2219f.webp",
+      "bytes": 80072,
+      "sha256": "b7e0feeaaad17c6647e59a407302c1f25611f5caf557a0a312eb45ebf9c2219f"
+    },
+    {
+      "uri": "textures99/e23b2a72f77e7b91c5de0de7b8a6d6d69b644862c35acee6af6b5abcc876faa1.webp",
+      "bytes": 36250,
+      "sha256": "e23b2a72f77e7b91c5de0de7b8a6d6d69b644862c35acee6af6b5abcc876faa1"
+    },
+    {
+      "uri": "textures99/8a00a9eda6cd0d55aa46ed7bf173dda60675406a1b7c9ae5e1177ac0ffea956d.webp",
+      "bytes": 7644858,
+      "sha256": "8a00a9eda6cd0d55aa46ed7bf173dda60675406a1b7c9ae5e1177ac0ffea956d"
+    },
+    {
+      "uri": "textures99/fcdf3d2c9b0759b248cdd580f70bd764f347cb1c3bece9e8249c1eeee912b2aa.webp",
+      "bytes": 842956,
+      "sha256": "fcdf3d2c9b0759b248cdd580f70bd764f347cb1c3bece9e8249c1eeee912b2aa"
+    },
+    {
+      "uri": "textures99/9143fe86b0157f357c9410e7c4b9697c7b3607ec78621b44a92619bccce98a13.webp",
+      "bytes": 3363920,
+      "sha256": "9143fe86b0157f357c9410e7c4b9697c7b3607ec78621b44a92619bccce98a13"
+    },
+    {
+      "uri": "textures99/ab3a0bac409dfbb4cf11f163859edc4b081c55a9577b9bb3b302fccdd06c3851.webp",
+      "bytes": 820504,
+      "sha256": "ab3a0bac409dfbb4cf11f163859edc4b081c55a9577b9bb3b302fccdd06c3851"
+    },
+    {
+      "uri": "textures99/a3df5f6f7493a1762626c6d0d47872d969744a49931de50fe79f71a5eae8f857.jpg",
+      "bytes": 3073051,
+      "sha256": "a3df5f6f7493a1762626c6d0d47872d969744a49931de50fe79f71a5eae8f857"
+    },
+    {
+      "uri": "textures99/726a0f5222fdf8b2bcdbec56fee8ea55150c217eab35a893ad5831f28cee3a5f.jpg",
+      "bytes": 2093509,
+      "sha256": "726a0f5222fdf8b2bcdbec56fee8ea55150c217eab35a893ad5831f28cee3a5f"
+    },
+    {
+      "uri": "textures99/b9010ffbb5a3f045585eb0e03ac15fb1a5984546c94f51a21a74a2bd702d8fda.webp",
+      "bytes": 2193290,
+      "sha256": "b9010ffbb5a3f045585eb0e03ac15fb1a5984546c94f51a21a74a2bd702d8fda"
+    },
+    {
+      "uri": "textures99/aece8aacca29717d610aa5cde5c0ae8f4b7a5744811221952a9804fc7836fb85.webp",
+      "bytes": 790582,
+      "sha256": "aece8aacca29717d610aa5cde5c0ae8f4b7a5744811221952a9804fc7836fb85"
+    },
+    {
+      "uri": "textures99/e901e2a7daab45da87e75cc387d46e10243678c5dc67b6000792d2b4d836c2b2.webp",
+      "bytes": 716124,
+      "sha256": "e901e2a7daab45da87e75cc387d46e10243678c5dc67b6000792d2b4d836c2b2"
+    },
+    {
+      "uri": "textures99/62118bc6def7b0e21d6b9d1c4480185524f2de99dfbf27c01e3642dc1764c735.webp",
+      "bytes": 696486,
+      "sha256": "62118bc6def7b0e21d6b9d1c4480185524f2de99dfbf27c01e3642dc1764c735"
+    },
+    {
+      "uri": "textures99/17bc654fcb3f9dcef79c585ac3fb0235c745190a0fad7259b1dabbc81ea8d625.webp",
+      "bytes": 747106,
+      "sha256": "17bc654fcb3f9dcef79c585ac3fb0235c745190a0fad7259b1dabbc81ea8d625"
+    },
+    {
+      "uri": "textures99/cd2e1176b93c8b8ed11b48ae54727cae2de469fb71d886ee752fa7e9103d4e47.webp",
+      "bytes": 727682,
+      "sha256": "cd2e1176b93c8b8ed11b48ae54727cae2de469fb71d886ee752fa7e9103d4e47"
+    },
+    {
+      "uri": "textures99/78dba642b761e3c0e00d7bded3bedf3a2f66dae996dccc7c82bcba8f64885e02.webp",
+      "bytes": 821176,
+      "sha256": "78dba642b761e3c0e00d7bded3bedf3a2f66dae996dccc7c82bcba8f64885e02"
+    },
+    {
+      "uri": "textures99/2f0e97568c037310d2b1b9468b154f633b6400f8d2c970e44df1673773e98848.webp",
+      "bytes": 709104,
+      "sha256": "2f0e97568c037310d2b1b9468b154f633b6400f8d2c970e44df1673773e98848"
+    },
+    {
+      "uri": "textures99/c43b3bd047316dd6193b78222117a9c801e7e529e321cdb2165dad4ec8c985d6.webp",
+      "bytes": 747470,
+      "sha256": "c43b3bd047316dd6193b78222117a9c801e7e529e321cdb2165dad4ec8c985d6"
+    }
+  ],
+  "totalBytes": 131821705,
+  "maxFileBytes": 32383276,
+  "textureBytesPreserved": true,
+  "textureChecks": [
+    {
+      "name": "oak_veneer_01_nor_gl_2k",
+      "uri": "textures99/f33ec86f769dac570068716565f6d1017964c5866ffa855e3ab2b02b8e7f5f74.webp",
+      "sha256": "f33ec86f769dac570068716565f6d1017964c5866ffa855e3ab2b02b8e7f5f74",
+      "bytes": 4989676
+    },
+    {
+      "name": "oak-calibrated-diffuse-2k",
+      "uri": "textures99/365804dac49cac082868aa3b2d984c769c3be2eab137746f9dcfb6ad8ee3725a.jpg",
+      "sha256": "365804dac49cac082868aa3b2d984c769c3be2eab137746f9dcfb6ad8ee3725a",
+      "bytes": 1806923
+    },
+    {
+      "name": "oak_veneer_01_rough_2k",
+      "uri": "textures99/34bf5a95cc6277d9d2efe185e5ab350b63bc43e7a9bb14e21e66353b21f7607b.webp",
+      "sha256": "34bf5a95cc6277d9d2efe185e5ab350b63bc43e7a9bb14e21e66353b21f7607b",
+      "bytes": 3290824
+    },
+    {
+      "name": "tile300_normal",
+      "uri": "textures99/44d7e9beb6c5e95a9a2923d82c3f571786e94c14a56f8bd4b6bc88bca6fd4ae4.webp",
+      "sha256": "44d7e9beb6c5e95a9a2923d82c3f571786e94c14a56f8bd4b6bc88bca6fd4ae4",
+      "bytes": 479626
+    },
+    {
+      "name": "tile300_basecolor",
+      "uri": "textures99/904256ce97698408ee7182db4bd324f433851e7b68bdeb378d4b924f17e1e8e0.webp",
+      "sha256": "904256ce97698408ee7182db4bd324f433851e7b68bdeb378d4b924f17e1e8e0",
+      "bytes": 125938
+    },
+    {
+      "name": "tile300_roughness",
+      "uri": "textures99/ce57c3ea1eac55e8d2e79b7f0a283c198131efe4e4de592e7d7d4bd7f91da6f0.webp",
+      "sha256": "ce57c3ea1eac55e8d2e79b7f0a283c198131efe4e4de592e7d7d4bd7f91da6f0",
+      "bytes": 390414
+    },
+    {
+      "name": "porcelana_vidriada_normal",
+      "uri": "textures99/8cc03470eb7d48c2ad32bcc3fceec3ebe31ae9fd8c3e2ca02cd54cb7753f3b09.webp",
+      "sha256": "8cc03470eb7d48c2ad32bcc3fceec3ebe31ae9fd8c3e2ca02cd54cb7753f3b09",
+      "bytes": 189908
+    },
+    {
+      "name": "porcelana_vidriada_rough",
+      "uri": "textures99/ba7daed157cd2fcddd776863fa458be4e3f87e3ac6dc491a9be3522b1e586b60.webp",
+      "sha256": "ba7daed157cd2fcddd776863fa458be4e3f87e3ac6dc491a9be3522b1e586b60",
+      "bytes": 85416
+    },
+    {
+      "name": "acoustic_albedo",
+      "uri": "textures99/6c24929009a419dadfb85ce644f1ba8dced42246e1c9b048f42d02f6a660c01e.webp",
+      "sha256": "6c24929009a419dadfb85ce644f1ba8dced42246e1c9b048f42d02f6a660c01e",
+      "bytes": 29986
+    },
+    {
+      "name": "oak-parquet-normalGL-2k",
+      "uri": "textures99/a145ef6b8f99491c180b3b12ff0d7e63bce19185886ff0de98cdd0dac01cb4e5.webp",
+      "sha256": "a145ef6b8f99491c180b3b12ff0d7e63bce19185886ff0de98cdd0dac01cb4e5",
+      "bytes": 4294866
+    },
+    {
+      "name": "oak-parquet-diffuse-2k",
+      "uri": "textures99/1a732c09af425e41234fa601fbf785871bdf52035ac78331973961016fb4e960.jpg",
+      "sha256": "1a732c09af425e41234fa601fbf785871bdf52035ac78331973961016fb4e960",
+      "bytes": 1872186
+    },
+    {
+      "name": "oak-parquet-roughness-2k",
+      "uri": "textures99/2b2f44534d38f239f4cfe003fbcb71068cf91368f5a6384d8ca2e153a7d947a7.webp",
+      "sha256": "2b2f44534d38f239f4cfe003fbcb71068cf91368f5a6384d8ca2e153a7d947a7",
+      "bytes": 3089188
+    },
+    {
+      "name": "soil_albedo",
+      "uri": "textures99/0b30afe6097144d1962d89ee75471596e14b0931121224c4edd21408ec40da53.webp",
+      "sha256": "0b30afe6097144d1962d89ee75471596e14b0931121224c4edd21408ec40da53",
+      "bytes": 133800
+    },
+    {
+      "name": "red_bricks_04_nor_gl_2k",
+      "uri": "textures99/a35bde0b3f84efd52420b58b48a6a34983b5658de9e3221a630facd2553e6367.webp",
+      "sha256": "a35bde0b3f84efd52420b58b48a6a34983b5658de9e3221a630facd2553e6367",
+      "bytes": 6844726
+    },
+    {
+      "name": "red_bricks_04_calibrated_diffuse_2k",
+      "uri": "textures99/0aaeb3a2d87b6d6da23fccf43f2467b83ae2c6fe37309f05bfa592e525fc597c.webp",
+      "sha256": "0aaeb3a2d87b6d6da23fccf43f2467b83ae2c6fe37309f05bfa592e525fc597c",
+      "bytes": 4946750
+    },
+    {
+      "name": "red_bricks_04_rough_2k",
+      "uri": "textures99/5052502e4a7b44fcdc0e23b6588bbfd82289658ee85d8eb41fef53ba6b54f8f0.webp",
+      "sha256": "5052502e4a7b44fcdc0e23b6588bbfd82289658ee85d8eb41fef53ba6b54f8f0",
+      "bytes": 2418634
+    },
+    {
+      "name": "cromado_sanitario_normal",
+      "uri": "textures99/0037948c6b41f4f0916953f681ec05797525d4e542426e1033c1958af5a042f9.webp",
+      "sha256": "0037948c6b41f4f0916953f681ec05797525d4e542426e1033c1958af5a042f9",
+      "bytes": 117340
+    },
+    {
+      "name": "cromado_sanitario_rough",
+      "uri": "textures99/0fc3538184d410368b9e0bb4bc893007abdf86f8a78e4a2025ad5288d970705f.webp",
+      "sha256": "0fc3538184d410368b9e0bb4bc893007abdf86f8a78e4a2025ad5288d970705f",
+      "bytes": 85388
+    },
+    {
+      "name": "tree_small_02_branch_nor_gl_2k",
+      "uri": "textures99/cf270b9b12932d24170e8883bf566c471e5dcabf52e0028d9872d6dd3fda6e31.webp",
+      "sha256": "cf270b9b12932d24170e8883bf566c471e5dcabf52e0028d9872d6dd3fda6e31",
+      "bytes": 1770698
+    },
+    {
+      "name": "tree_small_02_branch_diff_2k",
+      "uri": "textures99/5031aecfe1f21bc21382ddaf73a65ae3c305824c3fae203dd8142abab35319e8.webp",
+      "sha256": "5031aecfe1f21bc21382ddaf73a65ae3c305824c3fae203dd8142abab35319e8",
+      "bytes": 1738498
+    },
+    {
+      "name": "tree_small_02_branch_rough_2k",
+      "uri": "textures99/029c4de60ec8e0249ea1780be5d030817346990e6f3344c44af21fdedba14605.webp",
+      "sha256": "029c4de60ec8e0249ea1780be5d030817346990e6f3344c44af21fdedba14605",
+      "bytes": 539812
+    },
+    {
+      "name": "tree_small_02_leaves_nor_gl_2k",
+      "uri": "textures99/0f4d907fdcae848bdba32cf37eef1017c463f53eb1cb2cafd858dc7b8b6b278c.webp",
+      "sha256": "0f4d907fdcae848bdba32cf37eef1017c463f53eb1cb2cafd858dc7b8b6b278c",
+      "bytes": 4374898
+    },
+    {
+      "name": "tree_small_02_leaves_diff-tree_small_02_leaves_alpha",
+      "uri": "textures99/036228d14aa362980b589b6e4b7b89d2e85d80d6876423a6800fc06b229f5b53.png",
+      "sha256": "036228d14aa362980b589b6e4b7b89d2e85d80d6876423a6800fc06b229f5b53",
+      "bytes": 2347683
+    },
+    {
+      "name": "tree_small_02_leaves_rough_2k",
+      "uri": "textures99/aefff81358953d0cb18916d8787c39ff124aa32222742f331f237ccbb2300464.webp",
+      "sha256": "aefff81358953d0cb18916d8787c39ff124aa32222742f331f237ccbb2300464",
+      "bytes": 691662
+    },
+    {
+      "name": "tree_small_02_nor_gl",
+      "uri": "textures99/fbd281c525f1eb686d875ee483182fd63aa58326b78dd6d8722e3a92831c67a7.webp",
+      "sha256": "fbd281c525f1eb686d875ee483182fd63aa58326b78dd6d8722e3a92831c67a7",
+      "bytes": 8242492
+    },
+    {
+      "name": "tree_small_02_diff_2k",
+      "uri": "textures99/4ab3210b6ec6bb1181145500bca71d1c1f81ead6baaa8600f5979c2cec50c6a4.jpg",
+      "sha256": "4ab3210b6ec6bb1181145500bca71d1c1f81ead6baaa8600f5979c2cec50c6a4",
+      "bytes": 3170612
+    },
+    {
+      "name": "tree_small_02_rough",
+      "uri": "textures99/2e4b825c1e869837be27cc3bc1e062accddb032b7bb0487dd53e7e39177313eb.webp",
+      "sha256": "2e4b825c1e869837be27cc3bc1e062accddb032b7bb0487dd53e7e39177313eb",
+      "bytes": 1651898
+    },
+    {
+      "name": "pintura_equipo_negro_normal",
+      "uri": "textures99/6b4efcfa50f22e0fd6b4e60031e2bd6b22761b0f3efe7b3e4e227201feb8006d.webp",
+      "sha256": "6b4efcfa50f22e0fd6b4e60031e2bd6b22761b0f3efe7b3e4e227201feb8006d",
+      "bytes": 326138
+    },
+    {
+      "name": "pintura_equipo_negro_rough",
+      "uri": "textures99/4ca803e1cf8c9ba02c666b6fd413d50a0115a2e9814e5d450572f32cd3f82052.webp",
+      "sha256": "4ca803e1cf8c9ba02c666b6fd413d50a0115a2e9814e5d450572f32cd3f82052",
+      "bytes": 85390
+    },
+    {
+      "name": "leafy_grass_nor_gl_1k",
+      "uri": "textures99/c43447a010cfd05c6ecb5424ab2ab3677964773dc09e0ec4dc499622d0983027.webp",
+      "sha256": "c43447a010cfd05c6ecb5424ab2ab3677964773dc09e0ec4dc499622d0983027",
+      "bytes": 2485194
+    },
+    {
+      "name": "leafy_grass_diff_2k",
+      "uri": "textures99/8e1c6d21365d4b89bc5a35ab664da98a78dbc3ab9ba6100474881c8619a5b113.jpg",
+      "sha256": "8e1c6d21365d4b89bc5a35ab664da98a78dbc3ab9ba6100474881c8619a5b113",
+      "bytes": 4766204
+    },
+    {
+      "name": "leafy_grass_rough_1k",
+      "uri": "textures99/a9033175f3336d0a5f61a71615d19f8bd30ef5629daa81db35ada527dc300229.webp",
+      "sha256": "a9033175f3336d0a5f61a71615d19f8bd30ef5629daa81db35ada527dc300229",
+      "bytes": 490090
+    },
+    {
+      "name": "asiento_UF_satinado_normal",
+      "uri": "textures99/30a503cab8f93f28ebb14f660996a4f699f747b555487c4476fed85ea0d11209.webp",
+      "sha256": "30a503cab8f93f28ebb14f660996a4f699f747b555487c4476fed85ea0d11209",
+      "bytes": 226958
+    },
+    {
+      "name": "asiento_UF_satinado_rough",
+      "uri": "textures99/32868ee93af6f92a06bd7912633e4b1fb13420df8fea94868ff94f78bcf11f66.webp",
+      "sha256": "32868ee93af6f92a06bd7912633e4b1fb13420df8fea94868ff94f78bcf11f66",
+      "bytes": 85498
+    },
+    {
+      "name": "policarbonato_bisel_negro_normal",
+      "uri": "textures99/13da4425cea2c041e705d903033a3559a570a1a18fd7f1e0d03db9038bff38e6.webp",
+      "sha256": "13da4425cea2c041e705d903033a3559a570a1a18fd7f1e0d03db9038bff38e6",
+      "bytes": 189748
+    },
+    {
+      "name": "policarbonato_bisel_negro_rough",
+      "uri": "textures99/69872359c04f2f0830f03cba89edbdc77af72bea36ba0836f97c4ca41f68e585.webp",
+      "sha256": "69872359c04f2f0830f03cba89edbdc77af72bea36ba0836f97c4ca41f68e585",
+      "bytes": 85396
+    },
+    {
+      "name": "aluminio_controles_normal",
+      "uri": "textures99/f4876b174df29d16958e9eee0a8bc5911866d13d1ec8df4ba395bb67a4cf342b.webp",
+      "sha256": "f4876b174df29d16958e9eee0a8bc5911866d13d1ec8df4ba395bb67a4cf342b",
+      "bytes": 189918
+    },
+    {
+      "name": "aluminio_controles_rough",
+      "uri": "textures99/b7e0feeaaad17c6647e59a407302c1f25611f5caf557a0a312eb45ebf9c2219f.webp",
+      "sha256": "b7e0feeaaad17c6647e59a407302c1f25611f5caf557a0a312eb45ebf9c2219f",
+      "bytes": 80072
+    },
+    {
+      "name": "studio_session99",
+      "uri": "textures99/e23b2a72f77e7b91c5de0de7b8a6d6d69b644862c35acee6af6b5abcc876faa1.webp",
+      "sha256": "e23b2a72f77e7b91c5de0de7b8a6d6d69b644862c35acee6af6b5abcc876faa1",
+      "bytes": 36250
+    },
+    {
+      "name": "terlenka_nor_gl_2k",
+      "uri": "textures99/8a00a9eda6cd0d55aa46ed7bf173dda60675406a1b7c9ae5e1177ac0ffea956d.webp",
+      "sha256": "8a00a9eda6cd0d55aa46ed7bf173dda60675406a1b7c9ae5e1177ac0ffea956d",
+      "bytes": 7644858
+    },
+    {
+      "name": "pillow_basecolor",
+      "uri": "textures99/fcdf3d2c9b0759b248cdd580f70bd764f347cb1c3bece9e8249c1eeee912b2aa.webp",
+      "sha256": "fcdf3d2c9b0759b248cdd580f70bd764f347cb1c3bece9e8249c1eeee912b2aa",
+      "bytes": 842956
+    },
+    {
+      "name": "terlenka_rough_2k",
+      "uri": "textures99/9143fe86b0157f357c9410e7c4b9697c7b3607ec78621b44a92619bccce98a13.webp",
+      "sha256": "9143fe86b0157f357c9410e7c4b9697c7b3607ec78621b44a92619bccce98a13",
+      "bytes": 3363920
+    },
+    {
+      "name": "curtain_basecolor",
+      "uri": "textures99/ab3a0bac409dfbb4cf11f163859edc4b081c55a9577b9bb3b302fccdd06c3851.webp",
+      "sha256": "ab3a0bac409dfbb4cf11f163859edc4b081c55a9577b9bb3b302fccdd06c3851",
+      "bytes": 820504
+    },
+    {
+      "name": "brown_mud_nor_gl_2k",
+      "uri": "textures99/a3df5f6f7493a1762626c6d0d47872d969744a49931de50fe79f71a5eae8f857.jpg",
+      "sha256": "a3df5f6f7493a1762626c6d0d47872d969744a49931de50fe79f71a5eae8f857",
+      "bytes": 3073051
+    },
+    {
+      "name": "brown_mud_diff_2k",
+      "uri": "textures99/726a0f5222fdf8b2bcdbec56fee8ea55150c217eab35a893ad5831f28cee3a5f.jpg",
+      "sha256": "726a0f5222fdf8b2bcdbec56fee8ea55150c217eab35a893ad5831f28cee3a5f",
+      "bytes": 2093509
+    },
+    {
+      "name": "brown_mud_rough_2k",
+      "uri": "textures99/b9010ffbb5a3f045585eb0e03ac15fb1a5984546c94f51a21a74a2bd702d8fda.webp",
+      "sha256": "b9010ffbb5a3f045585eb0e03ac15fb1a5984546c94f51a21a74a2bd702d8fda",
+      "bytes": 2193290
+    },
+    {
+      "name": "blanket_basecolor",
+      "uri": "textures99/aece8aacca29717d610aa5cde5c0ae8f4b7a5744811221952a9804fc7836fb85.webp",
+      "sha256": "aece8aacca29717d610aa5cde5c0ae8f4b7a5744811221952a9804fc7836fb85",
+      "bytes": 790582
+    },
+    {
+      "name": "garment0_basecolor",
+      "uri": "textures99/e901e2a7daab45da87e75cc387d46e10243678c5dc67b6000792d2b4d836c2b2.webp",
+      "sha256": "e901e2a7daab45da87e75cc387d46e10243678c5dc67b6000792d2b4d836c2b2",
+      "bytes": 716124
+    },
+    {
+      "name": "garment1_basecolor",
+      "uri": "textures99/62118bc6def7b0e21d6b9d1c4480185524f2de99dfbf27c01e3642dc1764c735.webp",
+      "sha256": "62118bc6def7b0e21d6b9d1c4480185524f2de99dfbf27c01e3642dc1764c735",
+      "bytes": 696486
+    },
+    {
+      "name": "garment2_basecolor",
+      "uri": "textures99/17bc654fcb3f9dcef79c585ac3fb0235c745190a0fad7259b1dabbc81ea8d625.webp",
+      "sha256": "17bc654fcb3f9dcef79c585ac3fb0235c745190a0fad7259b1dabbc81ea8d625",
+      "bytes": 747106
+    },
+    {
+      "name": "garment3_basecolor",
+      "uri": "textures99/cd2e1176b93c8b8ed11b48ae54727cae2de469fb71d886ee752fa7e9103d4e47.webp",
+      "sha256": "cd2e1176b93c8b8ed11b48ae54727cae2de469fb71d886ee752fa7e9103d4e47",
+      "bytes": 727682
+    },
+    {
+      "name": "garment4_basecolor",
+      "uri": "textures99/78dba642b761e3c0e00d7bded3bedf3a2f66dae996dccc7c82bcba8f64885e02.webp",
+      "sha256": "78dba642b761e3c0e00d7bded3bedf3a2f66dae996dccc7c82bcba8f64885e02",
+      "bytes": 821176
+    },
+    {
+      "name": "garment5_basecolor",
+      "uri": "textures99/2f0e97568c037310d2b1b9468b154f633b6400f8d2c970e44df1673773e98848.webp",
+      "sha256": "2f0e97568c037310d2b1b9468b154f633b6400f8d2c970e44df1673773e98848",
+      "bytes": 709104
+    },
+    {
+      "name": "garment6_basecolor",
+      "uri": "textures99/c43b3bd047316dd6193b78222117a9c801e7e529e321cdb2165dad4ec8c985d6.webp",
+      "sha256": "c43b3bd047316dd6193b78222117a9c801e7e529e321cdb2165dad4ec8c985d6",
+      "bytes": 747470
+    }
+  ],
+  "geometryValidationPending": false,
+  "scope": "Resource packaging only. Validate decoded source dimensions separately; the standalone GLB is not a Pages asset.",
+  "decodedGeometryValidation": {
+    "passed": true,
+    "nodes": 5427,
+    "method": "Exact decoded vertex accessor bytes, oriented triangles (cyclic starting-index rotations permitted by meshopt), other index sequences, material bindings, mesh modes, local transforms and parent names compared with the optimized standalone GLB."
+  }
+}

@@ -1,0 +1,290 @@
+[
+  {
+    "name": "oak_veneer_01_nor_gl_2k",
+    "before": 6533070,
+    "after": 4989676,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "oak_veneer_01_rough_2k",
+    "before": 5246385,
+    "after": 3290824,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "tile300_normal",
+    "before": 622925,
+    "after": 479626,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "tile300_basecolor",
+    "before": 180004,
+    "after": 125938,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "tile300_roughness",
+    "before": 1046750,
+    "after": 390414,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "porcelana_vidriada_normal",
+    "before": 350091,
+    "after": 189908,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "porcelana_vidriada_rough",
+    "before": 179283,
+    "after": 85416,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "acoustic_albedo",
+    "before": 42670,
+    "after": 29986,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "oak-parquet-normalGL-2k",
+    "before": 5873778,
+    "after": 4294866,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "oak-parquet-roughness-2k",
+    "before": 5039817,
+    "after": 3089188,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "soil_albedo",
+    "before": 193225,
+    "after": 133800,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "red_bricks_04_nor_gl_2k",
+    "before": 10330072,
+    "after": 6844726,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "red_bricks_04_calibrated_diffuse_2k",
+    "before": 7813786,
+    "after": 4946750,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "red_bricks_04_rough_2k",
+    "before": 4227943,
+    "after": 2418634,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "cromado_sanitario_normal",
+    "before": 256984,
+    "after": 117340,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "cromado_sanitario_rough",
+    "before": 179700,
+    "after": 85388,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "tree_small_02_branch_nor_gl_2k",
+    "before": 15596069,
+    "after": 1770698,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "tree_small_02_branch_diff_2k",
+    "before": 2714537,
+    "after": 1738498,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "tree_small_02_branch_rough_2k",
+    "before": 1140395,
+    "after": 539812,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "tree_small_02_leaves_nor_gl_2k",
+    "before": 18978122,
+    "after": 4374898,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "tree_small_02_leaves_diff-tree_small_02_leaves_alpha",
+    "action": "kept original PNG",
+    "reason": "WebP altered RGB in transparent pixels",
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "tree_small_02_leaves_rough_2k",
+    "before": 1764037,
+    "after": 691662,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "tree_small_02_nor_gl",
+    "before": 18976364,
+    "after": 8242492,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "tree_small_02_rough",
+    "before": 3249851,
+    "after": 1651898,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "pintura_equipo_negro_normal",
+    "before": 501073,
+    "after": 326138,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "pintura_equipo_negro_rough",
+    "before": 179546,
+    "after": 85390,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "leafy_grass_nor_gl_1k",
+    "before": 6111876,
+    "after": 2485194,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "leafy_grass_rough_1k",
+    "before": 922595,
+    "after": 490090,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "asiento_UF_satinado_normal",
+    "before": 391746,
+    "after": 226958,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "asiento_UF_satinado_rough",
+    "before": 179609,
+    "after": 85498,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "policarbonato_bisel_negro_normal",
+    "before": 350285,
+    "after": 189748,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "policarbonato_bisel_negro_rough",
+    "before": 179451,
+    "after": 85396,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "aluminio_controles_normal",
+    "before": 350632,
+    "after": 189918,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "aluminio_controles_rough",
+    "before": 179447,
+    "after": 80072,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "studio_session99",
+    "before": 99952,
+    "after": 36250,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "terlenka_nor_gl_2k",
+    "before": 22874923,
+    "after": 7644858,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "pillow_basecolor",
+    "before": 1171134,
+    "after": 842956,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "terlenka_rough_2k",
+    "before": 5428534,
+    "after": 3363920,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "curtain_basecolor",
+    "before": 1136388,
+    "after": 820504,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "brown_mud_rough_2k",
+    "before": 3944129,
+    "after": 2193290,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "blanket_basecolor",
+    "before": 1085378,
+    "after": 790582,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "garment0_basecolor",
+    "before": 963760,
+    "after": 716124,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "garment1_basecolor",
+    "before": 926394,
+    "after": 696486,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "garment2_basecolor",
+    "before": 1004993,
+    "after": 747106,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "garment3_basecolor",
+    "before": 976644,
+    "after": 727682,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "garment4_basecolor",
+    "before": 1124093,
+    "after": 821176,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "garment5_basecolor",
+    "before": 944212,
+    "after": 709104,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "garment6_basecolor",
+    "before": 1005091,
+    "after": 747470,
+    "decodedPixelEquality": true
+  }
+]

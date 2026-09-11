@@ -1,0 +1,27 @@
+{
+  "asset": "leafy_grass",
+  "author": "Charlotte Baglioni",
+  "license": "CC0",
+  "url": "https://polyhaven.com/a/leafy_grass",
+  "physical_width_m": 2,
+  "maps": {
+    "Diffuse": {
+      "path": "D:/2026/42/source/photographic99_luz/leafy_grass/leafy_grass_diff_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/leafy_grass/leafy_grass_diff_2k.jpg",
+      "sha256": "8e1c6d21365d4b89bc5a35ab664da98a78dbc3ab9ba6100474881c8619a5b113",
+      "bytes": 4766204
+    },
+    "nor_gl": {
+      "path": "D:/2026/42/source/photographic99_luz/leafy_grass/leafy_grass_nor_gl_1k.png",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/leafy_grass/leafy_grass_nor_gl_1k.png",
+      "sha256": "7cba8d8a3cbd14663fd974b73ecebcbb42e0cc258d912867e9dd67a5582ca4d9",
+      "bytes": 6111876
+    },
+    "Rough": {
+      "path": "D:/2026/42/source/photographic99_luz/leafy_grass/leafy_grass_rough_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leafy_grass/leafy_grass_rough_1k.jpg",
+      "sha256": "0c2a1d91aacb8e54a496051b59854e51e456fe858abeade778e308359ef16463",
+      "bytes": 511385
+    }
+  }
+}

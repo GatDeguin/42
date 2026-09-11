@@ -1,0 +1,96 @@
+{
+  "url": "http://127.0.0.1:8420/avance-r7/",
+  "errors": [],
+  "views": [
+    {
+      "key": "desktop",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "imageReady": true,
+      "links": [
+        {
+          "text": "42 / CASA DE CAMPO",
+          "href": "http://127.0.0.1:8420/"
+        },
+        {
+          "text": "Proyecto en GitHub ↗",
+          "href": "https://github.com/GatDeguin/42"
+        },
+        {
+          "text": "Abrir el modelo interactivo R7D ↗",
+          "href": "http://127.0.0.1:8420/"
+        },
+        {
+          "text": "Descargar Blender R7D ↓",
+          "href": "https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R7D.blend"
+        },
+        {
+          "text": "Descargar GLB ↓",
+          "href": "https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R7D.glb"
+        },
+        {
+          "text": "visor R6K",
+          "href": "http://127.0.0.1:8420/preview95/"
+        },
+        {
+          "text": "19imágenes",
+          "href": "http://127.0.0.1:8420/renders/"
+        },
+        {
+          "text": "33láminas",
+          "href": "http://127.0.0.1:8420/planos/"
+        },
+        {
+          "text": "Fuente, alcance y comprobaciones de esta publicación ↗",
+          "href": "https://github.com/GatDeguin/42/blob/main/review99/github_r7d_progress/README.md"
+        }
+      ]
+    },
+    {
+      "key": "mobile",
+      "width": 390,
+      "scrollWidth": 390,
+      "imageReady": true,
+      "links": [
+        {
+          "text": "42 / CASA DE CAMPO",
+          "href": "http://127.0.0.1:8420/"
+        },
+        {
+          "text": "Proyecto en GitHub ↗",
+          "href": "https://github.com/GatDeguin/42"
+        },
+        {
+          "text": "Abrir el modelo interactivo R7D ↗",
+          "href": "http://127.0.0.1:8420/"
+        },
+        {
+          "text": "Descargar Blender R7D ↓",
+          "href": "https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R7D.blend"
+        },
+        {
+          "text": "Descargar GLB ↓",
+          "href": "https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R7D.glb"
+        },
+        {
+          "text": "visor R6K",
+          "href": "http://127.0.0.1:8420/preview95/"
+        },
+        {
+          "text": "19imágenes",
+          "href": "http://127.0.0.1:8420/renders/"
+        },
+        {
+          "text": "33láminas",
+          "href": "http://127.0.0.1:8420/planos/"
+        },
+        {
+          "text": "Fuente, alcance y comprobaciones de esta publicación ↗",
+          "href": "https://github.com/GatDeguin/42/blob/main/review99/github_r7d_progress/README.md"
+        }
+      ]
+    }
+  ],
+  "scope": "Static R7 progress page, desktop and touch viewport emulation. No claim of final R7 model viewer QA.",
+  "passed": true
+}

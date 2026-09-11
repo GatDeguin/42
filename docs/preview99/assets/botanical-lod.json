@@ -1,0 +1,1962 @@
+[
+  {
+    "name": "BOT95 | árbol 00",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 01",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 02",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 03",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 04",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 05",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 06",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 07",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 08",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 09",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 10",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 11",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 12",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 13",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 14",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 15",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 16",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 17",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 18",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 19",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 20",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 21",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 22",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 23",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 24",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 25",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 26",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 27",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 28",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 29",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 30",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 31",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 32",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 33",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 34",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 35",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 36",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 37",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 38",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 39",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 40",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 41",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 42",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 43",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 44",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 45",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 46",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 47",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 48",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 49",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 50",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 51",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 52",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 53",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 54",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 55",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 56",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 57",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 58",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 59",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 60",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 61",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 62",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 63",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 64",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 65",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 66",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 67",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 68",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  },
+  {
+    "name": "BOT95 | árbol 69",
+    "lod": "full_canopy_no_components_removed",
+    "components": [
+      {
+        "material": "tree_small_02_branches",
+        "sourceComponents": 752,
+        "webComponents": 752
+      },
+      {
+        "material": "tree_small_02_leaves",
+        "sourceComponents": 63152,
+        "webComponents": 63152
+      },
+      {
+        "material": "tree_small_02_trunk",
+        "sourceComponents": 1,
+        "webComponents": 1
+      }
+    ],
+    "vertices": 626249,
+    "sourceVertices": 626249,
+    "completeUnits": true,
+    "uvLayers": [
+      "UVMap",
+      "UV_map_01"
+    ]
+  }
+]

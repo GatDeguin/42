@@ -1,0 +1,95 @@
+{
+  "sha256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "topologyDiagnostics": [
+    {
+      "name": "Vestidor cierre al estar paño A",
+      "raw": 120,
+      "afterDiagnosticWeld1um": 0
+    },
+    {
+      "name": "WET99 | PB membrana continua2",
+      "raw": 3,
+      "afterDiagnosticWeld1um": 3
+    },
+    {
+      "name": "WET99 | PB adhesivo4",
+      "raw": 3,
+      "afterDiagnosticWeld1um": 3
+    }
+  ],
+  "sanitaryDynamicSamples": [
+    {
+      "moving": "seat hinge sleeve",
+      "fixed": "hinge pedestal",
+      "angle": 0,
+      "volume_m3": 3.473325795859941e-07
+    },
+    {
+      "moving": "seat hinge arm",
+      "fixed": "hinge pin",
+      "angle": 0,
+      "volume_m3": 1.1421149066068747e-07
+    },
+    {
+      "moving": "seat hinge sleeve",
+      "fixed": "hinge pedestal",
+      "angle": 30,
+      "volume_m3": 3.4733071315445685e-07
+    },
+    {
+      "moving": "seat hinge arm",
+      "fixed": "hinge pin",
+      "angle": 30,
+      "volume_m3": 1.1421011115450749e-07
+    },
+    {
+      "moving": "seat hinge sleeve",
+      "fixed": "hinge pedestal",
+      "angle": 60,
+      "volume_m3": 3.473321433926822e-07
+    },
+    {
+      "moving": "seat hinge arm",
+      "fixed": "hinge pin",
+      "angle": 60,
+      "volume_m3": 1.1421101882464259e-07
+    },
+    {
+      "moving": "seat hinge sleeve",
+      "fixed": "hinge pedestal",
+      "angle": 90,
+      "volume_m3": 3.473314938889914e-07
+    },
+    {
+      "moving": "seat hinge arm",
+      "fixed": "hinge pin",
+      "angle": 90,
+      "volume_m3": 1.142127062694535e-07
+    },
+    {
+      "moving": "cover",
+      "fixed": "cistern",
+      "angle": 0,
+      "volume_m3": 0.0
+    },
+    {
+      "moving": "cover",
+      "fixed": "cistern",
+      "angle": 45,
+      "volume_m3": 0.0
+    },
+    {
+      "moving": "cover",
+      "fixed": "cistern",
+      "angle": 90,
+      "volume_m3": 0.0
+    },
+    {
+      "moving": "cover",
+      "fixed": "cistern",
+      "angle": 100,
+      "volume_m3": 0.0008896179551062031
+    }
+  ],
+  "scope": "Temporary exact intersections and topology diagnosis; no source geometry was saved."
+}

@@ -1,0 +1,450 @@
+{
+  "sourceSHA256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "testedInternalPairs": 92,
+  "positivePairs": 63,
+  "fixedMovingPairs": 30,
+  "rows": [
+    {
+      "a": "Inodoro suite | asiento",
+      "b": "SAN99 | suite seat hinge arm",
+      "m3": 1.2599654460462514e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 125.99654460462514
+    },
+    {
+      "a": "Inodoro suite | asiento",
+      "b": "SAN99 | suite seat hinge arm.001",
+      "m3": 1.433317919475425e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 143.33179194754248
+    },
+    {
+      "a": "Inodoro mono | asiento",
+      "b": "SAN99 | mono seat hinge arm",
+      "m3": 1.2602027444978106e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 126.02027444978106
+    },
+    {
+      "a": "Inodoro mono | asiento",
+      "b": "SAN99 | mono seat hinge arm.001",
+      "m3": 1.4333876915806598e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 143.338769158066
+    },
+    {
+      "a": "Inodoro quincho | asiento",
+      "b": "SAN99 | quincho seat hinge arm",
+      "m3": 1.260080958777603e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 126.00809587776031
+    },
+    {
+      "a": "Inodoro quincho | asiento",
+      "b": "SAN99 | quincho seat hinge arm.001",
+      "m3": 1.433336240290803e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 143.3336240290803
+    },
+    {
+      "a": "SAN99 | mono hinge bolt",
+      "b": "SAN99 | mono hinge pedestal",
+      "m3": 2.0050813396546996e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 200.50813396546997
+    },
+    {
+      "a": "SAN99 | mono hinge pedestal",
+      "b": "SAN99 | mono hinge pin",
+      "m3": 1.6347014936965304e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 163.47014936965306
+    },
+    {
+      "a": "SAN99 | mono hinge pedestal",
+      "b": "SAN99 | mono seat hinge sleeve",
+      "m3": 3.4733265692567077e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 347.3326569256708
+    },
+    {
+      "a": "SAN99 | mono hinge pedestal",
+      "b": "SAN99 | mono seat hinge arm",
+      "m3": 2.467922667730442e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 246.79226677304422
+    },
+    {
+      "a": "SAN99 | mono hinge pedestal",
+      "b": "SAN99 | mono cover hinge sleeve",
+      "m3": 4.9007185869484964e-08,
+      "kind": "fixed_moving_interference",
+      "mm3": 49.007185869484964
+    },
+    {
+      "a": "SAN99 | mono hinge pin",
+      "b": "SAN99 | mono seat hinge arm",
+      "m3": 1.1421132379864386e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 114.21132379864386
+    },
+    {
+      "a": "SAN99 | mono hinge pin",
+      "b": "SAN99 | mono cover hinge arm",
+      "m3": 1.0401353957157473e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 104.01353957157473
+    },
+    {
+      "a": "SAN99 | mono seat hinge sleeve",
+      "b": "SAN99 | mono seat hinge arm",
+      "m3": 2.5158920929774265e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 251.58920929774266
+    },
+    {
+      "a": "SAN99 | mono hinge bolt.001",
+      "b": "SAN99 | mono hinge pedestal.001",
+      "m3": 2.0050813398088934e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 200.50813398088934
+    },
+    {
+      "a": "SAN99 | mono hinge pedestal.001",
+      "b": "SAN99 | mono hinge pin.001",
+      "m3": 1.6346788198670874e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 163.46788198670873
+    },
+    {
+      "a": "SAN99 | mono hinge pedestal.001",
+      "b": "SAN99 | mono seat hinge sleeve.001",
+      "m3": 3.4723748472967575e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 347.23748472967577
+    },
+    {
+      "a": "SAN99 | mono hinge pedestal.001",
+      "b": "SAN99 | mono seat hinge arm.001",
+      "m3": 2.467751717934917e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 246.77517179349172
+    },
+    {
+      "a": "SAN99 | mono hinge pedestal.001",
+      "b": "SAN99 | mono cover hinge sleeve.001",
+      "m3": 4.908074505716811e-08,
+      "kind": "fixed_moving_interference",
+      "mm3": 49.08074505716811
+    },
+    {
+      "a": "SAN99 | mono hinge pin.001",
+      "b": "SAN99 | mono seat hinge arm.001",
+      "m3": 1.1421132600349434e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 114.21132600349434
+    },
+    {
+      "a": "SAN99 | mono hinge pin.001",
+      "b": "SAN99 | mono cover hinge arm.001",
+      "m3": 1.040135395739532e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 104.0135395739532
+    },
+    {
+      "a": "SAN99 | mono seat hinge sleeve.001",
+      "b": "SAN99 | mono seat hinge arm.001",
+      "m3": 2.5156196250614214e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 251.56196250614212
+    },
+    {
+      "a": "SAN99 | mono cover open90",
+      "b": "SAN99 | mono cover hinge arm",
+      "m3": 1.5406845975244983e-08,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 15.406845975244984
+    },
+    {
+      "a": "SAN99 | mono cover hinge sleeve",
+      "b": "SAN99 | mono cover hinge arm",
+      "m3": 1.9875149642260647e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 198.75149642260646
+    },
+    {
+      "a": "SAN99 | mono cover hinge sleeve.001",
+      "b": "SAN99 | mono cover hinge arm.001",
+      "m3": 1.9875149641575482e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 198.75149641575481
+    },
+    {
+      "a": "SAN99 | quincho hinge bolt",
+      "b": "SAN99 | quincho hinge pedestal",
+      "m3": 2.0049932836179331e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 200.49932836179332
+    },
+    {
+      "a": "SAN99 | quincho hinge pedestal",
+      "b": "SAN99 | quincho hinge pin",
+      "m3": 1.634706858909199e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 163.47068589091992
+    },
+    {
+      "a": "SAN99 | quincho hinge pedestal",
+      "b": "SAN99 | quincho seat hinge sleeve",
+      "m3": 3.473328249373204e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 347.3328249373204
+    },
+    {
+      "a": "SAN99 | quincho hinge pedestal",
+      "b": "SAN99 | quincho seat hinge arm",
+      "m3": 2.4679579998600524e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 246.79579998600525
+    },
+    {
+      "a": "SAN99 | quincho hinge pedestal",
+      "b": "SAN99 | quincho cover hinge sleeve",
+      "m3": 4.9006419925189915e-08,
+      "kind": "fixed_moving_interference",
+      "mm3": 49.00641992518992
+    },
+    {
+      "a": "SAN99 | quincho hinge pin",
+      "b": "SAN99 | quincho seat hinge arm",
+      "m3": 1.1421249349771572e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 114.21249349771571
+    },
+    {
+      "a": "SAN99 | quincho hinge pin",
+      "b": "SAN99 | quincho cover hinge arm",
+      "m3": 1.0399284709116465e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 103.99284709116465
+    },
+    {
+      "a": "SAN99 | quincho seat hinge sleeve",
+      "b": "SAN99 | quincho seat hinge arm",
+      "m3": 2.5157870214223153e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 251.57870214223152
+    },
+    {
+      "a": "SAN99 | quincho hinge bolt.001",
+      "b": "SAN99 | quincho hinge pedestal.001",
+      "m3": 2.0049932826914993e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 200.49932826914994
+    },
+    {
+      "a": "SAN99 | quincho hinge pedestal.001",
+      "b": "SAN99 | quincho hinge pin.001",
+      "m3": 1.6347068590399302e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 163.47068590399303
+    },
+    {
+      "a": "SAN99 | quincho hinge pedestal.001",
+      "b": "SAN99 | quincho seat hinge sleeve.001",
+      "m3": 3.4723829031589376e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 347.2382903158938
+    },
+    {
+      "a": "SAN99 | quincho hinge pedestal.001",
+      "b": "SAN99 | quincho seat hinge arm.001",
+      "m3": 2.4677872363522803e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 246.77872363522803
+    },
+    {
+      "a": "SAN99 | quincho hinge pedestal.001",
+      "b": "SAN99 | quincho cover hinge sleeve.001",
+      "m3": 4.90802906201979e-08,
+      "kind": "fixed_moving_interference",
+      "mm3": 49.0802906201979
+    },
+    {
+      "a": "SAN99 | quincho hinge pin.001",
+      "b": "SAN99 | quincho seat hinge arm.001",
+      "m3": 1.1421249351619459e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 114.21249351619458
+    },
+    {
+      "a": "SAN99 | quincho hinge pin.001",
+      "b": "SAN99 | quincho cover hinge arm.001",
+      "m3": 1.0399284699874319e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 103.99284699874319
+    },
+    {
+      "a": "SAN99 | quincho seat hinge sleeve.001",
+      "b": "SAN99 | quincho seat hinge arm.001",
+      "m3": 2.515516608121333e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 251.55166081213332
+    },
+    {
+      "a": "SAN99 | quincho cover open90",
+      "b": "SAN99 | quincho cover hinge arm",
+      "m3": 1.5404624315992137e-08,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 15.404624315992136
+    },
+    {
+      "a": "SAN99 | quincho cover hinge sleeve",
+      "b": "SAN99 | quincho cover hinge arm",
+      "m3": 1.987258156142603e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 198.72581561426028
+    },
+    {
+      "a": "SAN99 | quincho cover hinge sleeve.001",
+      "b": "SAN99 | quincho cover hinge arm.001",
+      "m3": 1.9872581558679461e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 198.72581558679462
+    },
+    {
+      "a": "SAN99 | suite hinge bolt",
+      "b": "SAN99 | suite hinge pedestal",
+      "m3": 2.0049634058297793e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 200.49634058297792
+    },
+    {
+      "a": "SAN99 | suite hinge pedestal",
+      "b": "SAN99 | suite hinge pin",
+      "m3": 1.634688290926812e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 163.46882909268118
+    },
+    {
+      "a": "SAN99 | suite hinge pedestal",
+      "b": "SAN99 | suite seat hinge sleeve",
+      "m3": 3.473355723888651e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 347.3355723888651
+    },
+    {
+      "a": "SAN99 | suite hinge pedestal",
+      "b": "SAN99 | suite seat hinge arm",
+      "m3": 2.4677490827320703e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 246.77490827320702
+    },
+    {
+      "a": "SAN99 | suite hinge pedestal",
+      "b": "SAN99 | suite cover hinge sleeve",
+      "m3": 4.9081911108213194e-08,
+      "kind": "fixed_moving_interference",
+      "mm3": 49.08191110821319
+    },
+    {
+      "a": "SAN99 | suite hinge pin",
+      "b": "SAN99 | suite seat hinge arm",
+      "m3": 1.141857324654819e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 114.18573246548189
+    },
+    {
+      "a": "SAN99 | suite hinge pin",
+      "b": "SAN99 | suite cover hinge arm",
+      "m3": 1.040301918998676e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 104.0301918998676
+    },
+    {
+      "a": "SAN99 | suite seat hinge sleeve",
+      "b": "SAN99 | suite seat hinge arm",
+      "m3": 2.515616881514158e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 251.5616881514158
+    },
+    {
+      "a": "SAN99 | suite hinge bolt.001",
+      "b": "SAN99 | suite hinge pedestal.001",
+      "m3": 2.0049634065645973e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 200.49634065645972
+    },
+    {
+      "a": "SAN99 | suite hinge pedestal.001",
+      "b": "SAN99 | suite hinge pin.001",
+      "m3": 1.6346882905726335e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 163.46882905726335
+    },
+    {
+      "a": "SAN99 | suite hinge pedestal.001",
+      "b": "SAN99 | suite seat hinge sleeve.001",
+      "m3": 3.473355722370853e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 347.3355722370853
+    },
+    {
+      "a": "SAN99 | suite hinge pedestal.001",
+      "b": "SAN99 | suite seat hinge arm.001",
+      "m3": 2.4678715779658347e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 246.78715779658347
+    },
+    {
+      "a": "SAN99 | suite hinge pedestal.001",
+      "b": "SAN99 | suite cover hinge sleeve.001",
+      "m3": 4.908191107163987e-08,
+      "kind": "fixed_moving_interference",
+      "mm3": 49.08191107163987
+    },
+    {
+      "a": "SAN99 | suite hinge pin.001",
+      "b": "SAN99 | suite seat hinge arm.001",
+      "m3": 1.1421120636039377e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 114.21120636039377
+    },
+    {
+      "a": "SAN99 | suite hinge pin.001",
+      "b": "SAN99 | suite cover hinge arm.001",
+      "m3": 1.040301919012093e-07,
+      "kind": "fixed_moving_interference",
+      "mm3": 104.03019190120929
+    },
+    {
+      "a": "SAN99 | suite seat hinge sleeve.001",
+      "b": "SAN99 | suite seat hinge arm.001",
+      "m3": 2.5158893355214164e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 251.58893355214164
+    },
+    {
+      "a": "SAN99 | suite cover open90",
+      "b": "SAN99 | suite cover hinge arm",
+      "m3": 1.5405229655006457e-08,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 15.405229655006456
+    },
+    {
+      "a": "SAN99 | suite cover hinge sleeve",
+      "b": "SAN99 | suite cover hinge arm",
+      "m3": 1.987500876426477e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 198.7500876426477
+    },
+    {
+      "a": "SAN99 | suite cover hinge sleeve.001",
+      "b": "SAN99 | suite cover hinge arm.001",
+      "m3": 1.9875008777182023e-07,
+      "kind": "same_assembly_or_fixed_joint",
+      "mm3": 198.75008777182023
+    }
+  ],
+  "note": "Same-assembly overlap may describe joined or inserted parts; only fixed-moving intersections are flagged as mechanical interference. This classifies observed geometry, not structural capacity."
+}

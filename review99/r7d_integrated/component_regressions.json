@@ -1,0 +1,43 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7D.blend",
+  "sourceSHA256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "checks": [
+    {
+      "key": "sanitary",
+      "report": "review99/r7d_integrated/sanitary_checks.json",
+      "scriptSHA256": "b83577f04f5440164f7ed20d414d0f49ecbbbaa3c9c59c4a4166e2e5bac877bc",
+      "seconds": 132.30641841888428,
+      "passed": true
+    },
+    {
+      "key": "wet",
+      "report": "review99/r7d_integrated/wet_check.json",
+      "scriptSHA256": "85f74d72f685f12020ee05064d7f45d982ccb0459d33992388081220ce154a0f",
+      "seconds": 95.30651235580444,
+      "passed": true
+    },
+    {
+      "key": "vent",
+      "report": "review99/r7d_integrated/vent_check.json",
+      "scriptSHA256": "dde2b7f9fcc6d4c1809be8fc2ef7fdafd3728068707e30945e4d00e3a5a23a5e",
+      "seconds": 70.18721461296082,
+      "passed": true
+    },
+    {
+      "key": "vent_self",
+      "report": "review99/r7d_integrated/vent_self_check.json",
+      "scriptSHA256": "ff58130dc2ea6c606a70f0db3c518cc5a3b7e2bf10b3a4910b919c815234adf4",
+      "seconds": 53.60289669036865,
+      "passed": true
+    },
+    {
+      "key": "door_hands",
+      "report": "review99/r7d_integrated/door_hands_check.json",
+      "scriptSHA256": "cab7c5a978f3dc214720d5a77e178dc0557367e6345c7721af9d42ce01eef0e4",
+      "seconds": 578.2422544956207,
+      "passed": true
+    }
+  ],
+  "passed": true,
+  "videoRendered": false
+}

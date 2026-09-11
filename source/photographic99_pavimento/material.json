@@ -1,0 +1,28 @@
+{
+  "author": "Procedural dimensional ceramic maps authored for this project; not a vendor product",
+  "resolution": [
+    2048,
+    2048
+  ],
+  "period_m": 1.2,
+  "module_m": 0.3,
+  "grout_width_m": 0.0035,
+  "edge_transition_m": 0.0008,
+  "grout_recess_m": 0.0006,
+  "normal_convention": "OpenGL tangent; image-down derivative converted to UV-up",
+  "color_encoding": "sRGB basecolor; linear roughness/normal",
+  "files": {
+    "tile300_basecolor.png": {
+      "bytes": 180004,
+      "sha256": "591f4e484a713b41083e171e4ae8ce7ed737e00e066deebaca376607a33e4881"
+    },
+    "tile300_normal.png": {
+      "bytes": 622925,
+      "sha256": "7ef05869e766560d571a887a9eb36aa89134d5b6921e48875830f97cbeeefdc2"
+    },
+    "tile300_roughness.png": {
+      "bytes": 408806,
+      "sha256": "e950832ba398cb1ab0e9481279a7e45410f5aa5b389095ecf5ee717738221dd8"
+    }
+  }
+}

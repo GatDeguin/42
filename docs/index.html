@@ -1,18 +1,18 @@
 <!doctype html>
 <html lang="es">
 <head>
-<meta charset="utf-8"><base id="candidate-base" href="./preview95/"><script>if(location.pathname.endsWith('/preview95/root-index-candidate.html'))document.getElementById('candidate-base').href='./';</script><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta charset="utf-8"><base href="./preview99/"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#182b2c"><meta name="description" content="Explora la casa de campo de Cedro Misionero: modelo 3D, interiores, plantas y puertas interactivas.">
-<link rel="icon" href="data:,"><title>Casa de campo · Modelo en revisión</title>
+<link rel="icon" href="data:,"><title>Casa de campo · Visor arquitectónico</title>
 <link rel="stylesheet" href="./viewer.css">
 <script type="importmap">{"imports":{"three":"../vendor/three.module.js","three/addons/":"../vendor/addons/"}}</script>
-<style>header{height:104px;padding-bottom:28px}.review-state{position:absolute;left:28px;bottom:7px;margin:0;font-size:12px;line-height:18px;color:#775135;letter-spacing:.1px}main,aside{top:104px}@media(max-width:760px){header{height:94px;padding-bottom:28px}.review-state{left:16px;font-size:11px}main,aside{top:94px}}</style></head>
+</head>
 <body>
-<header><button id="menu" class="icon" aria-label="Abrir controles" aria-expanded="false">☰</button><a class="brand" href="../"><span class="mark">42</span><span>CASA DE CAMPO<small>CEDRO MISIONERO</small></span></a><div class="header-right"><a href="../planos/">Planos ↗</a><a href="../renders/">Renders ↗</a><a href="https://github.com/GatDeguin/42" target="_blank" rel="noopener">Proyecto ↗</a></div><p class="review-state" role="status">R6K · revisión 8,3/10 · objetivo 9,9</p></header>
+<header><button id="menu" class="icon" aria-label="Abrir controles" aria-expanded="false">☰</button><a class="brand" href="./"><span class="mark">42</span><span>CASA DE CAMPO<small>CEDRO MISIONERO</small></span></a><div class="header-right"><a href="../planos/">Planos R6K ↗</a><a href="../renders/">Renders R6K ↗</a><span class="live">R7D · en revisión</span><a href="https://github.com/GatDeguin/42" target="_blank" rel="noopener">Proyecto ↗</a></div></header>
 <aside id="panel" aria-label="Controles del modelo">
 <div class="panel-intro"><span class="eyebrow">EXPLORAR LA ARQUITECTURA</span><h1>Tu espacio,<br>desde cada ángulo.</h1><p>Gira, acércate y descubre el interior.</p></div>
 <section><h2>Vistas generales</h2><div class="segmented" role="group" aria-label="Vistas generales"><button data-view="exterior" class="active">Exterior</button><button data-view="pb">Planta baja</button><button data-view="pa">Planta alta</button></div></section>
-<section><h2>Ir a un ambiente</h2><div class="room-grid" id="rooms"><button data-view="estudio"><span>01</span>Estudio</button><button data-view="quincho"><span>02</span>Quincho</button><button data-view="cocina"><span>03</span>Cocina</button><button data-view="dormitorio"><span>04</span>Dormitorio</button><button data-view="vestidor"><span>05</span>Vestidor</button><button data-view="bano"><span>06</span>Baño</button><button data-view="pileta"><span>07</span>Pileta</button><button data-view="huerta"><span>08</span>Huerta</button><button data-view="mono"><span>09</span>Monoambiente</button><button data-view="acceso"><span>10</span>Acceso</button><button data-view="bathDining" hidden><span>11</span>Baño/comedor</button></div></section>
+<section><h2>Ir a un ambiente</h2><div class="room-grid" id="rooms"><button data-view="estudio"><span>01</span>Estudio</button><button data-view="quincho"><span>02</span>Quincho</button><button data-view="cocina"><span>03</span>Cocina</button><button data-view="dormitorio"><span>04</span>Dormitorio</button><button data-view="vestidor"><span>05</span>Vestidor</button><button data-view="bano"><span>06</span>Baño</button><button data-view="pileta"><span>07</span>Pileta</button><button data-view="huerta"><span>08</span>Huerta</button><button data-view="mono"><span>09</span>Monoambiente</button><button data-view="acceso"><span>10</span>Acceso</button><button data-view="bathDining" hidden><span>11</span>Baño/comedor</button><button data-view="banoMono" hidden><span>12</span>Baño PB</button><button data-view="bedroomDining" hidden><span>13</span>Acceso dormitorio</button></div></section>
 <section><h2>Calidad de luz</h2><label class="switch-row"><span>Luz progresiva al detenerse</span><input id="photo-mode" type="checkbox" role="switch"></label><label class="switch-row"><span>Sombras de contacto</span><input id="contact-mode" type="checkbox" checked role="switch"></label><p class="micro" id="photo-status" aria-live="polite">Preparando iluminación…</p></section><section><h2>Inspeccionar</h2>
 <label class="switch-row"><span>Mostrar cubiertas</span><input id="roof" type="checkbox" checked role="switch"></label>
 <label class="switch-row"><span>Mostrar vegetación</span><input id="vegetation" type="checkbox" checked role="switch"></label>
@@ -21,12 +21,12 @@
 </section>
 <section><div class="section-heading"><h2>Puertas y correderas</h2><output id="door-value">Cerradas</output></div><label class="sr-only" for="doors">Apertura de todas las puertas</label><input id="doors" type="range" min="0" max="100" value="0"><div class="range-ends"><span>Cerrar</span><span>Abrir</span></div><p class="micro">Selecciona una puerta en el modelo para moverla por separado.</p></section>
 <div class="facts"><div><strong>22 × 20 <em>m</em></strong><span>Terreno</span></div><div><strong>3,20 <em>m</em></strong><span>Altura del estudio</span></div><div><strong>8 × 12 <em>m</em></strong><span>Casa</span></div><div><strong>2,60 <em>m</em></strong><span>Altura de vivienda</span></div></div>
-<a class="source-link" href="../avance-r7/">Avance R7 · nueva distribución ↗</a>
 <a class="source-link" href="./controles.html" target="_blank" rel="noopener">Cómo recorrer la casa ↗</a>
 <a id="source-glb" class="source-link" href="./assets/house.glb" download>Descargar modelo 3D · GLB ↧</a>
 <a id="source-blend" class="source-link" href="#" hidden>Descargar fuente Blender ↧</a>
+<a class="source-link" href="../avance-r7/">Estado de R7D y primeras imágenes ↗</a>
 <a class="source-link" href="./README.md" target="_blank" rel="noopener">Fuente de esta candidata ↗</a>
-<p class="model-note">R6K publicado en revisión. La auditoría exige 9,9 e hiperrealismo fotográfico. Consulta las correcciones constructivas en el juego de planos.</p>
+<p class="model-note">R7D integrada, sin aprobación final. Objetivo 9,9 e hiperrealismo fotográfico. La mecánica sanitaria y el acabado fotográfico siguen bajo revisión. Las galerías de 19 imágenes y 33 planos enlazadas aún corresponden a R6K.</p>
 </aside>
 <main id="viewport" aria-label="Modelo tridimensional interactivo">
 <canvas id="scene" aria-label="Casa de campo en 3D. Arrastra para girar y usa la rueda para acercarte." tabindex="0"></canvas>

@@ -1,0 +1,179 @@
+{
+  "revision": "R7D",
+  "status": "CANDIDATE_IN_REVIEW",
+  "targetGlobalScore": 9.9,
+  "globalScore": null,
+  "source": "output/Casa_de_Campo_99_R7D.blend",
+  "sourceSHA256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "sourceBytes": 365163803,
+  "glb": "output/Casa_de_Campo_99_R7D.glb",
+  "glbSHA256": "11144e8c21cd92da1dadae74b42e3689fbb34402d33bff74d21f378cc6bf1910",
+  "glbBytes": 128158876,
+  "webEntrypoint": "docs/preview99/assets/house.gltf",
+  "resourceManifestSHA256": "8529d61626bc091c0c63bbc8c6f9389f22e81f7df4980e6d94eee64edd65cdb4",
+  "checks": {
+    "frozen_geometry_checks": {
+      "path": "review99/r7d_integrated/frozen_geometry_checks.json",
+      "sha256": "a5c6002db2c0f886dabc52ebf391149011833018aeff384d6494d1834f65587c"
+    },
+    "component_regressions": {
+      "path": "review99/r7d_integrated/component_regressions.json",
+      "sha256": "99128be5e853b2d06e98e0716c92e19982bf8c6b658ed6053db6dc7c4f6796f6"
+    }
+  },
+  "images": [
+    {
+      "key": "exterior",
+      "file": "exterior.png",
+      "title": "Casa y paisaje",
+      "camera": "CAM | Presentación verticales corregidas",
+      "frame": 1,
+      "pixels": [
+        2400,
+        1800
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        7.5,
+        -26.0,
+        7.400000095367432
+      ],
+      "quaternionBlender": [
+        0.6831219792366028,
+        0.6831219792366028,
+        -0.18260446190834045,
+        -0.18260447680950165
+      ],
+      "lensMM": 30.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        -0.25
+      ],
+      "seconds": 80.35,
+      "sha256": "d42c0953456f671a27191d0ed7695c648fd0be3527ade2672c95bd2e9fb438cd",
+      "publicFile": "avance-r7/exterior-r7d.jpg",
+      "publicSHA256": "60c16c6593c5185a60c4f2c1fada4a3b32d6b01a5e7e2bb242c9402cc5a56ce2"
+    },
+    {
+      "key": "pileta",
+      "file": "pileta.png",
+      "title": "Pileta y playa húmeda",
+      "camera": "CAM | Pileta & playa húmeda",
+      "frame": 1,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        10.5,
+        -21.700000762939453,
+        3.5999999046325684
+      ],
+      "quaternionBlender": [
+        0.7232989072799683,
+        0.5133904218673706,
+        -0.2672996520996094,
+        -0.3765897750854492
+      ],
+      "lensMM": 25.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 55.24,
+      "sha256": "d2d3f029ce3dbbe952e56b1f2f27f948d20ae817b1524d06955cbd8f903393ea",
+      "publicFile": "avance-r7/pileta-r7d.jpg",
+      "publicSHA256": "7053d524801b3fd9ff0b67fcc69cae7d6fec957af3da17b66ee4f3c95fd96017"
+    },
+    {
+      "key": "huerta",
+      "file": "huerta.png",
+      "title": "Huerta y jardín",
+      "camera": "CAM | Huerta",
+      "frame": 1,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        1.100000023841858,
+        -2.0,
+        3.0999999046325684
+      ],
+      "quaternionBlender": [
+        0.33128347992897034,
+        0.19802582263946533,
+        -0.473322331905365,
+        -0.7918351888656616
+      ],
+      "lensMM": 26.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 40.35,
+      "sha256": "05ac31bef748944c067449bd0b377e29e03c61456d80685a8b6d93b4f79d9769",
+      "publicFile": "avance-r7/huerta-r7d.jpg",
+      "publicSHA256": "4060867b31ed86f0ea74997d30a7af3b1106d4d375ba4e1377ece43c7c16c2a1"
+    },
+    {
+      "key": "estudio",
+      "file": "estudio.png",
+      "title": "Estudio de grabación",
+      "camera": "LUZ99 | Estudio amplitud",
+      "frame": 150,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        20.549999237060547,
+        -5.630000114440918,
+        4.849999904632568
+      ],
+      "quaternionBlender": [
+        0.6914759874343872,
+        0.6358018517494202,
+        0.23212841153144836,
+        0.2524547576904297
+      ],
+      "lensMM": 21.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 54.8,
+      "sha256": "5a6e2d0d68280dd47b50306c5d0c70ed85f0da0f73d910513fe1b57faab7e220",
+      "publicFile": "avance-r7/estudio-r7d.jpg",
+      "publicSHA256": "a9f665f32a646771ba1bcb921a02366eae80b7624ef49726cf69f01d6fa35560"
+    }
+  ],
+  "videoRendered": false
+}

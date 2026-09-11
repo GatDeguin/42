@@ -1,0 +1,75 @@
+{
+  "views": [
+    {
+      "key": "exterior",
+      "label": "Casa y paisaje",
+      "camera": "CAM | Presentación verticales corregidas",
+      "portraitCamera": "LUZ99 | Exterior jardin retrato"
+    },
+    {
+      "key": "estudio",
+      "label": "Estudio de grabación",
+      "camera": "LUZ99 | Estudio amplitud",
+      "portraitCamera": "LUZ99 | Estudio retrato"
+    },
+    {
+      "key": "quincho",
+      "label": "Quincho y línea de fuego",
+      "camera": "REV | Quincho y extracción"
+    },
+    {
+      "key": "cocina",
+      "label": "Cocina y comedor",
+      "camera": "REV | Cocina comedor"
+    },
+    {
+      "key": "dormitorio",
+      "label": "Dormitorio",
+      "camera": "REV | Dormitorio completo",
+      "portraitCamera": "LUZ99 | Dormitorio retrato"
+    },
+    {
+      "key": "vestidor",
+      "label": "Vestidor pasante",
+      "camera": "REV | Vestidor circulación",
+      "portraitCamera": "LUZ99 | Vestidor retrato"
+    },
+    {
+      "key": "bano",
+      "label": "Baño de la vivienda",
+      "camera": "REV | Baño completo"
+    },
+    {
+      "key": "mono",
+      "label": "Monoambiente de planta baja",
+      "camera": "REV | Mono distribución"
+    },
+    {
+      "key": "bathDining",
+      "label": "Baño/comedor",
+      "camera": "REV | Baño acceso comedor"
+    },
+    {
+      "key": "pileta",
+      "label": "Pileta y jardín",
+      "camera": "CAM | Pileta & playa húmeda"
+    },
+    {
+      "key": "huerta",
+      "label": "Huerta y acceso",
+      "camera": "CAM | Huerta"
+    },
+    {
+      "key": "banoMono",
+      "label": "Baño del monoambiente",
+      "camera": "REV | Baño mono"
+    },
+    {
+      "key": "bedroomDining",
+      "label": "Acceso directo al dormitorio",
+      "camera": "LUZ99 | Acceso dormitorio desde estar"
+    }
+  ],
+  "blenderDownloadURL": null,
+  "note": "R7 development bindings. Source download is bound only after the integrated candidate is frozen."
+}

@@ -1,0 +1,1284 @@
+{
+  "sha256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "rafterSupportSamples": [
+    {
+      "plate": "VENT99 | placa conformada bajo cabio",
+      "samples": [
+        {
+          "point_blender": [
+            18.496000289916992,
+            -4.680000305175781,
+            7.536166667938232
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 06"
+          ]
+        },
+        {
+          "point_blender": [
+            18.486000061035156,
+            -4.690000057220459,
+            7.538000106811523
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 06"
+          ]
+        },
+        {
+          "point_blender": [
+            18.506000518798828,
+            -4.670000076293945,
+            7.534332752227783
+          ],
+          "nearest_beam": [
+            9.5367431640625e-07,
+            "Estudio | cabio 06"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | placa conformada bajo cabio.001",
+      "samples": [
+        {
+          "point_blender": [
+            18.496000289916992,
+            -5.099999904632568,
+            7.613166809082031
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 06"
+          ]
+        },
+        {
+          "point_blender": [
+            18.486000061035156,
+            -5.110000133514404,
+            7.615001201629639
+          ],
+          "nearest_beam": [
+            -9.5367431640625e-07,
+            "Estudio | cabio 06"
+          ]
+        },
+        {
+          "point_blender": [
+            18.506000518798828,
+            -5.089999675750732,
+            7.61133337020874
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 06"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | placa conformada bajo cabio.002",
+      "samples": [
+        {
+          "point_blender": [
+            18.496000289916992,
+            -4.434999942779541,
+            7.488249778747559
+          ],
+          "nearest_beam": [
+            0.0030007362365722656,
+            "Estudio | cabio 06"
+          ]
+        },
+        {
+          "point_blender": [
+            18.486000061035156,
+            -4.445000171661377,
+            7.493083477020264
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 06"
+          ]
+        },
+        {
+          "point_blender": [
+            18.506000518798828,
+            -4.424999713897705,
+            7.48941707611084
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 06"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | placa conformada bajo cabio.003",
+      "samples": [
+        {
+          "point_blender": [
+            18.496000289916992,
+            -5.345000267028809,
+            7.658083438873291
+          ],
+          "nearest_beam": [
+            4.76837158203125e-07,
+            "Estudio | cabio 06"
+          ]
+        },
+        {
+          "point_blender": [
+            18.486000061035156,
+            -5.355000019073486,
+            7.659916877746582
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 06"
+          ]
+        },
+        {
+          "point_blender": [
+            18.506000518798828,
+            -5.335000038146973,
+            7.65625
+          ],
+          "nearest_beam": [
+            4.76837158203125e-07,
+            "Estudio | cabio 06"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | placa conformada bajo cabio.004",
+      "samples": [
+        {
+          "point_blender": [
+            19.88800048828125,
+            -4.680000305175781,
+            7.536166667938232
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 08"
+          ]
+        },
+        {
+          "point_blender": [
+            19.878000259399414,
+            -4.690000057220459,
+            7.538000106811523
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 08"
+          ]
+        },
+        {
+          "point_blender": [
+            19.898000717163086,
+            -4.670000076293945,
+            7.534332275390625
+          ],
+          "nearest_beam": [
+            9.5367431640625e-07,
+            "Estudio | cabio 08"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | placa conformada bajo cabio.005",
+      "samples": [
+        {
+          "point_blender": [
+            19.88800048828125,
+            -5.099999904632568,
+            7.613166809082031
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 08"
+          ]
+        },
+        {
+          "point_blender": [
+            19.878000259399414,
+            -5.110000133514404,
+            7.615001201629639
+          ],
+          "nearest_beam": [
+            -9.5367431640625e-07,
+            "Estudio | cabio 08"
+          ]
+        },
+        {
+          "point_blender": [
+            19.898000717163086,
+            -5.089999675750732,
+            7.611333847045898
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 08"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | placa conformada bajo cabio.006",
+      "samples": [
+        {
+          "point_blender": [
+            19.88800048828125,
+            -4.434999942779541,
+            7.488249778747559
+          ],
+          "nearest_beam": [
+            0.0030007362365722656,
+            "Estudio | cabio 08"
+          ]
+        },
+        {
+          "point_blender": [
+            19.878000259399414,
+            -4.445000171661377,
+            7.493083477020264
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 08"
+          ]
+        },
+        {
+          "point_blender": [
+            19.898000717163086,
+            -4.424999713897705,
+            7.489416599273682
+          ],
+          "nearest_beam": [
+            4.76837158203125e-07,
+            "Estudio | cabio 08"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | placa conformada bajo cabio.007",
+      "samples": [
+        {
+          "point_blender": [
+            19.88800048828125,
+            -5.345000267028809,
+            7.658083438873291
+          ],
+          "nearest_beam": [
+            4.76837158203125e-07,
+            "Estudio | cabio 08"
+          ]
+        },
+        {
+          "point_blender": [
+            19.878000259399414,
+            -5.355000019073486,
+            7.659916877746582
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 08"
+          ]
+        },
+        {
+          "point_blender": [
+            19.898000717163086,
+            -5.335000038146973,
+            7.65625
+          ],
+          "nearest_beam": [
+            4.76837158203125e-07,
+            "Estudio | cabio 08"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | toma rectangular placa conformada",
+      "samples": [
+        {
+          "point_blender": [
+            17.104000091552734,
+            -0.6499999761581421,
+            6.797333717346191
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 04"
+          ]
+        },
+        {
+          "point_blender": [
+            17.0939998626709,
+            -0.6600000262260437,
+            6.799166679382324
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 04"
+          ]
+        },
+        {
+          "point_blender": [
+            17.11400032043457,
+            -0.6399999856948853,
+            6.7955002784729
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 04"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | toma rectangular placa conformada.001",
+      "samples": [
+        {
+          "point_blender": [
+            17.799999237060547,
+            -0.6499999761581421,
+            6.797333717346191
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 05"
+          ]
+        },
+        {
+          "point_blender": [
+            17.790000915527344,
+            -0.6600000262260437,
+            6.799166679382324
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 05"
+          ]
+        },
+        {
+          "point_blender": [
+            17.810001373291016,
+            -0.6399999856948853,
+            6.795500755310059
+          ],
+          "nearest_beam": [
+            -9.5367431640625e-07,
+            "Estudio | cabio 05"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | toma redondo placa conformada",
+      "samples": [
+        {
+          "point_blender": [
+            17.104000091552734,
+            -2.5,
+            7.136500835418701
+          ],
+          "nearest_beam": [
+            -9.5367431640625e-07,
+            "Estudio | cabio 04"
+          ]
+        },
+        {
+          "point_blender": [
+            17.0939998626709,
+            -2.509999990463257,
+            7.138333797454834
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 04"
+          ]
+        },
+        {
+          "point_blender": [
+            17.11400032043457,
+            -2.490000009536743,
+            7.134666919708252
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 04"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | toma redondo placa conformada.001",
+      "samples": [
+        {
+          "point_blender": [
+            17.799999237060547,
+            -2.5,
+            7.1365156173706055
+          ],
+          "nearest_beam": [
+            -1.5735626220703125e-05,
+            "Estudio | cabio 05"
+          ]
+        },
+        {
+          "point_blender": [
+            17.790000915527344,
+            -2.509999990463257,
+            7.138333797454834
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 05"
+          ]
+        },
+        {
+          "point_blender": [
+            17.810001373291016,
+            -2.490000009536743,
+            7.134666442871094
+          ],
+          "nearest_beam": [
+            4.76837158203125e-07,
+            "Estudio | cabio 05"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | toma redondo placa conformada.002",
+      "samples": [
+        {
+          "point_blender": [
+            17.104000091552734,
+            -3.0500001907348633,
+            7.237349510192871
+          ],
+          "nearest_beam": [
+            -1.5735626220703125e-05,
+            "Estudio | cabio 04"
+          ]
+        },
+        {
+          "point_blender": [
+            17.0939998626709,
+            -3.059999942779541,
+            7.239166736602783
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 04"
+          ]
+        },
+        {
+          "point_blender": [
+            17.11400032043457,
+            -3.0399999618530273,
+            7.235500335693359
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 04"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | toma redondo placa conformada.003",
+      "samples": [
+        {
+          "point_blender": [
+            17.799999237060547,
+            -3.0500001907348633,
+            7.237355709075928
+          ],
+          "nearest_beam": [
+            -2.193450927734375e-05,
+            "Estudio | cabio 05"
+          ]
+        },
+        {
+          "point_blender": [
+            17.790000915527344,
+            -3.059999942779541,
+            7.239166736602783
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 05"
+          ]
+        },
+        {
+          "point_blender": [
+            17.810001373291016,
+            -3.0399999618530273,
+            7.235499858856201
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 05"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | descarga rectangular placa conformada",
+      "samples": [
+        {
+          "point_blender": [
+            19.88800048828125,
+            -0.6499999761581421,
+            6.797333717346191
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 08"
+          ]
+        },
+        {
+          "point_blender": [
+            19.878000259399414,
+            -0.6600000262260437,
+            6.799166679382324
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 08"
+          ]
+        },
+        {
+          "point_blender": [
+            19.898000717163086,
+            -0.6399999856948853,
+            6.7955002784729
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 08"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | descarga rectangular placa conformada.001",
+      "samples": [
+        {
+          "point_blender": [
+            20.583999633789062,
+            -0.6499999761581421,
+            6.797333717346191
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 09"
+          ]
+        },
+        {
+          "point_blender": [
+            20.573999404907227,
+            -0.6600000262260437,
+            6.799166679382324
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 09"
+          ]
+        },
+        {
+          "point_blender": [
+            20.5939998626709,
+            -0.6399999856948853,
+            6.7955002784729
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 09"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | descarga redondo placa conformada",
+      "samples": [
+        {
+          "point_blender": [
+            19.88800048828125,
+            -2.25,
+            7.090666770935059
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 08"
+          ]
+        },
+        {
+          "point_blender": [
+            19.878000259399414,
+            -2.259999990463257,
+            7.092499732971191
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 08"
+          ]
+        },
+        {
+          "point_blender": [
+            19.898000717163086,
+            -2.240000009536743,
+            7.088833332061768
+          ],
+          "nearest_beam": [
+            4.76837158203125e-07,
+            "Estudio | cabio 08"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | descarga redondo placa conformada.001",
+      "samples": [
+        {
+          "point_blender": [
+            20.583999633789062,
+            -2.25,
+            7.090666770935059
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 09"
+          ]
+        },
+        {
+          "point_blender": [
+            20.573999404907227,
+            -2.259999990463257,
+            7.092499732971191
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 09"
+          ]
+        },
+        {
+          "point_blender": [
+            20.5939998626709,
+            -2.240000009536743,
+            7.088833332061768
+          ],
+          "nearest_beam": [
+            4.76837158203125e-07,
+            "Estudio | cabio 09"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | descarga redondo placa conformada.002",
+      "samples": [
+        {
+          "point_blender": [
+            19.88800048828125,
+            -2.5999999046325684,
+            7.15483283996582
+          ],
+          "nearest_beam": [
+            4.76837158203125e-07,
+            "Estudio | cabio 08"
+          ]
+        },
+        {
+          "point_blender": [
+            19.878000259399414,
+            -2.6100001335144043,
+            7.1566667556762695
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 08"
+          ]
+        },
+        {
+          "point_blender": [
+            19.898000717163086,
+            -2.5900001525878906,
+            7.153000831604004
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 08"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | descarga redondo placa conformada.003",
+      "samples": [
+        {
+          "point_blender": [
+            20.583999633789062,
+            -2.5999999046325684,
+            7.1548333168029785
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 09"
+          ]
+        },
+        {
+          "point_blender": [
+            20.573999404907227,
+            -2.6100001335144043,
+            7.1566667556762695
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 09"
+          ]
+        },
+        {
+          "point_blender": [
+            20.5939998626709,
+            -2.5900001525878906,
+            7.153000831604004
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 09"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | extraccion interior placa conformada",
+      "samples": [
+        {
+          "point_blender": [
+            17.104000091552734,
+            -5.099999904632568,
+            7.613166809082031
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 04"
+          ]
+        },
+        {
+          "point_blender": [
+            17.0939998626709,
+            -5.110000133514404,
+            7.615001201629639
+          ],
+          "nearest_beam": [
+            -9.5367431640625e-07,
+            "Estudio | cabio 04"
+          ]
+        },
+        {
+          "point_blender": [
+            17.11400032043457,
+            -5.089999675750732,
+            7.611333847045898
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 04"
+          ]
+        }
+      ]
+    },
+    {
+      "plate": "VENT99 | extraccion interior placa conformada.001",
+      "samples": [
+        {
+          "point_blender": [
+            17.799999237060547,
+            -5.099999904632568,
+            7.613166809082031
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 05"
+          ]
+        },
+        {
+          "point_blender": [
+            17.790000915527344,
+            -5.110000133514404,
+            7.614999771118164
+          ],
+          "nearest_beam": [
+            0.0,
+            "Estudio | cabio 05"
+          ]
+        },
+        {
+          "point_blender": [
+            17.810001373291016,
+            -5.089999675750732,
+            7.611333847045898
+          ],
+          "nearest_beam": [
+            -4.76837158203125e-07,
+            "Estudio | cabio 05"
+          ]
+        }
+      ]
+    }
+  ],
+  "wetFrontLayerStations": [
+    {
+      "zone": "PB",
+      "x": 19.72,
+      "h": 0.5,
+      "layers": [
+        {
+          "layer": "WET99 | PB ceramica8",
+          "front_source_z": 0.25999999046325684,
+          "rear_source_z": 0.25200000405311584
+        },
+        {
+          "layer": "WET99 | PB adhesivo4",
+          "front_source_z": 0.25200000405311584,
+          "rear_source_z": 0.24799999594688416
+        },
+        {
+          "layer": "WET99 | PB membrana continua2",
+          "front_source_z": 0.24799999594688416,
+          "rear_source_z": 0.2459999918937683
+        }
+      ]
+    },
+    {
+      "zone": "PB",
+      "x": 19.72,
+      "h": 1.5,
+      "layers": [
+        {
+          "layer": "WET99 | PB ceramica8",
+          "front_source_z": 0.25999999046325684,
+          "rear_source_z": 0.25200000405311584
+        },
+        {
+          "layer": "WET99 | PB adhesivo4",
+          "front_source_z": 0.25200000405311584,
+          "rear_source_z": 0.24799999594688416
+        },
+        {
+          "layer": "WET99 | PB membrana continua2",
+          "front_source_z": 0.24799999594688416,
+          "rear_source_z": 0.2459999918937683
+        }
+      ]
+    },
+    {
+      "zone": "PB",
+      "x": 19.72,
+      "h": 2.4,
+      "layers": [
+        {
+          "layer": "WET99 | PB ceramica8",
+          "front_source_z": 0.25999999046325684,
+          "rear_source_z": 0.25200000405311584
+        },
+        {
+          "layer": "WET99 | PB adhesivo4",
+          "front_source_z": 0.25200000405311584,
+          "rear_source_z": 0.24799999594688416
+        },
+        {
+          "layer": "WET99 | PB membrana continua2",
+          "front_source_z": 0.24799999594688416,
+          "rear_source_z": 0.2459999918937683
+        }
+      ]
+    },
+    {
+      "zone": "PB",
+      "x": 20.63,
+      "h": 0.5,
+      "layers": [
+        {
+          "layer": "WET99 | PB ceramica8",
+          "front_source_z": 0.25999999046325684,
+          "rear_source_z": 0.25200000405311584
+        },
+        {
+          "layer": "WET99 | PB adhesivo4",
+          "front_source_z": 0.25200000405311584,
+          "rear_source_z": 0.24799999594688416
+        },
+        {
+          "layer": "WET99 | PB membrana continua2",
+          "front_source_z": 0.24799999594688416,
+          "rear_source_z": 0.2459999918937683
+        }
+      ]
+    },
+    {
+      "zone": "PB",
+      "x": 20.63,
+      "h": 1.5,
+      "layers": [
+        {
+          "layer": "WET99 | PB ceramica8",
+          "front_source_z": 0.25999999046325684,
+          "rear_source_z": 0.25200000405311584
+        },
+        {
+          "layer": "WET99 | PB adhesivo4",
+          "front_source_z": 0.25200000405311584,
+          "rear_source_z": 0.24799999594688416
+        },
+        {
+          "layer": "WET99 | PB membrana continua2",
+          "front_source_z": 0.24799999594688416,
+          "rear_source_z": 0.2459999918937683
+        }
+      ]
+    },
+    {
+      "zone": "PB",
+      "x": 20.63,
+      "h": 2.4,
+      "layers": [
+        {
+          "layer": "WET99 | PB ceramica8",
+          "front_source_z": 0.25999999046325684,
+          "rear_source_z": 0.25200000405311584
+        },
+        {
+          "layer": "WET99 | PB adhesivo4",
+          "front_source_z": 0.25200000405311584,
+          "rear_source_z": 0.24799999594688416
+        },
+        {
+          "layer": "WET99 | PB membrana continua2",
+          "front_source_z": 0.24799999594688416,
+          "rear_source_z": 0.2459999918937683
+        }
+      ]
+    },
+    {
+      "zone": "PB",
+      "x": 21.52,
+      "h": 0.5,
+      "layers": [
+        {
+          "layer": "WET99 | PB ceramica8",
+          "front_source_z": 0.25999999046325684,
+          "rear_source_z": 0.25200000405311584
+        },
+        {
+          "layer": "WET99 | PB adhesivo4",
+          "front_source_z": 0.25200000405311584,
+          "rear_source_z": 0.24799999594688416
+        },
+        {
+          "layer": "WET99 | PB membrana continua2",
+          "front_source_z": 0.24799999594688416,
+          "rear_source_z": 0.2459999918937683
+        }
+      ]
+    },
+    {
+      "zone": "PB",
+      "x": 21.52,
+      "h": 1.5,
+      "layers": [
+        {
+          "layer": "WET99 | PB ceramica8",
+          "front_source_z": 0.25999999046325684,
+          "rear_source_z": 0.25200000405311584
+        },
+        {
+          "layer": "WET99 | PB adhesivo4",
+          "front_source_z": 0.25200000405311584,
+          "rear_source_z": 0.24799999594688416
+        },
+        {
+          "layer": "WET99 | PB membrana continua2",
+          "front_source_z": 0.24800001084804535,
+          "rear_source_z": 0.2459999918937683
+        }
+      ]
+    },
+    {
+      "zone": "PB",
+      "x": 21.52,
+      "h": 2.4,
+      "layers": [
+        {
+          "layer": "WET99 | PB ceramica8",
+          "front_source_z": 0.25999999046325684,
+          "rear_source_z": 0.25200000405311584
+        },
+        {
+          "layer": "WET99 | PB adhesivo4",
+          "front_source_z": 0.25200000405311584,
+          "rear_source_z": 0.24799999594688416
+        },
+        {
+          "layer": "WET99 | PB membrana continua2",
+          "front_source_z": 0.24799999594688416,
+          "rear_source_z": 0.2459999918937683
+        }
+      ]
+    },
+    {
+      "zone": "PA",
+      "x": 20.62,
+      "h": 3.5,
+      "layers": [
+        {
+          "layer": "WET99 | PA ceramica frontal8",
+          "front_source_z": 6.164999961853027,
+          "rear_source_z": 6.1570000648498535
+        },
+        {
+          "layer": "WET99 | PA adhesivo frontal4",
+          "front_source_z": 6.1570000648498535,
+          "rear_source_z": 6.1529998779296875
+        },
+        {
+          "layer": "WET99 | PA membrana frontal2",
+          "front_source_z": 6.1529998779296875,
+          "rear_source_z": 6.151000022888184
+        },
+        {
+          "layer": "WET99 | PA base continua tras revestimiento",
+          "front_source_z": 6.151000022888184,
+          "rear_source_z": 6.099999904632568
+        }
+      ]
+    },
+    {
+      "zone": "PA",
+      "x": 20.62,
+      "h": 4.2,
+      "layers": [
+        {
+          "layer": "WET99 | PA ceramica frontal8",
+          "front_source_z": 6.164999961853027,
+          "rear_source_z": 6.1570000648498535
+        },
+        {
+          "layer": "WET99 | PA adhesivo frontal4",
+          "front_source_z": 6.1570000648498535,
+          "rear_source_z": 6.1529998779296875
+        },
+        {
+          "layer": "WET99 | PA membrana frontal2",
+          "front_source_z": 6.1529998779296875,
+          "rear_source_z": 6.151000022888184
+        },
+        {
+          "layer": "WET99 | PA base continua tras revestimiento",
+          "front_source_z": 6.151000022888184,
+          "rear_source_z": 6.099999904632568
+        }
+      ]
+    },
+    {
+      "zone": "PA",
+      "x": 20.62,
+      "h": 5.35,
+      "layers": [
+        {
+          "layer": "WET99 | PA ceramica frontal8",
+          "front_source_z": 6.164999961853027,
+          "rear_source_z": 6.1570000648498535
+        },
+        {
+          "layer": "WET99 | PA adhesivo frontal4",
+          "front_source_z": 6.1570000648498535,
+          "rear_source_z": 6.1529998779296875
+        },
+        {
+          "layer": "WET99 | PA membrana frontal2",
+          "front_source_z": 6.1529998779296875,
+          "rear_source_z": 6.151000022888184
+        },
+        {
+          "layer": "WET99 | PA base continua tras revestimiento",
+          "front_source_z": 6.151000022888184,
+          "rear_source_z": 6.099999904632568
+        }
+      ]
+    },
+    {
+      "zone": "PA",
+      "x": 21.0,
+      "h": 3.5,
+      "layers": [
+        {
+          "layer": "WET99 | PA ceramica frontal8",
+          "front_source_z": 6.164999961853027,
+          "rear_source_z": 6.1570000648498535
+        },
+        {
+          "layer": "WET99 | PA adhesivo frontal4",
+          "front_source_z": 6.1570000648498535,
+          "rear_source_z": 6.1529998779296875
+        },
+        {
+          "layer": "WET99 | PA membrana frontal2",
+          "front_source_z": 6.1529998779296875,
+          "rear_source_z": 6.151000022888184
+        },
+        {
+          "layer": "WET99 | PA base continua tras revestimiento",
+          "front_source_z": 6.151000022888184,
+          "rear_source_z": 6.099999904632568
+        }
+      ]
+    },
+    {
+      "zone": "PA",
+      "x": 21.0,
+      "h": 4.2,
+      "layers": [
+        {
+          "layer": "WET99 | PA ceramica frontal8",
+          "front_source_z": 6.164999961853027,
+          "rear_source_z": 6.1570000648498535
+        },
+        {
+          "layer": "WET99 | PA adhesivo frontal4",
+          "front_source_z": 6.1570000648498535,
+          "rear_source_z": 6.1529998779296875
+        },
+        {
+          "layer": "WET99 | PA membrana frontal2",
+          "front_source_z": 6.1529998779296875,
+          "rear_source_z": 6.151000022888184
+        },
+        {
+          "layer": "WET99 | PA base continua tras revestimiento",
+          "front_source_z": 6.151000022888184,
+          "rear_source_z": 6.099999904632568
+        }
+      ]
+    },
+    {
+      "zone": "PA",
+      "x": 21.0,
+      "h": 5.35,
+      "layers": [
+        {
+          "layer": "WET99 | PA ceramica frontal8",
+          "front_source_z": 6.164999961853027,
+          "rear_source_z": 6.1570000648498535
+        },
+        {
+          "layer": "WET99 | PA adhesivo frontal4",
+          "front_source_z": 6.1570000648498535,
+          "rear_source_z": 6.1529998779296875
+        },
+        {
+          "layer": "WET99 | PA membrana frontal2",
+          "front_source_z": 6.1529998779296875,
+          "rear_source_z": 6.151000022888184
+        },
+        {
+          "layer": "WET99 | PA base continua tras revestimiento",
+          "front_source_z": 6.151000022888184,
+          "rear_source_z": 6.099999904632568
+        }
+      ]
+    },
+    {
+      "zone": "PA",
+      "x": 21.65,
+      "h": 3.5,
+      "layers": [
+        {
+          "layer": "WET99 | PA ceramica frontal8",
+          "front_source_z": 6.164999961853027,
+          "rear_source_z": 6.1570000648498535
+        },
+        {
+          "layer": "WET99 | PA adhesivo frontal4",
+          "front_source_z": 6.1570000648498535,
+          "rear_source_z": 6.1529998779296875
+        },
+        {
+          "layer": "WET99 | PA membrana frontal2",
+          "front_source_z": 6.1529998779296875,
+          "rear_source_z": 6.151000022888184
+        },
+        {
+          "layer": "WET99 | PA base continua tras revestimiento",
+          "front_source_z": 6.151000022888184,
+          "rear_source_z": 6.099999904632568
+        }
+      ]
+    },
+    {
+      "zone": "PA",
+      "x": 21.65,
+      "h": 4.2,
+      "layers": [
+        {
+          "layer": "WET99 | PA ceramica frontal8",
+          "front_source_z": 6.164999961853027,
+          "rear_source_z": 6.1570000648498535
+        },
+        {
+          "layer": "WET99 | PA adhesivo frontal4",
+          "front_source_z": 6.1570000648498535,
+          "rear_source_z": 6.1529998779296875
+        },
+        {
+          "layer": "WET99 | PA membrana frontal2",
+          "front_source_z": 6.1529998779296875,
+          "rear_source_z": 6.151000022888184
+        },
+        {
+          "layer": "WET99 | PA base continua tras revestimiento",
+          "front_source_z": 6.151000022888184,
+          "rear_source_z": 6.099999904632568
+        }
+      ]
+    },
+    {
+      "zone": "PA",
+      "x": 21.65,
+      "h": 5.35,
+      "layers": [
+        {
+          "layer": "WET99 | PA ceramica frontal8",
+          "front_source_z": 6.164999961853027,
+          "rear_source_z": 6.1570000648498535
+        },
+        {
+          "layer": "WET99 | PA adhesivo frontal4",
+          "front_source_z": 6.1570000648498535,
+          "rear_source_z": 6.1529998779296875
+        },
+        {
+          "layer": "WET99 | PA membrana frontal2",
+          "front_source_z": 6.1529998779296875,
+          "rear_source_z": 6.151000022888184
+        },
+        {
+          "layer": "WET99 | PA base continua tras revestimiento",
+          "front_source_z": 6.151000022888184,
+          "rear_source_z": 6.099999904632568
+        }
+      ]
+    }
+  ]
+}

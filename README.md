@@ -1,20 +1,14 @@
 # Casa de campo · modelo y documentación arquitectónica
 
-**[Explorar el modelo 3D](https://gatdeguin.github.io/42/)** · **[Ver las 19 imágenes](https://gatdeguin.github.io/42/renders/)** · **[Abrir los planos](https://gatdeguin.github.io/42/planos/)**
+**[Explorar R7D en 3D](https://gatdeguin.github.io/42/)** · **[Estado e imágenes R7D](https://gatdeguin.github.io/42/avance-r7/)** · [Descargar Blender R7D](https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R7D.blend) · [Descargar GLB](https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R7D.glb).
 
-Reconstrucción editable del proyecto, basada en el HTML/JavaScript original y las correcciones del propietario. Ubicación indicada: **Virrey del Pino, La Matanza, Buenos Aires**.
+Reconstrucción editable en Virrey del Pino, La Matanza, Buenos Aires. **R7D es una candidata integrada en revisión; no tiene nota global ni aprobación.** El objetivo solicitado es9,9/10 e hiperrealismo fotográfico. Última auditoría formalR6K: **8,3/10**, sin aprobación.
 
-**R7 en desarrollo. El objetivo de aprobación integral es 9,9/10, con hiperrealismo fotográfico, por un crítico independiente. R7 todavía no tiene nota.** La última auditoría integral de R6K dio **8,3/10**, sin aprobación: [dictamen completo](audit/critica_integral_95_02.md). Las notas parciales no sustituyen ese resultado.
+R7D incorpora el baño PB junto a fachada/medianera, elimina la puerta vestidor–comedor y agrega dormitorio–estar. Integra revestimientos húmedos, ventilación y sanitarios revisados. Estudio3,20m libres; vivienda2,60m. Puertas, agua, alturas y encuentros tienen controles geométricos; la auditoría independiente aún debe cerrar el conjunto.
 
-**[Ver el avance R7](https://gatdeguin.github.io/42/avance-r7/)** · [Descargar Blender R7 de avance](https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R7_avance.blend) · [Alcance y controles del checkpoint](review99/github_progress/README.md).
+**Reservas conocidas:** el crítico detectó interferencias de herrajes sanitarios y las hojas de huerta siguen rígidas. La iluminación web por ambiente y el juego completo de25stills/33planos se están terminando desde el mismo SHA. El visor principal ahora muestraR7D; las [19imágenes anteriores](https://gatdeguin.github.io/42/renders/) y [33planos anteriores](https://gatdeguin.github.io/42/planos/) continúan rotuladosR6K.
 
-Este avance incorpora el baño del monoambiente junto a la fachada y medianera, elimina la puerta vestidor–comedor y añade el acceso directo dormitorio–estar. Se corrigieron los sentidos de apertura y el recorrido de cámara; todas las escenas del archivo comparten la distribución actual. También incluye la corrección del agua de la pileta, textiles, huerta e iluminación en desarrollo.
-
-**El visor principal, sus 19 imágenes y los 33 planos continúan en R6K.** Se renovarán juntos desde la siguiente fuente integrada. La nueva distribución R7 está disponible en el Blender de avance y en la imagen de comprobación; no debe confundirse con los planos R6K.
-
-Pendiente en R7: coordinación final de revestimientos y ventilación, refinamiento de sanitarios y pavimentos, renders definitivos, exportación del visor y actualización de todos los planos desde un mismo archivo. [Protocolo del crítico](audit/r7_review_requirements.md).
-
-**El video permanece pausado hasta autorización explícita.** El archivo conserva las cámaras y el recorrido editable, sin secuencia de video renderizada.
+[Controles y huellas de la publicación R7D](review99/github_r7d_progress/README.md) · [Protocolo independiente](audit/r7_review_requirements.md). **Video pausado hasta autorización explícita.**
 
 ## Entrega publicada R6K
 
