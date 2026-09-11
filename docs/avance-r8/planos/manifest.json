@@ -1,0 +1,1017 @@
+{
+  "project": "Casa de Campo",
+  "place": "Virrey del Pino, Partido de La Matanza, Buenos Aires",
+  "status": "EN REVISION / SIN APROBACION 9,9",
+  "revision": "R8",
+  "preview": false,
+  "model": "Casa_de_Campo_99_R8.blend",
+  "model_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+  "source_sha256": "48e4b0624f62460f5d401f92e9d23f2bfb92911f80b780db6e1d528cf3112980",
+  "created_utc": "2026-09-11T04:46:05.252584+00:00",
+  "pdf": "Casa_de_Campo_Planos_A2.pdf",
+  "zip": "Casa_de_Campo_Planos_Editables.zip",
+  "paper_mm": [
+    594,
+    420
+  ],
+  "dxf_units": "metres",
+  "pages": 35,
+  "sheets": [
+    {
+      "id": "A00",
+      "title": "Indice y criterios",
+      "svg": "A00.svg",
+      "dxf": "A00.dxf",
+      "thumbnail": "thumbs/A00.png",
+      "pdf_page": 1
+    },
+    {
+      "id": "A01",
+      "title": "Implantacion, paisaje y perimetro",
+      "svg": "A01.svg",
+      "dxf": "A01.dxf",
+      "thumbnail": "thumbs/A01.png",
+      "pdf_page": 2
+    },
+    {
+      "id": "A02",
+      "title": "Planta baja",
+      "svg": "A02.svg",
+      "dxf": "A02.dxf",
+      "thumbnail": "thumbs/A02.png",
+      "pdf_page": 3
+    },
+    {
+      "id": "A03",
+      "title": "Planta alta",
+      "svg": "A03.svg",
+      "dxf": "A03.dxf",
+      "thumbnail": "thumbs/A03.png",
+      "pdf_page": 4
+    },
+    {
+      "id": "A03b",
+      "title": "Circulacion y uso en vivienda",
+      "svg": "A03b.svg",
+      "dxf": "A03b.dxf",
+      "thumbnail": "thumbs/A03b.png",
+      "pdf_page": 5
+    },
+    {
+      "id": "A04",
+      "title": "Cubiertas y pluviales",
+      "svg": "A04.svg",
+      "dxf": "A04.dxf",
+      "thumbnail": "thumbs/A04.png",
+      "pdf_page": 6
+    },
+    {
+      "id": "A05a",
+      "title": "Fachadas",
+      "svg": "A05a.svg",
+      "dxf": "A05a.dxf",
+      "thumbnail": "thumbs/A05a.png",
+      "pdf_page": 7
+    },
+    {
+      "id": "A05b",
+      "title": "Fachadas",
+      "svg": "A05b.svg",
+      "dxf": "A05b.dxf",
+      "thumbnail": "thumbs/A05b.png",
+      "pdf_page": 8
+    },
+    {
+      "id": "A06",
+      "title": "Cortes generales",
+      "svg": "A06.svg",
+      "dxf": "A06.dxf",
+      "thumbnail": "thumbs/A06.png",
+      "pdf_page": 9
+    },
+    {
+      "id": "A07",
+      "title": "Escalera, descanso y umbral",
+      "svg": "A07.svg",
+      "dxf": "A07.dxf",
+      "thumbnail": "thumbs/A07.png",
+      "pdf_page": 10
+    },
+    {
+      "id": "A08",
+      "title": "Pileta y borde pavimentado",
+      "svg": "A08.svg",
+      "dxf": "A08.dxf",
+      "thumbnail": "thumbs/A08.png",
+      "pdf_page": 11
+    },
+    {
+      "id": "A09",
+      "title": "Banos: plantas y elevaciones",
+      "svg": "A09.svg",
+      "dxf": "A09.dxf",
+      "thumbnail": "thumbs/A09.png",
+      "pdf_page": 12
+    },
+    {
+      "id": "A10",
+      "title": "Quincho y cocinas",
+      "svg": "A10.svg",
+      "dxf": "A10.dxf",
+      "thumbnail": "thumbs/A10.png",
+      "pdf_page": 13
+    },
+    {
+      "id": "A10b",
+      "title": "Monoambiente: uso y medidas",
+      "svg": "A10b.svg",
+      "dxf": "A10b.dxf",
+      "thumbnail": "thumbs/A10b.png",
+      "pdf_page": 14
+    },
+    {
+      "id": "A11",
+      "title": "Estudio y estrategia acustica",
+      "svg": "A11.svg",
+      "dxf": "A11.dxf",
+      "thumbnail": "thumbs/A11.png",
+      "pdf_page": 15
+    },
+    {
+      "id": "A12",
+      "title": "Carpinterias y herreria",
+      "svg": "A12.svg",
+      "dxf": "A12.dxf",
+      "thumbnail": "thumbs/A12.png",
+      "pdf_page": 16
+    },
+    {
+      "id": "A13",
+      "title": "Detalles de envolvente",
+      "svg": "A13.svg",
+      "dxf": "A13.dxf",
+      "thumbnail": "thumbs/A13.png",
+      "pdf_page": 17
+    },
+    {
+      "id": "A13b",
+      "title": "Captacion, DVH y penetraciones",
+      "svg": "A13b.svg",
+      "dxf": "A13b.dxf",
+      "thumbnail": "thumbs/A13b.png",
+      "pdf_page": 18
+    },
+    {
+      "id": "A14",
+      "title": "Estructura conceptual y apoyos",
+      "svg": "A14.svg",
+      "dxf": "A14.dxf",
+      "thumbnail": "thumbs/A14.png",
+      "pdf_page": 19
+    },
+    {
+      "id": "A15",
+      "title": "Instalaciones coordinadas",
+      "svg": "A15.svg",
+      "dxf": "A15.dxf",
+      "thumbnail": "thumbs/A15.png",
+      "pdf_page": 20
+    },
+    {
+      "id": "A16",
+      "title": "Superficies y trazabilidad",
+      "svg": "A16.svg",
+      "dxf": "A16.dxf",
+      "thumbnail": "thumbs/A16.png",
+      "pdf_page": 21
+    },
+    {
+      "id": "D01",
+      "title": "Alero, capas y union de remates",
+      "svg": "D01.svg",
+      "dxf": "D01.dxf",
+      "thumbnail": "thumbs/D01.png",
+      "pdf_page": 22
+    },
+    {
+      "id": "D02",
+      "title": "Escalon de cubierta y penetraciones",
+      "svg": "D02.svg",
+      "dxf": "D02.dxf",
+      "thumbnail": "thumbs/D02.png",
+      "pdf_page": 23
+    },
+    {
+      "id": "D03",
+      "title": "DVH: galces y juntas",
+      "svg": "D03.svg",
+      "dxf": "D03.dxf",
+      "thumbnail": "thumbs/D03.png",
+      "pdf_page": 24
+    },
+    {
+      "id": "D04",
+      "title": "Baranda: placa, apoyo y anclajes",
+      "svg": "D04.svg",
+      "dxf": "D04.dxf",
+      "thumbnail": "thumbs/D04.png",
+      "pdf_page": 25
+    },
+    {
+      "id": "D05",
+      "title": "Escalera: placas, bulones y apoyo",
+      "svg": "D05.svg",
+      "dxf": "D05.dxf",
+      "thumbnail": "thumbs/D05.png",
+      "pdf_page": 26
+    },
+    {
+      "id": "D05b",
+      "title": "Escalera: arranque y plantilla",
+      "svg": "D05b.svg",
+      "dxf": "D05b.dxf",
+      "thumbnail": "thumbs/D05b.png",
+      "pdf_page": 27
+    },
+    {
+      "id": "D06",
+      "title": "Acustica: panel, cielorraso y fijaciones",
+      "svg": "D06.svg",
+      "dxf": "D06.dxf",
+      "thumbnail": "thumbs/D06.png",
+      "pdf_page": 28
+    },
+    {
+      "id": "D07",
+      "title": "Sellos, pasos y relieve acustico",
+      "svg": "D07.svg",
+      "dxf": "D07.dxf",
+      "thumbnail": "thumbs/D07.png",
+      "pdf_page": 29
+    },
+    {
+      "id": "D08",
+      "title": "Ventilacion: montaje y mantenimiento",
+      "svg": "D08.svg",
+      "dxf": "D08.dxf",
+      "thumbnail": "thumbs/D08.png",
+      "pdf_page": 30
+    },
+    {
+      "id": "D09",
+      "title": "Baño: piso continuo y corredera",
+      "svg": "D09.svg",
+      "dxf": "D09.dxf",
+      "thumbnail": "thumbs/D09.png",
+      "pdf_page": 31
+    },
+    {
+      "id": "D10",
+      "title": "Corredizas: pistas, vidrio y drenaje",
+      "svg": "D10.svg",
+      "dxf": "D10.dxf",
+      "thumbnail": "thumbs/D10.png",
+      "pdf_page": 32
+    },
+    {
+      "id": "D11",
+      "title": "Banos: continuidad humeda y ducha",
+      "svg": "D11.svg",
+      "dxf": "D11.dxf",
+      "thumbnail": "thumbs/D11.png",
+      "pdf_page": 33
+    },
+    {
+      "id": "D13",
+      "title": "MIDI: uso y apoyo",
+      "svg": "D13.svg",
+      "dxf": "D13.dxf",
+      "thumbnail": "thumbs/D13.png",
+      "pdf_page": 34
+    },
+    {
+      "id": "D14",
+      "title": "Isla PB: dos plazas y soporte",
+      "svg": "D14.svg",
+      "dxf": "D14.dxf",
+      "thumbnail": "thumbs/D14.png",
+      "pdf_page": 35
+    }
+  ],
+  "checks": {
+    "consistent_model_sha": true,
+    "general_validation_pass": true,
+    "detail_validation_pass": true,
+    "pages": 35,
+    "general_pages": 21,
+    "detail_pages": 14,
+    "vector_only": true,
+    "a2_all_pages": true,
+    "native_dxf_dimensions": 226,
+    "dxf_files": 35,
+    "svg_files": 35,
+    "anchor_evidence_matches": true,
+    "minimum_font_mm": 2.5
+  },
+  "legend": {
+    "F": "Referencia de fuente",
+    "G": "Geometria medida",
+    "P": "Propuesta dimensional"
+  },
+  "sources": {
+    "R1": [
+      "Lysaght: Roofing & Walling Installation Manual, §§7.9 y11",
+      "https://cdn.dcs.lysaght.com/download/lysaght-roofing-walling-installation-manual"
+    ],
+    "R2": [
+      "Vitro TD-140: Large Insulating Glass Units, p.4",
+      "https://www.vitroglazings.com/media/fzzavcjr/tech_doc_140.pdf"
+    ],
+    "R3": [
+      "GIK Acoustics: How to Hang Acoustic Panels",
+      "https://www.gikacoustics.net/en-gb/blogs/knowledge-base/how-to-hang-acoustic-panels"
+    ],
+    "R4": [
+      "TROX: Splitter sound attenuator, installation manual",
+      "https://cdn.trox.de/46e8cdbf6ec5f664/8d90dc4ef7b3/XS_MS_XK_MK_RK_IM_A00000090240_V2_2024_11_GB_en.pdf"
+    ],
+    "R5": [
+      "Hilti: Base plates - design considerations",
+      "https://www.hilti.com.sg/content/hilti/A2/SG/en/engineering/design-center/anchor-systems/typical-applications/base-plate.html"
+    ],
+    "R6": [
+      "ROCKWOOL: Acoustic insulation - installation and flanking",
+      "https://www.rockwool.com/north-america/applications/acoustic-insulation/"
+    ],
+    "U1": [
+      "NKBA Kitchen Planning Guidelines, Guideline9: seating",
+      "https://kb.nkba.org/uploads/2022/05/Kitchen-Planning-Guidelines.pdf"
+    ],
+    "U2": [
+      "OSHA computer workstation evaluation: neutral posture",
+      "https://www.osha.gov/etools/computer-workstations/checklists/evaluation"
+    ]
+  },
+  "coordination_status": "R8 incorpora apoyo y uso del MIDI y reserva de rodillas de isla. D13/D14 distinguen geometria G y cuerpos de prueba P. Encuentros humedos y ventilacion propuestos; su geometria no acredita prestaciones ni capacidad.",
+  "navigation": {
+    "back": "../",
+    "back_model_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+    "viewer": null,
+    "viewer_model_sha256": null,
+    "gallery": null,
+    "gallery_status": "in preparation"
+  },
+  "dimensional_audit": {
+    "path": "dimensional_audit.json",
+    "critical_measures": 49,
+    "status": "PASS"
+  },
+  "source_package": {
+    "manifest_sha256": "b22b61daf0bf6a9e768db3b8168e245666d0d376b41fb13b6e2eea72319e4c9c",
+    "zip_sha256": "8269138b0ebad8f2a647c8cfeeb9256ce4407ab7760c4000c7c3b62b7897f9e5",
+    "files_checked": 95
+  },
+  "pending_preview_evidence": [],
+  "files": [
+    {
+      "path": "Casa_de_Campo_Planos_A2.pdf",
+      "bytes": 1712679,
+      "sha256": "68d4006d5c4b2976a4dc120060dd031a927a24c4ab8cb081af376fad1e393881"
+    },
+    {
+      "path": "A00.svg",
+      "bytes": 17449,
+      "sha256": "c8659e1b1e4458c9c90c760bb5010867740cc286759eb7deaf231f95122032f8"
+    },
+    {
+      "path": "A00.dxf",
+      "bytes": 19248,
+      "sha256": "0d02fcd4df9313373d4f0f7eec9876cf0cdab2f0a7883e1da64eab074fa607f8"
+    },
+    {
+      "path": "thumbs/A00.png",
+      "bytes": 52286,
+      "sha256": "d1c510ce3ef21ae6b5020a18b3ac16e1a74114656478ceba5c7aabd849fd9c61"
+    },
+    {
+      "path": "A01.svg",
+      "bytes": 29746,
+      "sha256": "89f50e7ba43393cf482e26a3cf33160f9bf82f34f04764297a49d3d4eab1f81f"
+    },
+    {
+      "path": "A01.dxf",
+      "bytes": 75911,
+      "sha256": "9eccaa1debe0bf888e010941842828901db830f23d98fc6f0aac018416f1936a"
+    },
+    {
+      "path": "thumbs/A01.png",
+      "bytes": 39730,
+      "sha256": "7eb6dc6b48c8a8640287d7fed52ea958c2817dbbbe3fccce418b05719f7797a5"
+    },
+    {
+      "path": "A02.svg",
+      "bytes": 218460,
+      "sha256": "f9178fc4b0f7901b7b7ad2611158746f704d48f9b9e8259e77050e1405fde1a9"
+    },
+    {
+      "path": "A02.dxf",
+      "bytes": 391051,
+      "sha256": "4a71bbeb88fdd9e7bb8ee2426fc5852e86631d5a8d3282dc7d0892b4ec7c6748"
+    },
+    {
+      "path": "thumbs/A02.png",
+      "bytes": 55181,
+      "sha256": "bdd0cb977102af465cfceda37674c40b63cc77797842523c5b464cc760230d70"
+    },
+    {
+      "path": "A03.svg",
+      "bytes": 403859,
+      "sha256": "4980e9c6755b19d1ec3a0c18c15021c7a1bdf0a7db1ebae10ab275834b78688f"
+    },
+    {
+      "path": "A03.dxf",
+      "bytes": 760317,
+      "sha256": "55fcbe83d55cff8c8a93888f44a70c843d768f315d81fa70b73f3be2d5492356"
+    },
+    {
+      "path": "thumbs/A03.png",
+      "bytes": 61139,
+      "sha256": "c9acb6c3d699788603e51d309c5a41cc9e90b614b227a5673c6c6a7f7af4ec32"
+    },
+    {
+      "path": "A03b.svg",
+      "bytes": 237841,
+      "sha256": "6476eb8761d973fc243a405df7a28d0d16d56d76b9a4b2dfb266e38a5c35c699"
+    },
+    {
+      "path": "A03b.dxf",
+      "bytes": 466650,
+      "sha256": "ac371da404c641245b91a048434fc52403fd075b6e029518ae2d564da166b5f2"
+    },
+    {
+      "path": "thumbs/A03b.png",
+      "bytes": 63457,
+      "sha256": "39406251b8b6603c2aa28ebe4f8a4c855da0c6f0f45cdd46c7a03b0d69518aef"
+    },
+    {
+      "path": "A04.svg",
+      "bytes": 124115,
+      "sha256": "6521884045714e4670a52486234b7f6ca627bb4b278d68507ee2a2b72494894c"
+    },
+    {
+      "path": "A04.dxf",
+      "bytes": 213348,
+      "sha256": "d7049a64adbdfb416ce0538752f0d9699a2a3f98a697802cad85660163ee02bb"
+    },
+    {
+      "path": "thumbs/A04.png",
+      "bytes": 41550,
+      "sha256": "f2245afbafffd82d6f3cec07d181069a6804e8975858d6586eb747c7bb95cc17"
+    },
+    {
+      "path": "A05a.svg",
+      "bytes": 1023952,
+      "sha256": "f7184e245d1414df1470338385fc8908579e24c8bb7924549e963479b8f09b38"
+    },
+    {
+      "path": "A05a.dxf",
+      "bytes": 1611363,
+      "sha256": "8cdebb3dc55e2fbcaa01bf1676ab09e870b433264ef31ca0a5f25ae477fa15ea"
+    },
+    {
+      "path": "thumbs/A05a.png",
+      "bytes": 46918,
+      "sha256": "29cfc027bb6bf6d06a32a0966575188919b28d870d682ccbde0f17a19fe68526"
+    },
+    {
+      "path": "A05b.svg",
+      "bytes": 924583,
+      "sha256": "de725479a76f61378c942c029c89cd14df5be392435d5fc49763a29f3047fbae"
+    },
+    {
+      "path": "A05b.dxf",
+      "bytes": 1424242,
+      "sha256": "3eff1ba7137aa7ee967e959d9bc5ea920a33e4bc919e702da74b24e9081565e5"
+    },
+    {
+      "path": "thumbs/A05b.png",
+      "bytes": 52317,
+      "sha256": "da0337f170344cd444b79d6c4e39103e1dc3d3f3f2b3e5505bc91752fc6666c9"
+    },
+    {
+      "path": "A06.svg",
+      "bytes": 298124,
+      "sha256": "387f294016088f495a593b22a8943612432707b0400df11c048e5cf4bbb132f5"
+    },
+    {
+      "path": "A06.dxf",
+      "bytes": 528903,
+      "sha256": "3a1b7e4733b6a6b5dfe8d2e1e5648dcf3e971f686bc8c6e1a9caac527c91f148"
+    },
+    {
+      "path": "thumbs/A06.png",
+      "bytes": 44889,
+      "sha256": "b329c1d5b2e8a2b411d109df0c7364168f5457229ed492bb97d9a214c14e91cf"
+    },
+    {
+      "path": "A07.svg",
+      "bytes": 207262,
+      "sha256": "edd8d7b844bd4beeae1f79ed3889409bbce2acadcadf97b88b0408eed4100b11"
+    },
+    {
+      "path": "A07.dxf",
+      "bytes": 341219,
+      "sha256": "63383d942ed4a8902000ae518d8207f6053ab0c58327beb954d2632ccf46022e"
+    },
+    {
+      "path": "thumbs/A07.png",
+      "bytes": 50643,
+      "sha256": "0e6bc2aa361a9945a51b28b899189880390ee482406404b3fbd104ac810d3f0d"
+    },
+    {
+      "path": "A08.svg",
+      "bytes": 24491,
+      "sha256": "6530821465ef5e45699d531ac05350351e5c4425686962804a24b2c671d2738d"
+    },
+    {
+      "path": "A08.dxf",
+      "bytes": 57117,
+      "sha256": "6e3a870986eb36dc8a3b69d414d4732f9994f32fdd733db6527e11f6fe9ef84a"
+    },
+    {
+      "path": "thumbs/A08.png",
+      "bytes": 33182,
+      "sha256": "641a007a22f7add99452907f88567a74754964f665c4796553bea5a202b5b0e8"
+    },
+    {
+      "path": "A09.svg",
+      "bytes": 147818,
+      "sha256": "40a7446aa33a71aeec2a677845c2f15880ccbebe3fd995de7ca359766546da05"
+    },
+    {
+      "path": "A09.dxf",
+      "bytes": 271066,
+      "sha256": "057f829d642533e3bf91d5ece99f250024e2bf7e36a74ce1dc2197a44262cd3c"
+    },
+    {
+      "path": "thumbs/A09.png",
+      "bytes": 45912,
+      "sha256": "5036504653dadc731ecf5d209115d9b4de2104031159523373c59855969b395b"
+    },
+    {
+      "path": "A10.svg",
+      "bytes": 97088,
+      "sha256": "f170d3b66ad19ad6a97fb1eba4fb5513d962e58876b2b088c9e2590c0a35668c"
+    },
+    {
+      "path": "A10.dxf",
+      "bytes": 183897,
+      "sha256": "56c56a0909116adb72fff907f677e1b402bae16936e9a7df5c211fa282f32d80"
+    },
+    {
+      "path": "thumbs/A10.png",
+      "bytes": 46989,
+      "sha256": "d83d52ffff59454a144def26e792fc4799f6290a56d435e184d86914ee4880eb"
+    },
+    {
+      "path": "A10b.svg",
+      "bytes": 131709,
+      "sha256": "d48ba138f9b62a064cad57327fd7c23fda128150aee7f6b99eb1007b3dfdc3f5"
+    },
+    {
+      "path": "A10b.dxf",
+      "bytes": 242955,
+      "sha256": "120034f40dce0b9ef15b663cc0a9bbec920ab8997d1364ee73be0f33a31199b9"
+    },
+    {
+      "path": "thumbs/A10b.png",
+      "bytes": 54306,
+      "sha256": "8799e855423cac5fae7794c340a6582c6223ec660143205676f4795318afaa29"
+    },
+    {
+      "path": "A11.svg",
+      "bytes": 145544,
+      "sha256": "01e8512598ef2728aa95d35273bfcd1f2c284617c25c98727a579920fc68b078"
+    },
+    {
+      "path": "A11.dxf",
+      "bytes": 272438,
+      "sha256": "b1c04700dd84d447090d6d7ed8a8b4647a5279ad0dc819ebf5685aedc52ff284"
+    },
+    {
+      "path": "thumbs/A11.png",
+      "bytes": 56748,
+      "sha256": "3ebc18790f69c1f872fd17b0bd88926ab19bcdceefec0aad60c39167634921d0"
+    },
+    {
+      "path": "A12.svg",
+      "bytes": 31207,
+      "sha256": "f1de2ab16c13941fa2efdf35abb919c8e007ff45f401023ff3ccb945b9686bf0"
+    },
+    {
+      "path": "A12.dxf",
+      "bytes": 38857,
+      "sha256": "8a69dd05b65d42f2bb63e7fe0033266b84d5cfec94d76f900941134477eabb84"
+    },
+    {
+      "path": "thumbs/A12.png",
+      "bytes": 52892,
+      "sha256": "bf929619a82789cae35ecad3a43b7a5b76b150d2b6366f0e7e7a8c2e6489c23b"
+    },
+    {
+      "path": "A13.svg",
+      "bytes": 14024,
+      "sha256": "afdb845ff5e2944692d3b680c6883c64f2f21c277a5141488c815f41b8aba2a5"
+    },
+    {
+      "path": "A13.dxf",
+      "bytes": 38722,
+      "sha256": "a74963830f86e7f65c77ca02fde5a0790e48c996b305632e628d9e9b4f9b68d2"
+    },
+    {
+      "path": "thumbs/A13.png",
+      "bytes": 61711,
+      "sha256": "aa4790c44d3cbcf55201141bb4874e0c4bf6969b292a7e1257ed7e28d587d4dd"
+    },
+    {
+      "path": "A13b.svg",
+      "bytes": 19188,
+      "sha256": "3230857433f27ee54718923212e6deeb99d6ed761e67bbb8c843105817088397"
+    },
+    {
+      "path": "A13b.dxf",
+      "bytes": 44747,
+      "sha256": "403569d9aa09b5b602090e081233f612c39e1728966d2ae23455fba19ef061e4"
+    },
+    {
+      "path": "thumbs/A13b.png",
+      "bytes": 37252,
+      "sha256": "ea0095f288cc1d8f851f12a77de4ad61cbfb6ddc67d4d19c3f56ee77a22ffa5f"
+    },
+    {
+      "path": "A14.svg",
+      "bytes": 56325,
+      "sha256": "010c61fa685cfd8a901c632566b103207d8da5b3efcafb7752ba0b038463f4fc"
+    },
+    {
+      "path": "A14.dxf",
+      "bytes": 113026,
+      "sha256": "a0420f0fb84f33ebd76ca29c5401711d417625681b69fd5e553715adfe50a46b"
+    },
+    {
+      "path": "thumbs/A14.png",
+      "bytes": 40562,
+      "sha256": "8d209f41126dc1c5445b956bfbf52fa130cfaef0db60cb83ad447875af82e5cc"
+    },
+    {
+      "path": "A15.svg",
+      "bytes": 10272,
+      "sha256": "567b267c6efba516d979e748092624274b371aa2f3d95076fc0d23428e0d1ace"
+    },
+    {
+      "path": "A15.dxf",
+      "bytes": 23852,
+      "sha256": "791547561358d4636c86a486501bd8183649ba3218566dcabe66389881ca1fa2"
+    },
+    {
+      "path": "thumbs/A15.png",
+      "bytes": 39373,
+      "sha256": "e41b3515c5273964cd14ea08fab3b995c823182ece962cc3f53ea005fae1cc11"
+    },
+    {
+      "path": "A16.svg",
+      "bytes": 14961,
+      "sha256": "15601e921fd3b58dd6ebea4906c6621eab99cd7374369d4ead914fe6e2ee3f62"
+    },
+    {
+      "path": "A16.dxf",
+      "bytes": 19250,
+      "sha256": "2af2dbb50055af49894f629b09b18f7ec274a90b8f3477f0446c7d0fb0e8beec"
+    },
+    {
+      "path": "thumbs/A16.png",
+      "bytes": 48734,
+      "sha256": "2c0beb95c94309ac7cce7b01ab4b2fbbcf8a74120684dd515f52dfd15fd31610"
+    },
+    {
+      "path": "D01.svg",
+      "bytes": 17224,
+      "sha256": "c748367673ce0089b8785e6b4b69d0142053140239c7e60059fdf17d383607b6"
+    },
+    {
+      "path": "D01.dxf",
+      "bytes": 45480,
+      "sha256": "99cd89099dc456669657b9d8b82e948e94a3dd6f6965452eecac272c78c67af4"
+    },
+    {
+      "path": "thumbs/D01.png",
+      "bytes": 50068,
+      "sha256": "a970cbce785095a4ba172adeba42bcdd794ce8ad4b1e3cc3e15c0456bcd54725"
+    },
+    {
+      "path": "D02.svg",
+      "bytes": 16541,
+      "sha256": "dbb0921979409fad252bc2000f997ae9db60b443ed07883b4fe7aaf029ec95e3"
+    },
+    {
+      "path": "D02.dxf",
+      "bytes": 47907,
+      "sha256": "1343687154847529c8218c2ca58401e7da2bd7feba0bdad0f6ec721d20e25eb1"
+    },
+    {
+      "path": "thumbs/D02.png",
+      "bytes": 48246,
+      "sha256": "afb1535c797816a85ced95e0810a5022cd47b9f3a589853c67c6f565d8376db0"
+    },
+    {
+      "path": "D03.svg",
+      "bytes": 39317,
+      "sha256": "db9da1786e41361caf200512347ebc78aec128ab9ba638e75322ca4287882cb5"
+    },
+    {
+      "path": "D03.dxf",
+      "bytes": 85441,
+      "sha256": "d4b1d865f03d59beed3982e38384a3531d75e554bebadc088dcdad685dcffcb6"
+    },
+    {
+      "path": "thumbs/D03.png",
+      "bytes": 34570,
+      "sha256": "caad81ce5bb7ea7d788b5593bada10f0469293c96ff1d5538390d501390988bb"
+    },
+    {
+      "path": "D04.svg",
+      "bytes": 23898,
+      "sha256": "f5565a9718b4994b62a399ce69ef804544edcba944d5710740a12c9f74919f29"
+    },
+    {
+      "path": "D04.dxf",
+      "bytes": 69492,
+      "sha256": "3bfb820b315ebde0189bff1588bbfe362116445efe23fbc0e478d3532d67c227"
+    },
+    {
+      "path": "thumbs/D04.png",
+      "bytes": 40331,
+      "sha256": "3f7b40d3ca3769b713b7c66c8a04e0cab583727edea2bc8628ffee744f895603"
+    },
+    {
+      "path": "D05.svg",
+      "bytes": 14492,
+      "sha256": "431d483968549466149f2e0d427059e4caee9c6221964812a11e7356ff1f52ce"
+    },
+    {
+      "path": "D05.dxf",
+      "bytes": 48043,
+      "sha256": "18b93a2a07d513d4fdf9df6f6d8bc41112d458a0a0a180c3d22e0fe38c558f01"
+    },
+    {
+      "path": "thumbs/D05.png",
+      "bytes": 41057,
+      "sha256": "625133243c17fb0547ff419a36ff6589351b738fa480fd62358b40d320d32c89"
+    },
+    {
+      "path": "D05b.svg",
+      "bytes": 17874,
+      "sha256": "391d133a54c25dd74d0dc5f0a27c6f0bcfb0f1442081dacc7cab52d95d964874"
+    },
+    {
+      "path": "D05b.dxf",
+      "bytes": 57361,
+      "sha256": "23cf9ff6c8351da4b246aa6463c6fd2e68daf759a63d1b9c4e48afb2c060426f"
+    },
+    {
+      "path": "thumbs/D05b.png",
+      "bytes": 38618,
+      "sha256": "40b9acaa5498279316b8c6437c210b8f7becfb8b4e4235ec4f5ec3331fb0be49"
+    },
+    {
+      "path": "D06.svg",
+      "bytes": 18940,
+      "sha256": "f73895c32c58ef29b065f6feb27779264282d784c6fbd5b1792a554e544504e0"
+    },
+    {
+      "path": "D06.dxf",
+      "bytes": 50106,
+      "sha256": "219c821d4743529e6529706751877431f215b99a840f837a820884688c512870"
+    },
+    {
+      "path": "thumbs/D06.png",
+      "bytes": 43925,
+      "sha256": "2f8856602212cdadeeb5e1d53a8b09f5291587723b7734100a433ed713bdc44d"
+    },
+    {
+      "path": "D07.svg",
+      "bytes": 18544,
+      "sha256": "257aaa7a7bc9b0b251bbacf5c65557b81057bdaee9118b08123669c5a9766fde"
+    },
+    {
+      "path": "D07.dxf",
+      "bytes": 50793,
+      "sha256": "2a84666a72305e6717ed2e0124e123d4fb25cb03af11eb05b5cb9b0cb03bd83f"
+    },
+    {
+      "path": "thumbs/D07.png",
+      "bytes": 37656,
+      "sha256": "e97d33abb9cac939b97dbe44e6a9651d0e8bdcaecea4d3b043505f71f612d85e"
+    },
+    {
+      "path": "D08.svg",
+      "bytes": 5430152,
+      "sha256": "f48d02e68d571a760ef74e57b7c560a754d8bf89ca8b17d13702d8ce5060f3c6"
+    },
+    {
+      "path": "D08.dxf",
+      "bytes": 2251837,
+      "sha256": "74248e5f9d6048e9314ad98a855fe6fc4609efc716e6b41d47b54883bddbd72e"
+    },
+    {
+      "path": "thumbs/D08.png",
+      "bytes": 102266,
+      "sha256": "484a71851a3bb0efa4377b2f0c2ad0b80671793c6c8d60fc1f5b333398c806d9"
+    },
+    {
+      "path": "D09.svg",
+      "bytes": 24859,
+      "sha256": "cc877c678c7e7b5688089d1041e326945036fd2d2ba172851662a22a3ff7bca5"
+    },
+    {
+      "path": "D09.dxf",
+      "bytes": 62649,
+      "sha256": "cebcdb502ff7c26358159f255f164a58a92ac7f6b984110585488b0442597be8"
+    },
+    {
+      "path": "thumbs/D09.png",
+      "bytes": 43346,
+      "sha256": "81acafe5bc08dc2b041d7a73c199e17e71107f2ed5bb36c45501fa8995026f7f"
+    },
+    {
+      "path": "D10.svg",
+      "bytes": 153284,
+      "sha256": "90369b4dca1932b34ebae27cef6fd86cfde6c821a88f980cc2519478a27353e0"
+    },
+    {
+      "path": "D10.dxf",
+      "bytes": 256316,
+      "sha256": "b7d12730738abcd5f65e91ac25dd41c3868f01e61bddfd86491c03591b81f159"
+    },
+    {
+      "path": "thumbs/D10.png",
+      "bytes": 47184,
+      "sha256": "6d8f0662ca71069feaaa89fb848cfd592bc9f66ae9c544445bdc3a8fd6c1afa4"
+    },
+    {
+      "path": "D11.svg",
+      "bytes": 242444,
+      "sha256": "294fc8d32bd00e8b208f0e32d10c85289b44b61896c6aaac7766bed2267d169a"
+    },
+    {
+      "path": "D11.dxf",
+      "bytes": 422350,
+      "sha256": "2fc2727b67585f41d9488aeaac336c2070b78911b1670b452bddf11fa687504d"
+    },
+    {
+      "path": "thumbs/D11.png",
+      "bytes": 46505,
+      "sha256": "ba1a6c36a92857aa0fa372533bb6553564c203c5b1514759c15df9f5225e4893"
+    },
+    {
+      "path": "D13.svg",
+      "bytes": 60571,
+      "sha256": "b7e2299cd7a7c5e28a8a4c15bc2df1dc7873a9da1d5fe842461064df15376a38"
+    },
+    {
+      "path": "D13.dxf",
+      "bytes": 124182,
+      "sha256": "10aea2068191add3c6d807d54afb7863db88f73e09d656903399a274c1d30d07"
+    },
+    {
+      "path": "thumbs/D13.png",
+      "bytes": 46989,
+      "sha256": "4ff761d3215f3fb85ec164f771ece6732710463ff25876c54f3b93732c4b583e"
+    },
+    {
+      "path": "D14.svg",
+      "bytes": 83877,
+      "sha256": "e8f770fb1fd54c8e232ab0c96b696e75ea9c730c09ef5197542a20ff757042c9"
+    },
+    {
+      "path": "D14.dxf",
+      "bytes": 171120,
+      "sha256": "48385c4b1273562f8dd252c3e8f6815984b1c6a6cfd771fe6c8195104a913efa"
+    },
+    {
+      "path": "thumbs/D14.png",
+      "bytes": 48658,
+      "sha256": "ce1dd92257a37e183cb55c5b11045f9dc24f2f124305d6081d72e954cd7facdb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17904,
+      "sha256": "cd804ade13b0aa5fc669add3d42fccdc0b7d0e95478932f16f3a18eaa6da6f84"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1247,
+      "sha256": "732f73f9b4d46fb5818428ff113c2b526d53171bf85dd51cc87f37f70df84671"
+    },
+    {
+      "path": "measurements.json",
+      "bytes": 69621,
+      "sha256": "ba5bff3c39e376ad9d5a96a216b65e9f7af0e5465c905593a3cb8f713fca5cd7"
+    },
+    {
+      "path": "verification.json",
+      "bytes": 5390,
+      "sha256": "3ab0871712e199a8444d3940c769f80ca55dbc873145a6018f7f06c025240f25"
+    },
+    {
+      "path": "print_validation.json",
+      "bytes": 3660,
+      "sha256": "a6d7383d93bcb1bc34fe375baabaae7673e5b9d6d72510790b0a72d004d38826"
+    },
+    {
+      "path": "package_validation.json",
+      "bytes": 500,
+      "sha256": "bee603f851e38af02fed27ba2847aaf868c5ed115b37e73ccd3e389c88493a62"
+    },
+    {
+      "path": "anclajes_medidos.json",
+      "bytes": 19921,
+      "sha256": "7866fb33cc3944f66ec2faa67ff1cf691567002b5cf7cacc4e3074efe5f7fc39"
+    },
+    {
+      "path": "fuentes.md",
+      "bytes": 1306,
+      "sha256": "d0a7853672cc1ca3739b61be3abbe6caaf0edd618402e4abc6dfe0c7872fc82c"
+    },
+    {
+      "path": "thumbnail_manifest.json",
+      "bytes": 11389,
+      "sha256": "0123311b3851b4c5a20753f8c705f6a8f4823afcf0eb843fffde1b9ec50568e2"
+    },
+    {
+      "path": "cad_publication_check.json",
+      "bytes": 26562,
+      "sha256": "cad8ace26a7f43acddc215a95979010fe834667b211b49ab6807fae22a8d8685"
+    },
+    {
+      "path": "dimensional_audit.json",
+      "bytes": 21664,
+      "sha256": "43d4f4f228e75f519def44eef7d27f42edc257ab3c49b2ed8a66b68a738172fb"
+    },
+    {
+      "path": "dimension_register.csv",
+      "bytes": 17790,
+      "sha256": "1aeb541d8216f3a11ec1eebf4eeda87ae0487b13637b93952f663566cb951cdf"
+    },
+    {
+      "path": "AUDITORIA_DIMENSIONAL.md",
+      "bytes": 4495,
+      "sha256": "ae55638061ef404d31425a05d78376a73b9be24b20ea5aecaf358e0b7c6015ab"
+    },
+    {
+      "path": "visual_review.json",
+      "bytes": 7948,
+      "sha256": "2e807ab02fb017c64a23ac359805d51bc17e0b70213853bd5536b41f3a87fe63"
+    },
+    {
+      "path": "REVISION_VISUAL.md",
+      "bytes": 1712,
+      "sha256": "303eb557cf807ae512650f0c0c392a48e5735b6d193b0c633c50ae917fcf91d6"
+    },
+    {
+      "path": "service_access_proposal.json",
+      "bytes": 4672,
+      "sha256": "746190fa463e6fa6ae65ff832fd0466a7f3ae352ea4129aa0aade7369bdb7f9b"
+    },
+    {
+      "path": "ACCESO_MANTENIMIENTO_D08.md",
+      "bytes": 1798,
+      "sha256": "803c49da6b08941825552e991259a26b81bace1040157c7517f53395eb938d46"
+    },
+    {
+      "path": "use_evidence/use_validation.json",
+      "bytes": 33102,
+      "sha256": "0738271315372d4244937f2dd00fbca5f3f4bbb2b60373a702175f926bc66f14"
+    },
+    {
+      "path": "r8_emission.json",
+      "bytes": 670,
+      "sha256": "465b6ed0173894023695ea934a1a3f1892a4b6b8d33ed0a3a81a2f32c3dc1f26"
+    },
+    {
+      "path": "emission_manifest.json",
+      "bytes": 3540,
+      "sha256": "2a01846eb549c541ac70582a0e3c9e3d24c0934a076d41aba56834fbb408d1ec"
+    },
+    {
+      "path": "details_manifest.json",
+      "bytes": 36048,
+      "sha256": "ba15edc010b8db1c2ce1e07a01b182634937cc8b934033bde20525acce9b3581"
+    },
+    {
+      "path": "source_package_manifest.json",
+      "bytes": 15559,
+      "sha256": "b22b61daf0bf6a9e768db3b8168e245666d0d376b41fb13b6e2eea72319e4c9c"
+    }
+  ]
+}

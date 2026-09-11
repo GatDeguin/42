@@ -1,0 +1,23 @@
+{
+  "revision": "R8",
+  "status": "R8 EN REVISION / SIN APROBACION9,9 / SIN CALCULO DE CAPACIDAD",
+  "preview": false,
+  "model": "D:\\2026\\42\\output\\Casa_de_Campo_99_R8.blend",
+  "source_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+  "preserved_general_sheets": 21,
+  "preserved_detail_sheets": 12,
+  "added_sheets": [
+    "D13",
+    "D14"
+  ],
+  "pages": 35,
+  "validation_files": [
+    "package_validation.json",
+    "dimensional_audit.json",
+    "print_validation.json",
+    "details/validation.json"
+  ],
+  "evidence": "use_evidence/use_validation.json",
+  "source_unchanged": true,
+  "not_published": true
+}

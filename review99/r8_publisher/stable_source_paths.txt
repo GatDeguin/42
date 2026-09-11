@@ -1,0 +1,14 @@
+scripts/planos99_emit_r8.py
+scripts/planos99_uso_a2.py
+scripts/planos95_extract.py
+scripts/planos95_build.py
+scripts/planos95_details_build.py
+scripts/planos95_package.py
+scripts/planos99_document_audit.py
+scripts/planos99_uso_r8_check.py
+scripts/planos95_publish.py
+scripts/planos95_publication.css
+scripts/planos99_service_access_probe.py
+scripts/planos99_service_access.md
+web-tools/planos99-publisher-qa.mjs
+scripts/PLANOS_R8.md

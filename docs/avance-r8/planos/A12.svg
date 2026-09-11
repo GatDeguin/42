@@ -1,0 +1,211 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="594mm" height="420mm" viewBox="0 0 594 420">
+<rect width="594" height="420" fill="white"/>
+<polygon points="10.0000,10.0000 584.0000,10.0000 584.0000,410.0000 10.0000,410.0000" fill="none" stroke="#172b35" stroke-width="0.35"/>
+<text x="18.0000" y="21.0000" font-family="Arial" font-size="4.8" font-weight="bold" fill="#172b35" text-anchor="start">CASA DE CAMPO</text>
+<text x="18.0000" y="28.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#6f7e83" text-anchor="start">VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO</text>
+<text x="577.0000" y="21.0000" font-family="Arial" font-size="4.2" font-weight="bold" fill="#172b35" text-anchor="end">A12 | Carpinterias y herreria</text>
+<text x="577.0000" y="28.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#6f7e83" text-anchor="end">Cuadro de hojas / paños medidos del modelo; vanos y pases en A02/A03</text>
+<line x1="10.0000" y1="34.0000" x2="584.0000" y2="34.0000" stroke="#172b35" stroke-width="0.25"/>
+<line x1="10.0000" y1="384.0000" x2="584.0000" y2="384.0000" stroke="#172b35" stroke-width="0.3"/>
+<text x="18.0000" y="393.0000" font-family="Arial" font-size="3" font-weight="bold" fill="#ac5b27" text-anchor="start">R8 EN REVISION / SIN APROBACION9,9 / SIN CALCULO DE CAPACIDAD | NO APTO PARA CONSTRUCCION</text>
+<text x="18.0000" y="401.0000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#6f7e83" text-anchor="start">Modelo: Casa_de_Campo_99_R8.blend | SHA256 60810e1945f53b33 | 11/09/2026</text>
+<text x="375.0000" y="393.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">A2 594 x 420 mm | imprimir al 100 %</text>
+<text x="375.0000" y="401.0000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#6f7e83" text-anchor="start">Metros salvo indicacion | cotas prevalecen al escalimetro</text>
+<text x="577.0000" y="407.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#172b35" text-anchor="end">16</text>
+<polygon points="25.0000,55.0000 362.0000,55.0000 362.0000,67.0000 25.0000,67.0000" fill="#172b35" stroke="#172b35" stroke-width="0.18"/>
+<text x="27.0000" y="61.0000" font-family="Arial" font-size="2.7" font-weight="bold" fill="#ffffff" text-anchor="start">Ref.</text>
+<text x="52.0000" y="61.0000" font-family="Arial" font-size="2.7" font-weight="bold" fill="#ffffff" text-anchor="start">Pieza medida G</text>
+<text x="180.0000" y="61.0000" font-family="Arial" font-size="2.7" font-weight="bold" fill="#ffffff" text-anchor="start">Ancho m</text>
+<text x="226.0000" y="61.0000" font-family="Arial" font-size="2.7" font-weight="bold" fill="#ffffff" text-anchor="start">Alto m</text>
+<text x="272.0000" y="61.0000" font-family="Arial" font-size="2.7" font-weight="bold" fill="#ffffff" text-anchor="start">Base</text>
+<text x="318.0000" y="61.0000" font-family="Arial" font-size="2.7" font-weight="bold" fill="#ffffff" text-anchor="start">Tope</text>
+<polygon points="25.0000,67.0000 362.0000,67.0000 362.0000,79.0000 25.0000,79.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="27.0000" y="72.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">P01i</text>
+<text x="52.0000" y="72.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Corredera PB / vidrio</text>
+<text x="180.0000" y="72.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1.140</text>
+<text x="226.0000" y="72.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">2.300</text>
+<text x="272.0000" y="72.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+0.270</text>
+<text x="318.0000" y="72.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+2.570</text>
+<polygon points="25.0000,79.0000 362.0000,79.0000 362.0000,91.0000 25.0000,91.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="27.0000" y="84.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">P01d</text>
+<text x="52.0000" y="84.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Corredera PB / vidrio</text>
+<text x="180.0000" y="84.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1.140</text>
+<text x="226.0000" y="84.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">2.300</text>
+<text x="272.0000" y="84.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+0.270</text>
+<text x="318.0000" y="84.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+2.570</text>
+<polygon points="25.0000,91.0000 362.0000,91.0000 362.0000,103.0000 25.0000,103.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="27.0000" y="96.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">P02</text>
+<text x="52.0000" y="96.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Abatible bano mono</text>
+<text x="180.0000" y="96.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">0.915</text>
+<text x="226.0000" y="96.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">2.200</text>
+<text x="272.0000" y="96.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+0.220</text>
+<text x="318.0000" y="96.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+2.420</text>
+<polygon points="25.0000,103.0000 362.0000,103.0000 362.0000,115.0000 25.0000,115.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="27.0000" y="108.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">P03</text>
+<text x="52.0000" y="108.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Abatible bano pileta</text>
+<text x="180.0000" y="108.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">0.820</text>
+<text x="226.0000" y="108.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">2.180</text>
+<text x="272.0000" y="108.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+0.210</text>
+<text x="318.0000" y="108.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+2.390</text>
+<polygon points="25.0000,115.0000 362.0000,115.0000 362.0000,127.0000 25.0000,127.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="27.0000" y="120.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">P04</text>
+<text x="52.0000" y="120.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Acceso estudio</text>
+<text x="180.0000" y="120.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">0.855</text>
+<text x="226.0000" y="120.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">2.340</text>
+<text x="272.0000" y="120.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+3.260</text>
+<text x="318.0000" y="120.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+5.600</text>
+<polygon points="25.0000,127.0000 362.0000,127.0000 362.0000,139.0000 25.0000,139.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="27.0000" y="132.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">P05</text>
+<text x="52.0000" y="132.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Dormitorio / estar</text>
+<text x="180.0000" y="132.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">0.908</text>
+<text x="226.0000" y="132.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">2.200</text>
+<text x="272.0000" y="132.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+3.260</text>
+<text x="318.0000" y="132.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+5.460</text>
+<polygon points="25.0000,139.0000 362.0000,139.0000 362.0000,151.0000 25.0000,151.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="27.0000" y="144.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">P06</text>
+<text x="52.0000" y="144.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Dormitorio</text>
+<text x="180.0000" y="144.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">0.820</text>
+<text x="226.0000" y="144.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">2.170</text>
+<text x="272.0000" y="144.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+3.260</text>
+<text x="318.0000" y="144.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+5.430</text>
+<polygon points="25.0000,151.0000 362.0000,151.0000 362.0000,163.0000 25.0000,163.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="27.0000" y="156.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">P07</text>
+<text x="52.0000" y="156.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Bano vivienda</text>
+<text x="180.0000" y="156.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">0.820</text>
+<text x="226.0000" y="156.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">2.180</text>
+<text x="272.0000" y="156.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+3.250</text>
+<text x="318.0000" y="156.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+5.430</text>
+<polygon points="25.0000,163.0000 362.0000,163.0000 362.0000,175.0000 25.0000,175.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="27.0000" y="168.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">V01</text>
+<text x="52.0000" y="168.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">DVH estudio / paño</text>
+<text x="180.0000" y="168.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">3.000</text>
+<text x="226.0000" y="168.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1.720</text>
+<text x="272.0000" y="168.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+4.060</text>
+<text x="318.0000" y="168.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+5.780</text>
+<polygon points="25.0000,175.0000 362.0000,175.0000 362.0000,187.0000 25.0000,187.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="27.0000" y="180.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">V02</text>
+<text x="52.0000" y="180.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Lateral dormitorio / paño</text>
+<text x="180.0000" y="180.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1.700</text>
+<text x="226.0000" y="180.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">2.080</text>
+<text x="272.0000" y="180.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+3.840</text>
+<text x="318.0000" y="180.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+5.920</text>
+<polygon points="25.0000,187.0000 362.0000,187.0000 362.0000,199.0000 25.0000,199.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="27.0000" y="192.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">P08a</text>
+<text x="52.0000" y="192.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Corredera lateral A / vidrio</text>
+<text x="180.0000" y="192.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1.150</text>
+<text x="226.0000" y="192.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">2.540</text>
+<text x="272.0000" y="192.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+3.220</text>
+<text x="318.0000" y="192.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+5.760</text>
+<polygon points="25.0000,199.0000 362.0000,199.0000 362.0000,211.0000 25.0000,211.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="27.0000" y="204.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">P08b</text>
+<text x="52.0000" y="204.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Corredera lateral B / vidrio</text>
+<text x="180.0000" y="204.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1.150</text>
+<text x="226.0000" y="204.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">2.540</text>
+<text x="272.0000" y="204.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+3.220</text>
+<text x="318.0000" y="204.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+5.760</text>
+<polygon points="25.0000,211.0000 362.0000,211.0000 362.0000,223.0000 25.0000,223.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="27.0000" y="216.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">P09</text>
+<text x="52.0000" y="216.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Corredera posterior A / vidrio</text>
+<text x="180.0000" y="216.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1.275</text>
+<text x="226.0000" y="216.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">2.540</text>
+<text x="272.0000" y="216.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+3.220</text>
+<text x="318.0000" y="216.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+5.760</text>
+<polygon points="25.0000,223.0000 362.0000,223.0000 362.0000,235.0000 25.0000,235.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="27.0000" y="228.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">P10</text>
+<text x="52.0000" y="228.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Corredera posterior B / vidrio</text>
+<text x="180.0000" y="228.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1.675</text>
+<text x="226.0000" y="228.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">2.540</text>
+<text x="272.0000" y="228.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+3.220</text>
+<text x="318.0000" y="228.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+5.760</text>
+<polygon points="25.0000,235.0000 362.0000,235.0000 362.0000,247.0000 25.0000,247.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="27.0000" y="240.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">H01</text>
+<text x="52.0000" y="240.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Porton / hoja</text>
+<text x="180.0000" y="240.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">3.000</text>
+<text x="226.0000" y="240.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">2.000</text>
+<text x="272.0000" y="240.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+0.085</text>
+<text x="318.0000" y="240.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+2.085</text>
+<polygon points="25.0000,247.0000 362.0000,247.0000 362.0000,259.0000 25.0000,259.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="27.0000" y="252.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">P11</text>
+<text x="52.0000" y="252.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Corredera bano/comedor</text>
+<text x="180.0000" y="252.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1.050</text>
+<text x="226.0000" y="252.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">2.240</text>
+<text x="272.0000" y="252.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+3.260</text>
+<text x="318.0000" y="252.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">+5.500</text>
+<text x="437.0000" y="55.0000" font-family="Arial" font-size="3.7" font-weight="bold" fill="#236a86" text-anchor="start">LECTURA DEL CUADRO</text>
+<text x="437.0000" y="62.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Dimensiones de hoja o vidrio; no equivalen al vano. P11: luz entre jambas0,90; hoja1,05 y carrera1,02;</text>
+<text x="437.0000" y="66.4000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">ver A09 / suplemento D09.</text>
+<text x="437.0000" y="73.8000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">G: P05 vano1000, hoja908, marco923mm; garganta848mm y paso conservador806mm con manija a90°.</text>
+<text x="437.0000" y="78.2000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">P02 vano1000 / marco930mm.</text>
+<text x="437.0000" y="85.6000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">G: DVH con dos paños de vidrio; espesor y separacion segun modelo. Prestaciones y composicion final</text>
+<text x="437.0000" y="90.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">por especificar.</text>
+<text x="437.0000" y="97.4000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">P08/P09/P10: correderas vivienda; replantear rieles, solapes, desagues y retenedores a partir del vano</text>
+<text x="437.0000" y="101.8000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">real.</text>
+<text x="437.0000" y="109.2000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Porton: hoja 3,00 m; paso libre 2,75 m; carrera 3,05 m. Paso medido entre caras de pilares.</text>
+<text x="29.0000" y="275.0000" font-family="Arial" font-size="3.2" font-weight="bold" fill="#236a86" text-anchor="start">01 P05 / jambas y hoja cerrada G | 1:10</text>
+<line x1="137.8683" y1="288.1318" x2="137.8975" y2="288.1664" stroke="#172b35" stroke-width="0.5"/>
+<line x1="137.9170" y1="288.1895" x2="137.8975" y2="288.1664" stroke="#172b35" stroke-width="0.5"/>
+<line x1="137.9170" y1="288.1895" x2="137.9669" y2="288.3459" stroke="#172b35" stroke-width="0.5"/>
+<line x1="138.0001" y1="288.4500" x2="137.9669" y2="288.3459" stroke="#172b35" stroke-width="0.5"/>
+<line x1="138.0001" y1="288.4500" x2="138.0001" y2="296.3143" stroke="#172b35" stroke-width="0.5"/>
+<line x1="138.0001" y1="301.5500" x2="138.0001" y2="296.3143" stroke="#172b35" stroke-width="0.5"/>
+<line x1="138.0001" y1="301.5500" x2="137.9502" y2="301.7064" stroke="#172b35" stroke-width="0.5"/>
+<line x1="137.9170" y1="301.8105" x2="137.9502" y2="301.7064" stroke="#172b35" stroke-width="0.5"/>
+<line x1="137.9170" y1="301.8105" x2="137.8878" y2="301.8451" stroke="#172b35" stroke-width="0.5"/>
+<line x1="137.8683" y1="301.8682" x2="137.8878" y2="301.8451" stroke="#172b35" stroke-width="0.5"/>
+<line x1="137.5500" y1="288.0000" x2="137.7064" y2="288.0499" stroke="#172b35" stroke-width="0.5"/>
+<line x1="137.7064" y1="288.0499" x2="137.8105" y2="288.0831" stroke="#172b35" stroke-width="0.5"/>
+<line x1="137.8105" y1="288.0831" x2="137.8452" y2="288.1123" stroke="#172b35" stroke-width="0.5"/>
+<line x1="137.8452" y1="288.1123" x2="137.8683" y2="288.1318" stroke="#172b35" stroke-width="0.5"/>
+<line x1="137.7064" y1="301.9501" x2="137.5500" y2="302.0000" stroke="#172b35" stroke-width="0.5"/>
+<line x1="137.8105" y1="301.9169" x2="137.7064" y2="301.9501" stroke="#172b35" stroke-width="0.5"/>
+<line x1="137.8452" y1="301.8877" x2="137.8105" y2="301.9169" stroke="#172b35" stroke-width="0.5"/>
+<line x1="137.8683" y1="301.8682" x2="137.8452" y2="301.8877" stroke="#172b35" stroke-width="0.5"/>
+<line x1="137.0001" y1="302.0000" x2="137.0001" y2="288.0000" stroke="#172b35" stroke-width="0.5"/>
+<line x1="37.0001" y1="288.0000" x2="37.0001" y2="302.0000" stroke="#172b35" stroke-width="0.5"/>
+<polygon points="137.0003,301.9999 137.0003,287.9999 133.5003,287.9999 133.5003,301.9999 137.0003,301.9999" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="41.2005,301.9999 41.2005,287.9999 37.0003,287.9999 37.0003,301.9999 41.2005,301.9999" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="133.5003,301.9999 133.5003,300.6998 131.2504,300.6998 131.2504,301.9999 133.5003,301.9999" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="133.5003,300.6998 133.5003,300.4998 131.2504,300.4998 131.2504,300.6998 133.5003,300.6998" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="43.4504,301.9999 43.4504,300.6998 41.2005,300.6998 41.2005,301.9999 43.4504,301.9999" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="43.4504,300.6998 43.4504,300.4998 41.2005,300.4998 41.2005,300.6998 43.4504,300.6998" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="136.2503,295.9998 136.2503,295.7499 133.5505,295.7499 133.5505,295.9998 136.2503,295.9998" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="132.7501,295.4002 132.9502,295.4002 132.9502,292.4001 132.7501,292.4001 132.7501,295.4002" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="132.7501,295.7500 132.6855,295.7585 132.6252,295.7834 132.5733,295.8231 132.5337,295.8749 132.5087,295.9353 132.5001,295.9999 132.5087,296.0646 132.5337,296.1250 132.5733,296.1767 132.6252,296.2164 132.6855,296.2414 132.7501,296.2499 132.8148,296.2414 132.8751,296.2164 132.9269,296.1767 132.9666,296.1250 132.9916,296.0646 133.0002,295.9999 132.9916,295.9353 132.9666,295.8749 132.9269,295.8231 132.8751,295.7834 132.8148,295.7585 132.7501,295.7500" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="133.3298,295.8447 133.2697,295.6999 133.1743,295.5756 133.0502,295.4803 132.9054,295.4204 132.7501,295.4000 132.5949,295.4204 132.4501,295.4803 132.3259,295.5756 132.2306,295.6999 132.1705,295.8447 132.1501,295.9999 132.1705,296.1552 132.2306,296.3000 132.3259,296.4242 132.4501,296.5196 132.5949,296.5795 132.7501,296.5999 132.9054,296.5795 133.0502,296.5196 133.1743,296.4242 133.2697,296.3000 133.3298,296.1552 133.3502,295.9999 133.3298,295.8447" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="132.7501" y1="295.2001" x2="132.7501" y2="295.7200" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="132.9502" y1="295.2001" x2="132.9502" y2="295.8047" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="132.7501" y1="295.2001" x2="132.9502" y2="295.2001" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="132.8226" y1="295.7296" x2="132.7501" y2="295.7200" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="132.8901" y1="295.7576" x2="132.8226" y2="295.7296" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="132.9481" y1="295.8020" x2="132.8901" y2="295.7576" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="41.9504,295.9998 132.7503,295.9998 132.7503,300.4998 41.9504,300.4998" fill="none" stroke="#236a86" stroke-width="0.23"/>
+<line x1="41.2000" y1="320.0000" x2="133.5000" y2="320.0000" stroke="#236a86" stroke-width="0.13"/>
+<line x1="40.2000" y1="321.0000" x2="42.2000" y2="319.0000" stroke="#236a86" stroke-width="0.2"/>
+<line x1="132.5000" y1="321.0000" x2="134.5000" y2="319.0000" stroke="#236a86" stroke-width="0.2"/>
+<polygon points="75.5716,316.0000 99.1284,316.0000 99.1284,319.8000 75.5716,319.8000" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="87.3500" y="318.5000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#236a86" text-anchor="middle">923 G entre jambas</text>
+<line x1="43.4504" y1="329.0000" x2="124.0501" y2="329.0000" stroke="#236a86" stroke-width="0.13"/>
+<line x1="42.4504" y1="330.0000" x2="44.4504" y2="328.0000" stroke="#236a86" stroke-width="0.2"/>
+<line x1="123.0501" y1="330.0000" x2="125.0501" y2="328.0000" stroke="#236a86" stroke-width="0.2"/>
+<polygon points="72.3192,325.0000 95.1814,325.0000 95.1814,328.8000 72.3192,328.8000" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="83.7503" y="327.5000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#236a86" text-anchor="middle">806 G conservador</text>
+<polygon points="68.2020,278.5000 105.7980,278.5000 105.7980,282.3000 68.2020,282.3000" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="87.0000" y="281.0000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#236a86" text-anchor="middle">Hoja908 x45 G; apertura en A03</text>
+<text x="210.0000" y="275.0000" font-family="Arial" font-size="3.2" font-weight="bold" fill="#236a86" text-anchor="start">02 Cierre vestidor-estar / corte G | 1:10</text>
+<polygon points="211.3144,294.0000 216.5501,294.0000 216.7065,293.9501 216.8107,293.9168 216.8453,293.8876 216.8683,293.8682 216.8878,293.8451 216.9171,293.8105 216.9503,293.7064 217.0001,293.5500 217.0001,282.0000 210.0000,282.0000 210.0000,294.0000 211.3144,294.0000" fill="#b8c1c5" stroke="#172b35" stroke-width="0.5"/>
+<polygon points="233.5265,301.0000 253.5500,301.0000 253.7064,300.9501 253.8105,300.9169 253.8451,300.8877 253.8681,300.8682 253.8876,300.8451 253.9170,300.8105 253.9501,300.7064 253.9999,300.5500 253.9999,295.3143 253.9999,287.4500 253.9668,287.3459 253.9170,287.1895 253.8975,287.1664 253.8681,287.1318 253.8451,287.1123 253.8105,287.0831 253.7064,287.0499 253.5500,287.0000 233.5265,287.0000 210.0000,287.0000 210.0000,301.0000 233.5265,301.0000" fill="#b8c1c5" stroke="#172b35" stroke-width="0.5"/>
+<polygon points="346.1026,287.1664 346.0831,287.1895 346.0333,287.3459 346.0001,287.4500 346.0001,295.3143 346.0001,300.5500 346.0499,300.7064 346.0831,300.8105 346.1124,300.8451 346.1319,300.8682 346.1665,300.8974 346.1895,300.9169 346.3459,300.9668 346.4501,301.0000 376.5265,301.0000 390.0000,301.0000 390.0000,287.0000 376.5265,287.0000 346.4501,287.0000 346.3459,287.0332 346.1895,287.0831 346.1665,287.1026 346.1319,287.1318 346.1026,287.1664" fill="#b8c1c5" stroke="#172b35" stroke-width="0.5"/>
+<polygon points="253.9999,287.0000 253.9999,301.0000 346.0000,301.0000 346.0000,287.0000 253.9999,287.0000" fill="#b8c1c5" stroke="#172b35" stroke-width="0.5"/>
+<line x1="392.0000" y1="287.0000" x2="392.0000" y2="301.0000" stroke="#236a86" stroke-width="0.13"/>
+<line x1="391.0000" y1="288.0000" x2="393.0000" y2="286.0000" stroke="#236a86" stroke-width="0.2"/>
+<line x1="391.0000" y1="302.0000" x2="393.0000" y2="300.0000" stroke="#236a86" stroke-width="0.2"/>
+<polygon points="393.2000,292.4000 401.6103,292.4000 401.6103,296.2000 393.2000,296.2000" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="394.0000" y="294.9000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#236a86" text-anchor="start">140 G</text>
+<polygon points="284.6773,318.5000 315.3227,318.5000 315.3227,322.3000 284.6773,322.3000" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="300.0000" y="321.0000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#236a86" text-anchor="middle">Sin puerta ni paso al estar</text>
+<text x="26.0000" y="337.0000" font-family="Arial" font-size="3.7" font-weight="bold" fill="#236a86" text-anchor="start">HERRERIA Y PROTECCION</text>
+<text x="26.0000" y="344.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">F: baranda nominal 1,05 m sobre nivel de balcon. G: eje pasamanos lateral +4.30; NPT alto +3.25; diferencia 1.05 m. Medir altura util donde cambie el acabado.</text>
+<text x="26.0000" y="351.4000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">G: postes, barrotes y zancas representados. Separacion de barrotes, resistencia horizontal, soldaduras, placas y anclajes requieren validacion de proyecto.</text>
+<text x="26.0000" y="358.8000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Escalera: 18 tablas de 1,00 m; avance entre tablas ~211,1 mm. A07 muestra el recorrido y el encuentro de acceso; A14 las piezas de soporte.</text>
+<text x="26.0000" y="366.2000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Pendiente: cuadro de fabricacion definitivo con materiales, espesores, tratamientos, sellos, drenajes, tolerancias y accesorios del fabricante.</text>
+</svg>

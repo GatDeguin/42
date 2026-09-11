@@ -1,0 +1,19 @@
+{
+  "color_sha_unchanged": true,
+  "normal_sha_unchanged": true,
+  "roughness": {
+    "method": "Normal-variance specular AA inspired by Toksvig; approximate GGX adaptation. r_eff = min(1,(r^4 + strength^2*(1-L)/max(L,0.05))^0.25), L=length(area-filtered source normal), strength=0.65. Applied only to the derived understory; original bare-ground roughness unchanged.",
+    "reference": "https://developer.download.nvidia.com/whitepapers/2006/Mipmapping_Normal_Maps.pdf",
+    "original_mean": 0.42262599138961615,
+    "effective_mean": 0.8402052716328614,
+    "effective_range": [
+      0.32825610041618347,
+      1.0
+    ]
+  },
+  "old_export_color_sha256": "6431860aaf9eb872afc3819af70a384f1e9ecf79279e4fc5cd1a860bc17dd3e1",
+  "old_export_normal_sha256": "f8e3fe87c021686382d70e3b6950709d57591c2b2601b45614df14a02c566926",
+  "outside_grass_pixels_compared": 2047066,
+  "outside_grass_max_roughness_delta_u8": 0,
+  "pass": true
+}

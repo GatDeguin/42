@@ -1,0 +1,291 @@
+{
+  "preview_sha256": "75737be3802bbd69f99226af444158658e0d1e3b324de9920e399969ff6cb982",
+  "continuous_geometry": [
+    {
+      "family": "mono",
+      "continuous_parameter": "0 <= seat <= lid <= 90 degrees",
+      "sweep_bounds_canonical_m": [
+        [
+          -0.18999862670898438,
+          0.1900005340576172
+        ],
+        [
+          -0.01699995808303356,
+          0.46751792241181583
+        ],
+        [
+          -0.026000022888183594,
+          0.4672097791548961
+        ]
+      ],
+      "cistern_gap_m": 0.015199901536107063,
+      "seat_min_v_m": 0.021999835968017578,
+      "seat_max_w_m": -0.001000046730041504,
+      "lid_min_v_m": 0.021999916061758995,
+      "lid_min_w_m": 0.0029999075923115015,
+      "closed_seat_lid_rigid_gap_m": 0.003999954322353005,
+      "body_top_w_m": -0.026000022888183594,
+      "seat_lowest_swept_clearance_m": 0.0040000081062316895,
+      "faceted_bearing_min_radial_clearance_m": 9.626591423603443e-05,
+      "carrier_min_radial_clearance_m": 0.00039959638448021535,
+      "housing_to_stop_min_radial_clearance_m": 0.0005997106152877017,
+      "argument": "For lid relative angle d in [0,90], V>=0 and W>=0 imply Wrot=V sin(d)+W cos(d)>=min(Vmin,Wmin)>seat Wmax. Buffers are intended tangent contacts at d=0. Axial intervals of independent hinge housings/arms are disjoint. The shaft, liner, dog and carrier clear by radial bounds for all angles."
+    },
+    {
+      "family": "quincho",
+      "continuous_parameter": "0 <= seat <= lid <= 90 degrees",
+      "sweep_bounds_canonical_m": [
+        [
+          -0.18999862670898438,
+          0.1900005340576172
+        ],
+        [
+          -0.01700032316148281,
+          0.46751792241181583
+        ],
+        [
+          -0.026000022888183594,
+          0.46720990044863114
+        ]
+      ],
+      "cistern_gap_m": 0.01520049013197422,
+      "seat_min_v_m": 0.02200031280517578,
+      "seat_max_w_m": -0.001000046730041504,
+      "lid_min_v_m": 0.02200036123394966,
+      "lid_min_w_m": 0.003000339725986123,
+      "closed_seat_lid_rigid_gap_m": 0.004000386456027627,
+      "body_top_w_m": -0.026000022888183594,
+      "seat_lowest_swept_clearance_m": 0.0040000081062316895,
+      "faceted_bearing_min_radial_clearance_m": 9.626591423603443e-05,
+      "carrier_min_radial_clearance_m": 0.00039959638448021535,
+      "housing_to_stop_min_radial_clearance_m": 0.0005997106152877017,
+      "argument": "For lid relative angle d in [0,90], V>=0 and W>=0 imply Wrot=V sin(d)+W cos(d)>=min(Vmin,Wmin)>seat Wmax. Buffers are intended tangent contacts at d=0. Axial intervals of independent hinge housings/arms are disjoint. The shaft, liner, dog and carrier clear by radial bounds for all angles."
+    },
+    {
+      "family": "suite",
+      "continuous_parameter": "0 <= seat <= lid <= 90 degrees",
+      "sweep_bounds_canonical_m": [
+        [
+          -0.1900005340576172,
+          0.1900005340576172
+        ],
+        [
+          -0.016999751329421997,
+          0.46751744890772223
+        ],
+        [
+          -0.026000022888183594,
+          0.4672088178995554
+        ]
+      ],
+      "cistern_gap_m": 0.051600903272628784,
+      "seat_min_v_m": 0.021999359130859375,
+      "seat_max_w_m": -0.0009999275207519531,
+      "lid_min_v_m": 0.021998848766088486,
+      "lid_min_w_m": 0.002999759977683425,
+      "closed_seat_lid_rigid_gap_m": 0.003999687498435378,
+      "body_top_w_m": -0.026000022888183594,
+      "seat_lowest_swept_clearance_m": 0.003999948501586914,
+      "faceted_bearing_min_radial_clearance_m": 9.626591423603443e-05,
+      "carrier_min_radial_clearance_m": 0.00039959638448021535,
+      "housing_to_stop_min_radial_clearance_m": 0.0005997106152877017,
+      "argument": "For lid relative angle d in [0,90], V>=0 and W>=0 imply Wrot=V sin(d)+W cos(d)>=min(Vmin,Wmin)>seat Wmax. Buffers are intended tangent contacts at d=0. Axial intervals of independent hinge housings/arms are disjoint. The shaft, liner, dog and carrier clear by radial bounds for all angles."
+    }
+  ],
+  "environment_sweep": [
+    {
+      "family": "mono",
+      "continuous_world_sweep_bbox_m": [
+        [
+          19.660000801086426,
+          20.039999961853027
+        ],
+        [
+          -1.530199756667018,
+          -1.0456818761721687
+        ],
+        [
+          0.6399999628067017,
+          1.1332097648497814
+        ]
+      ],
+      "other_visible_meshes_tested": 5411,
+      "remaining_bbox_candidates": [
+        {
+          "name": "Entorno | terreno continuo",
+          "overlap_depths_m": [
+            0.37999916076660156,
+            0.48451788049484934,
+            0.49320980204307974
+          ],
+          "mesh_check": {
+            "triangles_inside_continuous_envelope": 0,
+            "centre_ray_crossings": [
+              0,
+              0,
+              0
+            ],
+            "centre_inside_by_majority": false,
+            "pass": true
+          }
+        },
+        {
+          "name": "WET99 | PB membrana continua2",
+          "overlap_depths_m": [
+            0.37999916076660156,
+            0.48451788049484934,
+            0.49320980204307974
+          ],
+          "mesh_check": {
+            "triangles_inside_continuous_envelope": 0,
+            "centre_ray_crossings": [
+              2,
+              2,
+              2
+            ],
+            "centre_inside_by_majority": false,
+            "pass": true
+          }
+        },
+        {
+          "name": "WET99 | PB adhesivo4",
+          "overlap_depths_m": [
+            0.37999916076660156,
+            0.48451788049484934,
+            0.49320980204307974
+          ],
+          "mesh_check": {
+            "triangles_inside_continuous_envelope": 0,
+            "centre_ray_crossings": [
+              2,
+              2,
+              2
+            ],
+            "centre_inside_by_majority": false,
+            "pass": true
+          }
+        },
+        {
+          "name": "WET99 | PB ceramica8",
+          "overlap_depths_m": [
+            0.37999916076660156,
+            0.48451788049484934,
+            0.49320980204307974
+          ],
+          "mesh_check": {
+            "triangles_inside_continuous_envelope": 0,
+            "centre_ray_crossings": [
+              2,
+              2,
+              2
+            ],
+            "centre_inside_by_majority": false,
+            "pass": true
+          }
+        },
+        {
+          "name": "WET99 | PB pastina juntas8",
+          "overlap_depths_m": [
+            0.37999916076660156,
+            0.48451788049484934,
+            0.49320980204307974
+          ],
+          "mesh_check": {
+            "triangles_inside_continuous_envelope": 0,
+            "centre_ray_crossings": [
+              0,
+              0,
+              0
+            ],
+            "centre_inside_by_majority": false,
+            "pass": true
+          }
+        }
+      ]
+    },
+    {
+      "family": "quincho",
+      "continuous_world_sweep_bbox_m": [
+        [
+          21.340001106262207,
+          21.72000026702881
+        ],
+        [
+          -10.884317475329295,
+          -10.399799229755997
+        ],
+        [
+          0.6399999628067017,
+          1.1332098861435165
+        ]
+      ],
+      "other_visible_meshes_tested": 5411,
+      "remaining_bbox_candidates": [
+        {
+          "name": "Entorno | terreno continuo",
+          "overlap_depths_m": [
+            0.37999916076660156,
+            0.48451824557329815,
+            0.4932099233368148
+          ],
+          "mesh_check": {
+            "triangles_inside_continuous_envelope": 0,
+            "centre_ray_crossings": [
+              0,
+              0,
+              0
+            ],
+            "centre_inside_by_majority": false,
+            "pass": true
+          }
+        }
+      ]
+    },
+    {
+      "family": "suite",
+      "continuous_world_sweep_bbox_m": [
+        [
+          21.149999618530273,
+          21.530000686645508
+        ],
+        [
+          -8.290599845170975,
+          -7.806082644933831
+        ],
+        [
+          3.6800000438690184,
+          4.173208884656757
+        ]
+      ],
+      "other_visible_meshes_tested": 5411,
+      "remaining_bbox_candidates": [
+        {
+          "name": "Extracci\u00f3n Parrilla | conducto continuo aislado",
+          "overlap_depths_m": [
+            0.20000076293945312,
+            0.4845172002371445,
+            0.4932088407877391
+          ],
+          "mesh_check": {
+            "triangles_inside_continuous_envelope": 0,
+            "centre_ray_crossings": [
+              0,
+              0,
+              0
+            ],
+            "centre_inside_by_majority": false,
+            "pass": true
+          }
+        }
+      ]
+    }
+  ],
+  "scenes": {
+    "CASA DE CAMPO | Atardecer": true,
+    "CASA DE CAMPO | D\u00cdA": true,
+    "CASA DE CAMPO | NOCHE": true,
+    "INSPECCI\u00d3N | Planta alta": true
+  },
+  "section_geometry_source": "Actual evaluated closed mesh sections; no idealized redraw.",
+  "pass": true
+}

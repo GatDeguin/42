@@ -11,7 +11,7 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from shapely.geometry import Polygon,box
 from shapely.ops import unary_union
-AP=argparse.ArgumentParser();AP.add_argument('--out',default='planos95/details95');AP.add_argument('--geometry',default='planos95/pass3c/geometry.json');AP.add_argument('--anchor-geometry');AP.add_argument('--bearing-details',default='review95/bearing_details_3c.json');args=AP.parse_args()
+AP=argparse.ArgumentParser();AP.add_argument('--out',default='planos95/details95');AP.add_argument('--geometry',default='planos95/pass3c/geometry.json');AP.add_argument('--anchor-geometry');AP.add_argument('--bearing-details',default='review95/bearing_details_3c.json');AP.add_argument('--revision');AP.add_argument('--status',default='EN REVISION / SUPLEMENTO G-P');AP.add_argument('--use-evidence');args=AP.parse_args()
 OUT=ROOT/args.out;OUT.mkdir(parents=True,exist_ok=True);DATA=json.loads((ROOT/args.geometry).read_text(encoding='utf8'));OB={o['name']:o for o in DATA['objects']};ANCH=json.loads((ROOT/args.anchor_geometry).read_text(encoding='utf8')) if args.anchor_geometry else None
 assert hashlib.sha256(Path(DATA['model']).read_bytes()).hexdigest()==DATA['sha256'], 'Geometry/model SHA mismatch'
 W,H=594,420;MM=72/25.4;G='#384c55';P='#1c6b92';R='#a25228';GREY='#75838a';LIGHT='#edf1f2';PLIGHT='#e4f2f8';WHITE='#ffffff'
@@ -64,11 +64,11 @@ def begin(code,title,subtitle):
  global SVG,CAD,MS,PAGE,vi
  PAGE=code;vi=0;SVG=[f'<svg xmlns="http://www.w3.org/2000/svg" width="594mm" height="420mm" viewBox="0 0 594 420"><rect width="594" height="420" fill="white"/>'];CAD=ezdxf.new('R2010');CAD.units=6;MS=CAD.modelspace()
  for name,color in [('G_MEDIDO',8),('P_PROPUESTO',5),('COTAS',4),('TEXTOS',7),('REVISAR',30)]:CAD.layers.new(name,dxfattribs={'color':color})
- rect(10,10,574,400,G,None,.3);text(19,22,'CASA DE CAMPO / DETALLES '+('R7' if DATA.get('scene_metadata',{}).get('r7_wet_details') or DATA.get('scene_metadata',{}).get('r7_vent_details') else '95'),4.8,G,True);text(575,22,code+' | '+title,4.2,G,True,'end');text(19,30,'VIRREY DEL PINO, LA MATANZA, BUENOS AIRES',2.6,GREY);text(575,30,subtitle,2.6,GREY,anchor='end');line((10,37),(584,37),G,.25)
+ rect(10,10,574,400,G,None,.3);text(19,22,'CASA DE CAMPO / DETALLES '+(args.revision or ('R7' if DATA.get('scene_metadata',{}).get('r7_wet_details') or DATA.get('scene_metadata',{}).get('r7_vent_details') else '95')),4.8,G,True);text(575,22,code+' | '+title,4.2,G,True,'end');text(19,30,'VIRREY DEL PINO, LA MATANZA, BUENOS AIRES',2.6,GREY);text(575,30,subtitle,2.6,GREY,anchor='end');line((10,37),(584,37),G,.25)
  text(20,47,'G = medido / gris',2.7,G,True);text(112,47,'P = propuesta dimensional / azul',2.7,P,True);text(288,47,'Todas las cotas en mm salvo niveles en m',2.7,GREY)
- line((10,383),(584,383),G,.3);text(20,391,'EN REVISION - PROPUESTAS DE COORDINACION, SIN CALCULO DE CAPACIDAD',2.9,R,True)
+ line((10,383),(584,383),G,.3);text(20,391,args.status,2.9,R,True)
  text(20,399,'Base G: '+Path(DATA['model']).name+' / '+DATA['sha256'][:16],2.5,GREY);text(20,406,'G acredita geometria, no capacidad. P identifica propuestas; su presencia3D no valida prestaciones.',2.5,GREY)
- text(575,392,'A2 / imprimir al 100 %',2.8,G,anchor='end');text(575,405,f'{len(SHEETS)+1:02d} / 10-09-2026',2.5,GREY,anchor='end');SHEETS.append({'id':code,'title':title,'svg':code+'.svg','dxf':code+'.dxf'})
+ text(575,392,'A2 / imprimir al 100 %',2.8,G,anchor='end');text(575,405,f'{len(SHEETS)+1:02d} / '+datetime.datetime.now(datetime.timezone.utc).strftime('%d-%m-%Y'),2.5,GREY,anchor='end');SHEETS.append({'id':code,'title':title,'svg':code+'.svg','dxf':code+'.dxf'})
 def end():
  (OUT/(PAGE+'.svg')).write_text('\n'.join(SVG+['</svg>']),encoding='utf8');CAD.saveas(OUT/(PAGE+'.dxf'));C.showPage()
 
@@ -522,6 +522,11 @@ elif 'BTH95 | ducha columna' in OB:
  v3.dy(310,360,40,label='50 G borde',c=G)
  para(316,352,'G: rejilla apoyada, brida/collar, bajante sumergida y salida localØ40. La cota50 es propuesta geometrica de sello; el ramal y la ventilacion sanitaria requieren proyecto y ensayo.',254,2.7)
  end()
+# R8 additional use sheets retain the entire prior33-page set.
+if DATA.get('scene_metadata',{}).get('r8_uso_details'):
+ if not args.use_evidence:raise RuntimeError('R8 details require --use-evidence from the same source SHA')
+ from planos99_uso_a2 import draw_use_sheets
+ draw_use_sheets(globals(),Path(args.use_evidence))
 # final outputs
 C.save()
 # save explicit proposal inventory, not a certified engineering spec
@@ -530,7 +535,9 @@ if DATA.get('scene_metadata',{}).get('r7_vent_details'):
  PROPOSALS[-1]['dimensions']='P modelado:2x filtro200, fan200, silenciador600/Ø251.6; pasoØ150 y rectangular300x80; registro1400x830; accesorios+6.453; sin prestaciones asignadas'
 if 'GL95 | E junta vidrio1 exterior base' in OB:
  PROPOSALS[2]['dimensions']='9/17/9 G; galce39 G; juntas2 G; tacos100x9x6 G por vidrio; repisa250x12 y junta15 P'
-manifest={'project':'Casa de Campo','status':'EN REVISION / SUPLEMENTO G-P','model':DATA['model'],'model_sha256':DATA['sha256'],'anchor_model':ANCH['model'] if ANCH else None,'anchor_sha256':ANCH['sha256'] if ANCH else None,'paper_mm':[W,H],'pdf':PDFNAME,'sheets':SHEETS,'proposal_scope':'All P measures are dimensional coordination proposals, not calculations or certified manufacturer details','sources':SOURCES,'measurements':MEAS,'proposal_register':PROPOSALS,'dimensions':DIMS}
+if DATA.get('scene_metadata',{}).get('r8_uso_details'):
+ PROPOSALS += [{'sheet':'D13','detail':'MIDI support and declared operator','dimensions':'G model dimensions; P body envelopes, strength and individual fit not certified'},{'sheet':'D14','detail':'Island support and2seat use','dimensions':'G counter/knee/stool geometry; P body envelopes and alternative access scenarios'}]
+manifest={'project':'Casa de Campo','status':args.status,'model':DATA['model'],'model_sha256':DATA['sha256'],'anchor_model':ANCH['model'] if ANCH else None,'anchor_sha256':ANCH['sha256'] if ANCH else None,'paper_mm':[W,H],'pdf':PDFNAME,'sheets':SHEETS,'proposal_scope':'All P measures are dimensional coordination proposals, not calculations or certified manufacturer details','sources':SOURCES,'measurements':MEAS,'proposal_register':PROPOSALS,'dimensions':DIMS}
 (OUT/'manifest.json').write_text(json.dumps(manifest,indent=2,ensure_ascii=False),encoding='utf8')
 (OUT/'fuentes.md').write_text('# Referencias primarias\n\nSe utilizan principios de montaje; ninguna referencia valida las medidas P ni certifica este proyecto.\n\n'+'\n\n'.join(f'- {k}: [{title}]({url})' for k,(title,url) in SOURCES.items()),encoding='utf8')
 (OUT/'README.md').write_text('# Suplemento de detalles95\n\nLaminas A2 con detalles medidos G y propuestas P. Milimetros en detalles; niveles en metros. PDF/SVG al100%; DXF en metros y vistas separadas.\n\nBase G: '+Path(DATA['model']).name+'\nSHA256: '+DATA['sha256']+'\n\nD04 documenta la solucion de apoyo incorporada al modelo identificado: placas interiores, grout hasta hormigon y vastagos continuos. G acredita geometria, no capacidad. No se cambia el modelo ni se presupone que cada pieza P este modelada.\n\nGenerador: scripts/planos95_details_build.py\n',encoding='utf8')

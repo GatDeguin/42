@@ -20,7 +20,7 @@ for o in s.objects:
  eo.to_mesh_clear();objects.append(rec)
 metadata={}
 for key in s.keys():
- if key.startswith(('r7_','r6_','door_hands99')):
+ if key.startswith(('r8_','r7_','r6_','door_hands99')):
   val=s[key]
   if isinstance(val,str):
    try:metadata[key]=json.loads(val)

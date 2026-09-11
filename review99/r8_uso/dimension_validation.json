@@ -1,0 +1,104 @@
+{
+  "sha256": "ac0922a881eeea24ad0a7dfd13bf20e710a9b0069039f06711f5755c2dd78d4d",
+  "status": "PASS",
+  "dimensions": [
+    {
+      "dimension": "white keys above NPT",
+      "measured_m": 0.75,
+      "expected_m": 0.75,
+      "tolerance_m": 1e-05,
+      "pass": true
+    },
+    {
+      "dimension": "black keys above NPT",
+      "measured_m": 0.7625002861022949,
+      "expected_m": 0.7625,
+      "tolerance_m": 1e-05,
+      "pass": true
+    },
+    {
+      "dimension": "MIDI body depth",
+      "measured_m": 0.39999961853027344,
+      "expected_m": 0.4,
+      "tolerance_m": 1e-05,
+      "pass": true
+    },
+    {
+      "dimension": "MIDI body width",
+      "measured_m": 1.0799999237060547,
+      "expected_m": 1.08,
+      "tolerance_m": 1e-05,
+      "pass": true
+    },
+    {
+      "dimension": "MIDI tray underside",
+      "measured_m": 0.6649999618530273,
+      "expected_m": 0.665,
+      "tolerance_m": 1e-05,
+      "pass": true
+    },
+    {
+      "dimension": "MIDI seat highest point",
+      "measured_m": 0.4700000286102295,
+      "expected_m": 0.47,
+      "tolerance_m": 1e-05,
+      "pass": true
+    },
+    {
+      "dimension": "island finished counter height",
+      "measured_m": 0.9000000143051148,
+      "expected_m": 0.9,
+      "tolerance_m": 1e-05,
+      "pass": true
+    },
+    {
+      "dimension": "island knee depth",
+      "measured_m": 0.39999985694885254,
+      "expected_m": 0.4,
+      "tolerance_m": 1e-05,
+      "pass": true
+    },
+    {
+      "dimension": "island countertop width",
+      "measured_m": 1.7200002670288086,
+      "expected_m": 1.72,
+      "tolerance_m": 1e-05,
+      "pass": true
+    },
+    {
+      "dimension": "island countertop depth",
+      "measured_m": 0.679999828338623,
+      "expected_m": 0.68,
+      "tolerance_m": 1e-05,
+      "pass": true
+    },
+    {
+      "dimension": "Taburete isla mono A | seat height",
+      "measured_m": 0.6500000143051148,
+      "expected_m": 0.65,
+      "tolerance_m": 1e-05,
+      "pass": true
+    },
+    {
+      "dimension": "Taburete isla mono A | front leg free width",
+      "measured_m": 0.30500030517578125,
+      "expected_m": 0.305,
+      "tolerance_m": 1e-05,
+      "pass": true
+    },
+    {
+      "dimension": "Taburete isla mono B | seat height",
+      "measured_m": 0.6500000143051148,
+      "expected_m": 0.65,
+      "tolerance_m": 1e-05,
+      "pass": true
+    },
+    {
+      "dimension": "Taburete isla mono B | front leg free width",
+      "measured_m": 0.30500030517578125,
+      "expected_m": 0.305,
+      "tolerance_m": 1e-05,
+      "pass": true
+    }
+  ]
+}

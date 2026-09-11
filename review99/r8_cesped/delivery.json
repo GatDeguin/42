@@ -1,0 +1,43 @@
+{
+  "pass": true,
+  "source_sha256": "ff504115cb562a1031865cef8cd0e93f2ecf737b8a5d75571cb51170bef28452",
+  "original_R7D_sha256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "patch_sha256": "f68d744baaa229545fd481f9ded04d24916a91f009ecec4a0656f0dd87f7504e",
+  "glb_sha256": "3074c844f652bcad24aec1e0dcbe2e58ade6aa968ae9a682456046fe2c419e5e",
+  "performance": {
+    "raw_glb_bytes": 123829180,
+    "embedded_images_bytes": 37198575,
+    "geometry_and_other_bufferviews_bytes": 86223336,
+    "texture_gpu_rgba8_estimate_bytes": 150994944,
+    "texture_gpu_with_full_mip_chain_estimate_bytes": 201326592,
+    "draw_primitives": 74,
+    "triangle_count": 1567239,
+    "fps": "Not measured; whole viewer needs integrated browser test.",
+    "component_pruning": false,
+    "anchors_metadata_removed_in_export_copy_only": true
+  },
+  "preserved": {
+    "objects": 73,
+    "whole_property_ground_geometry": true,
+    "ground_600m_unchanged": true,
+    "huerta_mask_errors": 0,
+    "four_scenes": true
+  },
+  "glTF": {
+    "meshes": 74,
+    "missing_attributes": [],
+    "alpha_mask": true,
+    "double_sided_leaves": true,
+    "all_faces_preserved": true
+  },
+  "still_files": {
+    "exterior.png": {
+      "sha256": "79245f5db382deba78abf6609016c0d5fe5fd61a04e0eb21dc87e19953903e27",
+      "bytes": 6891610
+    },
+    "huerta.png": {
+      "sha256": "3beccd312869674d35398238a842392e098ca98bee3977600a3bc9c937b480b5",
+      "bytes": 5034039
+    }
+  }
+}

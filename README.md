@@ -1,5 +1,7 @@
 # Casa de campo · modelo y documentación arquitectónica
 
+**Último avance: [R8 · modelo, cuatro imágenes y35 planos](https://gatdeguin.github.io/42/avance-r8/)**. Pendiente de auditoría integral.
+
 **[Explorar R7D en 3D](https://gatdeguin.github.io/42/)** · **[25 imágenes R7D](https://gatdeguin.github.io/42/renders99/)** · **[33 planos R7D](https://gatdeguin.github.io/42/planos99/)** · [Estado de revisión](https://gatdeguin.github.io/42/avance-r7/) · [Descargar Blender R7D](https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R7D.blend) · [Descargar GLB](https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R7D.glb).
 
 Reconstrucción editable en Virrey del Pino, La Matanza, Buenos Aires. **R7D obtuvo 8,5/10 en la [auditoría integral independiente](https://github.com/GatDeguin/42/blob/main/audit/critica_integral_r7d_99.md), sin aprobación.** El objetivo solicitado es 9,9/10 e hiperrealismo fotográfico. La revisión anterior R6K obtuvo 8,3/10.
@@ -9,6 +11,14 @@ R7D incorpora el baño PB junto a fachada/medianera, elimina la puerta vestidor�
 **Reservas conocidas:** el crítico detectó interferencias de herrajes sanitarios y las hojas de huerta siguen rígidas. La iluminación web por ambiente sigue pendiente. Ya están publicados el visor, 25 imágenes y 33 planos de R7D desde el mismo SHA. El PDF es vectorial y el ZIP incluye SVG/DXF con 209 cotas nativas. Las [19imágenes anteriores](https://gatdeguin.github.io/42/renders/) y [33planos anteriores](https://gatdeguin.github.io/42/planos/) se conservan como archivo R6K.
 
 [Controles y huellas de la publicación R7D](review99/github_r7d_progress/README.md) · [Protocolo independiente](audit/r7_review_requirements.md). **Video pausado hasta autorización explícita.**
+
+## Avance integrado R8
+
+**[Ver las cuatro imágenes nuevas y el estado de R8](https://gatdeguin.github.io/42/avance-r8/)** · [Descargar Blender R8](https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R8.blend).
+
+R8 integra las correcciones de herrajes sanitarios, apoyos del MIDI y rodillas bajo la isla, junto con mejoras de espejo, textiles, vegetación y agua. Las imágenes de avance se calculan desde el mismo archivo integrado. **R8 todavía no tiene nota integral; 8,5/10 sigue correspondiendo a R7D.** El visor principal permanece en R7D mientras se comprueba la exportación y la iluminación web de R8.
+
+[Alcance, SHA y controles de R8](review99/github_r8_progress/README.md) · [Tres pasadas correctivas](audit/r8_three_passes.md). Video pausado.
 
 ## Entrega publicada R6K
 

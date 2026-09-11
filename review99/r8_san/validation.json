@@ -1,0 +1,6737 @@
+{
+  "source_sha256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "patch_sha256": "ee0f76d211906a0543af05bd219de168f94eb6a5759c4fd8c24a584887681ab5",
+  "quick": false,
+  "positive_stops": [
+    {
+      "family": "mono",
+      "hinge": 1,
+      "group": "seat",
+      "angle_deg": 0,
+      "stop_deg": 0,
+      "volume_mm3": 9.795787424601116e-31,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "mono",
+      "hinge": 1,
+      "group": "seat",
+      "angle_deg": -0.25,
+      "stop_deg": 0,
+      "volume_mm3": 0.8077084520572647,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "mono",
+      "hinge": 1,
+      "group": "seat",
+      "angle_deg": 90,
+      "stop_deg": 90,
+      "volume_mm3": 0.0,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "mono",
+      "hinge": 1,
+      "group": "seat",
+      "angle_deg": 90.25,
+      "stop_deg": 90,
+      "volume_mm3": 0.8077369355683174,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "mono",
+      "hinge": 1,
+      "group": "lid",
+      "angle_deg": 0,
+      "stop_deg": 0,
+      "volume_mm3": 1.6551376444292938e-05,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "mono",
+      "hinge": 1,
+      "group": "lid",
+      "angle_deg": -0.25,
+      "stop_deg": 0,
+      "volume_mm3": 0.6058133804244673,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "mono",
+      "hinge": 1,
+      "group": "lid",
+      "angle_deg": 90,
+      "stop_deg": 90,
+      "volume_mm3": 0.0,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "mono",
+      "hinge": 1,
+      "group": "lid",
+      "angle_deg": 90.25,
+      "stop_deg": 90,
+      "volume_mm3": 0.6056419268777617,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "mono",
+      "hinge": 2,
+      "group": "seat",
+      "angle_deg": 0,
+      "stop_deg": 0,
+      "volume_mm3": 1.9591574849202232e-30,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "mono",
+      "hinge": 2,
+      "group": "seat",
+      "angle_deg": -0.25,
+      "stop_deg": 0,
+      "volume_mm3": 0.8077084520572666,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "mono",
+      "hinge": 2,
+      "group": "seat",
+      "angle_deg": 90,
+      "stop_deg": 90,
+      "volume_mm3": 0.0,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "mono",
+      "hinge": 2,
+      "group": "seat",
+      "angle_deg": 90.25,
+      "stop_deg": 90,
+      "volume_mm3": 0.8077369355683116,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "mono",
+      "hinge": 2,
+      "group": "lid",
+      "angle_deg": 0,
+      "stop_deg": 0,
+      "volume_mm3": 1.655137644429288e-05,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "mono",
+      "hinge": 2,
+      "group": "lid",
+      "angle_deg": -0.25,
+      "stop_deg": 0,
+      "volume_mm3": 0.6058133804244669,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "mono",
+      "hinge": 2,
+      "group": "lid",
+      "angle_deg": 90,
+      "stop_deg": 90,
+      "volume_mm3": 0.0,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "mono",
+      "hinge": 2,
+      "group": "lid",
+      "angle_deg": 90.25,
+      "stop_deg": 90,
+      "volume_mm3": 0.6056419268777433,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 1,
+      "group": "seat",
+      "angle_deg": 0,
+      "stop_deg": 0,
+      "volume_mm3": 1.362334892228991e-23,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 1,
+      "group": "seat",
+      "angle_deg": -0.25,
+      "stop_deg": 0,
+      "volume_mm3": 0.8077083947563353,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 1,
+      "group": "seat",
+      "angle_deg": 90,
+      "stop_deg": 90,
+      "volume_mm3": 0.0,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 1,
+      "group": "seat",
+      "angle_deg": 90.25,
+      "stop_deg": 90,
+      "volume_mm3": 0.8076972551118272,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 1,
+      "group": "lid",
+      "angle_deg": 0,
+      "stop_deg": 0,
+      "volume_mm3": 0.0,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 1,
+      "group": "lid",
+      "angle_deg": -0.25,
+      "stop_deg": 0,
+      "volume_mm3": 0.6056718717591062,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 1,
+      "group": "lid",
+      "angle_deg": 90,
+      "stop_deg": 90,
+      "volume_mm3": 0.0010075818164505545,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 1,
+      "group": "lid",
+      "angle_deg": 90.25,
+      "stop_deg": 90,
+      "volume_mm3": 0.6066948213211028,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 2,
+      "group": "seat",
+      "angle_deg": 0,
+      "stop_deg": 0,
+      "volume_mm3": 1.3623349412079457e-23,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 2,
+      "group": "seat",
+      "angle_deg": -0.25,
+      "stop_deg": 0,
+      "volume_mm3": 0.8077083947563344,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 2,
+      "group": "seat",
+      "angle_deg": 90,
+      "stop_deg": 90,
+      "volume_mm3": 0.0,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 2,
+      "group": "seat",
+      "angle_deg": 90.25,
+      "stop_deg": 90,
+      "volume_mm3": 0.8076972551118288,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 2,
+      "group": "lid",
+      "angle_deg": 0,
+      "stop_deg": 0,
+      "volume_mm3": 0.0,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 2,
+      "group": "lid",
+      "angle_deg": -0.25,
+      "stop_deg": 0,
+      "volume_mm3": 0.6056718717591062,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 2,
+      "group": "lid",
+      "angle_deg": 90,
+      "stop_deg": 90,
+      "volume_mm3": 0.0010075818164589124,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 2,
+      "group": "lid",
+      "angle_deg": 90.25,
+      "stop_deg": 90,
+      "volume_mm3": 0.60669482132112,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 1,
+      "group": "seat",
+      "angle_deg": 0,
+      "stop_deg": 0,
+      "volume_mm3": 9.795787424601116e-31,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 1,
+      "group": "seat",
+      "angle_deg": -0.25,
+      "stop_deg": 0,
+      "volume_mm3": 0.8077084520572647,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 1,
+      "group": "seat",
+      "angle_deg": 90,
+      "stop_deg": 90,
+      "volume_mm3": 0.0,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 1,
+      "group": "seat",
+      "angle_deg": 90.25,
+      "stop_deg": 90,
+      "volume_mm3": 0.8077369355683174,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 1,
+      "group": "lid",
+      "angle_deg": 0,
+      "stop_deg": 0,
+      "volume_mm3": 1.6553929812767758e-05,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 1,
+      "group": "lid",
+      "angle_deg": -0.25,
+      "stop_deg": 0,
+      "volume_mm3": 0.6059247877999334,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 1,
+      "group": "lid",
+      "angle_deg": 90,
+      "stop_deg": 90,
+      "volume_mm3": 0.0,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 1,
+      "group": "lid",
+      "angle_deg": 90.25,
+      "stop_deg": 90,
+      "volume_mm3": 0.6046189206378819,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 2,
+      "group": "seat",
+      "angle_deg": 0,
+      "stop_deg": 0,
+      "volume_mm3": 0.0,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 2,
+      "group": "seat",
+      "angle_deg": -0.25,
+      "stop_deg": 0,
+      "volume_mm3": 0.8077084520572649,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 2,
+      "group": "seat",
+      "angle_deg": 90,
+      "stop_deg": 90,
+      "volume_mm3": 0.0,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 2,
+      "group": "seat",
+      "angle_deg": 90.25,
+      "stop_deg": 90,
+      "volume_mm3": 0.8077369355683032,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 2,
+      "group": "lid",
+      "angle_deg": 0,
+      "stop_deg": 0,
+      "volume_mm3": 1.6553929812767707e-05,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 2,
+      "group": "lid",
+      "angle_deg": -0.25,
+      "stop_deg": 0,
+      "volume_mm3": 0.6059247877999346,
+      "overrun_expected": true,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 2,
+      "group": "lid",
+      "angle_deg": 90,
+      "stop_deg": 90,
+      "volume_mm3": 0.0,
+      "overrun_expected": false,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 2,
+      "group": "lid",
+      "angle_deg": 90.25,
+      "stop_deg": 90,
+      "volume_mm3": 0.6046189206378727,
+      "overrun_expected": true,
+      "pass": true
+    }
+  ],
+  "lid_buffer_contacts": [
+    {
+      "name": "SAN8 | mono lid buffer 00",
+      "seat_gaps_m": [
+        1.1641532182693481e-09,
+        1.1641532182693481e-09,
+        1.1641532182693481e-09,
+        1.1641532182693481e-09,
+        1.1641532182693481e-09,
+        1.1641532182693481e-09,
+        1.1641532182693481e-09,
+        1.1641532182693481e-09,
+        1.1641532182693481e-09
+      ],
+      "lid_gaps_m": [
+        -4.353933036327362e-08,
+        -4.400499165058136e-08,
+        -4.44706529378891e-08,
+        -4.353933036327362e-08,
+        -4.400499165058136e-08,
+        -4.470348358154297e-08,
+        -4.353933036327362e-08,
+        -4.423782229423523e-08,
+        -4.44706529378891e-08
+      ],
+      "pass": true
+    },
+    {
+      "name": "SAN8 | mono lid buffer 01",
+      "seat_gaps_m": [
+        3.329478204250336e-08,
+        3.329478204250336e-08,
+        3.329478204250336e-08,
+        3.329478204250336e-08,
+        3.329478204250336e-08,
+        3.329478204250336e-08,
+        3.329478204250336e-08,
+        3.329478204250336e-08,
+        3.329478204250336e-08
+      ],
+      "lid_gaps_m": [
+        -4.377216100692749e-08,
+        -4.423782229423523e-08,
+        -4.470348358154297e-08,
+        -4.377216100692749e-08,
+        -4.423782229423523e-08,
+        -4.470348358154297e-08,
+        -4.400499165058136e-08,
+        -4.44706529378891e-08,
+        -4.493631422519684e-08
+      ],
+      "pass": true
+    },
+    {
+      "name": "SAN8 | mono lid buffer 10",
+      "seat_gaps_m": [
+        1.1641532182693481e-09,
+        1.1641532182693481e-09,
+        1.1641532182693481e-09,
+        1.1641532182693481e-09,
+        1.1641532182693481e-09,
+        1.1641532182693481e-09,
+        1.1641532182693481e-09,
+        1.1641532182693481e-09,
+        1.1641532182693481e-09
+      ],
+      "lid_gaps_m": [
+        -4.353933036327362e-08,
+        -4.400499165058136e-08,
+        -4.44706529378891e-08,
+        -4.353933036327362e-08,
+        -4.400499165058136e-08,
+        -4.44706529378891e-08,
+        -4.353933036327362e-08,
+        -4.400499165058136e-08,
+        -4.44706529378891e-08
+      ],
+      "pass": true
+    },
+    {
+      "name": "SAN8 | mono lid buffer 11",
+      "seat_gaps_m": [
+        3.329478204250336e-08,
+        3.329478204250336e-08,
+        3.329478204250336e-08,
+        3.329478204250336e-08,
+        3.329478204250336e-08,
+        3.329478204250336e-08,
+        3.329478204250336e-08,
+        3.329478204250336e-08,
+        3.329478204250336e-08
+      ],
+      "lid_gaps_m": [
+        -4.400499165058136e-08,
+        -4.44706529378891e-08,
+        -4.493631422519684e-08,
+        -4.377216100692749e-08,
+        -4.423782229423523e-08,
+        -4.470348358154297e-08,
+        -4.377216100692749e-08,
+        -4.423782229423523e-08,
+        -4.470348358154297e-08
+      ],
+      "pass": true
+    },
+    {
+      "name": "SAN8 | quincho lid buffer 00",
+      "seat_gaps_m": [
+        5.48316165804863e-08,
+        5.48316165804863e-08,
+        5.48316165804863e-08,
+        5.48316165804863e-08,
+        5.48316165804863e-08,
+        5.48316165804863e-08,
+        5.48316165804863e-08,
+        5.48316165804863e-08,
+        5.48316165804863e-08
+      ],
+      "lid_gaps_m": [
+        3.6600977182388306e-07,
+        3.657769411802292e-07,
+        3.655441105365753e-07,
+        3.6531127989292145e-07,
+        3.6531127989292145e-07,
+        3.650784492492676e-07,
+        3.648456186056137e-07,
+        3.6461278796195984e-07,
+        3.6437995731830597e-07
+      ],
+      "pass": true
+    },
+    {
+      "name": "SAN8 | quincho lid buffer 01",
+      "seat_gaps_m": [
+        5.48316165804863e-08,
+        5.48316165804863e-08,
+        5.48316165804863e-08,
+        5.48316165804863e-08,
+        5.48316165804863e-08,
+        5.48316165804863e-08,
+        5.48316165804863e-08,
+        5.48316165804863e-08,
+        5.48316165804863e-08
+      ],
+      "lid_gaps_m": [
+        3.497116267681122e-07,
+        3.4924596548080444e-07,
+        3.4854747354984283e-07,
+        3.497116267681122e-07,
+        3.4924596548080444e-07,
+        3.4854747354984283e-07,
+        3.497116267681122e-07,
+        3.4924596548080444e-07,
+        3.4854747354984283e-07
+      ],
+      "pass": true
+    },
+    {
+      "name": "SAN8 | quincho lid buffer 10",
+      "seat_gaps_m": [
+        3.725290298461914e-08,
+        3.725290298461914e-08,
+        3.725290298461914e-08,
+        3.725290298461914e-08,
+        3.725290298461914e-08,
+        3.725290298461914e-08,
+        3.725290298461914e-08,
+        3.725290298461914e-08,
+        3.725290298461914e-08
+      ],
+      "lid_gaps_m": [
+        3.825407475233078e-07,
+        3.8230791687965393e-07,
+        3.8207508623600006e-07,
+        3.8300640881061554e-07,
+        3.8300640881061554e-07,
+        3.8277357816696167e-07,
+        3.8370490074157715e-07,
+        3.834720700979233e-07,
+        3.832392394542694e-07
+      ],
+      "pass": true
+    },
+    {
+      "name": "SAN8 | quincho lid buffer 11",
+      "seat_gaps_m": [
+        3.725290298461914e-08,
+        3.725290298461914e-08,
+        3.725290298461914e-08,
+        3.725290298461914e-08,
+        3.725290298461914e-08,
+        3.725290298461914e-08,
+        3.725290298461914e-08,
+        3.725290298461914e-08,
+        3.725290298461914e-08
+      ],
+      "lid_gaps_m": [
+        3.671739250421524e-07,
+        3.6670826375484467e-07,
+        3.6600977182388306e-07,
+        3.671739250421524e-07,
+        3.6670826375484467e-07,
+        3.6600977182388306e-07,
+        3.671739250421524e-07,
+        3.6670826375484467e-07,
+        3.6600977182388306e-07
+      ],
+      "pass": true
+    },
+    {
+      "name": "SAN8 | suite lid buffer 00",
+      "seat_gaps_m": [
+        -1.180451363325119e-07,
+        -1.180451363325119e-07,
+        -1.180451363325119e-07,
+        -1.180451363325119e-07,
+        -1.180451363325119e-07,
+        -1.180451363325119e-07,
+        -1.180451363325119e-07,
+        -1.180451363325119e-07,
+        -1.180451363325119e-07
+      ],
+      "lid_gaps_m": [
+        -6.961636245250702e-08,
+        -7.008202373981476e-08,
+        -7.05476850271225e-08,
+        -6.961636245250702e-08,
+        -7.008202373981476e-08,
+        -7.05476850271225e-08,
+        -6.961636245250702e-08,
+        -7.008202373981476e-08,
+        -7.05476850271225e-08
+      ],
+      "pass": true
+    },
+    {
+      "name": "SAN8 | suite lid buffer 01",
+      "seat_gaps_m": [
+        -8.591450750827789e-08,
+        -8.591450750827789e-08,
+        -8.591450750827789e-08,
+        -8.591450750827789e-08,
+        -8.591450750827789e-08,
+        -8.591450750827789e-08,
+        -8.591450750827789e-08,
+        -8.591450750827789e-08,
+        -8.591450750827789e-08
+      ],
+      "lid_gaps_m": [
+        -6.984919309616089e-08,
+        -7.031485438346863e-08,
+        -7.078051567077637e-08,
+        -6.984919309616089e-08,
+        -7.031485438346863e-08,
+        -7.078051567077637e-08,
+        -6.984919309616089e-08,
+        -7.031485438346863e-08,
+        -7.078051567077637e-08
+      ],
+      "pass": true
+    },
+    {
+      "name": "SAN8 | suite lid buffer 10",
+      "seat_gaps_m": [
+        -1.180451363325119e-07,
+        -1.180451363325119e-07,
+        -1.180451363325119e-07,
+        -1.180451363325119e-07,
+        -1.180451363325119e-07,
+        -1.180451363325119e-07,
+        -1.180451363325119e-07,
+        -1.180451363325119e-07,
+        -1.180451363325119e-07
+      ],
+      "lid_gaps_m": [
+        -6.961636245250702e-08,
+        -7.008202373981476e-08,
+        -7.05476850271225e-08,
+        -6.961636245250702e-08,
+        -7.008202373981476e-08,
+        -7.05476850271225e-08,
+        -6.961636245250702e-08,
+        -7.008202373981476e-08,
+        -7.05476850271225e-08
+      ],
+      "pass": true
+    },
+    {
+      "name": "SAN8 | suite lid buffer 11",
+      "seat_gaps_m": [
+        -8.591450750827789e-08,
+        -8.591450750827789e-08,
+        -8.591450750827789e-08,
+        -8.591450750827789e-08,
+        -8.591450750827789e-08,
+        -8.591450750827789e-08,
+        -8.591450750827789e-08,
+        -8.591450750827789e-08,
+        -8.591450750827789e-08
+      ],
+      "lid_gaps_m": [
+        -6.984919309616089e-08,
+        -7.031485438346863e-08,
+        -7.078051567077637e-08,
+        -6.984919309616089e-08,
+        -7.031485438346863e-08,
+        -7.078051567077637e-08,
+        -6.984919309616089e-08,
+        -7.031485438346863e-08,
+        -7.078051567077637e-08
+      ],
+      "pass": true
+    }
+  ],
+  "solidary_arm_joins": [
+    {
+      "family": "mono",
+      "hinge": 1,
+      "group": "seat",
+      "solidary_join_volume_mm3": 245.59003316929983,
+      "pass": true
+    },
+    {
+      "family": "mono",
+      "hinge": 1,
+      "group": "lid",
+      "solidary_join_volume_mm3": 476.00404464185857,
+      "pass": true
+    },
+    {
+      "family": "mono",
+      "hinge": 2,
+      "group": "seat",
+      "solidary_join_volume_mm3": 284.6822531155013,
+      "pass": true
+    },
+    {
+      "family": "mono",
+      "hinge": 2,
+      "group": "lid",
+      "solidary_join_volume_mm3": 265.3998970199521,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 1,
+      "group": "seat",
+      "solidary_join_volume_mm3": 284.68080284629247,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 1,
+      "group": "lid",
+      "solidary_join_volume_mm3": 265.273609681987,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 2,
+      "group": "seat",
+      "solidary_join_volume_mm3": 245.4628253372675,
+      "pass": true
+    },
+    {
+      "family": "quincho",
+      "hinge": 2,
+      "group": "lid",
+      "solidary_join_volume_mm3": 475.98417865706557,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 1,
+      "group": "seat",
+      "solidary_join_volume_mm3": 245.63574876270144,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 1,
+      "group": "lid",
+      "solidary_join_volume_mm3": 476.05200125935534,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 2,
+      "group": "seat",
+      "solidary_join_volume_mm3": 284.707098773189,
+      "pass": true
+    },
+    {
+      "family": "suite",
+      "hinge": 2,
+      "group": "lid",
+      "solidary_join_volume_mm3": 265.4698748061035,
+      "pass": true
+    }
+  ],
+  "scope": {
+    "removed": [
+      "SAN99 | mono cover hinge arm",
+      "SAN99 | mono cover hinge arm.001",
+      "SAN99 | mono cover hinge sleeve",
+      "SAN99 | mono cover hinge sleeve.001",
+      "SAN99 | mono hinge pedestal",
+      "SAN99 | mono hinge pedestal.001",
+      "SAN99 | mono hinge pin",
+      "SAN99 | mono hinge pin.001",
+      "SAN99 | mono seat hinge arm",
+      "SAN99 | mono seat hinge arm.001",
+      "SAN99 | mono seat hinge sleeve",
+      "SAN99 | mono seat hinge sleeve.001",
+      "SAN99 | quincho cover hinge arm",
+      "SAN99 | quincho cover hinge arm.001",
+      "SAN99 | quincho cover hinge sleeve",
+      "SAN99 | quincho cover hinge sleeve.001",
+      "SAN99 | quincho hinge pedestal",
+      "SAN99 | quincho hinge pedestal.001",
+      "SAN99 | quincho hinge pin",
+      "SAN99 | quincho hinge pin.001",
+      "SAN99 | quincho seat hinge arm",
+      "SAN99 | quincho seat hinge arm.001",
+      "SAN99 | quincho seat hinge sleeve",
+      "SAN99 | quincho seat hinge sleeve.001",
+      "SAN99 | suite cover hinge arm",
+      "SAN99 | suite cover hinge arm.001",
+      "SAN99 | suite cover hinge sleeve",
+      "SAN99 | suite cover hinge sleeve.001",
+      "SAN99 | suite hinge pedestal",
+      "SAN99 | suite hinge pedestal.001",
+      "SAN99 | suite hinge pin",
+      "SAN99 | suite hinge pin.001",
+      "SAN99 | suite seat hinge arm",
+      "SAN99 | suite seat hinge arm.001",
+      "SAN99 | suite seat hinge sleeve",
+      "SAN99 | suite seat hinge sleeve.001"
+    ],
+    "added": [
+      "SAN8 | mono H1 anchor gasket",
+      "SAN8 | mono H1 axle doubleD",
+      "SAN8 | mono H1 axle head",
+      "SAN8 | mono H1 axle thread blank M6",
+      "SAN8 | mono H1 base yoke",
+      "SAN8 | mono H1 clamp nut M6 nominal",
+      "SAN8 | mono H1 clamp washer",
+      "SAN8 | mono H1 ear L",
+      "SAN8 | mono H1 ear R",
+      "SAN8 | mono H1 ear stem L",
+      "SAN8 | mono H1 ear stem R",
+      "SAN8 | mono H1 friction centre",
+      "SAN8 | mono H1 friction outer",
+      "SAN8 | mono H1 lid arm",
+      "SAN8 | mono H1 lid bearing",
+      "SAN8 | mono H1 lid dog",
+      "SAN8 | mono H1 lid housing",
+      "SAN8 | mono H1 lid stop carrier",
+      "SAN8 | mono H1 lid stop stand",
+      "SAN8 | mono H1 lid stop0",
+      "SAN8 | mono H1 lid stop90",
+      "SAN8 | mono H1 preload coned spring",
+      "SAN8 | mono H1 seat arm",
+      "SAN8 | mono H1 seat bearing",
+      "SAN8 | mono H1 seat dog",
+      "SAN8 | mono H1 seat housing",
+      "SAN8 | mono H1 seat stop carrier",
+      "SAN8 | mono H1 seat stop stand",
+      "SAN8 | mono H1 seat stop0",
+      "SAN8 | mono H1 seat stop90",
+      "SAN8 | mono H2 anchor gasket",
+      "SAN8 | mono H2 axle doubleD",
+      "SAN8 | mono H2 axle head",
+      "SAN8 | mono H2 axle thread blank M6",
+      "SAN8 | mono H2 base yoke",
+      "SAN8 | mono H2 clamp nut M6 nominal",
+      "SAN8 | mono H2 clamp washer",
+      "SAN8 | mono H2 ear L",
+      "SAN8 | mono H2 ear R",
+      "SAN8 | mono H2 ear stem L",
+      "SAN8 | mono H2 ear stem R",
+      "SAN8 | mono H2 friction centre",
+      "SAN8 | mono H2 friction outer",
+      "SAN8 | mono H2 lid arm",
+      "SAN8 | mono H2 lid bearing",
+      "SAN8 | mono H2 lid dog",
+      "SAN8 | mono H2 lid housing",
+      "SAN8 | mono H2 lid stop carrier",
+      "SAN8 | mono H2 lid stop stand",
+      "SAN8 | mono H2 lid stop0",
+      "SAN8 | mono H2 lid stop90",
+      "SAN8 | mono H2 preload coned spring",
+      "SAN8 | mono H2 seat arm",
+      "SAN8 | mono H2 seat bearing",
+      "SAN8 | mono H2 seat dog",
+      "SAN8 | mono H2 seat housing",
+      "SAN8 | mono H2 seat stop carrier",
+      "SAN8 | mono H2 seat stop stand",
+      "SAN8 | mono H2 seat stop0",
+      "SAN8 | mono H2 seat stop90",
+      "SAN8 | mono lid buffer 00",
+      "SAN8 | mono lid buffer 01",
+      "SAN8 | mono lid buffer 10",
+      "SAN8 | mono lid buffer 11",
+      "SAN8 | quincho H1 anchor gasket",
+      "SAN8 | quincho H1 axle doubleD",
+      "SAN8 | quincho H1 axle head",
+      "SAN8 | quincho H1 axle thread blank M6",
+      "SAN8 | quincho H1 base yoke",
+      "SAN8 | quincho H1 clamp nut M6 nominal",
+      "SAN8 | quincho H1 clamp washer",
+      "SAN8 | quincho H1 ear L",
+      "SAN8 | quincho H1 ear R",
+      "SAN8 | quincho H1 ear stem L",
+      "SAN8 | quincho H1 ear stem R",
+      "SAN8 | quincho H1 friction centre",
+      "SAN8 | quincho H1 friction outer",
+      "SAN8 | quincho H1 lid arm",
+      "SAN8 | quincho H1 lid bearing",
+      "SAN8 | quincho H1 lid dog",
+      "SAN8 | quincho H1 lid housing",
+      "SAN8 | quincho H1 lid stop carrier",
+      "SAN8 | quincho H1 lid stop stand",
+      "SAN8 | quincho H1 lid stop0",
+      "SAN8 | quincho H1 lid stop90",
+      "SAN8 | quincho H1 preload coned spring",
+      "SAN8 | quincho H1 seat arm",
+      "SAN8 | quincho H1 seat bearing",
+      "SAN8 | quincho H1 seat dog",
+      "SAN8 | quincho H1 seat housing",
+      "SAN8 | quincho H1 seat stop carrier",
+      "SAN8 | quincho H1 seat stop stand",
+      "SAN8 | quincho H1 seat stop0",
+      "SAN8 | quincho H1 seat stop90",
+      "SAN8 | quincho H2 anchor gasket",
+      "SAN8 | quincho H2 axle doubleD",
+      "SAN8 | quincho H2 axle head",
+      "SAN8 | quincho H2 axle thread blank M6",
+      "SAN8 | quincho H2 base yoke",
+      "SAN8 | quincho H2 clamp nut M6 nominal",
+      "SAN8 | quincho H2 clamp washer",
+      "SAN8 | quincho H2 ear L",
+      "SAN8 | quincho H2 ear R",
+      "SAN8 | quincho H2 ear stem L",
+      "SAN8 | quincho H2 ear stem R",
+      "SAN8 | quincho H2 friction centre",
+      "SAN8 | quincho H2 friction outer",
+      "SAN8 | quincho H2 lid arm",
+      "SAN8 | quincho H2 lid bearing",
+      "SAN8 | quincho H2 lid dog",
+      "SAN8 | quincho H2 lid housing",
+      "SAN8 | quincho H2 lid stop carrier",
+      "SAN8 | quincho H2 lid stop stand",
+      "SAN8 | quincho H2 lid stop0",
+      "SAN8 | quincho H2 lid stop90",
+      "SAN8 | quincho H2 preload coned spring",
+      "SAN8 | quincho H2 seat arm",
+      "SAN8 | quincho H2 seat bearing",
+      "SAN8 | quincho H2 seat dog",
+      "SAN8 | quincho H2 seat housing",
+      "SAN8 | quincho H2 seat stop carrier",
+      "SAN8 | quincho H2 seat stop stand",
+      "SAN8 | quincho H2 seat stop0",
+      "SAN8 | quincho H2 seat stop90",
+      "SAN8 | quincho lid buffer 00",
+      "SAN8 | quincho lid buffer 01",
+      "SAN8 | quincho lid buffer 10",
+      "SAN8 | quincho lid buffer 11",
+      "SAN8 | suite H1 anchor gasket",
+      "SAN8 | suite H1 axle doubleD",
+      "SAN8 | suite H1 axle head",
+      "SAN8 | suite H1 axle thread blank M6",
+      "SAN8 | suite H1 base yoke",
+      "SAN8 | suite H1 clamp nut M6 nominal",
+      "SAN8 | suite H1 clamp washer",
+      "SAN8 | suite H1 ear L",
+      "SAN8 | suite H1 ear R",
+      "SAN8 | suite H1 ear stem L",
+      "SAN8 | suite H1 ear stem R",
+      "SAN8 | suite H1 friction centre",
+      "SAN8 | suite H1 friction outer",
+      "SAN8 | suite H1 lid arm",
+      "SAN8 | suite H1 lid bearing",
+      "SAN8 | suite H1 lid dog",
+      "SAN8 | suite H1 lid housing",
+      "SAN8 | suite H1 lid stop carrier",
+      "SAN8 | suite H1 lid stop stand",
+      "SAN8 | suite H1 lid stop0",
+      "SAN8 | suite H1 lid stop90",
+      "SAN8 | suite H1 preload coned spring",
+      "SAN8 | suite H1 seat arm",
+      "SAN8 | suite H1 seat bearing",
+      "SAN8 | suite H1 seat dog",
+      "SAN8 | suite H1 seat housing",
+      "SAN8 | suite H1 seat stop carrier",
+      "SAN8 | suite H1 seat stop stand",
+      "SAN8 | suite H1 seat stop0",
+      "SAN8 | suite H1 seat stop90",
+      "SAN8 | suite H2 anchor gasket",
+      "SAN8 | suite H2 axle doubleD",
+      "SAN8 | suite H2 axle head",
+      "SAN8 | suite H2 axle thread blank M6",
+      "SAN8 | suite H2 base yoke",
+      "SAN8 | suite H2 clamp nut M6 nominal",
+      "SAN8 | suite H2 clamp washer",
+      "SAN8 | suite H2 ear L",
+      "SAN8 | suite H2 ear R",
+      "SAN8 | suite H2 ear stem L",
+      "SAN8 | suite H2 ear stem R",
+      "SAN8 | suite H2 friction centre",
+      "SAN8 | suite H2 friction outer",
+      "SAN8 | suite H2 lid arm",
+      "SAN8 | suite H2 lid bearing",
+      "SAN8 | suite H2 lid dog",
+      "SAN8 | suite H2 lid housing",
+      "SAN8 | suite H2 lid stop carrier",
+      "SAN8 | suite H2 lid stop stand",
+      "SAN8 | suite H2 lid stop0",
+      "SAN8 | suite H2 lid stop90",
+      "SAN8 | suite H2 preload coned spring",
+      "SAN8 | suite H2 seat arm",
+      "SAN8 | suite H2 seat bearing",
+      "SAN8 | suite H2 seat dog",
+      "SAN8 | suite H2 seat housing",
+      "SAN8 | suite H2 seat stop carrier",
+      "SAN8 | suite H2 seat stop stand",
+      "SAN8 | suite H2 seat stop0",
+      "SAN8 | suite H2 seat stop90",
+      "SAN8 | suite lid buffer 00",
+      "SAN8 | suite lid buffer 01",
+      "SAN8 | suite lid buffer 10",
+      "SAN8 | suite lid buffer 11"
+    ],
+    "changed_existing_geometry": []
+  },
+  "idempotent": true,
+  "main_geometry_preserved": true,
+  "topology": [
+    {
+      "name": "SAN8 | mono H1 base yoke",
+      "nonmanifold": 0,
+      "volume_m3": 2.6880005469322385e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 ear L",
+      "nonmanifold": 0,
+      "volume_m3": 1.3917023612042552e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 ear stem L",
+      "nonmanifold": 0,
+      "volume_m3": 2.0479998745918226e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 ear R",
+      "nonmanifold": 0,
+      "volume_m3": 1.3917026852352376e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 ear stem R",
+      "nonmanifold": 0,
+      "volume_m3": 2.048000351428984e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 anchor gasket",
+      "nonmanifold": 0,
+      "volume_m3": 1.9054535630018325e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 axle doubleD",
+      "nonmanifold": 0,
+      "volume_m3": 1.2389132279298153e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 axle thread blank M6",
+      "nonmanifold": 0,
+      "volume_m3": 2.2583152486885482e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 axle head",
+      "nonmanifold": 0,
+      "volume_m3": 3.464102210983117e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 clamp washer",
+      "nonmanifold": 0,
+      "volume_m3": 6.570285904771888e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 clamp nut M6 nominal",
+      "nonmanifold": 0,
+      "volume_m3": 3.309446234567547e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 preload coned spring",
+      "nonmanifold": 0,
+      "volume_m3": 6.582990378014987e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 friction centre",
+      "nonmanifold": 0,
+      "volume_m3": 2.9930911933994643e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 friction outer",
+      "nonmanifold": 0,
+      "volume_m3": 2.993088754307849e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 seat housing",
+      "nonmanifold": 0,
+      "volume_m3": 1.4490853619636406e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 seat bearing",
+      "nonmanifold": 0,
+      "volume_m3": 2.805956458897156e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 seat arm",
+      "nonmanifold": 0,
+      "volume_m3": 1.5299999208049861e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 seat dog",
+      "nonmanifold": 0,
+      "volume_m3": 4.129239208035311e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 seat stop carrier",
+      "nonmanifold": 0,
+      "volume_m3": 3.983127944566785e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 seat stop0",
+      "nonmanifold": 0,
+      "volume_m3": 3.811605485351501e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 seat stop90",
+      "nonmanifold": 0,
+      "volume_m3": 3.8116056596463945e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 seat stop stand",
+      "nonmanifold": 0,
+      "volume_m3": 3.711999791324125e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 lid housing",
+      "nonmanifold": 0,
+      "volume_m3": 1.2420732087106487e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 lid bearing",
+      "nonmanifold": 0,
+      "volume_m3": 2.405105616195042e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 lid arm",
+      "nonmanifold": 0,
+      "volume_m3": 1.6320000295191984e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 lid dog",
+      "nonmanifold": 0,
+      "volume_m3": 3.0969294661148204e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 lid stop carrier",
+      "nonmanifold": 0,
+      "volume_m3": 2.987346016387229e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 lid stop0",
+      "nonmanifold": 0,
+      "volume_m3": 2.858704169479784e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 lid stop90",
+      "nonmanifold": 0,
+      "volume_m3": 2.8587043002009632e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 lid stop stand",
+      "nonmanifold": 0,
+      "volume_m3": 2.7839998975097996e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 base yoke",
+      "nonmanifold": 0,
+      "volume_m3": 2.6880005469322385e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 ear L",
+      "nonmanifold": 0,
+      "volume_m3": 1.3917023612042552e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 ear stem L",
+      "nonmanifold": 0,
+      "volume_m3": 2.0479998745918226e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 ear R",
+      "nonmanifold": 0,
+      "volume_m3": 1.3917026852352376e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 ear stem R",
+      "nonmanifold": 0,
+      "volume_m3": 2.048000351428984e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 anchor gasket",
+      "nonmanifold": 0,
+      "volume_m3": 1.9054535630018325e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 axle doubleD",
+      "nonmanifold": 0,
+      "volume_m3": 1.2389132279298153e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 axle thread blank M6",
+      "nonmanifold": 0,
+      "volume_m3": 2.2583152486885482e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 axle head",
+      "nonmanifold": 0,
+      "volume_m3": 3.464102210983117e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 clamp washer",
+      "nonmanifold": 0,
+      "volume_m3": 6.570285904771888e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 clamp nut M6 nominal",
+      "nonmanifold": 0,
+      "volume_m3": 3.309446234567547e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 preload coned spring",
+      "nonmanifold": 0,
+      "volume_m3": 6.582990378014987e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 friction centre",
+      "nonmanifold": 0,
+      "volume_m3": 2.9930911933994643e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 friction outer",
+      "nonmanifold": 0,
+      "volume_m3": 2.993088754307849e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 seat housing",
+      "nonmanifold": 0,
+      "volume_m3": 1.4490853619636406e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 seat bearing",
+      "nonmanifold": 0,
+      "volume_m3": 2.805956458897156e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 seat arm",
+      "nonmanifold": 0,
+      "volume_m3": 1.5299999208049861e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 seat dog",
+      "nonmanifold": 0,
+      "volume_m3": 4.129239208035311e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 seat stop carrier",
+      "nonmanifold": 0,
+      "volume_m3": 3.983127944566785e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 seat stop0",
+      "nonmanifold": 0,
+      "volume_m3": 3.811605485351501e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 seat stop90",
+      "nonmanifold": 0,
+      "volume_m3": 3.8116056596463945e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 seat stop stand",
+      "nonmanifold": 0,
+      "volume_m3": 3.711999791324125e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 lid housing",
+      "nonmanifold": 0,
+      "volume_m3": 1.2420732087106487e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 lid bearing",
+      "nonmanifold": 0,
+      "volume_m3": 2.405105616195042e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 lid arm",
+      "nonmanifold": 0,
+      "volume_m3": 1.6320000295191984e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 lid dog",
+      "nonmanifold": 0,
+      "volume_m3": 3.0969294661148204e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 lid stop carrier",
+      "nonmanifold": 0,
+      "volume_m3": 2.987346016387229e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 lid stop0",
+      "nonmanifold": 0,
+      "volume_m3": 2.858704169479784e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 lid stop90",
+      "nonmanifold": 0,
+      "volume_m3": 2.8587043002009632e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 lid stop stand",
+      "nonmanifold": 0,
+      "volume_m3": 2.7839998975097996e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono lid buffer 00",
+      "nonmanifold": 0,
+      "volume_m3": 5.599994190223935e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono lid buffer 01",
+      "nonmanifold": 0,
+      "volume_m3": 5.60000253487352e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono lid buffer 10",
+      "nonmanifold": 0,
+      "volume_m3": 5.599994190223933e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono lid buffer 11",
+      "nonmanifold": 0,
+      "volume_m3": 5.600002534873517e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 base yoke",
+      "nonmanifold": 0,
+      "volume_m3": 2.6880005469322385e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 ear L",
+      "nonmanifold": 0,
+      "volume_m3": 1.3917023612042552e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 ear stem L",
+      "nonmanifold": 0,
+      "volume_m3": 2.0479998745918226e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 ear R",
+      "nonmanifold": 0,
+      "volume_m3": 1.3917026852352376e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 ear stem R",
+      "nonmanifold": 0,
+      "volume_m3": 2.048000351428984e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 anchor gasket",
+      "nonmanifold": 0,
+      "volume_m3": 1.9054535630018325e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 axle doubleD",
+      "nonmanifold": 0,
+      "volume_m3": 1.2389132279298153e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 axle thread blank M6",
+      "nonmanifold": 0,
+      "volume_m3": 2.2583152486885482e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 axle head",
+      "nonmanifold": 0,
+      "volume_m3": 3.464102210983117e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 clamp washer",
+      "nonmanifold": 0,
+      "volume_m3": 6.570285904771888e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 clamp nut M6 nominal",
+      "nonmanifold": 0,
+      "volume_m3": 3.309446234567547e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 preload coned spring",
+      "nonmanifold": 0,
+      "volume_m3": 6.582990378014987e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 friction centre",
+      "nonmanifold": 0,
+      "volume_m3": 2.9930911933994643e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 friction outer",
+      "nonmanifold": 0,
+      "volume_m3": 2.993088754307849e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 seat housing",
+      "nonmanifold": 0,
+      "volume_m3": 1.4490853619636406e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 seat bearing",
+      "nonmanifold": 0,
+      "volume_m3": 2.805956458897156e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 seat arm",
+      "nonmanifold": 0,
+      "volume_m3": 1.5299999208049861e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 seat dog",
+      "nonmanifold": 0,
+      "volume_m3": 4.129239208035311e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 seat stop carrier",
+      "nonmanifold": 0,
+      "volume_m3": 3.983127944566785e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 seat stop0",
+      "nonmanifold": 0,
+      "volume_m3": 3.811605485351501e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 seat stop90",
+      "nonmanifold": 0,
+      "volume_m3": 3.8116056596463945e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 seat stop stand",
+      "nonmanifold": 0,
+      "volume_m3": 3.711999791324125e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 lid housing",
+      "nonmanifold": 0,
+      "volume_m3": 1.2420732087106487e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 lid bearing",
+      "nonmanifold": 0,
+      "volume_m3": 2.405105616195042e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 lid arm",
+      "nonmanifold": 0,
+      "volume_m3": 1.6320000295191984e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 lid dog",
+      "nonmanifold": 0,
+      "volume_m3": 3.0969294661148204e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 lid stop carrier",
+      "nonmanifold": 0,
+      "volume_m3": 2.987346016387229e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 lid stop0",
+      "nonmanifold": 0,
+      "volume_m3": 2.858704169479784e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 lid stop90",
+      "nonmanifold": 0,
+      "volume_m3": 2.8587043002009632e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 lid stop stand",
+      "nonmanifold": 0,
+      "volume_m3": 2.7839998975097996e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 base yoke",
+      "nonmanifold": 0,
+      "volume_m3": 2.6880005469322385e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 ear L",
+      "nonmanifold": 0,
+      "volume_m3": 1.3917023612042552e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 ear stem L",
+      "nonmanifold": 0,
+      "volume_m3": 2.0479998745918226e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 ear R",
+      "nonmanifold": 0,
+      "volume_m3": 1.3917026852352376e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 ear stem R",
+      "nonmanifold": 0,
+      "volume_m3": 2.048000351428984e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 anchor gasket",
+      "nonmanifold": 0,
+      "volume_m3": 1.9054535630018325e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 axle doubleD",
+      "nonmanifold": 0,
+      "volume_m3": 1.2389132279298153e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 axle thread blank M6",
+      "nonmanifold": 0,
+      "volume_m3": 2.2583152486885482e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 axle head",
+      "nonmanifold": 0,
+      "volume_m3": 3.464102210983117e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 clamp washer",
+      "nonmanifold": 0,
+      "volume_m3": 6.570285904771888e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 clamp nut M6 nominal",
+      "nonmanifold": 0,
+      "volume_m3": 3.309446234567547e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 preload coned spring",
+      "nonmanifold": 0,
+      "volume_m3": 6.582990378014987e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 friction centre",
+      "nonmanifold": 0,
+      "volume_m3": 2.9930911933994643e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 friction outer",
+      "nonmanifold": 0,
+      "volume_m3": 2.993088754307849e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 seat housing",
+      "nonmanifold": 0,
+      "volume_m3": 1.4490853619636406e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 seat bearing",
+      "nonmanifold": 0,
+      "volume_m3": 2.805956458897156e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 seat arm",
+      "nonmanifold": 0,
+      "volume_m3": 1.5299999208049861e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 seat dog",
+      "nonmanifold": 0,
+      "volume_m3": 4.129239208035311e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 seat stop carrier",
+      "nonmanifold": 0,
+      "volume_m3": 3.983127944566785e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 seat stop0",
+      "nonmanifold": 0,
+      "volume_m3": 3.811605485351501e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 seat stop90",
+      "nonmanifold": 0,
+      "volume_m3": 3.8116056596463945e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 seat stop stand",
+      "nonmanifold": 0,
+      "volume_m3": 3.711999791324125e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 lid housing",
+      "nonmanifold": 0,
+      "volume_m3": 1.2420732087106487e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 lid bearing",
+      "nonmanifold": 0,
+      "volume_m3": 2.405105616195042e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 lid arm",
+      "nonmanifold": 0,
+      "volume_m3": 1.6320000295191984e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 lid dog",
+      "nonmanifold": 0,
+      "volume_m3": 3.0969294661148204e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 lid stop carrier",
+      "nonmanifold": 0,
+      "volume_m3": 2.987346016387229e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 lid stop0",
+      "nonmanifold": 0,
+      "volume_m3": 2.858704169479784e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 lid stop90",
+      "nonmanifold": 0,
+      "volume_m3": 2.8587043002009632e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 lid stop stand",
+      "nonmanifold": 0,
+      "volume_m3": 2.7839998975097996e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho lid buffer 00",
+      "nonmanifold": 0,
+      "volume_m3": 5.599994190223935e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho lid buffer 01",
+      "nonmanifold": 0,
+      "volume_m3": 5.60000253487352e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho lid buffer 10",
+      "nonmanifold": 0,
+      "volume_m3": 5.599994190223933e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho lid buffer 11",
+      "nonmanifold": 0,
+      "volume_m3": 5.600002534873517e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 base yoke",
+      "nonmanifold": 0,
+      "volume_m3": 2.6880005469322385e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 ear L",
+      "nonmanifold": 0,
+      "volume_m3": 1.3917023612042552e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 ear stem L",
+      "nonmanifold": 0,
+      "volume_m3": 2.0479998745918226e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 ear R",
+      "nonmanifold": 0,
+      "volume_m3": 1.3917026852352376e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 ear stem R",
+      "nonmanifold": 0,
+      "volume_m3": 2.048000351428984e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 anchor gasket",
+      "nonmanifold": 0,
+      "volume_m3": 1.9054535630018325e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 axle doubleD",
+      "nonmanifold": 0,
+      "volume_m3": 1.2389132279298153e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 axle thread blank M6",
+      "nonmanifold": 0,
+      "volume_m3": 2.2583152486885482e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 axle head",
+      "nonmanifold": 0,
+      "volume_m3": 3.464102210983117e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 clamp washer",
+      "nonmanifold": 0,
+      "volume_m3": 6.570285904771888e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 clamp nut M6 nominal",
+      "nonmanifold": 0,
+      "volume_m3": 3.309446234567547e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 preload coned spring",
+      "nonmanifold": 0,
+      "volume_m3": 6.582990378014987e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 friction centre",
+      "nonmanifold": 0,
+      "volume_m3": 2.9930911933994643e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 friction outer",
+      "nonmanifold": 0,
+      "volume_m3": 2.993088754307849e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 seat housing",
+      "nonmanifold": 0,
+      "volume_m3": 1.4490853619636406e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 seat bearing",
+      "nonmanifold": 0,
+      "volume_m3": 2.805956458897156e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 seat arm",
+      "nonmanifold": 0,
+      "volume_m3": 1.5299999208049861e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 seat dog",
+      "nonmanifold": 0,
+      "volume_m3": 4.129239208035311e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 seat stop carrier",
+      "nonmanifold": 0,
+      "volume_m3": 3.983127944566785e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 seat stop0",
+      "nonmanifold": 0,
+      "volume_m3": 3.811605485351501e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 seat stop90",
+      "nonmanifold": 0,
+      "volume_m3": 3.8116056596463945e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 seat stop stand",
+      "nonmanifold": 0,
+      "volume_m3": 3.711999791324125e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 lid housing",
+      "nonmanifold": 0,
+      "volume_m3": 1.2420732087106487e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 lid bearing",
+      "nonmanifold": 0,
+      "volume_m3": 2.405105616195042e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 lid arm",
+      "nonmanifold": 0,
+      "volume_m3": 1.6320000295191984e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 lid dog",
+      "nonmanifold": 0,
+      "volume_m3": 3.0969294661148204e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 lid stop carrier",
+      "nonmanifold": 0,
+      "volume_m3": 2.987346016387229e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 lid stop0",
+      "nonmanifold": 0,
+      "volume_m3": 2.858704169479784e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 lid stop90",
+      "nonmanifold": 0,
+      "volume_m3": 2.8587043002009632e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 lid stop stand",
+      "nonmanifold": 0,
+      "volume_m3": 2.7839998975097996e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 base yoke",
+      "nonmanifold": 0,
+      "volume_m3": 2.6880005469322385e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 ear L",
+      "nonmanifold": 0,
+      "volume_m3": 1.3917023612042552e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 ear stem L",
+      "nonmanifold": 0,
+      "volume_m3": 2.0479998745918226e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 ear R",
+      "nonmanifold": 0,
+      "volume_m3": 1.3917026852352376e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 ear stem R",
+      "nonmanifold": 0,
+      "volume_m3": 2.048000351428984e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 anchor gasket",
+      "nonmanifold": 0,
+      "volume_m3": 1.9054535630018325e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 axle doubleD",
+      "nonmanifold": 0,
+      "volume_m3": 1.2389132279298153e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 axle thread blank M6",
+      "nonmanifold": 0,
+      "volume_m3": 2.2583152486885482e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 axle head",
+      "nonmanifold": 0,
+      "volume_m3": 3.464102210983117e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 clamp washer",
+      "nonmanifold": 0,
+      "volume_m3": 6.570285904771888e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 clamp nut M6 nominal",
+      "nonmanifold": 0,
+      "volume_m3": 3.309446234567547e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 preload coned spring",
+      "nonmanifold": 0,
+      "volume_m3": 6.582990378014987e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 friction centre",
+      "nonmanifold": 0,
+      "volume_m3": 2.9930911933994643e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 friction outer",
+      "nonmanifold": 0,
+      "volume_m3": 2.993088754307849e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 seat housing",
+      "nonmanifold": 0,
+      "volume_m3": 1.4490853619636406e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 seat bearing",
+      "nonmanifold": 0,
+      "volume_m3": 2.805956458897156e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 seat arm",
+      "nonmanifold": 0,
+      "volume_m3": 1.5299999208049861e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 seat dog",
+      "nonmanifold": 0,
+      "volume_m3": 4.129239208035311e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 seat stop carrier",
+      "nonmanifold": 0,
+      "volume_m3": 3.983127944566785e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 seat stop0",
+      "nonmanifold": 0,
+      "volume_m3": 3.811605485351501e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 seat stop90",
+      "nonmanifold": 0,
+      "volume_m3": 3.8116056596463945e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 seat stop stand",
+      "nonmanifold": 0,
+      "volume_m3": 3.711999791324125e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 lid housing",
+      "nonmanifold": 0,
+      "volume_m3": 1.2420732087106487e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 lid bearing",
+      "nonmanifold": 0,
+      "volume_m3": 2.405105616195042e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 lid arm",
+      "nonmanifold": 0,
+      "volume_m3": 1.6320000295191984e-06,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 lid dog",
+      "nonmanifold": 0,
+      "volume_m3": 3.0969294661148204e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 lid stop carrier",
+      "nonmanifold": 0,
+      "volume_m3": 2.987346016387229e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 lid stop0",
+      "nonmanifold": 0,
+      "volume_m3": 2.858704169479784e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 lid stop90",
+      "nonmanifold": 0,
+      "volume_m3": 2.8587043002009632e-08,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 lid stop stand",
+      "nonmanifold": 0,
+      "volume_m3": 2.7839998975097996e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite lid buffer 00",
+      "nonmanifold": 0,
+      "volume_m3": 5.599994190223935e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite lid buffer 01",
+      "nonmanifold": 0,
+      "volume_m3": 5.60000253487352e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite lid buffer 10",
+      "nonmanifold": 0,
+      "volume_m3": 5.599994190223933e-07,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite lid buffer 11",
+      "nonmanifold": 0,
+      "volume_m3": 5.600002534873517e-07,
+      "determinant": 1.0
+    }
+  ],
+  "tests": [
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 0.0,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 2.25,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 4.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 6.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 9.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 11.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 13.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 15,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 15.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 18.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 20.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 22.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 24.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 27.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 29.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 30,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 31.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 33.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 36.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 38.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 40.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 42.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 45.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 47.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 49.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 51.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 54.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 56.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 58.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 60,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 60.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 63.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 65.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 67.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 69.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 72.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 74.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 76.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 78.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 81.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 83.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 85.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0,
+      "lid_deg": 87.75,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 0.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 2.25,
+      "lid_deg": 2.25,
+      "exact_candidates": 31
+    },
+    {
+      "family": "mono",
+      "seat_deg": 2.25,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 4.5,
+      "lid_deg": 4.5,
+      "exact_candidates": 31
+    },
+    {
+      "family": "mono",
+      "seat_deg": 4.5,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 6.75,
+      "lid_deg": 6.75,
+      "exact_candidates": 31
+    },
+    {
+      "family": "mono",
+      "seat_deg": 6.75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 9.0,
+      "lid_deg": 9.0,
+      "exact_candidates": 31
+    },
+    {
+      "family": "mono",
+      "seat_deg": 9.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 11.25,
+      "lid_deg": 11.25,
+      "exact_candidates": 31
+    },
+    {
+      "family": "mono",
+      "seat_deg": 11.25,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 13.5,
+      "lid_deg": 13.5,
+      "exact_candidates": 31
+    },
+    {
+      "family": "mono",
+      "seat_deg": 13.5,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 15,
+      "lid_deg": 15,
+      "exact_candidates": 31
+    },
+    {
+      "family": "mono",
+      "seat_deg": 15,
+      "lid_deg": 30,
+      "exact_candidates": 27
+    },
+    {
+      "family": "mono",
+      "seat_deg": 15,
+      "lid_deg": 45,
+      "exact_candidates": 25
+    },
+    {
+      "family": "mono",
+      "seat_deg": 15,
+      "lid_deg": 60,
+      "exact_candidates": 25
+    },
+    {
+      "family": "mono",
+      "seat_deg": 15,
+      "lid_deg": 75,
+      "exact_candidates": 25
+    },
+    {
+      "family": "mono",
+      "seat_deg": 15,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 15.75,
+      "lid_deg": 15.75,
+      "exact_candidates": 31
+    },
+    {
+      "family": "mono",
+      "seat_deg": 15.75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 18.0,
+      "lid_deg": 18.0,
+      "exact_candidates": 31
+    },
+    {
+      "family": "mono",
+      "seat_deg": 18.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 20.25,
+      "lid_deg": 20.25,
+      "exact_candidates": 31
+    },
+    {
+      "family": "mono",
+      "seat_deg": 20.25,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 22.5,
+      "lid_deg": 22.5,
+      "exact_candidates": 33
+    },
+    {
+      "family": "mono",
+      "seat_deg": 22.5,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 24.75,
+      "lid_deg": 24.75,
+      "exact_candidates": 33
+    },
+    {
+      "family": "mono",
+      "seat_deg": 24.75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 27.0,
+      "lid_deg": 27.0,
+      "exact_candidates": 33
+    },
+    {
+      "family": "mono",
+      "seat_deg": 27.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 29.25,
+      "lid_deg": 29.25,
+      "exact_candidates": 33
+    },
+    {
+      "family": "mono",
+      "seat_deg": 29.25,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 30,
+      "lid_deg": 30,
+      "exact_candidates": 33
+    },
+    {
+      "family": "mono",
+      "seat_deg": 30,
+      "lid_deg": 45,
+      "exact_candidates": 25
+    },
+    {
+      "family": "mono",
+      "seat_deg": 30,
+      "lid_deg": 60,
+      "exact_candidates": 25
+    },
+    {
+      "family": "mono",
+      "seat_deg": 30,
+      "lid_deg": 75,
+      "exact_candidates": 25
+    },
+    {
+      "family": "mono",
+      "seat_deg": 30,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 31.5,
+      "lid_deg": 31.5,
+      "exact_candidates": 33
+    },
+    {
+      "family": "mono",
+      "seat_deg": 31.5,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 33.75,
+      "lid_deg": 33.75,
+      "exact_candidates": 33
+    },
+    {
+      "family": "mono",
+      "seat_deg": 33.75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 36.0,
+      "lid_deg": 36.0,
+      "exact_candidates": 33
+    },
+    {
+      "family": "mono",
+      "seat_deg": 36.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 38.25,
+      "lid_deg": 38.25,
+      "exact_candidates": 33
+    },
+    {
+      "family": "mono",
+      "seat_deg": 38.25,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 40.5,
+      "lid_deg": 40.5,
+      "exact_candidates": 33
+    },
+    {
+      "family": "mono",
+      "seat_deg": 40.5,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 42.75,
+      "lid_deg": 42.75,
+      "exact_candidates": 35
+    },
+    {
+      "family": "mono",
+      "seat_deg": 42.75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 45.0,
+      "lid_deg": 45.0,
+      "exact_candidates": 35
+    },
+    {
+      "family": "mono",
+      "seat_deg": 45,
+      "lid_deg": 60,
+      "exact_candidates": 27
+    },
+    {
+      "family": "mono",
+      "seat_deg": 45,
+      "lid_deg": 75,
+      "exact_candidates": 25
+    },
+    {
+      "family": "mono",
+      "seat_deg": 45.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 47.25,
+      "lid_deg": 47.25,
+      "exact_candidates": 37
+    },
+    {
+      "family": "mono",
+      "seat_deg": 47.25,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "mono",
+      "seat_deg": 49.5,
+      "lid_deg": 49.5,
+      "exact_candidates": 37
+    },
+    {
+      "family": "mono",
+      "seat_deg": 49.5,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "mono",
+      "seat_deg": 51.75,
+      "lid_deg": 51.75,
+      "exact_candidates": 37
+    },
+    {
+      "family": "mono",
+      "seat_deg": 51.75,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "mono",
+      "seat_deg": 54.0,
+      "lid_deg": 54.0,
+      "exact_candidates": 37
+    },
+    {
+      "family": "mono",
+      "seat_deg": 54.0,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "mono",
+      "seat_deg": 56.25,
+      "lid_deg": 56.25,
+      "exact_candidates": 35
+    },
+    {
+      "family": "mono",
+      "seat_deg": 56.25,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "mono",
+      "seat_deg": 58.5,
+      "lid_deg": 58.5,
+      "exact_candidates": 35
+    },
+    {
+      "family": "mono",
+      "seat_deg": 58.5,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "mono",
+      "seat_deg": 60,
+      "lid_deg": 60,
+      "exact_candidates": 35
+    },
+    {
+      "family": "mono",
+      "seat_deg": 60,
+      "lid_deg": 75,
+      "exact_candidates": 33
+    },
+    {
+      "family": "mono",
+      "seat_deg": 60,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "mono",
+      "seat_deg": 60.75,
+      "lid_deg": 60.75,
+      "exact_candidates": 35
+    },
+    {
+      "family": "mono",
+      "seat_deg": 60.75,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "mono",
+      "seat_deg": 63.0,
+      "lid_deg": 63.0,
+      "exact_candidates": 33
+    },
+    {
+      "family": "mono",
+      "seat_deg": 63.0,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "mono",
+      "seat_deg": 65.25,
+      "lid_deg": 65.25,
+      "exact_candidates": 33
+    },
+    {
+      "family": "mono",
+      "seat_deg": 65.25,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "mono",
+      "seat_deg": 67.5,
+      "lid_deg": 67.5,
+      "exact_candidates": 33
+    },
+    {
+      "family": "mono",
+      "seat_deg": 67.5,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "mono",
+      "seat_deg": 69.75,
+      "lid_deg": 69.75,
+      "exact_candidates": 33
+    },
+    {
+      "family": "mono",
+      "seat_deg": 69.75,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "mono",
+      "seat_deg": 72.0,
+      "lid_deg": 72.0,
+      "exact_candidates": 33
+    },
+    {
+      "family": "mono",
+      "seat_deg": 72.0,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "mono",
+      "seat_deg": 74.25,
+      "lid_deg": 74.25,
+      "exact_candidates": 33
+    },
+    {
+      "family": "mono",
+      "seat_deg": 74.25,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "mono",
+      "seat_deg": 75,
+      "lid_deg": 75,
+      "exact_candidates": 31
+    },
+    {
+      "family": "mono",
+      "seat_deg": 75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 76.5,
+      "lid_deg": 76.5,
+      "exact_candidates": 31
+    },
+    {
+      "family": "mono",
+      "seat_deg": 76.5,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 78.75,
+      "lid_deg": 78.75,
+      "exact_candidates": 29
+    },
+    {
+      "family": "mono",
+      "seat_deg": 78.75,
+      "lid_deg": 90,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 81.0,
+      "lid_deg": 81.0,
+      "exact_candidates": 29
+    },
+    {
+      "family": "mono",
+      "seat_deg": 81.0,
+      "lid_deg": 90,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 83.25,
+      "lid_deg": 83.25,
+      "exact_candidates": 29
+    },
+    {
+      "family": "mono",
+      "seat_deg": 83.25,
+      "lid_deg": 90,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 85.5,
+      "lid_deg": 85.5,
+      "exact_candidates": 29
+    },
+    {
+      "family": "mono",
+      "seat_deg": 85.5,
+      "lid_deg": 90,
+      "exact_candidates": 22
+    },
+    {
+      "family": "mono",
+      "seat_deg": 87.75,
+      "lid_deg": 87.75,
+      "exact_candidates": 31
+    },
+    {
+      "family": "mono",
+      "seat_deg": 87.75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "mono",
+      "seat_deg": 90.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 0.0,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 2.25,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 4.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 6.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 9.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 11.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 13.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 15,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 15.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 18.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 20.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 22.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 24.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 27.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 29.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 30,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 31.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 33.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 36.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 38.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 40.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 42.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 45.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 47.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 49.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 51.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 54.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 56.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 58.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 60,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 60.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 63.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 65.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 67.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 69.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 72.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 74.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 76.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 78.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 81.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 83.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 85.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0,
+      "lid_deg": 87.75,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 0.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 2.25,
+      "lid_deg": 2.25,
+      "exact_candidates": 31
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 2.25,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 4.5,
+      "lid_deg": 4.5,
+      "exact_candidates": 31
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 4.5,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 6.75,
+      "lid_deg": 6.75,
+      "exact_candidates": 31
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 6.75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 9.0,
+      "lid_deg": 9.0,
+      "exact_candidates": 31
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 9.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 11.25,
+      "lid_deg": 11.25,
+      "exact_candidates": 31
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 11.25,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 13.5,
+      "lid_deg": 13.5,
+      "exact_candidates": 31
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 13.5,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 15,
+      "lid_deg": 15,
+      "exact_candidates": 31
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 15,
+      "lid_deg": 30,
+      "exact_candidates": 27
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 15,
+      "lid_deg": 45,
+      "exact_candidates": 25
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 15,
+      "lid_deg": 60,
+      "exact_candidates": 25
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 15,
+      "lid_deg": 75,
+      "exact_candidates": 25
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 15,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 15.75,
+      "lid_deg": 15.75,
+      "exact_candidates": 31
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 15.75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 18.0,
+      "lid_deg": 18.0,
+      "exact_candidates": 31
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 18.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 20.25,
+      "lid_deg": 20.25,
+      "exact_candidates": 31
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 20.25,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 22.5,
+      "lid_deg": 22.5,
+      "exact_candidates": 33
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 22.5,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 24.75,
+      "lid_deg": 24.75,
+      "exact_candidates": 33
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 24.75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 27.0,
+      "lid_deg": 27.0,
+      "exact_candidates": 33
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 27.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 29.25,
+      "lid_deg": 29.25,
+      "exact_candidates": 33
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 29.25,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 30,
+      "lid_deg": 30,
+      "exact_candidates": 33
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 30,
+      "lid_deg": 45,
+      "exact_candidates": 25
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 30,
+      "lid_deg": 60,
+      "exact_candidates": 25
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 30,
+      "lid_deg": 75,
+      "exact_candidates": 25
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 30,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 31.5,
+      "lid_deg": 31.5,
+      "exact_candidates": 33
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 31.5,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 33.75,
+      "lid_deg": 33.75,
+      "exact_candidates": 33
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 33.75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 36.0,
+      "lid_deg": 36.0,
+      "exact_candidates": 33
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 36.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 38.25,
+      "lid_deg": 38.25,
+      "exact_candidates": 33
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 38.25,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 40.5,
+      "lid_deg": 40.5,
+      "exact_candidates": 33
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 40.5,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 42.75,
+      "lid_deg": 42.75,
+      "exact_candidates": 35
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 42.75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 45.0,
+      "lid_deg": 45.0,
+      "exact_candidates": 35
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 45,
+      "lid_deg": 60,
+      "exact_candidates": 27
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 45,
+      "lid_deg": 75,
+      "exact_candidates": 25
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 45.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 47.25,
+      "lid_deg": 47.25,
+      "exact_candidates": 37
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 47.25,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 49.5,
+      "lid_deg": 49.5,
+      "exact_candidates": 37
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 49.5,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 51.75,
+      "lid_deg": 51.75,
+      "exact_candidates": 37
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 51.75,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 54.0,
+      "lid_deg": 54.0,
+      "exact_candidates": 37
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 54.0,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 56.25,
+      "lid_deg": 56.25,
+      "exact_candidates": 35
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 56.25,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 58.5,
+      "lid_deg": 58.5,
+      "exact_candidates": 35
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 58.5,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 60,
+      "lid_deg": 60,
+      "exact_candidates": 35
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 60,
+      "lid_deg": 75,
+      "exact_candidates": 33
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 60,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 60.75,
+      "lid_deg": 60.75,
+      "exact_candidates": 35
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 60.75,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 63.0,
+      "lid_deg": 63.0,
+      "exact_candidates": 33
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 63.0,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 65.25,
+      "lid_deg": 65.25,
+      "exact_candidates": 33
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 65.25,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 67.5,
+      "lid_deg": 67.5,
+      "exact_candidates": 33
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 67.5,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 69.75,
+      "lid_deg": 69.75,
+      "exact_candidates": 33
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 69.75,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 72.0,
+      "lid_deg": 72.0,
+      "exact_candidates": 33
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 72.0,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 74.25,
+      "lid_deg": 74.25,
+      "exact_candidates": 33
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 74.25,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 75,
+      "lid_deg": 75,
+      "exact_candidates": 31
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 76.5,
+      "lid_deg": 76.5,
+      "exact_candidates": 31
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 76.5,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 78.75,
+      "lid_deg": 78.75,
+      "exact_candidates": 29
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 78.75,
+      "lid_deg": 90,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 81.0,
+      "lid_deg": 81.0,
+      "exact_candidates": 29
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 81.0,
+      "lid_deg": 90,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 83.25,
+      "lid_deg": 83.25,
+      "exact_candidates": 29
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 83.25,
+      "lid_deg": 90,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 85.5,
+      "lid_deg": 85.5,
+      "exact_candidates": 29
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 85.5,
+      "lid_deg": 90,
+      "exact_candidates": 22
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 87.75,
+      "lid_deg": 87.75,
+      "exact_candidates": 31
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 87.75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "quincho",
+      "seat_deg": 90.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 0.0,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 2.25,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 4.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 6.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 9.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 11.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 13.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 15,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 15.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 18.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 20.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 22.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 24.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 27.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 29.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 30,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 31.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 33.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 36.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 38.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 40.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 42.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 45.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 47.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 49.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 51.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 54.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 56.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 58.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 60,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 60.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 63.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 65.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 67.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 69.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 72.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 74.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 76.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 78.75,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 81.0,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 83.25,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 85.5,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0,
+      "lid_deg": 87.75,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 0.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 2.25,
+      "lid_deg": 2.25,
+      "exact_candidates": 31
+    },
+    {
+      "family": "suite",
+      "seat_deg": 2.25,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 4.5,
+      "lid_deg": 4.5,
+      "exact_candidates": 31
+    },
+    {
+      "family": "suite",
+      "seat_deg": 4.5,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 6.75,
+      "lid_deg": 6.75,
+      "exact_candidates": 31
+    },
+    {
+      "family": "suite",
+      "seat_deg": 6.75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 9.0,
+      "lid_deg": 9.0,
+      "exact_candidates": 31
+    },
+    {
+      "family": "suite",
+      "seat_deg": 9.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 11.25,
+      "lid_deg": 11.25,
+      "exact_candidates": 31
+    },
+    {
+      "family": "suite",
+      "seat_deg": 11.25,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 13.5,
+      "lid_deg": 13.5,
+      "exact_candidates": 31
+    },
+    {
+      "family": "suite",
+      "seat_deg": 13.5,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 15,
+      "lid_deg": 15,
+      "exact_candidates": 31
+    },
+    {
+      "family": "suite",
+      "seat_deg": 15,
+      "lid_deg": 30,
+      "exact_candidates": 27
+    },
+    {
+      "family": "suite",
+      "seat_deg": 15,
+      "lid_deg": 45,
+      "exact_candidates": 25
+    },
+    {
+      "family": "suite",
+      "seat_deg": 15,
+      "lid_deg": 60,
+      "exact_candidates": 25
+    },
+    {
+      "family": "suite",
+      "seat_deg": 15,
+      "lid_deg": 75,
+      "exact_candidates": 25
+    },
+    {
+      "family": "suite",
+      "seat_deg": 15,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 15.75,
+      "lid_deg": 15.75,
+      "exact_candidates": 31
+    },
+    {
+      "family": "suite",
+      "seat_deg": 15.75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 18.0,
+      "lid_deg": 18.0,
+      "exact_candidates": 31
+    },
+    {
+      "family": "suite",
+      "seat_deg": 18.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 20.25,
+      "lid_deg": 20.25,
+      "exact_candidates": 31
+    },
+    {
+      "family": "suite",
+      "seat_deg": 20.25,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 22.5,
+      "lid_deg": 22.5,
+      "exact_candidates": 33
+    },
+    {
+      "family": "suite",
+      "seat_deg": 22.5,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 24.75,
+      "lid_deg": 24.75,
+      "exact_candidates": 33
+    },
+    {
+      "family": "suite",
+      "seat_deg": 24.75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 27.0,
+      "lid_deg": 27.0,
+      "exact_candidates": 33
+    },
+    {
+      "family": "suite",
+      "seat_deg": 27.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 29.25,
+      "lid_deg": 29.25,
+      "exact_candidates": 33
+    },
+    {
+      "family": "suite",
+      "seat_deg": 29.25,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 30,
+      "lid_deg": 30,
+      "exact_candidates": 33
+    },
+    {
+      "family": "suite",
+      "seat_deg": 30,
+      "lid_deg": 45,
+      "exact_candidates": 25
+    },
+    {
+      "family": "suite",
+      "seat_deg": 30,
+      "lid_deg": 60,
+      "exact_candidates": 25
+    },
+    {
+      "family": "suite",
+      "seat_deg": 30,
+      "lid_deg": 75,
+      "exact_candidates": 25
+    },
+    {
+      "family": "suite",
+      "seat_deg": 30,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 31.5,
+      "lid_deg": 31.5,
+      "exact_candidates": 33
+    },
+    {
+      "family": "suite",
+      "seat_deg": 31.5,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 33.75,
+      "lid_deg": 33.75,
+      "exact_candidates": 33
+    },
+    {
+      "family": "suite",
+      "seat_deg": 33.75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 36.0,
+      "lid_deg": 36.0,
+      "exact_candidates": 33
+    },
+    {
+      "family": "suite",
+      "seat_deg": 36.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 38.25,
+      "lid_deg": 38.25,
+      "exact_candidates": 33
+    },
+    {
+      "family": "suite",
+      "seat_deg": 38.25,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 40.5,
+      "lid_deg": 40.5,
+      "exact_candidates": 33
+    },
+    {
+      "family": "suite",
+      "seat_deg": 40.5,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 42.75,
+      "lid_deg": 42.75,
+      "exact_candidates": 35
+    },
+    {
+      "family": "suite",
+      "seat_deg": 42.75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 45.0,
+      "lid_deg": 45.0,
+      "exact_candidates": 35
+    },
+    {
+      "family": "suite",
+      "seat_deg": 45,
+      "lid_deg": 60,
+      "exact_candidates": 27
+    },
+    {
+      "family": "suite",
+      "seat_deg": 45,
+      "lid_deg": 75,
+      "exact_candidates": 25
+    },
+    {
+      "family": "suite",
+      "seat_deg": 45.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 47.25,
+      "lid_deg": 47.25,
+      "exact_candidates": 37
+    },
+    {
+      "family": "suite",
+      "seat_deg": 47.25,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "suite",
+      "seat_deg": 49.5,
+      "lid_deg": 49.5,
+      "exact_candidates": 37
+    },
+    {
+      "family": "suite",
+      "seat_deg": 49.5,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "suite",
+      "seat_deg": 51.75,
+      "lid_deg": 51.75,
+      "exact_candidates": 37
+    },
+    {
+      "family": "suite",
+      "seat_deg": 51.75,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "suite",
+      "seat_deg": 54.0,
+      "lid_deg": 54.0,
+      "exact_candidates": 37
+    },
+    {
+      "family": "suite",
+      "seat_deg": 54.0,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "suite",
+      "seat_deg": 56.25,
+      "lid_deg": 56.25,
+      "exact_candidates": 35
+    },
+    {
+      "family": "suite",
+      "seat_deg": 56.25,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "suite",
+      "seat_deg": 58.5,
+      "lid_deg": 58.5,
+      "exact_candidates": 35
+    },
+    {
+      "family": "suite",
+      "seat_deg": 58.5,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "suite",
+      "seat_deg": 60,
+      "lid_deg": 60,
+      "exact_candidates": 35
+    },
+    {
+      "family": "suite",
+      "seat_deg": 60,
+      "lid_deg": 75,
+      "exact_candidates": 33
+    },
+    {
+      "family": "suite",
+      "seat_deg": 60,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "suite",
+      "seat_deg": 60.75,
+      "lid_deg": 60.75,
+      "exact_candidates": 35
+    },
+    {
+      "family": "suite",
+      "seat_deg": 60.75,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "suite",
+      "seat_deg": 63.0,
+      "lid_deg": 63.0,
+      "exact_candidates": 33
+    },
+    {
+      "family": "suite",
+      "seat_deg": 63.0,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "suite",
+      "seat_deg": 65.25,
+      "lid_deg": 65.25,
+      "exact_candidates": 33
+    },
+    {
+      "family": "suite",
+      "seat_deg": 65.25,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "suite",
+      "seat_deg": 67.5,
+      "lid_deg": 67.5,
+      "exact_candidates": 33
+    },
+    {
+      "family": "suite",
+      "seat_deg": 67.5,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "suite",
+      "seat_deg": 69.75,
+      "lid_deg": 69.75,
+      "exact_candidates": 33
+    },
+    {
+      "family": "suite",
+      "seat_deg": 69.75,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "suite",
+      "seat_deg": 72.0,
+      "lid_deg": 72.0,
+      "exact_candidates": 33
+    },
+    {
+      "family": "suite",
+      "seat_deg": 72.0,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "suite",
+      "seat_deg": 74.25,
+      "lid_deg": 74.25,
+      "exact_candidates": 33
+    },
+    {
+      "family": "suite",
+      "seat_deg": 74.25,
+      "lid_deg": 90,
+      "exact_candidates": 26
+    },
+    {
+      "family": "suite",
+      "seat_deg": 75,
+      "lid_deg": 75,
+      "exact_candidates": 31
+    },
+    {
+      "family": "suite",
+      "seat_deg": 75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 76.5,
+      "lid_deg": 76.5,
+      "exact_candidates": 31
+    },
+    {
+      "family": "suite",
+      "seat_deg": 76.5,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 78.75,
+      "lid_deg": 78.75,
+      "exact_candidates": 29
+    },
+    {
+      "family": "suite",
+      "seat_deg": 78.75,
+      "lid_deg": 90,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 81.0,
+      "lid_deg": 81.0,
+      "exact_candidates": 29
+    },
+    {
+      "family": "suite",
+      "seat_deg": 81.0,
+      "lid_deg": 90,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 83.25,
+      "lid_deg": 83.25,
+      "exact_candidates": 29
+    },
+    {
+      "family": "suite",
+      "seat_deg": 83.25,
+      "lid_deg": 90,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 85.5,
+      "lid_deg": 85.5,
+      "exact_candidates": 29
+    },
+    {
+      "family": "suite",
+      "seat_deg": 85.5,
+      "lid_deg": 90,
+      "exact_candidates": 22
+    },
+    {
+      "family": "suite",
+      "seat_deg": 87.75,
+      "lid_deg": 87.75,
+      "exact_candidates": 31
+    },
+    {
+      "family": "suite",
+      "seat_deg": 87.75,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    },
+    {
+      "family": "suite",
+      "seat_deg": 90.0,
+      "lid_deg": 90,
+      "exact_candidates": 24
+    }
+  ],
+  "exact_intersections": 11223,
+  "aabb_separated_or_tangent": 636723,
+  "clashes": [],
+  "numerical_contacts": [
+    {
+      "family": "suite",
+      "seat_deg": 2.25,
+      "lid_deg": 2.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.6425328981874612e-11,
+      "volume_mm3": 0.016425328981874612,
+      "equivalent_contact_depth_m": 1.173237784419615e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 2.25,
+      "lid_deg": 2.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1917782640771385e-11,
+      "volume_mm3": 0.011917782640771386,
+      "equivalent_contact_depth_m": 8.512701886265274e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 2.25,
+      "lid_deg": 2.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.6414035420456003e-11,
+      "volume_mm3": 0.016414035420456004,
+      "equivalent_contact_depth_m": 1.172431101461143e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 2.25,
+      "lid_deg": 2.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1920358207221396e-11,
+      "volume_mm3": 0.011920358207221395,
+      "equivalent_contact_depth_m": 8.514541576586711e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 4.5,
+      "lid_deg": 4.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.6677968339472814e-11,
+      "volume_mm3": 0.016677968339472816,
+      "equivalent_contact_depth_m": 1.1912834528194865e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 4.5,
+      "lid_deg": 4.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1986264474825392e-11,
+      "volume_mm3": 0.011986264474825392,
+      "equivalent_contact_depth_m": 8.561617482018137e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 4.5,
+      "lid_deg": 4.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.6693506154805414e-11,
+      "volume_mm3": 0.016693506154805415,
+      "equivalent_contact_depth_m": 1.192393296771815e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 4.5,
+      "lid_deg": 4.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1974272656589942e-11,
+      "volume_mm3": 0.011974272656589941,
+      "equivalent_contact_depth_m": 8.553051897564243e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 6.75,
+      "lid_deg": 6.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.6488843569104705e-11,
+      "volume_mm3": 0.016488843569104704,
+      "equivalent_contact_depth_m": 1.1777745406503359e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 6.75,
+      "lid_deg": 6.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1939300276093672e-11,
+      "volume_mm3": 0.011939300276093672,
+      "equivalent_contact_depth_m": 8.528071625781193e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 6.75,
+      "lid_deg": 6.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.657420160524147e-11,
+      "volume_mm3": 0.016574201605241472,
+      "equivalent_contact_depth_m": 1.1838715432315336e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 6.75,
+      "lid_deg": 6.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1941499569324265e-11,
+      "volume_mm3": 0.011941499569324264,
+      "equivalent_contact_depth_m": 8.529642549517331e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 9.0,
+      "lid_deg": 9.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.6326801665418075e-11,
+      "volume_mm3": 0.016326801665418077,
+      "equivalent_contact_depth_m": 1.1662001189584339e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 9.0,
+      "lid_deg": 9.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.2070778126238295e-11,
+      "volume_mm3": 0.012070778126238295,
+      "equivalent_contact_depth_m": 8.621984375884496e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 9.0,
+      "lid_deg": 9.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.6441440490164394e-11,
+      "volume_mm3": 0.016441440490164393,
+      "equivalent_contact_depth_m": 1.1743886064403137e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 9.0,
+      "lid_deg": 9.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.2053657288921636e-11,
+      "volume_mm3": 0.012053657288921635,
+      "equivalent_contact_depth_m": 8.609755206372597e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 11.25,
+      "lid_deg": 11.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.6577666053481704e-11,
+      "volume_mm3": 0.016577666053481703,
+      "equivalent_contact_depth_m": 1.1841190038201216e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 11.25,
+      "lid_deg": 11.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1531852827409277e-11,
+      "volume_mm3": 0.011531852827409277,
+      "equivalent_contact_depth_m": 8.237037733863768e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 11.25,
+      "lid_deg": 11.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.641904751261779e-11,
+      "volume_mm3": 0.01641904751261779,
+      "equivalent_contact_depth_m": 1.1727891080441277e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 11.25,
+      "lid_deg": 11.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.155596097001029e-11,
+      "volume_mm3": 0.01155596097001029,
+      "equivalent_contact_depth_m": 8.254257835721635e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 13.5,
+      "lid_deg": 13.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.5264477454014087e-11,
+      "volume_mm3": 0.015264477454014087,
+      "equivalent_contact_depth_m": 1.0903198181438632e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 13.5,
+      "lid_deg": 13.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.2025054889383558e-11,
+      "volume_mm3": 0.012025054889383558,
+      "equivalent_contact_depth_m": 8.589324920988255e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 13.5,
+      "lid_deg": 13.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.5114961474108353e-11,
+      "volume_mm3": 0.015114961474108353,
+      "equivalent_contact_depth_m": 1.0796401052934536e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 13.5,
+      "lid_deg": 13.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.2025320954697479e-11,
+      "volume_mm3": 0.01202532095469748,
+      "equivalent_contact_depth_m": 8.589514967641056e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 15,
+      "lid_deg": 15,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.6416640798655876e-11,
+      "volume_mm3": 0.016416640798655877,
+      "equivalent_contact_depth_m": 1.172617199903991e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 15,
+      "lid_deg": 15,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.190517261145026e-11,
+      "volume_mm3": 0.01190517261145026,
+      "equivalent_contact_depth_m": 8.503694722464471e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 15,
+      "lid_deg": 15,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.62610120004919e-11,
+      "volume_mm3": 0.0162610120004919,
+      "equivalent_contact_depth_m": 1.1615008571779929e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 15,
+      "lid_deg": 15,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1904335650898637e-11,
+      "volume_mm3": 0.011904335650898637,
+      "equivalent_contact_depth_m": 8.503096893499026e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 15.75,
+      "lid_deg": 15.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.635271961571875e-11,
+      "volume_mm3": 0.016352719615718752,
+      "equivalent_contact_depth_m": 1.1680514011227678e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 15.75,
+      "lid_deg": 15.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.216020420165539e-11,
+      "volume_mm3": 0.01216020420165539,
+      "equivalent_contact_depth_m": 8.685860144039564e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 15.75,
+      "lid_deg": 15.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.649118743573189e-11,
+      "volume_mm3": 0.01649118743573189,
+      "equivalent_contact_depth_m": 1.1779419596951348e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 15.75,
+      "lid_deg": 15.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.2183602064791146e-11,
+      "volume_mm3": 0.012183602064791146,
+      "equivalent_contact_depth_m": 8.702572903422247e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 18.0,
+      "lid_deg": 18.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.594688888497847e-11,
+      "volume_mm3": 0.01594688888497847,
+      "equivalent_contact_depth_m": 1.1390634917841763e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 18.0,
+      "lid_deg": 18.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1523842685460298e-11,
+      "volume_mm3": 0.011523842685460299,
+      "equivalent_contact_depth_m": 8.231316203900212e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 18.0,
+      "lid_deg": 18.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.6008658043974038e-11,
+      "volume_mm3": 0.016008658043974038,
+      "equivalent_contact_depth_m": 1.1434755745695741e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 18.0,
+      "lid_deg": 18.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1482004129778717e-11,
+      "volume_mm3": 0.011482004129778718,
+      "equivalent_contact_depth_m": 8.201431521270511e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 20.25,
+      "lid_deg": 20.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.683910021447797e-11,
+      "volume_mm3": 0.01683910021447797,
+      "equivalent_contact_depth_m": 1.202792872462712e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 20.25,
+      "lid_deg": 20.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.175315617587227e-11,
+      "volume_mm3": 0.01175315617587227,
+      "equivalent_contact_depth_m": 8.395111554194478e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 20.25,
+      "lid_deg": 20.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.7121135843278346e-11,
+      "volume_mm3": 0.017121135843278346,
+      "equivalent_contact_depth_m": 1.2229382745198817e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 20.25,
+      "lid_deg": 20.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1778725810077281e-11,
+      "volume_mm3": 0.011778725810077282,
+      "equivalent_contact_depth_m": 8.413375578626629e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 22.5,
+      "lid_deg": 22.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.4542690104757343e-11,
+      "volume_mm3": 0.014542690104757342,
+      "equivalent_contact_depth_m": 1.0387635789112387e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 22.5,
+      "lid_deg": 22.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1842478791419563e-11,
+      "volume_mm3": 0.011842478791419562,
+      "equivalent_contact_depth_m": 8.458913422442544e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 22.5,
+      "lid_deg": 22.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.4684612530881067e-11,
+      "volume_mm3": 0.014684612530881068,
+      "equivalent_contact_depth_m": 1.0489008950629332e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 22.5,
+      "lid_deg": 22.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1798034096570877e-11,
+      "volume_mm3": 0.011798034096570877,
+      "equivalent_contact_depth_m": 8.427167211836341e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 24.75,
+      "lid_deg": 24.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.6497310755760222e-11,
+      "volume_mm3": 0.016497310755760223,
+      "equivalent_contact_depth_m": 1.1783793396971586e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 24.75,
+      "lid_deg": 24.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.2055198995953855e-11,
+      "volume_mm3": 0.012055198995953855,
+      "equivalent_contact_depth_m": 8.610856425681324e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 24.75,
+      "lid_deg": 24.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.6661184775117718e-11,
+      "volume_mm3": 0.01666118477511772,
+      "equivalent_contact_depth_m": 1.1900846267941226e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 24.75,
+      "lid_deg": 24.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.2022296013935707e-11,
+      "volume_mm3": 0.012022296013935707,
+      "equivalent_contact_depth_m": 8.587354295668361e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 27.0,
+      "lid_deg": 27.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.7263439891303532e-11,
+      "volume_mm3": 0.017263439891303533,
+      "equivalent_contact_depth_m": 1.2331028493788237e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 27.0,
+      "lid_deg": 27.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1670565715753368e-11,
+      "volume_mm3": 0.011670565715753367,
+      "equivalent_contact_depth_m": 8.336118368395261e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 27.0,
+      "lid_deg": 27.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.745791262704476e-11,
+      "volume_mm3": 0.017457912627044762,
+      "equivalent_contact_depth_m": 1.2469937590746256e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 27.0,
+      "lid_deg": 27.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1711202182292037e-11,
+      "volume_mm3": 0.011711202182292038,
+      "equivalent_contact_depth_m": 8.365144415922884e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 29.25,
+      "lid_deg": 29.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.733471323314746e-11,
+      "volume_mm3": 0.01733471323314746,
+      "equivalent_contact_depth_m": 1.2381938023676755e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 29.25,
+      "lid_deg": 29.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.2140246678679859e-11,
+      "volume_mm3": 0.01214024667867986,
+      "equivalent_contact_depth_m": 8.671604770485613e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 29.25,
+      "lid_deg": 29.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.7385416519753472e-11,
+      "volume_mm3": 0.01738541651975347,
+      "equivalent_contact_depth_m": 1.2418154656966766e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 29.25,
+      "lid_deg": 29.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.2102680857755067e-11,
+      "volume_mm3": 0.012102680857755068,
+      "equivalent_contact_depth_m": 8.644772041253618e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 30,
+      "lid_deg": 30,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.6935218091065083e-11,
+      "volume_mm3": 0.016935218091065084,
+      "equivalent_contact_depth_m": 1.2096584350760772e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 30,
+      "lid_deg": 30,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.2156044583988062e-11,
+      "volume_mm3": 0.012156044583988062,
+      "equivalent_contact_depth_m": 8.6828889885629e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 30,
+      "lid_deg": 30,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.697834902264525e-11,
+      "volume_mm3": 0.01697834902264525,
+      "equivalent_contact_depth_m": 1.212739215903232e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 30,
+      "lid_deg": 30,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.2128435349516343e-11,
+      "volume_mm3": 0.012128435349516343,
+      "equivalent_contact_depth_m": 8.663168106797386e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 31.5,
+      "lid_deg": 31.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.4669258148728907e-11,
+      "volume_mm3": 0.014669258148728907,
+      "equivalent_contact_depth_m": 1.0478041534806361e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 31.5,
+      "lid_deg": 31.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.198411308483047e-11,
+      "volume_mm3": 0.01198411308483047,
+      "equivalent_contact_depth_m": 8.560080774878906e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 31.5,
+      "lid_deg": 31.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.4992336758699502e-11,
+      "volume_mm3": 0.014992336758699501,
+      "equivalent_contact_depth_m": 1.0708811970499643e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 31.5,
+      "lid_deg": 31.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1991694001149162e-11,
+      "volume_mm3": 0.011991694001149161,
+      "equivalent_contact_depth_m": 8.565495715106543e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 33.75,
+      "lid_deg": 33.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.8278424772170015e-11,
+      "volume_mm3": 0.018278424772170013,
+      "equivalent_contact_depth_m": 1.3056017694407153e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 33.75,
+      "lid_deg": 33.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1495051752401687e-11,
+      "volume_mm3": 0.011495051752401687,
+      "equivalent_contact_depth_m": 8.21075125171549e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 33.75,
+      "lid_deg": 33.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.8632296237178833e-11,
+      "volume_mm3": 0.01863229623717883,
+      "equivalent_contact_depth_m": 1.330878302655631e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 33.75,
+      "lid_deg": 33.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1478882372767747e-11,
+      "volume_mm3": 0.011478882372767747,
+      "equivalent_contact_depth_m": 8.199201694834104e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 36.0,
+      "lid_deg": 36.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 2.0384890820825077e-11,
+      "volume_mm3": 0.020384890820825077,
+      "equivalent_contact_depth_m": 1.456063630058934e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 36.0,
+      "lid_deg": 36.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1557268466129578e-11,
+      "volume_mm3": 0.011557268466129578,
+      "equivalent_contact_depth_m": 8.255191761521127e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 36.0,
+      "lid_deg": 36.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 2.0299459913418678e-11,
+      "volume_mm3": 0.020299459913418676,
+      "equivalent_contact_depth_m": 1.4499614223870484e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 36.0,
+      "lid_deg": 36.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1544263789993191e-11,
+      "volume_mm3": 0.011544263789993191,
+      "equivalent_contact_depth_m": 8.245902707137993e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 38.25,
+      "lid_deg": 38.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.4079408573842668e-11,
+      "volume_mm3": 0.014079408573842668,
+      "equivalent_contact_depth_m": 1.0056720409887618e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 38.25,
+      "lid_deg": 38.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.188296226033425e-11,
+      "volume_mm3": 0.01188296226033425,
+      "equivalent_contact_depth_m": 8.487830185953034e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 38.25,
+      "lid_deg": 38.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.4149195790885968e-11,
+      "volume_mm3": 0.014149195790885968,
+      "equivalent_contact_depth_m": 1.0106568422061404e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 38.25,
+      "lid_deg": 38.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1825605321262628e-11,
+      "volume_mm3": 0.011825605321262629,
+      "equivalent_contact_depth_m": 8.446860943759019e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 40.5,
+      "lid_deg": 40.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.730792418306305e-11,
+      "volume_mm3": 0.01730792418306305,
+      "equivalent_contact_depth_m": 1.2362802987902178e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 40.5,
+      "lid_deg": 40.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1492041781089966e-11,
+      "volume_mm3": 0.011492041781089967,
+      "equivalent_contact_depth_m": 8.208601272207117e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 40.5,
+      "lid_deg": 40.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.6668419636150634e-11,
+      "volume_mm3": 0.016668419636150632,
+      "equivalent_contact_depth_m": 1.190601402582188e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 40.5,
+      "lid_deg": 40.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1516890923516872e-11,
+      "volume_mm3": 0.011516890923516872,
+      "equivalent_contact_depth_m": 8.226350659654907e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 42.75,
+      "lid_deg": 42.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.756928729648829e-11,
+      "volume_mm3": 0.01756928729648829,
+      "equivalent_contact_depth_m": 1.2549490926063065e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 42.75,
+      "lid_deg": 42.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1315927906961582e-11,
+      "volume_mm3": 0.011315927906961582,
+      "equivalent_contact_depth_m": 8.082805647829701e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 42.75,
+      "lid_deg": 42.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.7468116861988848e-11,
+      "volume_mm3": 0.017468116861988847,
+      "equivalent_contact_depth_m": 1.2477226329992034e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 42.75,
+      "lid_deg": 42.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1351986591889327e-11,
+      "volume_mm3": 0.011351986591889327,
+      "equivalent_contact_depth_m": 8.108561851349519e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 45.0,
+      "lid_deg": 45.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.7279255480061526e-11,
+      "volume_mm3": 0.017279255480061526,
+      "equivalent_contact_depth_m": 1.2342325342901088e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 45.0,
+      "lid_deg": 45.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.22768983674143e-11,
+      "volume_mm3": 0.0122768983674143,
+      "equivalent_contact_depth_m": 8.769213119581642e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 45.0,
+      "lid_deg": 45.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.7627961926826344e-11,
+      "volume_mm3": 0.017627961926826342,
+      "equivalent_contact_depth_m": 1.259140137630453e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 45.0,
+      "lid_deg": 45.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.2321016724048316e-11,
+      "volume_mm3": 0.012321016724048317,
+      "equivalent_contact_depth_m": 8.800726231463082e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 47.25,
+      "lid_deg": 47.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.736810305554272e-11,
+      "volume_mm3": 0.01736810305554272,
+      "equivalent_contact_depth_m": 1.2405787896816228e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 47.25,
+      "lid_deg": 47.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.180923562092966e-11,
+      "volume_mm3": 0.01180923562092966,
+      "equivalent_contact_depth_m": 8.435168300664042e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 47.25,
+      "lid_deg": 47.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.8062602036586615e-11,
+      "volume_mm3": 0.018062602036586616,
+      "equivalent_contact_depth_m": 1.2901858597561867e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 47.25,
+      "lid_deg": 47.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1840476100220025e-11,
+      "volume_mm3": 0.011840476100220026,
+      "equivalent_contact_depth_m": 8.457482928728588e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 49.5,
+      "lid_deg": 49.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.8445581407648623e-11,
+      "volume_mm3": 0.018445581407648622,
+      "equivalent_contact_depth_m": 1.3175415291177586e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 49.5,
+      "lid_deg": 49.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1525772788140292e-11,
+      "volume_mm3": 0.011525772788140293,
+      "equivalent_contact_depth_m": 8.232694848671636e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 49.5,
+      "lid_deg": 49.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.8342086552931608e-11,
+      "volume_mm3": 0.018342086552931607,
+      "equivalent_contact_depth_m": 1.3101490394951147e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 49.5,
+      "lid_deg": 49.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1467947316183967e-11,
+      "volume_mm3": 0.011467947316183967,
+      "equivalent_contact_depth_m": 8.191390940131405e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 51.75,
+      "lid_deg": 51.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.4328147919585063e-11,
+      "volume_mm3": 0.014328147919585062,
+      "equivalent_contact_depth_m": 1.0234391371132187e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 51.75,
+      "lid_deg": 51.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1905449940344572e-11,
+      "volume_mm3": 0.011905449940344572,
+      "equivalent_contact_depth_m": 8.503892814531836e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 51.75,
+      "lid_deg": 51.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.4456445516456132e-11,
+      "volume_mm3": 0.014456445516456133,
+      "equivalent_contact_depth_m": 1.032603251175438e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 51.75,
+      "lid_deg": 51.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1956429788305298e-11,
+      "volume_mm3": 0.011956429788305299,
+      "equivalent_contact_depth_m": 8.540306991646641e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 54.0,
+      "lid_deg": 54.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 2.065531067943437e-11,
+      "volume_mm3": 0.02065531067943437,
+      "equivalent_contact_depth_m": 1.475379334245312e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 54.0,
+      "lid_deg": 54.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.176733315746026e-11,
+      "volume_mm3": 0.01176733315746026,
+      "equivalent_contact_depth_m": 8.405237969614471e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 54.0,
+      "lid_deg": 54.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 2.0944355073753557e-11,
+      "volume_mm3": 0.020944355073753557,
+      "equivalent_contact_depth_m": 1.4960253624109682e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 54.0,
+      "lid_deg": 54.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.182265803689994e-11,
+      "volume_mm3": 0.01182265803689994,
+      "equivalent_contact_depth_m": 8.444755740642814e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 56.25,
+      "lid_deg": 56.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.8850109661478587e-11,
+      "volume_mm3": 0.018850109661478587,
+      "equivalent_contact_depth_m": 1.3464364043913276e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 56.25,
+      "lid_deg": 56.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1450680655465564e-11,
+      "volume_mm3": 0.011450680655465563,
+      "equivalent_contact_depth_m": 8.179057611046831e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 56.25,
+      "lid_deg": 56.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.8793466474306208e-11,
+      "volume_mm3": 0.018793466474306207,
+      "equivalent_contact_depth_m": 1.3423904624504433e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 56.25,
+      "lid_deg": 56.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1449461052318636e-11,
+      "volume_mm3": 0.011449461052318637,
+      "equivalent_contact_depth_m": 8.178186465941882e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 58.5,
+      "lid_deg": 58.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.4347966608816379e-11,
+      "volume_mm3": 0.014347966608816378,
+      "equivalent_contact_depth_m": 1.0248547577725984e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 58.5,
+      "lid_deg": 58.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1821358649790179e-11,
+      "volume_mm3": 0.011821358649790179,
+      "equivalent_contact_depth_m": 8.443827606992984e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 58.5,
+      "lid_deg": 58.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.4054099649107245e-11,
+      "volume_mm3": 0.014054099649107246,
+      "equivalent_contact_depth_m": 1.0038642606505174e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 58.5,
+      "lid_deg": 58.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1835255424465552e-11,
+      "volume_mm3": 0.011835255424465552,
+      "equivalent_contact_depth_m": 8.453753874618251e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 60,
+      "lid_deg": 60,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.7190556723707626e-11,
+      "volume_mm3": 0.017190556723707624,
+      "equivalent_contact_depth_m": 1.2278969088362587e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 60,
+      "lid_deg": 60,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.2321550176977314e-11,
+      "volume_mm3": 0.012321550176977314,
+      "equivalent_contact_depth_m": 8.801107269269509e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 60,
+      "lid_deg": 60,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.7213123247189876e-11,
+      "volume_mm3": 0.017213123247189877,
+      "equivalent_contact_depth_m": 1.2295088033707053e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 60,
+      "lid_deg": 60,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.2274775574837386e-11,
+      "volume_mm3": 0.012274775574837386,
+      "equivalent_contact_depth_m": 8.76769683916956e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 60.75,
+      "lid_deg": 60.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.6898167068230907e-11,
+      "volume_mm3": 0.016898167068230906,
+      "equivalent_contact_depth_m": 1.2070119334450646e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 60.75,
+      "lid_deg": 60.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1206934823844063e-11,
+      "volume_mm3": 0.011206934823844064,
+      "equivalent_contact_depth_m": 8.004953445602901e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 60.75,
+      "lid_deg": 60.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.664796284521659e-11,
+      "volume_mm3": 0.01664796284521659,
+      "equivalent_contact_depth_m": 1.1891402032297563e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 60.75,
+      "lid_deg": 60.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1274851338496652e-11,
+      "volume_mm3": 0.011274851338496652,
+      "equivalent_contact_depth_m": 8.053465241783322e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 63.0,
+      "lid_deg": 63.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.7474537203428115e-11,
+      "volume_mm3": 0.017474537203428116,
+      "equivalent_contact_depth_m": 1.248181228816294e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 63.0,
+      "lid_deg": 63.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.2200471280473469e-11,
+      "volume_mm3": 0.012200471280473468,
+      "equivalent_contact_depth_m": 8.714622343195334e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 63.0,
+      "lid_deg": 63.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.7919970321553548e-11,
+      "volume_mm3": 0.017919970321553548,
+      "equivalent_contact_depth_m": 1.2799978801109675e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 63.0,
+      "lid_deg": 63.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.2180165594320997e-11,
+      "volume_mm3": 0.012180165594320997,
+      "equivalent_contact_depth_m": 8.700118281657854e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 65.25,
+      "lid_deg": 65.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.665767974251228e-11,
+      "volume_mm3": 0.016657679742512282,
+      "equivalent_contact_depth_m": 1.1898342673223056e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 65.25,
+      "lid_deg": 65.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.212192678547664e-11,
+      "volume_mm3": 0.01212192678547664,
+      "equivalent_contact_depth_m": 8.658519132483313e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 65.25,
+      "lid_deg": 65.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.661338243595872e-11,
+      "volume_mm3": 0.01661338243595872,
+      "equivalent_contact_depth_m": 1.1866701739970513e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 65.25,
+      "lid_deg": 65.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.2177922300637875e-11,
+      "volume_mm3": 0.012177922300637875,
+      "equivalent_contact_depth_m": 8.698515929027053e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 67.5,
+      "lid_deg": 67.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.454731970463674e-11,
+      "volume_mm3": 0.014547319704636739,
+      "equivalent_contact_depth_m": 1.0390942646169098e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 67.5,
+      "lid_deg": 67.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.2063909240379988e-11,
+      "volume_mm3": 0.012063909240379988,
+      "equivalent_contact_depth_m": 8.617078028842848e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 67.5,
+      "lid_deg": 67.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.444199255675493e-11,
+      "volume_mm3": 0.014441992556754931,
+      "equivalent_contact_depth_m": 1.0315708969110663e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 67.5,
+      "lid_deg": 67.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.2016385110521548e-11,
+      "volume_mm3": 0.012016385110521548,
+      "equivalent_contact_depth_m": 8.583132221801105e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 69.75,
+      "lid_deg": 69.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.623418433413956e-11,
+      "volume_mm3": 0.01623418433413956,
+      "equivalent_contact_depth_m": 1.1595845952956828e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 69.75,
+      "lid_deg": 69.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1897027360043391e-11,
+      "volume_mm3": 0.011897027360043392,
+      "equivalent_contact_depth_m": 8.497876685745278e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 69.75,
+      "lid_deg": 69.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.6107370665660276e-11,
+      "volume_mm3": 0.016107370665660276,
+      "equivalent_contact_depth_m": 1.150526476118591e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 69.75,
+      "lid_deg": 69.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1936306716137838e-11,
+      "volume_mm3": 0.011936306716137839,
+      "equivalent_contact_depth_m": 8.525933368669883e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 72.0,
+      "lid_deg": 72.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.525535173200231e-11,
+      "volume_mm3": 0.015255351732002308,
+      "equivalent_contact_depth_m": 1.0896679808573077e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 72.0,
+      "lid_deg": 72.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1638951385360344e-11,
+      "volume_mm3": 0.011638951385360344,
+      "equivalent_contact_depth_m": 8.313536703828817e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 72.0,
+      "lid_deg": 72.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.533437884156153e-11,
+      "volume_mm3": 0.01533437884156153,
+      "equivalent_contact_depth_m": 1.095312774397252e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 72.0,
+      "lid_deg": 72.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1632649460647229e-11,
+      "volume_mm3": 0.011632649460647229,
+      "equivalent_contact_depth_m": 8.309035329033733e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 74.25,
+      "lid_deg": 74.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.5728944063106777e-11,
+      "volume_mm3": 0.01572894406310678,
+      "equivalent_contact_depth_m": 1.1234960045076268e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 74.25,
+      "lid_deg": 74.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.2575962313725604e-11,
+      "volume_mm3": 0.012575962313725604,
+      "equivalent_contact_depth_m": 8.982830224089716e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 74.25,
+      "lid_deg": 74.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.5696542728127003e-11,
+      "volume_mm3": 0.015696542728127004,
+      "equivalent_contact_depth_m": 1.1211816234376429e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 74.25,
+      "lid_deg": 74.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.2575916113681116e-11,
+      "volume_mm3": 0.012575916113681116,
+      "equivalent_contact_depth_m": 8.98279722405794e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 75,
+      "lid_deg": 75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.664634358853495e-11,
+      "volume_mm3": 0.01664634358853495,
+      "equivalent_contact_depth_m": 1.1890245420382107e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 75,
+      "lid_deg": 75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.2026577521469726e-11,
+      "volume_mm3": 0.012026577521469727,
+      "equivalent_contact_depth_m": 8.590412515335517e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 75,
+      "lid_deg": 75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.649337809367444e-11,
+      "volume_mm3": 0.016493378093674443,
+      "equivalent_contact_depth_m": 1.17809843526246e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 75,
+      "lid_deg": 75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.2007304870022691e-11,
+      "volume_mm3": 0.012007304870022691,
+      "equivalent_contact_depth_m": 8.576646335730493e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 76.5,
+      "lid_deg": 76.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.542258982118279e-11,
+      "volume_mm3": 0.015422589821182789,
+      "equivalent_contact_depth_m": 1.1016135586559134e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 76.5,
+      "lid_deg": 76.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1987483869949524e-11,
+      "volume_mm3": 0.011987483869949524,
+      "equivalent_contact_depth_m": 8.562488478535373e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 76.5,
+      "lid_deg": 76.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.542994671868556e-11,
+      "volume_mm3": 0.01542994671868556,
+      "equivalent_contact_depth_m": 1.1021390513346829e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 76.5,
+      "lid_deg": 76.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1983392853770718e-11,
+      "volume_mm3": 0.011983392853770718,
+      "equivalent_contact_depth_m": 8.559566324121941e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 78.75,
+      "lid_deg": 78.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.6724003379783582e-11,
+      "volume_mm3": 0.01672400337978358,
+      "equivalent_contact_depth_m": 1.1945716699845414e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 78.75,
+      "lid_deg": 78.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1842099798845216e-11,
+      "volume_mm3": 0.011842099798845216,
+      "equivalent_contact_depth_m": 8.458642713460868e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 78.75,
+      "lid_deg": 78.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.6720125775691905e-11,
+      "volume_mm3": 0.016720125775691905,
+      "equivalent_contact_depth_m": 1.1942946982637073e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 78.75,
+      "lid_deg": 78.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.18331620657747e-11,
+      "volume_mm3": 0.0118331620657747,
+      "equivalent_contact_depth_m": 8.4522586184105e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 81.0,
+      "lid_deg": 81.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.6272882096681014e-11,
+      "volume_mm3": 0.016272882096681013,
+      "equivalent_contact_depth_m": 1.162348721191501e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 81.0,
+      "lid_deg": 81.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.2013531727115671e-11,
+      "volume_mm3": 0.01201353172711567,
+      "equivalent_contact_depth_m": 8.581094090796907e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 81.0,
+      "lid_deg": 81.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.613200381259177e-11,
+      "volume_mm3": 0.01613200381259177,
+      "equivalent_contact_depth_m": 1.1522859866136977e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 81.0,
+      "lid_deg": 81.0,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.2034509042785169e-11,
+      "volume_mm3": 0.012034509042785168,
+      "equivalent_contact_depth_m": 8.59607788770369e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 83.25,
+      "lid_deg": 83.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.6696927247995683e-11,
+      "volume_mm3": 0.016696927247995683,
+      "equivalent_contact_depth_m": 1.1926376605711202e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 83.25,
+      "lid_deg": 83.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1996765044984192e-11,
+      "volume_mm3": 0.011996765044984193,
+      "equivalent_contact_depth_m": 8.569117889274423e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 83.25,
+      "lid_deg": 83.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.6654854394858542e-11,
+      "volume_mm3": 0.016654854394858542,
+      "equivalent_contact_depth_m": 1.18963245677561e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 83.25,
+      "lid_deg": 83.25,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1991350253868534e-11,
+      "volume_mm3": 0.011991350253868533,
+      "equivalent_contact_depth_m": 8.565250181334667e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 85.5,
+      "lid_deg": 85.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.653747537741952e-11,
+      "volume_mm3": 0.01653747537741952,
+      "equivalent_contact_depth_m": 1.1812482412442512e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 85.5,
+      "lid_deg": 85.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.1957509634414688e-11,
+      "volume_mm3": 0.011957509634414687,
+      "equivalent_contact_depth_m": 8.541078310296205e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 85.5,
+      "lid_deg": 85.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.6483610576546335e-11,
+      "volume_mm3": 0.016483610576546334,
+      "equivalent_contact_depth_m": 1.1774007554675953e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 85.5,
+      "lid_deg": 85.5,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.1963899839017882e-11,
+      "volume_mm3": 0.011963899839017883,
+      "equivalent_contact_depth_m": 8.545642742155629e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 87.75,
+      "lid_deg": 87.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 00",
+      "volume_m3": 1.6472274339903212e-11,
+      "volume_mm3": 0.016472274339903212,
+      "equivalent_contact_depth_m": 1.1765910242788008e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 87.75,
+      "lid_deg": 87.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 01",
+      "volume_m3": 1.191339176547555e-11,
+      "volume_mm3": 0.01191339176547555,
+      "equivalent_contact_depth_m": 8.50956554676825e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 87.75,
+      "lid_deg": 87.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 10",
+      "volume_m3": 1.6441199175663045e-11,
+      "volume_mm3": 0.016441199175663047,
+      "equivalent_contact_depth_m": 1.1743713696902174e-07,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    },
+    {
+      "family": "suite",
+      "seat_deg": 87.75,
+      "lid_deg": 87.75,
+      "a": "Inodoro suite | asiento",
+      "b": "SAN8 | suite lid buffer 11",
+      "volume_m3": 1.192365063727366e-11,
+      "volume_mm3": 0.01192365063727366,
+      "equivalent_contact_depth_m": 8.516893312338327e-08,
+      "classification": "Seat/lid-buffer intended tangent contact, <=0.3um numerical envelope; independently ray-checked."
+    }
+  ],
+  "seconds": 420.939297914505,
+  "threshold_m3": 1e-11,
+  "aabb_contact_tolerance_m": 2e-07,
+  "pass": true
+}

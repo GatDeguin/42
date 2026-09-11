@@ -1,0 +1,1444 @@
+{
+  "project": "Casa de Campo",
+  "status": "R8 EN REVISION / SIN APROBACION9,9 / SIN CALCULO DE CAPACIDAD",
+  "model": "D:\\2026\\42\\output\\Casa_de_Campo_99_R8.blend",
+  "model_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+  "anchor_model": null,
+  "anchor_sha256": null,
+  "paper_mm": [
+    594,
+    420
+  ],
+  "pdf": "Suplemento_Detalles_95_A2.pdf",
+  "sheets": [
+    {
+      "id": "D01",
+      "title": "Alero, capas y union de remates",
+      "svg": "D01.svg",
+      "dxf": "D01.dxf"
+    },
+    {
+      "id": "D02",
+      "title": "Escalon de cubierta y penetraciones",
+      "svg": "D02.svg",
+      "dxf": "D02.dxf"
+    },
+    {
+      "id": "D03",
+      "title": "DVH: galces y juntas",
+      "svg": "D03.svg",
+      "dxf": "D03.dxf"
+    },
+    {
+      "id": "D04",
+      "title": "Baranda: placa, apoyo y anclajes",
+      "svg": "D04.svg",
+      "dxf": "D04.dxf"
+    },
+    {
+      "id": "D05",
+      "title": "Escalera: placas, bulones y apoyo",
+      "svg": "D05.svg",
+      "dxf": "D05.dxf"
+    },
+    {
+      "id": "D05b",
+      "title": "Escalera: arranque y plantilla",
+      "svg": "D05b.svg",
+      "dxf": "D05b.dxf"
+    },
+    {
+      "id": "D06",
+      "title": "Acustica: panel, cielorraso y fijaciones",
+      "svg": "D06.svg",
+      "dxf": "D06.dxf"
+    },
+    {
+      "id": "D07",
+      "title": "Sellos, pasos y relieve acustico",
+      "svg": "D07.svg",
+      "dxf": "D07.dxf"
+    },
+    {
+      "id": "D08",
+      "title": "Ventilacion: montaje y mantenimiento",
+      "svg": "D08.svg",
+      "dxf": "D08.dxf"
+    },
+    {
+      "id": "D09",
+      "title": "Baño: piso continuo y corredera",
+      "svg": "D09.svg",
+      "dxf": "D09.dxf"
+    },
+    {
+      "id": "D10",
+      "title": "Corredizas: pistas, vidrio y drenaje",
+      "svg": "D10.svg",
+      "dxf": "D10.dxf"
+    },
+    {
+      "id": "D11",
+      "title": "Banos: continuidad humeda y ducha",
+      "svg": "D11.svg",
+      "dxf": "D11.dxf"
+    },
+    {
+      "id": "D13",
+      "title": "MIDI: uso y apoyo",
+      "svg": "D13.svg",
+      "dxf": "D13.dxf"
+    },
+    {
+      "id": "D14",
+      "title": "Isla PB: dos plazas y soporte",
+      "svg": "D14.svg",
+      "dxf": "D14.dxf"
+    }
+  ],
+  "proposal_scope": "All P measures are dimensional coordination proposals, not calculations or certified manufacturer details",
+  "sources": {
+    "R1": [
+      "Lysaght: Roofing & Walling Installation Manual, §§7.9 y11",
+      "https://cdn.dcs.lysaght.com/download/lysaght-roofing-walling-installation-manual"
+    ],
+    "R2": [
+      "Vitro TD-140: Large Insulating Glass Units, p.4",
+      "https://www.vitroglazings.com/media/fzzavcjr/tech_doc_140.pdf"
+    ],
+    "R3": [
+      "GIK Acoustics: How to Hang Acoustic Panels",
+      "https://www.gikacoustics.net/en-gb/blogs/knowledge-base/how-to-hang-acoustic-panels"
+    ],
+    "R4": [
+      "TROX: Splitter sound attenuator, installation manual",
+      "https://cdn.trox.de/46e8cdbf6ec5f664/8d90dc4ef7b3/XS_MS_XK_MK_RK_IM_A00000090240_V2_2024_11_GB_en.pdf"
+    ],
+    "R5": [
+      "Hilti: Base plates - design considerations",
+      "https://www.hilti.com.sg/content/hilti/A2/SG/en/engineering/design-center/anchor-systems/typical-applications/base-plate.html"
+    ],
+    "R6": [
+      "ROCKWOOL: Acoustic insulation - installation and flanking",
+      "https://www.rockwool.com/north-america/applications/acoustic-insulation/"
+    ],
+    "U1": [
+      "NKBA Kitchen Planning Guidelines, Guideline9: seating",
+      "https://kb.nkba.org/uploads/2022/05/Kitchen-Planning-Guidelines.pdf"
+    ],
+    "U2": [
+      "OSHA computer workstation evaluation: neutral posture",
+      "https://www.osha.gov/etools/computer-workstations/checklists/evaluation"
+    ]
+  },
+  "measurements": [
+    {
+      "item": "DVH exterior",
+      "value_mm": 9.000778198242188,
+      "source": "Ventana DVH estudio vidrio"
+    },
+    {
+      "item": "DVH interior",
+      "value_mm": 9.000778198242188,
+      "source": "Ventana DVH estudio Vidrio interior"
+    },
+    {
+      "item": "DVH clear cavity",
+      "value_mm": 16.999244689941406,
+      "source": "inner.minX - outer.maxX"
+    },
+    {
+      "item": "DVH total package",
+      "value_mm": 35.00080108642578,
+      "source": "inner.maxX - outer.minX"
+    },
+    {
+      "item": "Baranda regular plate",
+      "value_mm": [
+        210.0,
+        110.0,
+        12.0
+      ],
+      "source": "FIX95 | placa interior Baranda lateral poste 1"
+    },
+    {
+      "item": "Baranda grout at post1",
+      "value_mm": 59.0,
+      "source": "FIX95 | grout hasta sustrato Baranda lateral poste 1"
+    },
+    {
+      "item": "Baranda rods",
+      "count": 68,
+      "source": "FIX95 | vastago M10 continuo*"
+    },
+    {
+      "item": "MIDI white key height",
+      "value_mm": 750.0,
+      "source": "MAT95 | tecla natural 00",
+      "class": "G",
+      "source_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329"
+    },
+    {
+      "item": "MIDI black key height",
+      "value_mm": 762.5003,
+      "source": "MAT95 | tecla sostenido 00",
+      "class": "G",
+      "source_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329"
+    },
+    {
+      "item": "MIDI seat height",
+      "value_mm": 470.0,
+      "source": "Silla estudio asiento",
+      "class": "G",
+      "source_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329"
+    },
+    {
+      "item": "MIDI tray headroom",
+      "value_mm": 665.0,
+      "source": "USO99 | MIDI bandeja18",
+      "class": "G",
+      "source_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329"
+    },
+    {
+      "item": "MIDI body depth",
+      "value_mm": 399.9996,
+      "source": "Controlador estudio",
+      "class": "G",
+      "source_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329"
+    },
+    {
+      "item": "Island counter height",
+      "value_mm": 900.0,
+      "source": "Isla cocina mono tapa",
+      "class": "G",
+      "source_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329"
+    },
+    {
+      "item": "Island knee depth",
+      "value_mm": 399.9999,
+      "source": "fondo.minZ minus cap.minZ",
+      "class": "G",
+      "source_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329"
+    },
+    {
+      "item": "Island stool height",
+      "value_mm": 650.0,
+      "source": "Taburete isla mono A | asiento 30 mm",
+      "class": "G",
+      "source_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329"
+    },
+    {
+      "item": "Island front leg clearance",
+      "value_mm": 305.0003,
+      "source": "right.minX minus left.maxX",
+      "class": "G",
+      "source_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329"
+    },
+    {
+      "item": "R8 use evidence",
+      "source": "D:\\2026\\42\\planos95\\r8_final\\use_evidence\\use_validation.json",
+      "source_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+      "status": "PASS",
+      "body_scenarios": "P declared dimensions; no population or structural certification"
+    }
+  ],
+  "proposal_register": [
+    {
+      "sheet": "D01",
+      "detail": "Alero",
+      "dimensions": "chapa0.8 G; aislacion80 G; camara20 P; solape150 P; goteron30 P; remates cada300 P"
+    },
+    {
+      "sheet": "D02",
+      "detail": "Escalon/penetracion",
+      "dimensions": "salto600 G; solapevertical250 P; pliegue25 P; zocalo233 P; cuello375 P"
+    },
+    {
+      "sheet": "D03",
+      "detail": "DVH",
+      "dimensions": "9/17/9 G; galce39 G; juntas2 G; tacos100x9x6 G por vidrio; repisa250x12 y junta15 P"
+    },
+    {
+      "sheet": "D04",
+      "detail": "Baranda",
+      "dimensions": "placa210x110x12 G;4M10 G; ejes90/170 del canto G;100 dentro hormigon G; capacidad pendiente"
+    },
+    {
+      "sheet": "D05",
+      "detail": "Escalera",
+      "dimensions": "cartelas10 P;2M16 P; agujeros18 P; ejes90 G/P; dado300x300x250 P"
+    },
+    {
+      "sheet": "D05b",
+      "detail": "Arranque escalera",
+      "dimensions": "placa180x160x12 P; grout20 P;2M12 ejes100 P; dado300x300x250 P"
+    },
+    {
+      "sheet": "D06",
+      "detail": "Tratamiento/acondicionamiento",
+      "dimensions": "huella80 G; lana50+aire29+tela1 P; barrera2x15 P;4M6 por nube P"
+    },
+    {
+      "sheet": "D07",
+      "detail": "Sellos",
+      "dimensions": "juntas5 P; sello caida10 P; manguito100 para tubo25 P; sellos15 P; relieve G28..125"
+    },
+    {
+      "sheet": "D08",
+      "detail": "Ventilacion",
+      "dimensions": "P modelado:2x filtro200, fan200, silenciador600/Ø251.6; pasoØ150 y rectangular300x80; registro1400x830; accesorios+6.453; sin prestaciones asignadas"
+    },
+    {
+      "sheet": "D13",
+      "detail": "MIDI support and declared operator",
+      "dimensions": "G model dimensions; P body envelopes, strength and individual fit not certified"
+    },
+    {
+      "sheet": "D14",
+      "detail": "Island support and2seat use",
+      "dimensions": "G counter/knee/stool geometry; P body envelopes and alternative access scenarios"
+    }
+  ],
+  "dimensions": [
+    {
+      "sheet": "D01",
+      "view": "01 Alero propuesto sobre espesores G",
+      "axis": "x",
+      "from_mm": 0,
+      "to_mm": 160,
+      "value_mm": 160,
+      "label": "160 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D01",
+      "view": "01 Alero propuesto sobre espesores G",
+      "axis": "y",
+      "from_mm": 520.3330599999999,
+      "to_mm": 600.3330599999999,
+      "value_mm": 80.0,
+      "label": "80 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D01",
+      "view": "01 Alero propuesto sobre espesores G",
+      "axis": "x",
+      "from_mm": 80,
+      "to_mm": 120,
+      "value_mm": 40,
+      "label": "40 P",
+      "class": "P"
+    },
+    {
+      "sheet": "D01",
+      "view": "01 Alero propuesto sobre espesores G",
+      "axis": "y",
+      "from_mm": 280,
+      "to_mm": 420,
+      "value_mm": 140,
+      "label": "140 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D01",
+      "view": "02 Solape de babetas / fijacion P",
+      "axis": "x",
+      "from_mm": 520,
+      "to_mm": 670,
+      "value_mm": 150,
+      "label": "150 P solape",
+      "class": "P"
+    },
+    {
+      "sheet": "D01",
+      "view": "02 Solape de babetas / fijacion P",
+      "axis": "y",
+      "from_mm": 280,
+      "to_mm": 295,
+      "value_mm": 15,
+      "label": "separacion grafica",
+      "class": "P"
+    },
+    {
+      "sheet": "D02",
+      "view": "03 Encuentro escalonado / seccion P",
+      "axis": "y",
+      "from_mm": 410,
+      "to_mm": 1010,
+      "value_mm": 600,
+      "label": "600 G desnivel",
+      "class": "G"
+    },
+    {
+      "sheet": "D02",
+      "view": "03 Encuentro escalonado / seccion P",
+      "axis": "y",
+      "from_mm": 545,
+      "to_mm": 795,
+      "value_mm": 250,
+      "label": "250 P solape vertical",
+      "class": "P"
+    },
+    {
+      "sheet": "D02",
+      "view": "03 Encuentro escalonado / seccion P",
+      "axis": "x",
+      "from_mm": 758,
+      "to_mm": 928,
+      "value_mm": 170,
+      "label": "170 P ala",
+      "class": "P"
+    },
+    {
+      "sheet": "D02",
+      "view": "03 Encuentro escalonado / seccion P",
+      "axis": "y",
+      "from_mm": 590,
+      "to_mm": 615,
+      "value_mm": 25,
+      "label": "25 P pliegue",
+      "class": "P"
+    },
+    {
+      "sheet": "D02",
+      "view": "04 Paso de conducto / remate P",
+      "axis": "y",
+      "from_mm": 342,
+      "to_mm": 575,
+      "value_mm": 233,
+      "label": "233 P zocalo",
+      "class": "P"
+    },
+    {
+      "sheet": "D02",
+      "view": "04 Paso de conducto / remate P",
+      "axis": "x",
+      "from_mm": 400,
+      "to_mm": 610,
+      "value_mm": 210,
+      "label": "210 G conducto",
+      "class": "G"
+    },
+    {
+      "sheet": "D02",
+      "view": "04 Paso de conducto / remate P",
+      "axis": "x",
+      "from_mm": 320,
+      "to_mm": 695,
+      "value_mm": 375,
+      "label": "375 P hueco exterior",
+      "class": "P"
+    },
+    {
+      "sheet": "D03",
+      "view": "05 Antepecho / corte real G",
+      "axis": "x",
+      "from_mm": 167.5,
+      "to_mm": 202.5,
+      "value_mm": 35.0,
+      "label": "35 G DVH",
+      "class": "G"
+    },
+    {
+      "sheet": "D03",
+      "view": "05 Antepecho / corte real G",
+      "axis": "y",
+      "from_mm": 74,
+      "to_mm": 80,
+      "value_mm": 6,
+      "label": "6 G taco",
+      "class": "G"
+    },
+    {
+      "sheet": "D03",
+      "view": "05 Antepecho / corte real G",
+      "axis": "y",
+      "from_mm": 36.000270843505874,
+      "to_mm": 39.00005340576173,
+      "value_mm": 2.9997825622558594,
+      "label": "3 G asiento",
+      "class": "G"
+    },
+    {
+      "sheet": "D03",
+      "view": "06 Jamba / corte real G",
+      "axis": "x",
+      "from_mm": 165.5,
+      "to_mm": 204.5,
+      "value_mm": 39.0,
+      "label": "39 G galce",
+      "class": "G"
+    },
+    {
+      "sheet": "D03",
+      "view": "06 Jamba / corte real G",
+      "axis": "x",
+      "from_mm": 176.5,
+      "to_mm": 193.5,
+      "value_mm": 17.0,
+      "label": "17 G camara",
+      "class": "G"
+    },
+    {
+      "sheet": "D03",
+      "view": "P Conexion del marco al soporte",
+      "axis": "x",
+      "from_mm": 300,
+      "to_mm": 315,
+      "value_mm": 15,
+      "label": "15 P junta",
+      "class": "P"
+    },
+    {
+      "sheet": "D03",
+      "view": "P Conexion del marco al soporte",
+      "axis": "x",
+      "from_mm": 260,
+      "to_mm": 510,
+      "value_mm": 250,
+      "label": "250 P repisa",
+      "class": "P"
+    },
+    {
+      "sheet": "D04",
+      "view": "07 Planta G / placa lateral regular",
+      "axis": "x",
+      "from_mm": 350,
+      "to_mm": 560,
+      "value_mm": 210,
+      "label": "210 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D04",
+      "view": "07 Planta G / placa lateral regular",
+      "axis": "x",
+      "from_mm": 350,
+      "to_mm": 440,
+      "value_mm": 90,
+      "label": "90 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D04",
+      "view": "07 Planta G / placa lateral regular",
+      "axis": "x",
+      "from_mm": 440,
+      "to_mm": 520,
+      "value_mm": 80,
+      "label": "80 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D04",
+      "view": "07 Planta G / placa lateral regular",
+      "axis": "x",
+      "from_mm": 350,
+      "to_mm": 520,
+      "value_mm": 170,
+      "label": "170 G al 2do eje",
+      "class": "G"
+    },
+    {
+      "sheet": "D04",
+      "view": "07 Planta G / placa lateral regular",
+      "axis": "y",
+      "from_mm": 400,
+      "to_mm": 510,
+      "value_mm": 110,
+      "label": "110 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D04",
+      "view": "07 Planta G / placa lateral regular",
+      "axis": "y",
+      "from_mm": 422,
+      "to_mm": 488,
+      "value_mm": 66,
+      "label": "66 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D04",
+      "view": "08 Corte G / sustrato y anclaje continuo",
+      "axis": "x",
+      "from_mm": 350,
+      "to_mm": 560,
+      "value_mm": 210,
+      "label": "210 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D04",
+      "view": "08 Corte G / sustrato y anclaje continuo",
+      "axis": "y",
+      "from_mm": 100,
+      "to_mm": 200,
+      "value_mm": 100,
+      "label": "100 G en H°",
+      "class": "G"
+    },
+    {
+      "sheet": "D04",
+      "view": "08 Corte G / sustrato y anclaje continuo",
+      "axis": "y",
+      "from_mm": 254,
+      "to_mm": 266,
+      "value_mm": 12,
+      "label": "12 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D04",
+      "view": "08 Corte G / sustrato y anclaje continuo",
+      "axis": "y",
+      "from_mm": 100,
+      "to_mm": 284,
+      "value_mm": 184,
+      "label": "184 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D05",
+      "view": "09 Union superior G / envolventes reales",
+      "axis": "x",
+      "from_mm": 305,
+      "to_mm": 515,
+      "value_mm": 210,
+      "label": "210 G caja placa",
+      "class": "G"
+    },
+    {
+      "sheet": "D05",
+      "view": "09 Union superior G / envolventes reales",
+      "axis": "y",
+      "from_mm": 208.8,
+      "to_mm": 440,
+      "value_mm": 231.2,
+      "label": "231,2 G envolvente",
+      "class": "G"
+    },
+    {
+      "sheet": "D05",
+      "view": "09 Union superior G / envolventes reales",
+      "axis": "y",
+      "from_mm": 260,
+      "to_mm": 350,
+      "value_mm": 90,
+      "label": "90 G ejes cabezas",
+      "class": "G"
+    },
+    {
+      "sheet": "D05",
+      "view": "10 P doble cartela / seccion transversal",
+      "axis": "x",
+      "from_mm": 388,
+      "to_mm": 398,
+      "value_mm": 10,
+      "label": "10 P",
+      "class": "P"
+    },
+    {
+      "sheet": "D05",
+      "view": "10 P doble cartela / seccion transversal",
+      "axis": "x",
+      "from_mm": 400,
+      "to_mm": 480,
+      "value_mm": 80,
+      "label": "80 G zanca",
+      "class": "G"
+    },
+    {
+      "sheet": "D05",
+      "view": "10 P doble cartela / seccion transversal",
+      "axis": "x",
+      "from_mm": 482,
+      "to_mm": 492,
+      "value_mm": 10,
+      "label": "10 P",
+      "class": "P"
+    },
+    {
+      "sheet": "D05",
+      "view": "10 P doble cartela / seccion transversal",
+      "axis": "x",
+      "from_mm": 398,
+      "to_mm": 400,
+      "value_mm": 2,
+      "label": "2 P holgura",
+      "class": "P"
+    },
+    {
+      "sheet": "D05",
+      "view": "10 P doble cartela / seccion transversal",
+      "axis": "y",
+      "from_mm": 410,
+      "to_mm": 500,
+      "value_mm": 90,
+      "label": "90 P ejes",
+      "class": "P"
+    },
+    {
+      "sheet": "D05",
+      "view": "10 P doble cartela / seccion transversal",
+      "axis": "y",
+      "from_mm": 330,
+      "to_mm": 660,
+      "value_mm": 330,
+      "label": "330 P cartela",
+      "class": "P"
+    },
+    {
+      "sheet": "D05b",
+      "view": "11 Apoyo inferior / seccion P",
+      "axis": "x",
+      "from_mm": 360,
+      "to_mm": 660,
+      "value_mm": 300,
+      "label": "300 P dado",
+      "class": "P"
+    },
+    {
+      "sheet": "D05b",
+      "view": "11 Apoyo inferior / seccion P",
+      "axis": "x",
+      "from_mm": 420,
+      "to_mm": 600,
+      "value_mm": 180,
+      "label": "180 P placa",
+      "class": "P"
+    },
+    {
+      "sheet": "D05b",
+      "view": "11 Apoyo inferior / seccion P",
+      "axis": "x",
+      "from_mm": 460,
+      "to_mm": 560,
+      "value_mm": 100,
+      "label": "100 P ejes",
+      "class": "P"
+    },
+    {
+      "sheet": "D05b",
+      "view": "11 Apoyo inferior / seccion P",
+      "axis": "y",
+      "from_mm": 50,
+      "to_mm": 300,
+      "value_mm": 250,
+      "label": "250 P",
+      "class": "P"
+    },
+    {
+      "sheet": "D05b",
+      "view": "11 Apoyo inferior / seccion P",
+      "axis": "y",
+      "from_mm": 200,
+      "to_mm": 300,
+      "value_mm": 100,
+      "label": "100 P en H°",
+      "class": "P"
+    },
+    {
+      "sheet": "D05b",
+      "view": "12 Plantilla de arranque / planta P",
+      "axis": "x",
+      "from_mm": 360,
+      "to_mm": 540,
+      "value_mm": 180,
+      "label": "180 P",
+      "class": "P"
+    },
+    {
+      "sheet": "D05b",
+      "view": "12 Plantilla de arranque / planta P",
+      "axis": "x",
+      "from_mm": 400,
+      "to_mm": 500,
+      "value_mm": 100,
+      "label": "100 P ejes",
+      "class": "P"
+    },
+    {
+      "sheet": "D05b",
+      "view": "12 Plantilla de arranque / planta P",
+      "axis": "y",
+      "from_mm": 320,
+      "to_mm": 480,
+      "value_mm": 160,
+      "label": "160 P",
+      "class": "P"
+    },
+    {
+      "sheet": "D05b",
+      "view": "12 Plantilla de arranque / planta P",
+      "axis": "x",
+      "from_mm": 360,
+      "to_mm": 400,
+      "value_mm": 40,
+      "label": "40 P borde",
+      "class": "P"
+    },
+    {
+      "sheet": "D05b",
+      "view": "12 Plantilla de arranque / planta P",
+      "axis": "y",
+      "from_mm": 250,
+      "to_mm": 550,
+      "value_mm": 300,
+      "label": "300 P dado",
+      "class": "P"
+    },
+    {
+      "sheet": "D06",
+      "view": "11 Panel de80 / montaje P dentro de huella",
+      "axis": "x",
+      "from_mm": 350,
+      "to_mm": 430,
+      "value_mm": 80,
+      "label": "80 G huella",
+      "class": "G"
+    },
+    {
+      "sheet": "D06",
+      "view": "11 Panel de80 / montaje P dentro de huella",
+      "axis": "x",
+      "from_mm": 350,
+      "to_mm": 379,
+      "value_mm": 29,
+      "label": "29 P aire",
+      "class": "P"
+    },
+    {
+      "sheet": "D06",
+      "view": "11 Panel de80 / montaje P dentro de huella",
+      "axis": "x",
+      "from_mm": 379,
+      "to_mm": 429,
+      "value_mm": 50,
+      "label": "50 P lana",
+      "class": "P"
+    },
+    {
+      "sheet": "D06",
+      "view": "11 Panel de80 / montaje P dentro de huella",
+      "axis": "y",
+      "from_mm": 200,
+      "to_mm": 800,
+      "value_mm": 600,
+      "label": "600 P modulo",
+      "class": "P"
+    },
+    {
+      "sheet": "D06",
+      "view": "Cielorraso P sobre bafle G / corte parcial",
+      "axis": "x",
+      "from_mm": 120,
+      "to_mm": 816,
+      "value_mm": 696,
+      "label": "696 G ejes cabios",
+      "class": "G"
+    },
+    {
+      "sheet": "D06",
+      "view": "Cielorraso P sobre bafle G / corte parcial",
+      "axis": "y",
+      "from_mm": 150,
+      "to_mm": 270,
+      "value_mm": 120,
+      "label": "120 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D06",
+      "view": "Cielorraso P sobre bafle G / corte parcial",
+      "axis": "y",
+      "from_mm": 270,
+      "to_mm": 300,
+      "value_mm": 30,
+      "label": "30 P aire",
+      "class": "P"
+    },
+    {
+      "sheet": "D06",
+      "view": "Cielorraso P sobre bafle G / corte parcial",
+      "axis": "y",
+      "from_mm": 300,
+      "to_mm": 330,
+      "value_mm": 30,
+      "label": "2x15 P",
+      "class": "P"
+    },
+    {
+      "sheet": "D07",
+      "view": "13 Puerta estudio / umbral y doble sello P",
+      "axis": "y",
+      "from_mm": 280,
+      "to_mm": 290,
+      "value_mm": 10,
+      "label": "10 P sello caida",
+      "class": "P"
+    },
+    {
+      "sheet": "D07",
+      "view": "13 Puerta estudio / umbral y doble sello P",
+      "axis": "x",
+      "from_mm": 470,
+      "to_mm": 535,
+      "value_mm": 65,
+      "label": "65 G hoja",
+      "class": "G"
+    },
+    {
+      "sheet": "D07",
+      "view": "13 Puerta estudio / umbral y doble sello P",
+      "axis": "x",
+      "from_mm": 447,
+      "to_mm": 465,
+      "value_mm": 18,
+      "label": "18 P galce",
+      "class": "P"
+    },
+    {
+      "sheet": "D07",
+      "view": "14 Paso de servicio frio / sellado P",
+      "axis": "x",
+      "from_mm": 340,
+      "to_mm": 540,
+      "value_mm": 200,
+      "label": "200 G cerramiento",
+      "class": "G"
+    },
+    {
+      "sheet": "D07",
+      "view": "14 Paso de servicio frio / sellado P",
+      "axis": "y",
+      "from_mm": 290,
+      "to_mm": 390,
+      "value_mm": 100,
+      "label": "100 P manguito",
+      "class": "P"
+    },
+    {
+      "sheet": "D07",
+      "view": "14 Paso de servicio frio / sellado P",
+      "axis": "y",
+      "from_mm": 327.5,
+      "to_mm": 352.5,
+      "value_mm": 25.0,
+      "label": "25 P tubo",
+      "class": "P"
+    },
+    {
+      "sheet": "D07",
+      "view": "15 Relieve G / soporte posterior P",
+      "axis": "x",
+      "from_mm": 0,
+      "to_mm": 52,
+      "value_mm": 52,
+      "label": "52 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D07",
+      "view": "15 Relieve G / soporte posterior P",
+      "axis": "x",
+      "from_mm": 0,
+      "to_mm": 84,
+      "value_mm": 84,
+      "label": "84 G paso",
+      "class": "G"
+    },
+    {
+      "sheet": "D07",
+      "view": "15 Relieve G / soporte posterior P",
+      "axis": "y",
+      "from_mm": 12,
+      "to_mm": 137,
+      "value_mm": 125,
+      "label": "125 G max.",
+      "class": "G"
+    },
+    {
+      "sheet": "D08",
+      "view": "16 Planta de cielorraso y plenum",
+      "axis": "x",
+      "from_mm": 3840,
+      "to_mm": 6360,
+      "value_mm": 2520,
+      "label": "2,52m G centros terminales",
+      "class": "G"
+    },
+    {
+      "sheet": "D08",
+      "view": "18 Equipo / corte Z4,68",
+      "axis": "x",
+      "from_mm": 200,
+      "to_mm": 400,
+      "value_mm": 200,
+      "label": "200 G filtro",
+      "class": "G"
+    },
+    {
+      "sheet": "D08",
+      "view": "18 Equipo / corte Z4,68",
+      "axis": "x",
+      "from_mm": 700,
+      "to_mm": 1300,
+      "value_mm": 600,
+      "label": "600 G silenciador",
+      "class": "G"
+    },
+    {
+      "sheet": "D08",
+      "view": "18 Equipo / corte Z4,68",
+      "axis": "y",
+      "from_mm": 364.2,
+      "to_mm": 615.8,
+      "value_mm": 251.59999999999997,
+      "label": "Ø251,6 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D08",
+      "view": "19 Acceso / X19,40 + P",
+      "axis": "y",
+      "from_mm": 50,
+      "to_mm": 1450,
+      "value_mm": 1400,
+      "label": "1400 P tablero",
+      "class": "P"
+    },
+    {
+      "sheet": "D08",
+      "view": "19 Acceso / X19,40 + P",
+      "axis": "y",
+      "from_mm": 50,
+      "to_mm": 3253,
+      "value_mm": 3203,
+      "label": "3,203m G",
+      "class": "G"
+    },
+    {
+      "sheet": "D08",
+      "view": "19 Acceso / X19,40 + P",
+      "axis": "x",
+      "from_mm": 375,
+      "to_mm": 1205,
+      "value_mm": 830,
+      "label": "830 G libre",
+      "class": "G"
+    },
+    {
+      "sheet": "D08",
+      "view": "20 Frente / corte X17,64",
+      "axis": "y",
+      "from_mm": 331.5,
+      "to_mm": 398.3334,
+      "value_mm": 66.83339999999998,
+      "label": "66,8 G a viga",
+      "class": "G"
+    },
+    {
+      "sheet": "D08",
+      "view": "20 Frente / corte X17,64",
+      "axis": "x",
+      "from_mm": 1250,
+      "to_mm": 1850,
+      "value_mm": 600,
+      "label": "600 G transicion",
+      "class": "G"
+    },
+    {
+      "sheet": "D09",
+      "view": "18 Transicion humedo-seco / geometria G",
+      "axis": "x",
+      "from_mm": 610,
+      "to_mm": 760,
+      "value_mm": 150,
+      "label": "150 G al seco",
+      "class": "G"
+    },
+    {
+      "sheet": "D09",
+      "view": "18 Transicion humedo-seco / geometria G",
+      "axis": "y",
+      "from_mm": 300,
+      "to_mm": 350,
+      "value_mm": 50,
+      "label": "50 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D09",
+      "view": "18 Transicion humedo-seco / geometria G",
+      "axis": "y",
+      "from_mm": 350,
+      "to_mm": 360,
+      "value_mm": 10,
+      "label": "10 G bajo hoja",
+      "class": "G"
+    },
+    {
+      "sheet": "D09",
+      "view": "18 Transicion humedo-seco / geometria G",
+      "axis": "x",
+      "from_mm": 645,
+      "to_mm": 685,
+      "value_mm": 40,
+      "label": "40 G hoja",
+      "class": "G"
+    },
+    {
+      "sheet": "D09",
+      "view": "19 Corredera modelada / vista parcial G",
+      "axis": "y",
+      "from_mm": 2470,
+      "to_mm": 2500,
+      "value_mm": 30,
+      "label": "30 G solape",
+      "class": "G"
+    },
+    {
+      "sheet": "D09",
+      "view": "19 Corredera modelada / vista parcial G",
+      "axis": "y",
+      "from_mm": 250,
+      "to_mm": 2470,
+      "value_mm": 2220,
+      "label": "2220 G paso alto",
+      "class": "G"
+    },
+    {
+      "sheet": "D09",
+      "view": "19 Corredera modelada / vista parcial G",
+      "axis": "y",
+      "from_mm": 260,
+      "to_mm": 2500,
+      "value_mm": 2240,
+      "label": "2240 G hoja",
+      "class": "G"
+    },
+    {
+      "sheet": "D09",
+      "view": "19 Corredera modelada / vista parcial G",
+      "axis": "x",
+      "from_mm": 145,
+      "to_mm": 185,
+      "value_mm": 40,
+      "label": "40 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D09",
+      "view": "Herraje ampliado G",
+      "axis": "x",
+      "from_mm": 56,
+      "to_mm": 90,
+      "value_mm": 34,
+      "label": "34 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D09",
+      "view": "Herraje ampliado G",
+      "axis": "y",
+      "from_mm": 55,
+      "to_mm": 90,
+      "value_mm": 35,
+      "label": "35 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D10",
+      "view": "20 Rodadura / corte exacto de la geometria",
+      "axis": "x",
+      "from_mm": 54.5,
+      "to_mm": 99.5,
+      "value_mm": 45.0,
+      "label": "45 G perfil",
+      "class": "G"
+    },
+    {
+      "sheet": "D10",
+      "view": "20 Rodadura / corte exacto de la geometria",
+      "axis": "y",
+      "from_mm": 77.5,
+      "to_mm": 122.5,
+      "value_mm": 45.0,
+      "label": "45 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D10",
+      "view": "21 Acristalamiento / corte por tacos",
+      "axis": "x",
+      "from_mm": 107.5,
+      "to_mm": 142.5,
+      "value_mm": 35.0,
+      "label": "35 G /9-17-9",
+      "class": "G"
+    },
+    {
+      "sheet": "D10",
+      "view": "21 Acristalamiento / corte por tacos",
+      "axis": "y",
+      "from_mm": 94,
+      "to_mm": 100,
+      "value_mm": 6,
+      "label": "6 G taco",
+      "class": "G"
+    },
+    {
+      "sheet": "D11",
+      "view": "24 Ducha PB / planta",
+      "axis": "x",
+      "from_mm": 150,
+      "to_mm": 1050,
+      "value_mm": 900,
+      "label": "900 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D11",
+      "view": "24 Ducha PB / planta",
+      "axis": "y",
+      "from_mm": 190,
+      "to_mm": 1640,
+      "value_mm": 1450,
+      "label": "1450 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D11",
+      "view": "24a Junta pasante / X21,35",
+      "axis": "x",
+      "from_mm": 12,
+      "to_mm": 20,
+      "value_mm": 8,
+      "label": "8 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D11",
+      "view": "24a Junta pasante / X21,35",
+      "axis": "y",
+      "from_mm": 19,
+      "to_mm": 21,
+      "value_mm": 2,
+      "label": "2 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D11",
+      "view": "25 Ducha PB / X21,35",
+      "axis": "y",
+      "from_mm": 210,
+      "to_mm": 2309.9000453948975,
+      "value_mm": 2099.9000453948975,
+      "label": "2100 G libre",
+      "class": "G"
+    },
+    {
+      "sheet": "D11",
+      "view": "25 Ducha PB / X21,35",
+      "axis": "x",
+      "from_mm": 309.9998474121094,
+      "to_mm": 509.9996566772461,
+      "value_mm": 199.99980926513672,
+      "label": "Ø200 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D11",
+      "view": "26 Griferia PA / X21,10",
+      "axis": "x",
+      "from_mm": 135,
+      "to_mm": 170,
+      "value_mm": 35,
+      "label": "35 G antes del cuerpo",
+      "class": "G"
+    },
+    {
+      "sheet": "D11",
+      "view": "27 Piso-muro PB / Z1,40",
+      "axis": "x",
+      "from_mm": 100,
+      "to_mm": 114,
+      "value_mm": 14,
+      "label": "14 G capas",
+      "class": "G"
+    },
+    {
+      "sheet": "D11",
+      "view": "28 Sumidero PB / Z0,985",
+      "axis": "x",
+      "from_mm": 170,
+      "to_mm": 270,
+      "value_mm": 100,
+      "label": "100 G",
+      "class": "G"
+    },
+    {
+      "sheet": "D13",
+      "view": "27 Puesto central / corte Z3,00",
+      "axis": "y",
+      "from_mm": 0,
+      "to_mm": 750.0,
+      "value_mm": 750.0,
+      "label": "750 G teclas",
+      "class": "G"
+    },
+    {
+      "sheet": "D13",
+      "view": "27 Puesto central / corte Z3,00",
+      "axis": "y",
+      "from_mm": 0,
+      "to_mm": 470.0000286102295,
+      "value_mm": 470.0000286102295,
+      "label": "470 G asiento",
+      "class": "G"
+    },
+    {
+      "sheet": "D13",
+      "view": "27 Puesto central / corte Z3,00",
+      "axis": "y",
+      "from_mm": 0,
+      "to_mm": 664.9999618530273,
+      "value_mm": 664.9999618530273,
+      "label": "665 G libre",
+      "class": "G"
+    },
+    {
+      "sheet": "D13",
+      "view": "27 Puesto central / corte Z3,00",
+      "axis": "x",
+      "from_mm": 1010.0002288818359,
+      "to_mm": 1409.9998474121094,
+      "value_mm": 399.99961853027344,
+      "label": "400 G cuerpo",
+      "class": "G"
+    },
+    {
+      "sheet": "D13",
+      "view": "27 Puesto central / corte Z3,00",
+      "axis": "x",
+      "from_mm": 1310,
+      "to_mm": 1720,
+      "value_mm": 410,
+      "label": "410 P codo / tecla",
+      "class": "P"
+    },
+    {
+      "sheet": "D13",
+      "view": "28 Bandeja, raiz y consola / Z2,43",
+      "axis": "y",
+      "from_mm": 75,
+      "to_mm": 115,
+      "value_mm": 40,
+      "label": "40 G brazo",
+      "class": "G"
+    },
+    {
+      "sheet": "D13",
+      "view": "28 Bandeja, raiz y consola / Z2,43",
+      "axis": "y",
+      "from_mm": 115,
+      "to_mm": 133,
+      "value_mm": 18,
+      "label": "18 G bandeja",
+      "class": "G"
+    },
+    {
+      "sheet": "D13",
+      "view": "28 Bandeja, raiz y consola / Z2,43",
+      "axis": "y",
+      "from_mm": 63,
+      "to_mm": 67,
+      "value_mm": 4,
+      "label": "4 G placa",
+      "class": "G"
+    },
+    {
+      "sheet": "D14",
+      "view": "29 Corte por plaza A / X16.35",
+      "axis": "y",
+      "from_mm": 0,
+      "to_mm": 900.0000208616257,
+      "value_mm": 900.0000208616257,
+      "label": "900 G tapa",
+      "class": "G"
+    },
+    {
+      "sheet": "D14",
+      "view": "29 Corte por plaza A / X16.35",
+      "axis": "y",
+      "from_mm": 0,
+      "to_mm": 650.0000208616257,
+      "value_mm": 650.0000208616257,
+      "label": "650 G asiento",
+      "class": "G"
+    },
+    {
+      "sheet": "D14",
+      "view": "29 Corte por plaza A / X16.35",
+      "axis": "x",
+      "from_mm": 1520.000171661377,
+      "to_mm": 1920.0000286102295,
+      "value_mm": 399.99985694885254,
+      "label": "400 G rodillas",
+      "class": "G"
+    },
+    {
+      "sheet": "D14",
+      "view": "29 Corte por plaza A / X16.35",
+      "axis": "y",
+      "from_mm": 650.0000208616257,
+      "to_mm": 842.0000523328781,
+      "value_mm": 192.00003147125244,
+      "label": "192 G a viga",
+      "class": "G"
+    },
+    {
+      "sheet": "D14",
+      "view": "29 Corte por plaza A / X16.35",
+      "axis": "x",
+      "from_mm": 1250,
+      "to_mm": 1850,
+      "value_mm": 600,
+      "label": "600 P sensibilidad",
+      "class": "P"
+    },
+    {
+      "sheet": "D14",
+      "view": "30 Planta de huellas y maniobra / Cedro arriba",
+      "axis": "x",
+      "from_mm": 495.000000000001,
+      "to_mm": 1105.0000000000005,
+      "value_mm": 609.9999999999994,
+      "label": "610 P plaza",
+      "class": "P"
+    },
+    {
+      "sheet": "D14",
+      "view": "30 Planta de huellas y maniobra / Cedro arriba",
+      "axis": "x",
+      "from_mm": 1434.9999999999986,
+      "to_mm": 2044.9999999999982,
+      "value_mm": 609.9999999999995,
+      "label": "610 P plaza",
+      "class": "P"
+    },
+    {
+      "sheet": "D14",
+      "view": "30 Planta de huellas y maniobra / Cedro arriba",
+      "axis": "x",
+      "from_mm": 647.5002288818353,
+      "to_mm": 952.5005340576165,
+      "value_mm": 305.00030517578125,
+      "label": "305 G entre patas",
+      "class": "G"
+    }
+  ]
+}

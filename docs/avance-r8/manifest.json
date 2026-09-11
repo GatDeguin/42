@@ -1,0 +1,171 @@
+{
+  "revision": "R8",
+  "status": "ADVANCE_PENDING_GLOBAL_REVIEW",
+  "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+  "sourceFile": "Casa_de_Campo_99_R8.blend",
+  "lastFormalReview": {
+    "revision": "R7D",
+    "score": 8.5,
+    "target": 9.9
+  },
+  "viewerRevision": "R7D",
+  "images": [
+    {
+      "key": "huerta",
+      "file": "huerta.png",
+      "title": "Huerta y jardín",
+      "camera": "CAM | Huerta",
+      "frame": 1,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        1.100000023841858,
+        -2.0,
+        3.0999999046325684
+      ],
+      "quaternionBlender": [
+        0.33128347992897034,
+        0.19802582263946533,
+        -0.473322331905365,
+        -0.7918351888656616
+      ],
+      "lensMM": 26.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 51.6,
+      "sha256": "1eb4bbc67c5b211dbc83cf69fb041d92598dde2544579c2dc567ef9de289ccf8",
+      "publicFile": "huerta.jpg",
+      "publicSHA256": "66455af0d8b23e8ad802f468dafd32c0c6796a1cb1220f03f369c508076828c8",
+      "sourcePNG": "review99\\r8_checkpoint\\stills\\huerta.png"
+    },
+    {
+      "key": "estudio",
+      "file": "estudio.png",
+      "title": "Estudio de grabación",
+      "camera": "LUZ99 | Estudio amplitud",
+      "frame": 150,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        20.549999237060547,
+        -5.630000114440918,
+        4.849999904632568
+      ],
+      "quaternionBlender": [
+        0.6914759874343872,
+        0.6358018517494202,
+        0.23212841153144836,
+        0.2524547576904297
+      ],
+      "lensMM": 21.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 56.21,
+      "sha256": "db117ab04ba97a1d45119f168293693530a9489dd4fd35405b394145dec9d724",
+      "publicFile": "estudio.jpg",
+      "publicSHA256": "a1307c1f8979eef127f6f31e416a052122d604e39921634daf00f0ded9c5ce36",
+      "sourcePNG": "review99\\r8_checkpoint\\stills\\estudio.png"
+    },
+    {
+      "key": "dormitorio",
+      "file": "dormitorio.png",
+      "title": "Dormitorio",
+      "camera": "REV | Dormitorio completo",
+      "frame": 1,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        17.1200008392334,
+        -8.539999961853027,
+        4.860000133514404
+      ],
+      "quaternionBlender": [
+        0.7510849833488464,
+        0.5412307381629944,
+        0.22103184461593628,
+        0.30673372745513916
+      ],
+      "lensMM": 22.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 64.74,
+      "sha256": "87af0f73c32379fd534c7c3b0c2ca59532742829aba46571efa24fe4e3561418",
+      "publicFile": "dormitorio.jpg",
+      "publicSHA256": "53831e4b7606f9b81f7fe4583c093acf30a6c38a0f435b163ab93702769d2aa5",
+      "sourcePNG": "review99\\r8_checkpoint\\stills\\dormitorio.png"
+    },
+    {
+      "key": "pileta_jardin",
+      "file": "pileta_jardin.png",
+      "title": "Pileta desde el jardín, borde próximo completo",
+      "camera": "LUZ99 | Pileta desde jardin",
+      "frame": 1,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        10.0,
+        -14.25,
+        1.7200000286102295
+      ],
+      "quaternionBlender": [
+        0.4484221041202545,
+        0.36791619658470154,
+        -0.5166906714439392,
+        -0.6297507882118225
+      ],
+      "lensMM": 25.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 56.35,
+      "sha256": "227b2ada728c13f5da643da05e0008615ad5bbc529567d7c824fb232cd6130a4",
+      "publicFile": "pileta_jardin.jpg",
+      "publicSHA256": "efbff0e7e1ac39c7fe754ae5cb65f4577fabd2477e524a4504689b1c06b417f4",
+      "sourcePNG": "review99\\r8_checkpoint\\stills\\pileta_jardin.png"
+    }
+  ],
+  "videoRendered": false
+}

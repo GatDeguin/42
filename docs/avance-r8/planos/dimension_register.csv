@@ -1,0 +1,227 @@
+﻿sheet,view,axis,from_m,to_m,value_m,label,kind,classification
+A01,01 Implantacion general,horizontal,0,22,22,22.00,base,
+A01,01 Implantacion general,vertical,0,20,20,20.00,base,
+A01,01 Implantacion general,horizontal,0,14,14,14.00,base,
+A01,01 Implantacion general,horizontal,14,22,8,8.00,base,
+A01,01 Implantacion general,vertical,12,15,3,3.00,base,
+A01,01 Implantacion general,vertical,18,20,2,2.00,base,
+A01,01 Implantacion general,horizontal,20,22,2,2.00,base,
+A01,01 Implantacion general,horizontal,11,14,3,"Hoja 3,00 / luz 2,75",base,
+A01,02 Huerta y caminos,horizontal,2.05,4.25,2.2,2.20,base,
+A01,02 Huerta y caminos,horizontal,5.05,7.25,2.2,2.20,base,
+A01,02 Huerta y caminos,vertical,3.675,4.725,1.05,1.05,base,
+A01,02 Huerta y caminos,vertical,6.625,7.675,1.05,1.05,base,
+A02,01 Planta baja amoblada,horizontal,14,22,8,8.00,base,
+A02,01 Planta baja amoblada,horizontal,14,14.2,0.2,0.20,base,
+A02,01 Planta baja amoblada,horizontal,14.2,21.8,7.6,7.60,base,
+A02,01 Planta baja amoblada,horizontal,21.8,22,0.2,0.20,base,
+A02,01 Planta baja amoblada,vertical,0,12,12,12.00,base,
+A02,01 Planta baja amoblada,vertical,0,6,6,6.00,base,
+A02,01 Planta baja amoblada,vertical,6,12,6,6.00,base,
+A02,01 Planta baja amoblada,horizontal,14.2,19.25,5.05,5.05,base,
+A02,01 Planta baja amoblada,horizontal,19.39,21.8,2.41,2.41,base,
+A02,01 Planta baja amoblada,vertical,0.2,5.9,5.7,5.70,base,
+A02,01 Planta baja amoblada,vertical,0.26,1.81,1.55,1.55,base,
+A02,01 Planta baja amoblada,horizontal,14,16.75,2.75,2.75,base,
+A02,01 Planta baja amoblada,horizontal,16.75,19.25,2.5,2.50,base,
+A02,01 Planta baja amoblada,horizontal,19.25,22,2.75,2.75,base,
+A02,01 Planta baja amoblada,horizontal,20.7,21.8,1.1,1.10,base,
+A02,01 Planta baja amoblada,vertical,10.17,11.83,1.66,1.66,base,
+A03,01 Planta alta amoblada,horizontal,14,22,8,8.00,base,
+A03,01 Planta alta amoblada,horizontal,14,14.2,0.2,0.20,base,
+A03,01 Planta alta amoblada,horizontal,14.2,21.8,7.6,7.60,base,
+A03,01 Planta alta amoblada,horizontal,21.8,22,0.2,0.20,base,
+A03,01 Planta alta amoblada,vertical,0,12,12,12.00,base,
+A03,01 Planta alta amoblada,vertical,0,6,6,6.00,base,
+A03,01 Planta alta amoblada,vertical,6,12,6,6.00,base,
+A03,01 Planta alta amoblada,horizontal,14.2,17.55,3.35,3.35,base,
+A03,01 Planta alta amoblada,horizontal,17.69,19.35,1.66,1.66,base,
+A03,01 Planta alta amoblada,horizontal,19.49,21.8,2.31,2.31,base,
+A03,01 Planta alta amoblada,vertical,6.1,8.93,2.83,2.83,base,
+A03,01 Planta alta amoblada,vertical,9.07,11.8,2.73,2.73,base,
+A03,01 Planta alta amoblada,horizontal,13,14,1,1.00,base,
+A03,01 Planta alta amoblada,vertical,12,13,1,1.00,base,
+A03,01 Planta alta amoblada,vertical,1.5,4.5,3.0,3.00,base,
+A03,01 Planta alta amoblada,vertical,4.84,5.76,0.92,0.92,base,
+A03,01 Planta alta amoblada,horizontal,19.585,20.485,0.9,"P11 0,90 libre",base,
+A03,01 Planta alta amoblada,horizontal,16.54,17.54,1.0,"P05 vano1,00",base,
+A03b,"01 Vivienda / accesos, mobiliario y huellas de uso",horizontal,18.991653060913087,19.966999435424803,0.975346,0.975 uso P,base,
+A03b,"01 Vivienda / accesos, mobiliario y huellas de uso",horizontal,18.991653060913087,19.817001724243163,0.825349,0.825 uso P,base,
+A03b,"01 Vivienda / accesos, mobiliario y huellas de uso",horizontal,15.69999885559082,16.508346939086913,0.808348,0.808 uso P,base,
+A03b,"01 Vivienda / accesos, mobiliario y huellas de uso",vertical,9.07,9.875000953674316,0.805001,0.805 G,base,
+A03b,"01 Vivienda / accesos, mobiliario y huellas de uso",horizontal,19.585,20.485,0.9,"P11 0,90 libre",base,
+A04,01 Cubiertas y captacion,horizontal,13.7,22.3,8.6,8.60,base,
+A04,01 Cubiertas y captacion,vertical,0,6,6,6.00,base,
+A04,01 Cubiertas y captacion,vertical,6,12,6,6.00,base,
+A04,01 Cubiertas y captacion,horizontal,13.7,14,0.3,0.30,base,
+A05a,01 Frente / Cedro Misionero,horizontal,14,22,8,8.00,base,
+A05a,02 Contrafrente / pileta,horizontal,14,22,8,8.00,base,
+A05b,03 Lateral de acceso,horizontal,0,12,12,12.00,base,
+A05b,04 Medianera lateral,horizontal,0,12,12,12.00,base,
+A06,A-A Longitudinal por ambas alturas,vertical,3.25,6.45,3.2,"3,20 libre",base,
+A06,A-A Longitudinal por ambas alturas,vertical,3.25,5.85,2.6,"2,60 libre",base,
+A06,A-A Longitudinal por ambas alturas,horizontal,0,6,6,6.00,base,
+A06,A-A Longitudinal por ambas alturas,horizontal,6,12,6,6.00,base,
+A06,B-B Transversal por estudio,horizontal,14,22,8,8.00,base,
+A06,B-B Transversal por estudio,vertical,3.25,6.45,3.2,"3,20 libre",base,
+A07,01 Planta / acceso,horizontal,12.98,13.98,1.0,"1,00 nominal",base,
+A07,01 Planta / acceso,vertical,5,6,1,"1,00",base,
+A07,02 Seccion y proyeccion lateral,vertical,0.23722222447395325,3.249999761581421,3.012778,17 x 177.2 mm,base,
+A07,02 Seccion y proyeccion lateral,horizontal,1.194000005722046,4.782888889312744,3.588889,17 avances x 211.1 mm,base,
+A07,"03 Umbral / corte Z=5,30",vertical,3.2,3.25,0.05,50 mm,base,
+A08,01 Planta del vaso y playa humeda,horizontal,13,20,7,7.00,base,
+A08,01 Planta del vaso y playa humeda,horizontal,12,13,1,1.00,base,
+A08,01 Planta del vaso y playa humeda,horizontal,20,21,1,1.00,base,
+A08,01 Planta del vaso y playa humeda,vertical,15,18,3,3.00,base,
+A08,01 Planta del vaso y playa humeda,vertical,14,15,1,1.00,base,
+A08,01 Planta del vaso y playa humeda,vertical,18,19,1,1.00,base,
+A09,B01 Monoambiente,horizontal,19.39,21.8,2.41,2.41,base,
+A09,B01 Monoambiente,vertical,0.26,1.81,1.55,1.55,base,
+A09,Elevacion interior / artefactos,vertical,0.21,0.6649999618530273,0.455,455 G asiento,base,
+A09,B02 Vivienda,horizontal,19.49,21.8,2.31,2.31,base,
+A09,B02 Vivienda,vertical,6.165,8.57,2.405,2.41,base,
+A09,B02 Vivienda,horizontal,19.585,20.485,0.9,"P11 0,90 libre",base,
+A09,WC y bidet / hacia muro posterior,vertical,3.25,3.705000162124634,0.455,455 G asiento,base,
+A09,B03 Pileta,horizontal,20.7,21.8,1.1,1.10,base,
+A09,B03 Pileta,vertical,10.17,11.83,1.66,1.66,base,
+A09,Elevacion interior / artefactos,vertical,0.21,0.6649999618530273,0.455,455 G asiento,base,
+A10,01 Linea del quincho,vertical,6.15,7.35,1.2,"Horno 1,20",base,
+A10,01 Linea del quincho,vertical,7.5,8.8,1.3,"Bacha 1,30",base,
+A10,01 Linea del quincho,vertical,8.89,9.99,1.1,"Parrilla 1,10",base,
+A10,02 Cocina mono / ver A10b,horizontal,15.960000038146973,17.68000030517578,1.72,G 1.720,base,
+A10,02 Cocina mono / ver A10b,vertical,3.320000171661377,4.0,0.68,G 0.680,base,
+A10b,"01 Planta completa / piso +0,21",horizontal,15.960000038146973,17.68000030517578,1.72,G isla 1.720,base,
+A10b,"01 Planta completa / piso +0,21",vertical,3.320000171661377,4.0,0.68,G 0.680,base,
+A10b,"01 Planta completa / piso +0,21",horizontal,14.86,15.960000038146973,1.1,G paso 1.100,base,
+A10b,"01 Planta completa / piso +0,21",vertical,4.0,5.075999736785889,1.076,G 1.076 hasta tirador,base,
+A10b,"01 Planta completa / piso +0,21",vertical,3.320000171661377,3.7200000286102295,0.4,0.400 G rodillas / D14,base,
+A10b,02 Mesa y sillas / elevacion G,vertical,0.21,0.9600000381469727,0.75,750 G,base,
+A10b,02 Mesa y sillas / elevacion G,vertical,0.21,0.6700000166893005,0.46,460 G,base,
+A10b,"03 Mesada / Z3,60",vertical,0.21,1.1100000143051147,0.9,900 G,base,
+A11,01 Estudio / posiciones y cerramientos,horizontal,14.2,21.8,7.6,7.60,base,
+A11,01 Estudio / posiciones y cerramientos,vertical,0.2,5.8,5.6,5.60,base,
+A12,01 P05 / jambas y hoja cerrada G,horizontal,16.582,17.505,0.923,923 G entre jambas,base,
+A12,01 P05 / jambas y hoja cerrada G,horizontal,16.604503631591797,17.41050148010254,0.805998,806 G conservador,base,
+A12,02 Cierre vestidor-estar / corte G,vertical,8.93,9.07,0.14,140 G,base,
+A13,"01/A13 Alero estudio / X=17,80",vertical,6.95,7.03,0.08,80 mm aislacion representada,base,
+A13,"02/A13 Escalon cubiertas / X=17,80",vertical,7.5,8.1,0.6,"0,60 m",base,
+A13b,"05/A13b Canaleta abierta / X=14,00",horizontal,-0.16,0,0.16,"0,16 m G",base,
+A13b,"06/A13b DVH / antepecho / Z=3,00",horizontal,14,14.2,0.2,"Muro 0,20",base,
+A14,01 Planta de apoyos y lineas estructurales,horizontal,14.15,21.9,7.75,"7,75 entre ejes representativos",base,
+A14,01 Planta de apoyos y lineas estructurales,vertical,6.1,9,2.9,"2,90",base,
+A14,01 Planta de apoyos y lineas estructurales,vertical,9,11.85,2.85,"2,85",base,
+A14,"04/A14 Balcon / baranda / Z=9,00",vertical,3.25,4.300000190734863,1.05,1.05 m eje / NPT,base,
+D01,01 Alero propuesto sobre espesores G,x,0.0,0.16,0.16,160 G,detail,G
+D01,01 Alero propuesto sobre espesores G,y,0.5203330599999999,0.60033306,0.08,80 G,detail,G
+D01,01 Alero propuesto sobre espesores G,x,0.08,0.12,0.04,40 P,detail,P
+D01,01 Alero propuesto sobre espesores G,y,0.28,0.42,0.14,140 G,detail,G
+D01,02 Solape de babetas / fijacion P,x,0.52,0.67,0.15,150 P solape,detail,P
+D01,02 Solape de babetas / fijacion P,y,0.28,0.295,0.015,separacion grafica,detail,P
+D02,03 Encuentro escalonado / seccion P,y,0.41,1.01,0.6,600 G desnivel,detail,G
+D02,03 Encuentro escalonado / seccion P,y,0.545,0.795,0.25,250 P solape vertical,detail,P
+D02,03 Encuentro escalonado / seccion P,x,0.758,0.928,0.17,170 P ala,detail,P
+D02,03 Encuentro escalonado / seccion P,y,0.59,0.615,0.025,25 P pliegue,detail,P
+D02,04 Paso de conducto / remate P,y,0.342,0.575,0.233,233 P zocalo,detail,P
+D02,04 Paso de conducto / remate P,x,0.4,0.61,0.21,210 G conducto,detail,G
+D02,04 Paso de conducto / remate P,x,0.32,0.695,0.375,375 P hueco exterior,detail,P
+D03,05 Antepecho / corte real G,x,0.1675,0.2025,0.035,35 G DVH,detail,G
+D03,05 Antepecho / corte real G,y,0.074,0.08,0.006,6 G taco,detail,G
+D03,05 Antepecho / corte real G,y,0.03600027084350587,0.03900005340576173,0.0029997825622558594,3 G asiento,detail,G
+D03,06 Jamba / corte real G,x,0.1655,0.2045,0.039,39 G galce,detail,G
+D03,06 Jamba / corte real G,x,0.1765,0.1935,0.017,17 G camara,detail,G
+D03,P Conexion del marco al soporte,x,0.3,0.315,0.015,15 P junta,detail,P
+D03,P Conexion del marco al soporte,x,0.26,0.51,0.25,250 P repisa,detail,P
+D04,07 Planta G / placa lateral regular,x,0.35,0.56,0.21,210 G,detail,G
+D04,07 Planta G / placa lateral regular,x,0.35,0.44,0.09,90 G,detail,G
+D04,07 Planta G / placa lateral regular,x,0.44,0.52,0.08,80 G,detail,G
+D04,07 Planta G / placa lateral regular,x,0.35,0.52,0.17,170 G al 2do eje,detail,G
+D04,07 Planta G / placa lateral regular,y,0.4,0.51,0.11,110 G,detail,G
+D04,07 Planta G / placa lateral regular,y,0.422,0.488,0.066,66 G,detail,G
+D04,08 Corte G / sustrato y anclaje continuo,x,0.35,0.56,0.21,210 G,detail,G
+D04,08 Corte G / sustrato y anclaje continuo,y,0.1,0.2,0.1,100 G en H°,detail,G
+D04,08 Corte G / sustrato y anclaje continuo,y,0.254,0.266,0.012,12 G,detail,G
+D04,08 Corte G / sustrato y anclaje continuo,y,0.1,0.284,0.184,184 G,detail,G
+D05,09 Union superior G / envolventes reales,x,0.305,0.515,0.21,210 G caja placa,detail,G
+D05,09 Union superior G / envolventes reales,y,0.2088,0.44,0.2312,"231,2 G envolvente",detail,G
+D05,09 Union superior G / envolventes reales,y,0.26,0.35,0.09,90 G ejes cabezas,detail,G
+D05,10 P doble cartela / seccion transversal,x,0.388,0.398,0.01,10 P,detail,P
+D05,10 P doble cartela / seccion transversal,x,0.4,0.48,0.08,80 G zanca,detail,G
+D05,10 P doble cartela / seccion transversal,x,0.482,0.492,0.01,10 P,detail,P
+D05,10 P doble cartela / seccion transversal,x,0.398,0.4,0.002,2 P holgura,detail,P
+D05,10 P doble cartela / seccion transversal,y,0.41,0.5,0.09,90 P ejes,detail,P
+D05,10 P doble cartela / seccion transversal,y,0.33,0.66,0.33,330 P cartela,detail,P
+D05b,11 Apoyo inferior / seccion P,x,0.36,0.66,0.3,300 P dado,detail,P
+D05b,11 Apoyo inferior / seccion P,x,0.42,0.6,0.18,180 P placa,detail,P
+D05b,11 Apoyo inferior / seccion P,x,0.46,0.56,0.1,100 P ejes,detail,P
+D05b,11 Apoyo inferior / seccion P,y,0.05,0.3,0.25,250 P,detail,P
+D05b,11 Apoyo inferior / seccion P,y,0.2,0.3,0.1,100 P en H°,detail,P
+D05b,12 Plantilla de arranque / planta P,x,0.36,0.54,0.18,180 P,detail,P
+D05b,12 Plantilla de arranque / planta P,x,0.4,0.5,0.1,100 P ejes,detail,P
+D05b,12 Plantilla de arranque / planta P,y,0.32,0.48,0.16,160 P,detail,P
+D05b,12 Plantilla de arranque / planta P,x,0.36,0.4,0.04,40 P borde,detail,P
+D05b,12 Plantilla de arranque / planta P,y,0.25,0.55,0.3,300 P dado,detail,P
+D06,11 Panel de80 / montaje P dentro de huella,x,0.35,0.43,0.08,80 G huella,detail,G
+D06,11 Panel de80 / montaje P dentro de huella,x,0.35,0.379,0.029,29 P aire,detail,P
+D06,11 Panel de80 / montaje P dentro de huella,x,0.379,0.429,0.05,50 P lana,detail,P
+D06,11 Panel de80 / montaje P dentro de huella,y,0.2,0.8,0.6,600 P modulo,detail,P
+D06,Cielorraso P sobre bafle G / corte parcial,x,0.12,0.816,0.696,696 G ejes cabios,detail,G
+D06,Cielorraso P sobre bafle G / corte parcial,y,0.15,0.27,0.12,120 G,detail,G
+D06,Cielorraso P sobre bafle G / corte parcial,y,0.27,0.3,0.03,30 P aire,detail,P
+D06,Cielorraso P sobre bafle G / corte parcial,y,0.3,0.33,0.03,2x15 P,detail,P
+D07,13 Puerta estudio / umbral y doble sello P,y,0.28,0.29,0.01,10 P sello caida,detail,P
+D07,13 Puerta estudio / umbral y doble sello P,x,0.47,0.535,0.065,65 G hoja,detail,G
+D07,13 Puerta estudio / umbral y doble sello P,x,0.447,0.465,0.018,18 P galce,detail,P
+D07,14 Paso de servicio frio / sellado P,x,0.34,0.54,0.2,200 G cerramiento,detail,G
+D07,14 Paso de servicio frio / sellado P,y,0.29,0.39,0.1,100 P manguito,detail,P
+D07,14 Paso de servicio frio / sellado P,y,0.3275,0.3525,0.025,25 P tubo,detail,P
+D07,15 Relieve G / soporte posterior P,x,0.0,0.052,0.052,52 G,detail,G
+D07,15 Relieve G / soporte posterior P,x,0.0,0.084,0.084,84 G paso,detail,G
+D07,15 Relieve G / soporte posterior P,y,0.012,0.137,0.125,125 G max.,detail,G
+D08,16 Planta de cielorraso y plenum,x,3.84,6.36,2.52,"2,52m G centros terminales",detail,G
+D08,"18 Equipo / corte Z4,68",x,0.2,0.4,0.2,200 G filtro,detail,G
+D08,"18 Equipo / corte Z4,68",x,0.7,1.3,0.6,600 G silenciador,detail,G
+D08,"18 Equipo / corte Z4,68",y,0.36419999999999997,0.6157999999999999,0.2516,"Ø251,6 G",detail,G
+D08,"19 Acceso / X19,40 + P",y,0.05,1.45,1.4,1400 P tablero,detail,P
+D08,"19 Acceso / X19,40 + P",y,0.05,3.253,3.203,"3,203m G",detail,G
+D08,"19 Acceso / X19,40 + P",x,0.375,1.205,0.83,830 G libre,detail,G
+D08,"20 Frente / corte X17,64",y,0.3315,0.3983334,0.06683339999999999,"66,8 G a viga",detail,G
+D08,"20 Frente / corte X17,64",x,1.25,1.85,0.6,600 G transicion,detail,G
+D09,18 Transicion humedo-seco / geometria G,x,0.61,0.76,0.15,150 G al seco,detail,G
+D09,18 Transicion humedo-seco / geometria G,y,0.3,0.35,0.05,50 G,detail,G
+D09,18 Transicion humedo-seco / geometria G,y,0.35,0.36,0.01,10 G bajo hoja,detail,G
+D09,18 Transicion humedo-seco / geometria G,x,0.645,0.685,0.04,40 G hoja,detail,G
+D09,19 Corredera modelada / vista parcial G,y,2.47,2.5,0.03,30 G solape,detail,G
+D09,19 Corredera modelada / vista parcial G,y,0.25,2.47,2.22,2220 G paso alto,detail,G
+D09,19 Corredera modelada / vista parcial G,y,0.26,2.5,2.24,2240 G hoja,detail,G
+D09,19 Corredera modelada / vista parcial G,x,0.145,0.185,0.04,40 G,detail,G
+D09,Herraje ampliado G,x,0.056,0.09,0.034,34 G,detail,G
+D09,Herraje ampliado G,y,0.055,0.09,0.035,35 G,detail,G
+D10,20 Rodadura / corte exacto de la geometria,x,0.0545,0.0995,0.045,45 G perfil,detail,G
+D10,20 Rodadura / corte exacto de la geometria,y,0.0775,0.1225,0.045,45 G,detail,G
+D10,21 Acristalamiento / corte por tacos,x,0.1075,0.1425,0.035,35 G /9-17-9,detail,G
+D10,21 Acristalamiento / corte por tacos,y,0.094,0.1,0.006,6 G taco,detail,G
+D11,24 Ducha PB / planta,x,0.15,1.05,0.9,900 G,detail,G
+D11,24 Ducha PB / planta,y,0.19,1.64,1.45,1450 G,detail,G
+D11,"24a Junta pasante / X21,35",x,0.012,0.02,0.008,8 G,detail,G
+D11,"24a Junta pasante / X21,35",y,0.019,0.021,0.002,2 G,detail,G
+D11,"25 Ducha PB / X21,35",y,0.21,2.3099000453948975,2.0999000453948975,2100 G libre,detail,G
+D11,"25 Ducha PB / X21,35",x,0.3099998474121094,0.5099996566772461,0.19999980926513672,Ø200 G,detail,G
+D11,"26 Griferia PA / X21,10",x,0.135,0.17,0.035,35 G antes del cuerpo,detail,G
+D11,"27 Piso-muro PB / Z1,40",x,0.1,0.114,0.014,14 G capas,detail,G
+D11,"28 Sumidero PB / Z0,985",x,0.17,0.27,0.1,100 G,detail,G
+D13,"27 Puesto central / corte Z3,00",y,0.0,0.75,0.75,750 G teclas,detail,G
+D13,"27 Puesto central / corte Z3,00",y,0.0,0.4700000286102295,0.4700000286102295,470 G asiento,detail,G
+D13,"27 Puesto central / corte Z3,00",y,0.0,0.6649999618530273,0.6649999618530273,665 G libre,detail,G
+D13,"27 Puesto central / corte Z3,00",x,1.010000228881836,1.4099998474121094,0.39999961853027344,400 G cuerpo,detail,G
+D13,"27 Puesto central / corte Z3,00",x,1.31,1.72,0.41,410 P codo / tecla,detail,P
+D13,"28 Bandeja, raiz y consola / Z2,43",y,0.075,0.115,0.04,40 G brazo,detail,G
+D13,"28 Bandeja, raiz y consola / Z2,43",y,0.115,0.133,0.018,18 G bandeja,detail,G
+D13,"28 Bandeja, raiz y consola / Z2,43",y,0.063,0.067,0.004,4 G placa,detail,G
+D14,29 Corte por plaza A / X16.35,y,0.0,0.9000000208616257,0.9000000208616257,900 G tapa,detail,G
+D14,29 Corte por plaza A / X16.35,y,0.0,0.6500000208616257,0.6500000208616257,650 G asiento,detail,G
+D14,29 Corte por plaza A / X16.35,x,1.520000171661377,1.9200000286102294,0.39999985694885254,400 G rodillas,detail,G
+D14,29 Corte por plaza A / X16.35,y,0.6500000208616257,0.8420000523328781,0.19200003147125244,192 G a viga,detail,G
+D14,29 Corte por plaza A / X16.35,x,1.25,1.85,0.6,600 P sensibilidad,detail,P
+D14,30 Planta de huellas y maniobra / Cedro arriba,x,0.49500000000000105,1.1050000000000004,0.6099999999999994,610 P plaza,detail,P
+D14,30 Planta de huellas y maniobra / Cedro arriba,x,1.4349999999999987,2.044999999999998,0.6099999999999995,610 P plaza,detail,P
+D14,30 Planta de huellas y maniobra / Cedro arriba,x,0.6475002288818352,0.9525005340576165,0.30500030517578125,305 G entre patas,detail,G

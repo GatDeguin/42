@@ -1,0 +1,6872 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R8A_construccion_preview.blend",
+  "sourceSHA256": "a4fd1fe3d964d9366fbc4ee7eeb1a7a268d1e3621aa599edc8630a6399c7fcd1",
+  "originalR7DSHA256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "output": "D:\\2026\\42\\output\\Casa_de_Campo_99_R8.blend",
+  "outputSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+  "objects": 6555,
+  "idempotent": true,
+  "patches": {
+    "correcciones99_uv_madera_r8.py": {
+      "corrected": [
+        {
+          "object": "Puerta dormitorio comedor | hoja",
+          "restoredLayer": "SourceUV",
+          "materials": [
+            "PHOTO95 | oak_veneer_01 | dark | SourceUV"
+          ],
+          "tileMetres": [
+            1.830000043,
+            1.830000043
+          ],
+          "longitudinalAxisLocal": 2,
+          "offset": [
+            0.9109386135824025,
+            0.5773547384887934
+          ],
+          "physicalGeometryUnchanged": true
+        },
+        {
+          "object": "Baño mono puerta | hoja",
+          "restoredLayer": "SourceUV",
+          "materials": [
+            "PHOTO95 | oak_veneer_01 | dark | SourceUV"
+          ],
+          "tileMetres": [
+            1.830000043,
+            1.830000043
+          ],
+          "longitudinalAxisLocal": 2,
+          "offset": [
+            0.34599873796105385,
+            0.5506070838309824
+          ],
+          "physicalGeometryUnchanged": true
+        }
+      ],
+      "unhandledMissingLayers": [],
+      "scope": "Only absent explicitly referenced timber UV; existing layers/materials and all geometry preserved",
+      "videoRendered": false
+    },
+    "correcciones99_textiles_botanica_r8.py": {
+      "input": "D:\\2026\\42\\output\\Casa_de_Campo_99_R8A_construccion_preview.blend",
+      "input_sha256": "a4fd1fe3d964d9366fbc4ee7eeb1a7a268d1e3621aa599edc8630a6399c7fcd1",
+      "script": "scripts/correcciones99_textiles_botanica_r8.py",
+      "scope": "Textiles, seven adult garments, four garden-bed plants and soil only",
+      "status": "P / visual review pending; no formal score asserted",
+      "created_objects": 192,
+      "created_mesh_vertices": 2298530,
+      "hidden_replaced_objects": 115,
+      "unrelated_objects_unchanged": 6247,
+      "materials_photographic99": true,
+      "uv0_on_every_mesh": true,
+      "textiles": {
+        "blanket_bounds": [
+          [
+            14.926016807556152,
+            -8.142617225646973,
+            3.3749847412109375
+          ],
+          [
+            16.707454681396484,
+            -6.939726829528809,
+            3.883889675140381
+          ]
+        ],
+        "cpu_drape_seconds": 66.26615199999651,
+        "blanket_fill_thickness_m": [
+          0.004,
+          0.02917765824130255
+        ],
+        "support_projection_vertices": 0,
+        "maximum_support_projection_m": 0,
+        "fixed_mattress_bounds": [
+          [
+            14.95669937133789,
+            -8.105400085449219,
+            3.6050000190734863
+          ],
+          [
+            16.683300018310547,
+            -6.2046003341674805,
+            3.8550000190734863
+          ]
+        ],
+        "curtain_bottom_min_m": 3.292999029159546
+      },
+      "garments": [
+        {
+          "garment": 0,
+          "bounds": [
+            [
+              18.298259735107422,
+              -6.6888346672058105,
+              4.243549823760986
+            ],
+            [
+              18.36296844482422,
+              -6.24682092666626,
+              5.143997669219971
+            ]
+          ],
+          "min_panel_clearance_m": 0.0052585601806640625,
+          "front_clearance_m": 0.051165332794189666,
+          "back_clearance_m": 0.05382092666626015,
+          "hanger_nominal_width_m": 0.42,
+          "hanger_wire_outer_width_unrotated_m": 0.419,
+          "hem_height_m": 4.25,
+          "angle_degrees": 2,
+          "hook_contact_tolerance_m": 1e-06,
+          "next_garment_clearance_m": 0.03773307800292969
+        },
+        {
+          "garment": 1,
+          "bounds": [
+            [
+              18.40070152282715,
+              -6.693850517272949,
+              4.313558101654053
+            ],
+            [
+              18.483081817626953,
+              -6.254067420959473,
+              5.143997669219971
+            ]
+          ],
+          "min_panel_clearance_m": 0.10770034790039062,
+          "front_clearance_m": 0.046149482727050994,
+          "back_clearance_m": 0.06106742095947304,
+          "hanger_nominal_width_m": 0.42,
+          "hanger_wire_outer_width_unrotated_m": 0.419,
+          "hem_height_m": 4.32,
+          "angle_degrees": -4,
+          "hook_contact_tolerance_m": 1e-06,
+          "next_garment_clearance_m": 0.020824432373046875
+        },
+        {
+          "garment": 2,
+          "bounds": [
+            [
+              18.50390625,
+              -6.694848537445068,
+              4.263576030731201
+            ],
+            [
+              18.588409423828125,
+              -6.256519317626953,
+              5.143997669219971
+            ]
+          ],
+          "min_panel_clearance_m": 0.2085895538330078,
+          "front_clearance_m": 0.045151462554931854,
+          "back_clearance_m": 0.06351931762695351,
+          "hanger_nominal_width_m": 0.42,
+          "hanger_wire_outer_width_unrotated_m": 0.419,
+          "hem_height_m": 4.27,
+          "angle_degrees": 5,
+          "hook_contact_tolerance_m": 1e-06,
+          "next_garment_clearance_m": 0.026266098022460938
+        },
+        {
+          "garment": 3,
+          "bounds": [
+            [
+              18.614675521850586,
+              -6.689788818359375,
+              4.333554744720459
+            ],
+            [
+              18.69718360900879,
+              -6.2479329109191895,
+              5.143997669219971
+            ]
+          ],
+          "min_panel_clearance_m": 0.09981536865234375,
+          "front_clearance_m": 0.05021118164062521,
+          "back_clearance_m": 0.05493291091918984,
+          "hanger_nominal_width_m": 0.42,
+          "hanger_wire_outer_width_unrotated_m": 0.419,
+          "hem_height_m": 4.34,
+          "angle_degrees": -3,
+          "hook_contact_tolerance_m": 1e-06,
+          "next_garment_clearance_m": 0.05307579040527344
+        },
+        {
+          "garment": 4,
+          "bounds": [
+            [
+              18.750259399414062,
+              -6.6837944984436035,
+              4.253550052642822
+            ],
+            [
+              18.79219627380371,
+              -6.244638919830322,
+              5.143997669219971
+            ]
+          ],
+          "min_panel_clearance_m": 0.004802703857421875,
+          "front_clearance_m": 0.0562055015563967,
+          "back_clearance_m": 0.05163891983032265,
+          "hanger_nominal_width_m": 0.42,
+          "hanger_wire_outer_width_unrotated_m": 0.419,
+          "hem_height_m": 4.26,
+          "angle_degrees": 0,
+          "hook_contact_tolerance_m": 1e-06,
+          "next_garment_clearance_m": 0.04840087890625
+        },
+        {
+          "garment": 5,
+          "bounds": [
+            [
+              18.84059715270996,
+              -6.687066555023193,
+              4.303561687469482
+            ],
+            [
+              18.92366600036621,
+              -6.246765613555908,
+              5.143997669219971
+            ]
+          ],
+          "min_panel_clearance_m": 0.017597198486328125,
+          "front_clearance_m": 0.052933444976806854,
+          "back_clearance_m": 0.05376561355590859,
+          "hanger_nominal_width_m": 0.42,
+          "hanger_wire_outer_width_unrotated_m": 0.419,
+          "hem_height_m": 4.31,
+          "angle_degrees": 5,
+          "hook_contact_tolerance_m": 1e-06,
+          "next_garment_clearance_m": 0.02573394775390625
+        },
+        {
+          "garment": 6,
+          "bounds": [
+            [
+              18.949399948120117,
+              -6.6932268142700195,
+              4.238569736480713
+            ],
+            [
+              19.03531837463379,
+              -6.253690719604492,
+              5.143997669219971
+            ]
+          ],
+          "min_panel_clearance_m": 0.12639999389648438,
+          "front_clearance_m": 0.04677318572998068,
+          "back_clearance_m": 0.06069071960449257,
+          "hanger_nominal_width_m": 0.42,
+          "hanger_wire_outer_width_unrotated_m": 0.419,
+          "hem_height_m": 4.245,
+          "angle_degrees": -5,
+          "hook_contact_tolerance_m": 1e-06
+        }
+      ],
+      "garden": [
+        {
+          "bed": 1,
+          "proposed_species": "lechuga de hoja",
+          "plant_count": 8,
+          "leaf_count": 144,
+          "plant_spacing_m": [
+            0.5,
+            0.48
+          ],
+          "unchanged_bed_inner_bounds_m": [
+            2.09,
+            4.21,
+            -4.6850000000000005,
+            -3.7150000000000003
+          ],
+          "plant_bounds": [
+            [
+              2.2424442768096924,
+              -4.630678176879883,
+              0.2532663941383362
+            ],
+            [
+              4.03209924697876,
+              -3.78338623046875,
+              0.3975364565849304
+            ]
+          ],
+          "plant_centres": [
+            {
+              "centre_m": [
+                2.4,
+                -4.44,
+                0.26622107537722933
+              ],
+              "leaf_bounds": [
+                [
+                  2.242449998855591,
+                  -4.602148056030273,
+                  0.2753392159938812
+                ],
+                [
+                  2.576486587524414,
+                  -4.308988571166992,
+                  0.3957832455635071
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                2.9,
+                -4.44,
+                0.257086539408137
+              ],
+              "leaf_bounds": [
+                [
+                  2.778322696685791,
+                  -4.569521903991699,
+                  0.26617324352264404
+                ],
+                [
+                  3.0069940090179443,
+                  -4.333849906921387,
+                  0.36788883805274963
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                3.4,
+                -4.44,
+                0.2596632084211108
+              ],
+              "leaf_bounds": [
+                [
+                  3.2229275703430176,
+                  -4.630625247955322,
+                  0.2687932550907135
+                ],
+                [
+                  3.5572211742401123,
+                  -4.274521827697754,
+                  0.3974532186985016
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                3.9,
+                -4.44,
+                0.2644966616321661
+              ],
+              "leaf_bounds": [
+                [
+                  3.7445130348205566,
+                  -4.572422027587891,
+                  0.2736034691333771
+                ],
+                [
+                  4.032057285308838,
+                  -4.292695999145508,
+                  0.3883124589920044
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                2.4,
+                -3.96,
+                0.2660202491742133
+              ],
+              "leaf_bounds": [
+                [
+                  2.249541997909546,
+                  -4.090438365936279,
+                  0.27511826157569885
+                ],
+                [
+                  2.5255095958709717,
+                  -3.824634313583374,
+                  0.3827797770500183
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                2.9,
+                -3.96,
+                0.2545434320942702
+              ],
+              "leaf_bounds": [
+                [
+                  2.7544751167297363,
+                  -4.128775596618652,
+                  0.26366910338401794
+                ],
+                [
+                  3.065204620361328,
+                  -3.783452272415161,
+                  0.3882032632827759
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                3.4,
+                -3.96,
+                0.26356423789541766
+              ],
+              "leaf_bounds": [
+                [
+                  3.256706476211548,
+                  -4.121605396270752,
+                  0.2726798355579376
+                ],
+                [
+                  3.553502082824707,
+                  -3.7877416610717773,
+                  0.3922259509563446
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                3.9,
+                -3.96,
+                0.2614357186586227
+              ],
+              "leaf_bounds": [
+                [
+                  3.773963451385498,
+                  -4.097482681274414,
+                  0.2705274522304535
+                ],
+                [
+                  4.02849006652832,
+                  -3.8424720764160156,
+                  0.374960720539093
+                ]
+              ]
+            }
+          ],
+          "soil_particle_diameter_m": [
+            0.003,
+            0.011
+          ],
+          "planting_status": "P — proposed maintained vegetable beds; no season/date asserted"
+        },
+        {
+          "bed": 2,
+          "proposed_species": "pimiento compacto",
+          "plant_count": 8,
+          "leaf_count": 248,
+          "plant_spacing_m": [
+            0.5,
+            0.48
+          ],
+          "unchanged_bed_inner_bounds_m": [
+            5.09,
+            7.21,
+            -4.6850000000000005,
+            -3.7150000000000003
+          ],
+          "plant_bounds": [
+            [
+              5.255794525146484,
+              -4.594213962554932,
+              0.25550949573516846
+            ],
+            [
+              7.062162399291992,
+              -3.800463914871216,
+              0.9468523859977722
+            ]
+          ],
+          "plant_centres": [
+            {
+              "centre_m": [
+                5.3999999999999995,
+                -4.44,
+                0.26318481640439656
+              ],
+              "leaf_bounds": [
+                [
+                  5.2599053382873535,
+                  -4.594141483306885,
+                  0.4004959762096405
+                ],
+                [
+                  5.5533366203308105,
+                  -4.2893595695495605,
+                  0.8154297471046448
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                5.8999999999999995,
+                -4.44,
+                0.2555942013346707
+              ],
+              "leaf_bounds": [
+                [
+                  5.752937316894531,
+                  -4.586548328399658,
+                  0.38480350375175476
+                ],
+                [
+                  6.036582946777344,
+                  -4.298924446105957,
+                  0.7796720862388611
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                6.3999999999999995,
+                -4.44,
+                0.26126785858328333
+              ],
+              "leaf_bounds": [
+                [
+                  6.2505412101745605,
+                  -4.590369701385498,
+                  0.4277014434337616
+                ],
+                [
+                  6.556039333343506,
+                  -4.277823448181152,
+                  0.914542555809021
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                6.8999999999999995,
+                -4.44,
+                0.26312319395997813
+              ],
+              "leaf_bounds": [
+                [
+                  6.744359970092773,
+                  -4.592344284057617,
+                  0.4045586884021759
+                ],
+                [
+                  7.052461624145508,
+                  -4.294613361358643,
+                  0.8297474384307861
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                5.3999999999999995,
+                -3.96,
+                0.2614922426782699
+              ],
+              "leaf_bounds": [
+                [
+                  5.255870819091797,
+                  -4.1040873527526855,
+                  0.3850994110107422
+                ],
+                [
+                  5.53768253326416,
+                  -3.8146719932556152,
+                  0.7662687301635742
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                5.8999999999999995,
+                -3.96,
+                0.25581201258284736
+              ],
+              "leaf_bounds": [
+                [
+                  5.754416465759277,
+                  -4.113924503326416,
+                  0.4112701416015625
+                ],
+                [
+                  6.060192584991455,
+                  -3.804760694503784,
+                  0.8708177804946899
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                6.3999999999999995,
+                -3.96,
+                0.26292759044541164
+              ],
+              "leaf_bounds": [
+                [
+                  6.260347366333008,
+                  -4.106610298156738,
+                  0.37869274616241455
+                ],
+                [
+                  6.5334625244140625,
+                  -3.8250105381011963,
+                  0.7399117946624756
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                6.8999999999999995,
+                -3.96,
+                0.25919437767506687
+              ],
+              "leaf_bounds": [
+                [
+                  6.740610599517822,
+                  -4.111021041870117,
+                  0.4252321124076843
+                ],
+                [
+                  7.062092304229736,
+                  -3.8005099296569824,
+                  0.9110934734344482
+                ]
+              ]
+            }
+          ],
+          "soil_particle_diameter_m": [
+            0.003,
+            0.011
+          ],
+          "planting_status": "P — proposed maintained vegetable beds; no season/date asserted"
+        },
+        {
+          "bed": 3,
+          "proposed_species": "acelga",
+          "plant_count": 8,
+          "leaf_count": 120,
+          "plant_spacing_m": [
+            0.5,
+            0.48
+          ],
+          "unchanged_bed_inner_bounds_m": [
+            2.09,
+            4.21,
+            -7.635000000000001,
+            -6.665
+          ],
+          "plant_bounds": [
+            [
+              2.207986831665039,
+              -7.573496341705322,
+              0.25393199920654297
+            ],
+            [
+              4.098148345947266,
+              -6.723146438598633,
+              0.500291645526886
+            ]
+          ],
+          "plant_centres": [
+            {
+              "centre_m": [
+                2.4,
+                -7.390000000000001,
+                0.2646439324556168
+              ],
+              "leaf_bounds": [
+                [
+                  2.254542827606201,
+                  -7.556652545928955,
+                  0.300245076417923
+                ],
+                [
+                  2.5801663398742676,
+                  -7.1953959465026855,
+                  0.48028290271759033
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                2.9,
+                -7.390000000000001,
+                0.25547440786620634
+              ],
+              "leaf_bounds": [
+                [
+                  2.770740270614624,
+                  -7.537463188171387,
+                  0.2909514009952545
+                ],
+                [
+                  3.057973861694336,
+                  -7.262196063995361,
+                  0.43708670139312744
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                3.4,
+                -7.390000000000001,
+                0.26193099677701964
+              ],
+              "leaf_bounds": [
+                [
+                  3.237427234649658,
+                  -7.573451995849609,
+                  0.2975451350212097
+                ],
+                [
+                  3.5954012870788574,
+                  -7.236341953277588,
+                  0.48444899916648865
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                3.9,
+                -7.390000000000001,
+                0.2619223846770789
+              ],
+              "leaf_bounds": [
+                [
+                  3.7632739543914795,
+                  -7.543256759643555,
+                  0.2973732352256775
+                ],
+                [
+                  4.030628204345703,
+                  -7.261824131011963,
+                  0.43516749143600464
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                2.4,
+                -6.91,
+                0.26130387457211895
+              ],
+              "leaf_bounds": [
+                [
+                  2.2080607414245605,
+                  -7.122399806976318,
+                  0.2969801425933838
+                ],
+                [
+                  2.5829451084136963,
+                  -6.732972145080566,
+                  0.500177264213562
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                2.9,
+                -6.91,
+                0.25682943416914017
+              ],
+              "leaf_bounds": [
+                [
+                  2.7254626750946045,
+                  -7.050390243530273,
+                  0.2923848330974579
+                ],
+                [
+                  3.0635581016540527,
+                  -6.7520222663879395,
+                  0.46080249547958374
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                3.4,
+                -6.91,
+                0.26268061680485716
+              ],
+              "leaf_bounds": [
+                [
+                  3.2284841537475586,
+                  -7.051567554473877,
+                  0.29819026589393616
+                ],
+                [
+                  3.559499740600586,
+                  -6.758118629455566,
+                  0.4540919065475464
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                3.9,
+                -6.91,
+                0.25898666276449045
+              ],
+              "leaf_bounds": [
+                [
+                  3.7300302982330322,
+                  -7.08955717086792,
+                  0.2946398854255676
+                ],
+                [
+                  4.098111629486084,
+                  -6.7232160568237305,
+                  0.4928532838821411
+                ]
+              ]
+            }
+          ],
+          "soil_particle_diameter_m": [
+            0.003,
+            0.011
+          ],
+          "planting_status": "P — proposed maintained vegetable beds; no season/date asserted"
+        },
+        {
+          "bed": 4,
+          "proposed_species": "albahaca",
+          "plant_count": 8,
+          "leaf_count": 496,
+          "plant_spacing_m": [
+            0.5,
+            0.48
+          ],
+          "unchanged_bed_inner_bounds_m": [
+            5.09,
+            7.21,
+            -7.635000000000001,
+            -6.665
+          ],
+          "plant_bounds": [
+            [
+              5.275173664093018,
+              -7.526076316833496,
+              0.2569189965724945
+            ],
+            [
+              7.042457103729248,
+              -6.771183490753174,
+              0.7530348300933838
+            ]
+          ],
+          "plant_centres": [
+            {
+              "centre_m": [
+                5.3999999999999995,
+                -7.390000000000001,
+                0.26099165923972195
+              ],
+              "leaf_bounds": [
+                [
+                  5.282086372375488,
+                  -7.503997325897217,
+                  0.3481782078742981
+                ],
+                [
+                  5.505436897277832,
+                  -7.283877372741699,
+                  0.6387062072753906
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                5.8999999999999995,
+                -7.390000000000001,
+                0.2573235337145102
+              ],
+              "leaf_bounds": [
+                [
+                  5.762981414794922,
+                  -7.5259904861450195,
+                  0.3783320188522339
+                ],
+                [
+                  6.042333602905273,
+                  -7.248594760894775,
+                  0.7529140710830688
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                6.3999999999999995,
+                -7.390000000000001,
+                0.26103298407142256
+              ],
+              "leaf_bounds": [
+                [
+                  6.28646993637085,
+                  -7.506079196929932,
+                  0.37082186341285706
+                ],
+                [
+                  6.518381118774414,
+                  -7.273925304412842,
+                  0.7180183529853821
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                6.8999999999999995,
+                -7.390000000000001,
+                0.2584439112851269
+              ],
+              "leaf_bounds": [
+                [
+                  6.762106895446777,
+                  -7.5241241455078125,
+                  0.35685431957244873
+                ],
+                [
+                  7.0269036293029785,
+                  -7.260344505310059,
+                  0.6755053400993347
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                5.3999999999999995,
+                -6.91,
+                0.2598681176444561
+              ],
+              "leaf_bounds": [
+                [
+                  5.275254726409912,
+                  -7.032272815704346,
+                  0.3743358850479126
+                ],
+                [
+                  5.534500598907471,
+                  -6.778567314147949,
+                  0.7325392961502075
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                5.8999999999999995,
+                -6.91,
+                0.25979453780711975
+              ],
+              "leaf_bounds": [
+                [
+                  5.7570037841796875,
+                  -7.051266670227051,
+                  0.36730214953422546
+                ],
+                [
+                  6.035602569580078,
+                  -6.775047302246094,
+                  0.7084718942642212
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                6.3999999999999995,
+                -6.91,
+                0.25966949240234943
+              ],
+              "leaf_bounds": [
+                [
+                  6.278651714324951,
+                  -7.029329776763916,
+                  0.3507043123245239
+                ],
+                [
+                  6.5189714431762695,
+                  -6.789223670959473,
+                  0.6509302258491516
+                ]
+              ]
+            },
+            {
+              "centre_m": [
+                6.8999999999999995,
+                -6.91,
+                0.25703713176224646
+              ],
+              "leaf_bounds": [
+                [
+                  6.768014430999756,
+                  -7.046701431274414,
+                  0.3542287051677704
+                ],
+                [
+                  7.0423970222473145,
+                  -6.771243572235107,
+                  0.6694889664649963
+                ]
+              ]
+            }
+          ],
+          "soil_particle_diameter_m": [
+            0.003,
+            0.011
+          ],
+          "planting_status": "P — proposed maintained vegetable beds; no season/date asserted"
+        }
+      ],
+      "gpu_rendered": false,
+      "saved_by_apply": false,
+      "idempotent_rebuild": true
+    },
+    "correcciones99_tapizados_r8.py": {
+      "objects": [
+        {
+          "object": "Sofá cama mono base",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "cced5ebdc3514a8be375d4043655fc9ee0705a3cac22c247ad4f31b2b85fe795"
+        },
+        {
+          "object": "Sofá cama mono respaldo",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "65f4279bf5092cad15ee9bde7292d23fcb9951c6960615220b3c3c76273d527d"
+        },
+        {
+          "object": "Sofá cama mono brazo -1",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "f5584c4f4b847ebdd9a94a5b857580f1291eaa29920f3d15632a96ae3d5c2828"
+        },
+        {
+          "object": "Sofá cama mono brazo 1",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "659eb4308a8dc4fe1aee97609e14bdfebd1d449742a1426e861c00e1dc077ed1"
+        },
+        {
+          "object": "Sofá cama mono cojín 0",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "dc9a56aaf9a6830f95119b010eabf68d69df80172c8c199892e3b40ab0cde77d"
+        },
+        {
+          "object": "Sofá cama mono costura cojín 0",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "9916dd40dee8b180e3ebba38f1437486ac55af9aaadd45b6eab91674375ced17"
+        },
+        {
+          "object": "Sofá cama mono cojín 1",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "ee5027aee0a18411080e660ef74c7dd5238f51696d4b98dd780435c6e735a0e7"
+        },
+        {
+          "object": "Sofá cama mono costura cojín 1",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "7bd610ab1e94fded5a9ce0c5d7681219ee45ef63017dbaefe138fc57b4e5434c"
+        },
+        {
+          "object": "Sofá cama mono cojín 2",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "d47d9828aa51fa0eb6f15b38c6015b85bbf71a10da7e54423f38eb98db481647"
+        },
+        {
+          "object": "Sofá cama mono costura cojín 2",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "4553d89504892836ffc82a0645dfe4612531038b113d9ff09dc576574265c9dc"
+        },
+        {
+          "object": "Piso estudio",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "a2dce277ad3adaf82553a4a17709c858a42c73705ba7b526fe415dfb6b75b4ed"
+        },
+        {
+          "object": "Alfombra estudio",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "d92867c014289ffdc2f1b6f95c66b6a2df6c8e094e56f0cda3705a6e9376e14a"
+        },
+        {
+          "object": "Sofá estudio base",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "a392ac36362e9d26780b0c677feb1c387a528ca33692b977e116f8e3dda3d899"
+        },
+        {
+          "object": "Sofá estudio respaldo",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "c2a9c76548c2a3096be48f49c3f93f36b1060b6fdd2f4eab086d7f105410afe3"
+        },
+        {
+          "object": "Sofá estudio brazo -1",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "342b6e305f75c4b6dd6f6f53c65da25949d1ea3710e42b79b2ea2eb8d317b31f"
+        },
+        {
+          "object": "Sofá estudio brazo 1",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "76e866f5fb33fafe2d6d4c0bc3e08aa3c8c75c62d34f6f023cdcfb4de98621cc"
+        },
+        {
+          "object": "Sofá estudio cojín 0",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "4e445d20188806e2024bd1a23aed987e5ea0d8d399fe63faa6b55a59d2acbf7c"
+        },
+        {
+          "object": "Sofá estudio costura cojín 0",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "5b14a8060c254049d30faaaadcfe122ca209dd6a613329baada65d3d04681dd9"
+        },
+        {
+          "object": "Sofá estudio cojín 1",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "2feb0931af14b99a89913703e00573b7785fd3480e3a3dbf6d25bbe984c71f48"
+        },
+        {
+          "object": "Sofá estudio costura cojín 1",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "93c4c4a1aa40a786679123dbaf8a9c1b2ec9d77a16f6523f57f6211ec221e95d"
+        },
+        {
+          "object": "Sofá estudio cojín 2",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "db02a976e591c4e736119097f5f38d38cf806e0c249850e5ee1713cc23e87d92"
+        },
+        {
+          "object": "Sofá estudio costura cojín 2",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "1908f1c588bc8d4ad6ac643198790de2821efae1d901472de1f90b178e94a595"
+        },
+        {
+          "object": "Silla estudio asiento",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "fb141081ddf33aebc22bc0db1ae10e04afde4ea16d1227544fe4cf25b9f5f849"
+        },
+        {
+          "object": "Silla estudio respaldo",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "ebf9af060cd87c55cd6a2353645422b9f6c8ade937dc5ac48a0c9ce4528249ad"
+        },
+        {
+          "object": "Alfombra comedor",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "37b6f7a49a312c244137008a6ba3a77b4435ce180f00153b48a01e83477e76bb"
+        },
+        {
+          "object": "Silla comedor norte -0.49 asiento",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "42dc0884cdd10bd0d4c4eeb4687b35589da547b2e16287fa02559f5c6607f4f4"
+        },
+        {
+          "object": "Silla comedor norte -0.49 respaldo",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "e70370866ed509e2220a2e6528f0c4330939f6c725089b7bb998164d7256637d"
+        },
+        {
+          "object": "Silla comedor sur -0.49 asiento",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "36f6c25d9d5daebc97ffb91d80fa7bd38e6fdaba729b2a99a321f528661ab5bd"
+        },
+        {
+          "object": "Silla comedor sur -0.49 respaldo",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "69d06a8349b0be905cf959d260d54767d18b2558683e3b670161c1a20f15276a"
+        },
+        {
+          "object": "Silla comedor norte 0.49 asiento",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "ad32681d35d20eeb636dbda82f07d6e59f50624521ebc066dc7dff3962ecd8a2"
+        },
+        {
+          "object": "Silla comedor norte 0.49 respaldo",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "262d47712474ccb7f9dea8767fdadfd7c6c80d4e496c8a7450ac3c7eb69b6c74"
+        },
+        {
+          "object": "Silla comedor sur 0.49 asiento",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "3bdf4d8da75a30ec4a641d34795ca4f00381f0530833ac6341db3f235ffc8ea5"
+        },
+        {
+          "object": "Silla comedor sur 0.49 respaldo",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "aa8e46ed7e6999cfd45282da6f991a7683fc697bf98c9a68bf05a6cf763dee9b"
+        },
+        {
+          "object": "Sofá vivienda base",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "c639a4e6d58c51e4cd065bef455e424114af0031739f2406decb901fa21954e6"
+        },
+        {
+          "object": "Sofá vivienda respaldo",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "fa047241fa9fc3ce1c25e60394160ea6013172b8e61e7a30ce002f92b6709d8f"
+        },
+        {
+          "object": "Sofá vivienda brazo -1",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "72c9201c2b7aceb37bbc44b11c5ad90c45a4add094c8a79424ada60c6a6ac4e0"
+        },
+        {
+          "object": "Sofá vivienda brazo 1",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "cff6950f0de2c00adcfb3b663e7d7ac0f7fca1d1afcfdafd8fa575c086a574dc"
+        },
+        {
+          "object": "Sofá vivienda cojín 0",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "1a70c6faca9f130afed95077eadfdf4ffc11fb11c50e10d53ffbc6aa23e3a364"
+        },
+        {
+          "object": "Sofá vivienda costura cojín 0",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "28f22a43d89496ba29e386b883df0d618351816332f91dd62b183b5f304fe831"
+        },
+        {
+          "object": "Sofá vivienda cojín 1",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "5b7fce21079bc5732ef0485da6b17b3eede8f3adeba7e0cba64e4ae333dd9c49"
+        },
+        {
+          "object": "Sofá vivienda costura cojín 1",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "3433b8a818f449642028f5c2887ead3208eab4da41a61abf22a9926735120780"
+        },
+        {
+          "object": "Sofá vivienda cojín 2",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "64f9d959206b5f60b7495e2aea8a256ad31a3e1823e0dcf9dc427f5cda512b6f"
+        },
+        {
+          "object": "Sofá vivienda costura cojín 2",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "08d0ea25603878cacb88672e1c0c7bbc3b8c960f12443c727c0e7f52c10755aa"
+        },
+        {
+          "object": "Cabezal dormitorio",
+          "slots": [
+            0
+          ],
+          "geometryUnchanged": true,
+          "geometrySHA256": "4ce0f29bd688f6b44be428938b42a957c3c91d4b710793eab94ab04e1a55e1c5"
+        }
+      ],
+      "objectCount": 44,
+      "textureModuleM": [
+        0.2657081476760712,
+        0.2662999927997589
+      ],
+      "originalMeanLinearRGB": [
+        0.24723730558865356,
+        0.21749501909852093,
+        0.15854020677115394
+      ],
+      "photoMeanLinearRGB": [
+        0.5622147949416687,
+        0.42960513517215204,
+        0.32259202417152577
+      ],
+      "tintFactor": [
+        0.43975595771062037,
+        0.5062672703187451,
+        0.49145730486769984
+      ],
+      "scope": "Visible furniture with original fabric material only; geometry and placements unchanged",
+      "videoRendered": false
+    },
+    "correcciones99_cesped_r8.py": {
+      "version": "photographic_grass_r8_v2",
+      "source_file": "D:\\2026\\42\\output\\Casa_de_Campo_99_R8A_construccion_preview.blend",
+      "asset_sha256": "3b2ec52390d293b9e810ec4e2a182d725ed2a858eb0912f5bb36909d9c5f5073",
+      "asset": "Poly Haven grass_bermuda_01, CC0, Rico Cilliers",
+      "replaced": [
+        "Césped botánico 00-00",
+        "Césped botánico 00-01",
+        "Césped botánico 00-02",
+        "Césped botánico 00-03",
+        "Césped botánico 00-04",
+        "Césped botánico 00-05",
+        "Césped botánico 00-06",
+        "Césped botánico 00-07",
+        "Césped botánico 00-08",
+        "Césped botánico 00-09",
+        "Césped botánico 01-00",
+        "Césped botánico 01-01",
+        "Césped botánico 01-04",
+        "Césped botánico 01-05",
+        "Césped botánico 01-06",
+        "Césped botánico 01-07",
+        "Césped botánico 01-08",
+        "Césped botánico 01-09",
+        "Césped botánico 02-00",
+        "Césped botánico 02-01",
+        "Césped botánico 02-04",
+        "Césped botánico 02-05",
+        "Césped botánico 02-06",
+        "Césped botánico 02-07",
+        "Césped botánico 02-08",
+        "Césped botánico 02-09",
+        "Césped botánico 03-00",
+        "Césped botánico 03-01",
+        "Césped botánico 03-04",
+        "Césped botánico 03-05",
+        "Césped botánico 03-06",
+        "Césped botánico 03-07",
+        "Césped botánico 03-08",
+        "Césped botánico 03-09",
+        "Césped botánico 04-00",
+        "Césped botánico 04-01",
+        "Césped botánico 04-02",
+        "Césped botánico 04-03",
+        "Césped botánico 04-04",
+        "Césped botánico 04-05",
+        "Césped botánico 04-06",
+        "Césped botánico 04-07",
+        "Césped botánico 04-08",
+        "Césped botánico 04-09",
+        "Césped botánico 05-00",
+        "Césped botánico 05-01",
+        "Césped botánico 05-02",
+        "Césped botánico 05-03",
+        "Césped botánico 05-04",
+        "Césped botánico 05-05",
+        "Césped botánico 05-06",
+        "Césped botánico 05-07",
+        "Césped botánico 05-08",
+        "Césped botánico 05-09",
+        "Césped botánico 06-00",
+        "Césped botánico 06-01",
+        "Césped botánico 06-02",
+        "Césped botánico 06-03",
+        "Césped botánico 06-04",
+        "Césped botánico 06-05",
+        "Césped botánico 06-06",
+        "Césped botánico 06-09",
+        "Césped botánico 07-06",
+        "Césped botánico 07-09",
+        "Césped botánico 08-06",
+        "Césped botánico 08-09",
+        "Césped botánico 09-06",
+        "Césped botánico 09-09",
+        "Césped botánico 10-06",
+        "Césped botánico 10-07",
+        "Césped botánico 10-08",
+        "Césped botánico 10-09",
+        "Paisaje | pradera de transición"
+      ],
+      "objects": [
+        {
+          "name": "Césped botánico 00-00",
+          "kind": "lawn",
+          "original_roots": 4248,
+          "candidate_roots": 1699,
+          "accepted_clumps": 1632,
+          "rejected_at_exclusions": 67,
+          "vertices_before": 21240,
+          "vertices_after": 21795,
+          "polygons_after": 12705,
+          "triangles_after": 21553,
+          "height_range_m": [
+            0.019576187037931406,
+            0.09
+          ],
+          "variants": {
+            "small_a": 186,
+            "small_b": 252,
+            "small_c": 23,
+            "small_d": 282,
+            "small_e": 212,
+            "small_f": 159,
+            "medium_a": 28,
+            "medium_b": 202,
+            "medium_c": 25,
+            "medium_d": 147,
+            "medium_e": 13,
+            "medium_f": 24,
+            "dead_a": 9,
+            "dead_b": 8,
+            "flattened_a": 41,
+            "seedling_c": 21
+          }
+        },
+        {
+          "name": "Césped botánico 00-01",
+          "kind": "lawn",
+          "original_roots": 4541,
+          "candidate_roots": 1816,
+          "accepted_clumps": 1758,
+          "rejected_at_exclusions": 58,
+          "vertices_before": 22705,
+          "vertices_after": 22540,
+          "polygons_after": 13046,
+          "triangles_after": 22100,
+          "height_range_m": [
+            0.019527529852705734,
+            0.09
+          ],
+          "variants": {
+            "small_a": 194,
+            "small_b": 293,
+            "small_c": 17,
+            "small_d": 284,
+            "small_e": 248,
+            "small_f": 201,
+            "medium_a": 35,
+            "medium_b": 185,
+            "medium_c": 37,
+            "medium_d": 153,
+            "medium_e": 7,
+            "medium_f": 14,
+            "dead_a": 12,
+            "dead_b": 11,
+            "flattened_a": 53,
+            "seedling_c": 14
+          }
+        },
+        {
+          "name": "Césped botánico 00-02",
+          "kind": "lawn",
+          "original_roots": 4163,
+          "candidate_roots": 1665,
+          "accepted_clumps": 1586,
+          "rejected_at_exclusions": 79,
+          "vertices_before": 20815,
+          "vertices_after": 20430,
+          "polygons_after": 11852,
+          "triangles_after": 20105,
+          "height_range_m": [
+            0.01939605357724263,
+            0.09
+          ],
+          "variants": {
+            "small_a": 210,
+            "small_b": 246,
+            "small_c": 15,
+            "small_d": 250,
+            "small_e": 197,
+            "small_f": 160,
+            "medium_a": 28,
+            "medium_b": 201,
+            "medium_c": 22,
+            "medium_d": 152,
+            "medium_e": 8,
+            "medium_f": 28,
+            "dead_a": 8,
+            "dead_b": 9,
+            "flattened_a": 39,
+            "seedling_c": 13
+          }
+        },
+        {
+          "name": "Césped botánico 00-03",
+          "kind": "lawn",
+          "original_roots": 4177,
+          "candidate_roots": 1670,
+          "accepted_clumps": 1597,
+          "rejected_at_exclusions": 73,
+          "vertices_before": 20885,
+          "vertices_after": 20763,
+          "polygons_after": 12041,
+          "triangles_after": 20415,
+          "height_range_m": [
+            0.020705741122898372,
+            0.09
+          ],
+          "variants": {
+            "small_a": 198,
+            "small_b": 258,
+            "small_c": 18,
+            "small_d": 292,
+            "small_e": 191,
+            "small_f": 167,
+            "medium_a": 25,
+            "medium_b": 184,
+            "medium_c": 29,
+            "medium_d": 136,
+            "medium_e": 6,
+            "medium_f": 27,
+            "dead_a": 7,
+            "dead_b": 8,
+            "flattened_a": 36,
+            "seedling_c": 15
+          }
+        },
+        {
+          "name": "Césped botánico 00-04",
+          "kind": "lawn",
+          "original_roots": 4674,
+          "candidate_roots": 1869,
+          "accepted_clumps": 1839,
+          "rejected_at_exclusions": 30,
+          "vertices_before": 23370,
+          "vertices_after": 24374,
+          "polygons_after": 14227,
+          "triangles_after": 24108,
+          "height_range_m": [
+            0.021434845187936567,
+            0.09
+          ],
+          "variants": {
+            "small_a": 217,
+            "small_b": 291,
+            "small_c": 20,
+            "small_d": 297,
+            "small_e": 258,
+            "small_f": 182,
+            "medium_a": 18,
+            "medium_b": 212,
+            "medium_c": 20,
+            "medium_d": 175,
+            "medium_e": 14,
+            "medium_f": 32,
+            "dead_a": 9,
+            "dead_b": 7,
+            "flattened_a": 66,
+            "seedling_c": 21
+          }
+        },
+        {
+          "name": "Césped botánico 00-05",
+          "kind": "lawn",
+          "original_roots": 4250,
+          "candidate_roots": 1700,
+          "accepted_clumps": 1647,
+          "rejected_at_exclusions": 53,
+          "vertices_before": 21250,
+          "vertices_after": 21412,
+          "polygons_after": 12458,
+          "triangles_after": 21103,
+          "height_range_m": [
+            0.019802442013519682,
+            0.09
+          ],
+          "variants": {
+            "small_a": 219,
+            "small_b": 246,
+            "small_c": 13,
+            "small_d": 276,
+            "small_e": 210,
+            "small_f": 186,
+            "medium_a": 27,
+            "medium_b": 180,
+            "medium_c": 26,
+            "medium_d": 150,
+            "medium_e": 5,
+            "medium_f": 20,
+            "dead_a": 9,
+            "dead_b": 6,
+            "flattened_a": 58,
+            "seedling_c": 16
+          }
+        },
+        {
+          "name": "Césped botánico 00-06",
+          "kind": "lawn",
+          "original_roots": 4660,
+          "candidate_roots": 1864,
+          "accepted_clumps": 1816,
+          "rejected_at_exclusions": 48,
+          "vertices_before": 23300,
+          "vertices_after": 23242,
+          "polygons_after": 13450,
+          "triangles_after": 22838,
+          "height_range_m": [
+            0.019300443466342968,
+            0.09
+          ],
+          "variants": {
+            "small_a": 203,
+            "small_b": 304,
+            "small_c": 17,
+            "small_d": 276,
+            "small_e": 244,
+            "small_f": 196,
+            "medium_a": 28,
+            "medium_b": 242,
+            "medium_c": 23,
+            "medium_d": 169,
+            "medium_e": 7,
+            "medium_f": 21,
+            "dead_a": 11,
+            "dead_b": 7,
+            "flattened_a": 52,
+            "seedling_c": 16
+          }
+        },
+        {
+          "name": "Césped botánico 00-07",
+          "kind": "lawn",
+          "original_roots": 4706,
+          "candidate_roots": 1882,
+          "accepted_clumps": 1847,
+          "rejected_at_exclusions": 35,
+          "vertices_before": 23530,
+          "vertices_after": 24507,
+          "polygons_after": 14313,
+          "triangles_after": 24241,
+          "height_range_m": [
+            0.0193502077707232,
+            0.09
+          ],
+          "variants": {
+            "small_a": 207,
+            "small_b": 294,
+            "small_c": 21,
+            "small_d": 334,
+            "small_e": 235,
+            "small_f": 161,
+            "medium_a": 29,
+            "medium_b": 220,
+            "medium_c": 27,
+            "medium_d": 186,
+            "medium_e": 13,
+            "medium_f": 35,
+            "dead_a": 7,
+            "dead_b": 9,
+            "flattened_a": 48,
+            "seedling_c": 21
+          }
+        },
+        {
+          "name": "Césped botánico 00-08",
+          "kind": "lawn",
+          "original_roots": 4144,
+          "candidate_roots": 1657,
+          "accepted_clumps": 1577,
+          "rejected_at_exclusions": 80,
+          "vertices_before": 20720,
+          "vertices_after": 20882,
+          "polygons_after": 12215,
+          "triangles_after": 20673,
+          "height_range_m": [
+            0.021350931689399198,
+            0.09
+          ],
+          "variants": {
+            "small_a": 204,
+            "small_b": 226,
+            "small_c": 14,
+            "small_d": 255,
+            "small_e": 218,
+            "small_f": 153,
+            "medium_a": 13,
+            "medium_b": 191,
+            "medium_c": 27,
+            "medium_d": 170,
+            "medium_e": 8,
+            "medium_f": 21,
+            "dead_a": 8,
+            "dead_b": 11,
+            "flattened_a": 38,
+            "seedling_c": 20
+          }
+        },
+        {
+          "name": "Césped botánico 00-09",
+          "kind": "lawn",
+          "original_roots": 4235,
+          "candidate_roots": 1694,
+          "accepted_clumps": 1632,
+          "rejected_at_exclusions": 62,
+          "vertices_before": 21175,
+          "vertices_after": 20851,
+          "polygons_after": 12074,
+          "triangles_after": 20476,
+          "height_range_m": [
+            0.01990607655608304,
+            0.09
+          ],
+          "variants": {
+            "small_a": 208,
+            "small_b": 266,
+            "small_c": 13,
+            "small_d": 274,
+            "small_e": 201,
+            "small_f": 150,
+            "medium_a": 24,
+            "medium_b": 209,
+            "medium_c": 30,
+            "medium_d": 161,
+            "medium_e": 8,
+            "medium_f": 25,
+            "dead_a": 7,
+            "dead_b": 4,
+            "flattened_a": 40,
+            "seedling_c": 12
+          }
+        },
+        {
+          "name": "Césped botánico 01-00",
+          "kind": "lawn",
+          "original_roots": 4668,
+          "candidate_roots": 1867,
+          "accepted_clumps": 1834,
+          "rejected_at_exclusions": 33,
+          "vertices_before": 23340,
+          "vertices_after": 23796,
+          "polygons_after": 13790,
+          "triangles_after": 23366,
+          "height_range_m": [
+            0.020001839026453416,
+            0.09
+          ],
+          "variants": {
+            "small_a": 207,
+            "small_b": 268,
+            "small_c": 27,
+            "small_d": 293,
+            "small_e": 268,
+            "small_f": 201,
+            "medium_a": 22,
+            "medium_b": 211,
+            "medium_c": 31,
+            "medium_d": 176,
+            "medium_e": 11,
+            "medium_f": 24,
+            "dead_a": 9,
+            "dead_b": 8,
+            "flattened_a": 62,
+            "seedling_c": 16
+          }
+        },
+        {
+          "name": "Césped botánico 01-01",
+          "kind": "lawn",
+          "original_roots": 3833,
+          "candidate_roots": 1533,
+          "accepted_clumps": 1491,
+          "rejected_at_exclusions": 42,
+          "vertices_before": 19165,
+          "vertices_after": 19598,
+          "polygons_after": 11459,
+          "triangles_after": 19392,
+          "height_range_m": [
+            0.02020150789909923,
+            0.09
+          ],
+          "variants": {
+            "small_a": 194,
+            "small_b": 239,
+            "small_c": 13,
+            "small_d": 220,
+            "small_e": 215,
+            "small_f": 138,
+            "medium_a": 19,
+            "medium_b": 172,
+            "medium_c": 21,
+            "medium_d": 160,
+            "medium_e": 9,
+            "medium_f": 25,
+            "dead_a": 7,
+            "dead_b": 6,
+            "flattened_a": 37,
+            "seedling_c": 16
+          }
+        },
+        {
+          "name": "Césped botánico 01-04",
+          "kind": "lawn",
+          "original_roots": 5156,
+          "candidate_roots": 2062,
+          "accepted_clumps": 2024,
+          "rejected_at_exclusions": 38,
+          "vertices_before": 25780,
+          "vertices_after": 26076,
+          "polygons_after": 15184,
+          "triangles_after": 25667,
+          "height_range_m": [
+            0.01932838639732135,
+            0.09
+          ],
+          "variants": {
+            "small_a": 258,
+            "small_b": 321,
+            "small_c": 15,
+            "small_d": 347,
+            "small_e": 273,
+            "small_f": 191,
+            "medium_a": 23,
+            "medium_b": 207,
+            "medium_c": 30,
+            "medium_d": 214,
+            "medium_e": 13,
+            "medium_f": 34,
+            "dead_a": 7,
+            "dead_b": 12,
+            "flattened_a": 64,
+            "seedling_c": 15
+          }
+        },
+        {
+          "name": "Césped botánico 01-05",
+          "kind": "lawn",
+          "original_roots": 4812,
+          "candidate_roots": 1924,
+          "accepted_clumps": 1892,
+          "rejected_at_exclusions": 32,
+          "vertices_before": 24060,
+          "vertices_after": 24414,
+          "polygons_after": 14178,
+          "triangles_after": 24048,
+          "height_range_m": [
+            0.0195558641198255,
+            0.09
+          ],
+          "variants": {
+            "small_a": 229,
+            "small_b": 306,
+            "small_c": 20,
+            "small_d": 293,
+            "small_e": 254,
+            "small_f": 178,
+            "medium_a": 18,
+            "medium_b": 249,
+            "medium_c": 25,
+            "medium_d": 197,
+            "medium_e": 10,
+            "medium_f": 23,
+            "dead_a": 10,
+            "dead_b": 10,
+            "flattened_a": 52,
+            "seedling_c": 18
+          }
+        },
+        {
+          "name": "Césped botánico 01-06",
+          "kind": "lawn",
+          "original_roots": 5145,
+          "candidate_roots": 2058,
+          "accepted_clumps": 2048,
+          "rejected_at_exclusions": 10,
+          "vertices_before": 25725,
+          "vertices_after": 26730,
+          "polygons_after": 15574,
+          "triangles_after": 26402,
+          "height_range_m": [
+            0.022297580923628057,
+            0.09
+          ],
+          "variants": {
+            "small_a": 254,
+            "small_b": 349,
+            "small_c": 25,
+            "small_d": 305,
+            "small_e": 284,
+            "small_f": 189,
+            "medium_a": 18,
+            "medium_b": 250,
+            "medium_c": 24,
+            "medium_d": 206,
+            "medium_e": 4,
+            "medium_f": 36,
+            "dead_a": 11,
+            "dead_b": 14,
+            "flattened_a": 58,
+            "seedling_c": 21
+          }
+        },
+        {
+          "name": "Césped botánico 01-07",
+          "kind": "lawn",
+          "original_roots": 5200,
+          "candidate_roots": 2080,
+          "accepted_clumps": 2080,
+          "rejected_at_exclusions": 0,
+          "vertices_before": 26000,
+          "vertices_after": 26591,
+          "polygons_after": 15375,
+          "triangles_after": 26098,
+          "height_range_m": [
+            0.019789154243792975,
+            0.09
+          ],
+          "variants": {
+            "small_a": 249,
+            "small_b": 343,
+            "small_c": 24,
+            "small_d": 345,
+            "small_e": 281,
+            "small_f": 186,
+            "medium_a": 32,
+            "medium_b": 267,
+            "medium_c": 32,
+            "medium_d": 196,
+            "medium_e": 11,
+            "medium_f": 22,
+            "dead_a": 11,
+            "dead_b": 10,
+            "flattened_a": 54,
+            "seedling_c": 17
+          }
+        },
+        {
+          "name": "Césped botánico 01-08",
+          "kind": "lawn",
+          "original_roots": 4665,
+          "candidate_roots": 1866,
+          "accepted_clumps": 1815,
+          "rejected_at_exclusions": 51,
+          "vertices_before": 23325,
+          "vertices_after": 23718,
+          "polygons_after": 13782,
+          "triangles_after": 23362,
+          "height_range_m": [
+            0.01951960470504794,
+            0.09
+          ],
+          "variants": {
+            "small_a": 195,
+            "small_b": 276,
+            "small_c": 19,
+            "small_d": 288,
+            "small_e": 257,
+            "small_f": 185,
+            "medium_a": 23,
+            "medium_b": 232,
+            "medium_c": 31,
+            "medium_d": 179,
+            "medium_e": 11,
+            "medium_f": 31,
+            "dead_a": 7,
+            "dead_b": 12,
+            "flattened_a": 51,
+            "seedling_c": 18
+          }
+        },
+        {
+          "name": "Césped botánico 01-09",
+          "kind": "lawn",
+          "original_roots": 4673,
+          "candidate_roots": 1869,
+          "accepted_clumps": 1835,
+          "rejected_at_exclusions": 34,
+          "vertices_before": 23365,
+          "vertices_after": 23782,
+          "polygons_after": 13815,
+          "triangles_after": 23438,
+          "height_range_m": [
+            0.01975894384791945,
+            0.09
+          ],
+          "variants": {
+            "small_a": 218,
+            "small_b": 295,
+            "small_c": 14,
+            "small_d": 322,
+            "small_e": 231,
+            "small_f": 171,
+            "medium_a": 23,
+            "medium_b": 241,
+            "medium_c": 24,
+            "medium_d": 175,
+            "medium_e": 10,
+            "medium_f": 25,
+            "dead_a": 13,
+            "dead_b": 9,
+            "flattened_a": 45,
+            "seedling_c": 19
+          }
+        },
+        {
+          "name": "Césped botánico 02-00",
+          "kind": "lawn",
+          "original_roots": 4727,
+          "candidate_roots": 1890,
+          "accepted_clumps": 1859,
+          "rejected_at_exclusions": 31,
+          "vertices_before": 23635,
+          "vertices_after": 24531,
+          "polygons_after": 14355,
+          "triangles_after": 24324,
+          "height_range_m": [
+            0.01985157878657018,
+            0.09
+          ],
+          "variants": {
+            "small_a": 227,
+            "small_b": 295,
+            "small_c": 15,
+            "small_d": 277,
+            "small_e": 229,
+            "small_f": 190,
+            "medium_a": 21,
+            "medium_b": 247,
+            "medium_c": 25,
+            "medium_d": 205,
+            "medium_e": 6,
+            "medium_f": 29,
+            "dead_a": 18,
+            "dead_b": 5,
+            "flattened_a": 47,
+            "seedling_c": 23
+          }
+        },
+        {
+          "name": "Césped botánico 02-01",
+          "kind": "lawn",
+          "original_roots": 3813,
+          "candidate_roots": 1525,
+          "accepted_clumps": 1488,
+          "rejected_at_exclusions": 37,
+          "vertices_before": 19065,
+          "vertices_after": 19429,
+          "polygons_after": 11292,
+          "triangles_after": 19162,
+          "height_range_m": [
+            0.020189432447859694,
+            0.09
+          ],
+          "variants": {
+            "small_a": 175,
+            "small_b": 226,
+            "small_c": 19,
+            "small_d": 230,
+            "small_e": 175,
+            "small_f": 168,
+            "medium_a": 20,
+            "medium_b": 197,
+            "medium_c": 21,
+            "medium_d": 148,
+            "medium_e": 6,
+            "medium_f": 23,
+            "dead_a": 10,
+            "dead_b": 7,
+            "flattened_a": 48,
+            "seedling_c": 15
+          }
+        },
+        {
+          "name": "Césped botánico 02-04",
+          "kind": "lawn",
+          "original_roots": 5135,
+          "candidate_roots": 2054,
+          "accepted_clumps": 2021,
+          "rejected_at_exclusions": 33,
+          "vertices_before": 25675,
+          "vertices_after": 26683,
+          "polygons_after": 15585,
+          "triangles_after": 26374,
+          "height_range_m": [
+            0.019640044434791042,
+            0.09
+          ],
+          "variants": {
+            "small_a": 234,
+            "small_b": 325,
+            "small_c": 18,
+            "small_d": 323,
+            "small_e": 276,
+            "small_f": 207,
+            "medium_a": 29,
+            "medium_b": 235,
+            "medium_c": 35,
+            "medium_d": 209,
+            "medium_e": 16,
+            "medium_f": 32,
+            "dead_a": 11,
+            "dead_b": 7,
+            "flattened_a": 41,
+            "seedling_c": 23
+          }
+        },
+        {
+          "name": "Césped botánico 02-05",
+          "kind": "lawn",
+          "original_roots": 5200,
+          "candidate_roots": 2080,
+          "accepted_clumps": 2080,
+          "rejected_at_exclusions": 0,
+          "vertices_before": 26000,
+          "vertices_after": 27032,
+          "polygons_after": 15751,
+          "triangles_after": 26675,
+          "height_range_m": [
+            0.0193258164867566,
+            0.09
+          ],
+          "variants": {
+            "small_a": 254,
+            "small_b": 319,
+            "small_c": 20,
+            "small_d": 335,
+            "small_e": 281,
+            "small_f": 202,
+            "medium_a": 39,
+            "medium_b": 253,
+            "medium_c": 32,
+            "medium_d": 217,
+            "medium_e": 3,
+            "medium_f": 29,
+            "dead_a": 14,
+            "dead_b": 9,
+            "flattened_a": 52,
+            "seedling_c": 21
+          }
+        },
+        {
+          "name": "Césped botánico 02-06",
+          "kind": "lawn",
+          "original_roots": 5200,
+          "candidate_roots": 2080,
+          "accepted_clumps": 2080,
+          "rejected_at_exclusions": 0,
+          "vertices_before": 26000,
+          "vertices_after": 27115,
+          "polygons_after": 15782,
+          "triangles_after": 26732,
+          "height_range_m": [
+            0.019532240377672205,
+            0.09
+          ],
+          "variants": {
+            "small_a": 239,
+            "small_b": 303,
+            "small_c": 16,
+            "small_d": 348,
+            "small_e": 290,
+            "small_f": 204,
+            "medium_a": 37,
+            "medium_b": 260,
+            "medium_c": 38,
+            "medium_d": 213,
+            "medium_e": 9,
+            "medium_f": 27,
+            "dead_a": 8,
+            "dead_b": 2,
+            "flattened_a": 65,
+            "seedling_c": 21
+          }
+        },
+        {
+          "name": "Césped botánico 02-07",
+          "kind": "lawn",
+          "original_roots": 5200,
+          "candidate_roots": 2080,
+          "accepted_clumps": 2080,
+          "rejected_at_exclusions": 0,
+          "vertices_before": 26000,
+          "vertices_after": 26693,
+          "polygons_after": 15476,
+          "triangles_after": 26230,
+          "height_range_m": [
+            0.019321104666496027,
+            0.09
+          ],
+          "variants": {
+            "small_a": 254,
+            "small_b": 345,
+            "small_c": 21,
+            "small_d": 331,
+            "small_e": 274,
+            "small_f": 191,
+            "medium_a": 24,
+            "medium_b": 250,
+            "medium_c": 32,
+            "medium_d": 207,
+            "medium_e": 11,
+            "medium_f": 42,
+            "dead_a": 6,
+            "dead_b": 16,
+            "flattened_a": 62,
+            "seedling_c": 14
+          }
+        },
+        {
+          "name": "Césped botánico 02-08",
+          "kind": "lawn",
+          "original_roots": 4407,
+          "candidate_roots": 1762,
+          "accepted_clumps": 1734,
+          "rejected_at_exclusions": 28,
+          "vertices_before": 22035,
+          "vertices_after": 23581,
+          "polygons_after": 13918,
+          "triangles_after": 23525,
+          "height_range_m": [
+            0.01984992560202998,
+            0.09
+          ],
+          "variants": {
+            "small_a": 205,
+            "small_b": 281,
+            "small_c": 20,
+            "small_d": 258,
+            "small_e": 220,
+            "small_f": 187,
+            "medium_a": 25,
+            "medium_b": 194,
+            "medium_c": 22,
+            "medium_d": 202,
+            "medium_e": 6,
+            "medium_f": 27,
+            "dead_a": 7,
+            "dead_b": 9,
+            "flattened_a": 44,
+            "seedling_c": 27
+          }
+        },
+        {
+          "name": "Césped botánico 02-09",
+          "kind": "lawn",
+          "original_roots": 4662,
+          "candidate_roots": 1864,
+          "accepted_clumps": 1821,
+          "rejected_at_exclusions": 43,
+          "vertices_before": 23310,
+          "vertices_after": 24698,
+          "polygons_after": 14500,
+          "triangles_after": 24556,
+          "height_range_m": [
+            0.01964025492235223,
+            0.09
+          ],
+          "variants": {
+            "small_a": 218,
+            "small_b": 290,
+            "small_c": 19,
+            "small_d": 293,
+            "small_e": 243,
+            "small_f": 198,
+            "medium_a": 20,
+            "medium_b": 210,
+            "medium_c": 29,
+            "medium_d": 173,
+            "medium_e": 7,
+            "medium_f": 25,
+            "dead_a": 7,
+            "dead_b": 14,
+            "flattened_a": 46,
+            "seedling_c": 29
+          }
+        },
+        {
+          "name": "Césped botánico 03-00",
+          "kind": "lawn",
+          "original_roots": 4664,
+          "candidate_roots": 1865,
+          "accepted_clumps": 1821,
+          "rejected_at_exclusions": 44,
+          "vertices_before": 23320,
+          "vertices_after": 24085,
+          "polygons_after": 14095,
+          "triangles_after": 23857,
+          "height_range_m": [
+            0.019703063588731203,
+            0.09
+          ],
+          "variants": {
+            "small_a": 192,
+            "small_b": 297,
+            "small_c": 12,
+            "small_d": 287,
+            "small_e": 250,
+            "small_f": 190,
+            "medium_a": 20,
+            "medium_b": 214,
+            "medium_c": 25,
+            "medium_d": 191,
+            "medium_e": 11,
+            "medium_f": 25,
+            "dead_a": 17,
+            "dead_b": 7,
+            "flattened_a": 61,
+            "seedling_c": 22
+          }
+        },
+        {
+          "name": "Césped botánico 03-01",
+          "kind": "lawn",
+          "original_roots": 3819,
+          "candidate_roots": 1527,
+          "accepted_clumps": 1500,
+          "rejected_at_exclusions": 27,
+          "vertices_before": 19095,
+          "vertices_after": 19508,
+          "polygons_after": 11365,
+          "triangles_after": 19259,
+          "height_range_m": [
+            0.020291497514586105,
+            0.09
+          ],
+          "variants": {
+            "small_a": 178,
+            "small_b": 258,
+            "small_c": 15,
+            "small_d": 221,
+            "small_e": 217,
+            "small_f": 139,
+            "medium_a": 28,
+            "medium_b": 179,
+            "medium_c": 21,
+            "medium_d": 151,
+            "medium_e": 5,
+            "medium_f": 19,
+            "dead_a": 5,
+            "dead_b": 8,
+            "flattened_a": 41,
+            "seedling_c": 15
+          }
+        },
+        {
+          "name": "Césped botánico 03-04",
+          "kind": "lawn",
+          "original_roots": 5140,
+          "candidate_roots": 2056,
+          "accepted_clumps": 2032,
+          "rejected_at_exclusions": 24,
+          "vertices_before": 25700,
+          "vertices_after": 26137,
+          "polygons_after": 15202,
+          "triangles_after": 25741,
+          "height_range_m": [
+            0.01974450563769429,
+            0.09
+          ],
+          "variants": {
+            "small_a": 246,
+            "small_b": 331,
+            "small_c": 20,
+            "small_d": 347,
+            "small_e": 267,
+            "small_f": 175,
+            "medium_a": 26,
+            "medium_b": 237,
+            "medium_c": 27,
+            "medium_d": 216,
+            "medium_e": 8,
+            "medium_f": 28,
+            "dead_a": 12,
+            "dead_b": 16,
+            "flattened_a": 59,
+            "seedling_c": 17
+          }
+        },
+        {
+          "name": "Césped botánico 03-05",
+          "kind": "lawn",
+          "original_roots": 5200,
+          "candidate_roots": 2080,
+          "accepted_clumps": 2080,
+          "rejected_at_exclusions": 0,
+          "vertices_before": 26000,
+          "vertices_after": 26952,
+          "polygons_after": 15699,
+          "triangles_after": 26570,
+          "height_range_m": [
+            0.020326488201022862,
+            0.09
+          ],
+          "variants": {
+            "small_a": 232,
+            "small_b": 301,
+            "small_c": 17,
+            "small_d": 337,
+            "small_e": 250,
+            "small_f": 239,
+            "medium_a": 24,
+            "medium_b": 260,
+            "medium_c": 33,
+            "medium_d": 233,
+            "medium_e": 6,
+            "medium_f": 34,
+            "dead_a": 10,
+            "dead_b": 19,
+            "flattened_a": 66,
+            "seedling_c": 19
+          }
+        },
+        {
+          "name": "Césped botánico 03-06",
+          "kind": "lawn",
+          "original_roots": 5005,
+          "candidate_roots": 2002,
+          "accepted_clumps": 1981,
+          "rejected_at_exclusions": 21,
+          "vertices_before": 25025,
+          "vertices_after": 25634,
+          "polygons_after": 14930,
+          "triangles_after": 25278,
+          "height_range_m": [
+            0.02019332531762961,
+            0.09
+          ],
+          "variants": {
+            "small_a": 253,
+            "small_b": 301,
+            "small_c": 18,
+            "small_d": 322,
+            "small_e": 262,
+            "small_f": 202,
+            "medium_a": 33,
+            "medium_b": 228,
+            "medium_c": 26,
+            "medium_d": 204,
+            "medium_e": 3,
+            "medium_f": 29,
+            "dead_a": 11,
+            "dead_b": 6,
+            "flattened_a": 65,
+            "seedling_c": 18
+          }
+        },
+        {
+          "name": "Césped botánico 03-07",
+          "kind": "lawn",
+          "original_roots": 5200,
+          "candidate_roots": 2080,
+          "accepted_clumps": 2079,
+          "rejected_at_exclusions": 1,
+          "vertices_before": 26000,
+          "vertices_after": 27003,
+          "polygons_after": 15714,
+          "triangles_after": 26625,
+          "height_range_m": [
+            0.01994716999519103,
+            0.09
+          ],
+          "variants": {
+            "small_a": 292,
+            "small_b": 366,
+            "small_c": 24,
+            "small_d": 344,
+            "small_e": 241,
+            "small_f": 204,
+            "medium_a": 33,
+            "medium_b": 211,
+            "medium_c": 26,
+            "medium_d": 187,
+            "medium_e": 11,
+            "medium_f": 38,
+            "dead_a": 6,
+            "dead_b": 19,
+            "flattened_a": 60,
+            "seedling_c": 17
+          }
+        },
+        {
+          "name": "Césped botánico 03-08",
+          "kind": "lawn",
+          "original_roots": 5200,
+          "candidate_roots": 2080,
+          "accepted_clumps": 2080,
+          "rejected_at_exclusions": 0,
+          "vertices_before": 26000,
+          "vertices_after": 26921,
+          "polygons_after": 15587,
+          "triangles_after": 26488,
+          "height_range_m": [
+            0.0197063477118695,
+            0.09
+          ],
+          "variants": {
+            "small_a": 263,
+            "small_b": 337,
+            "small_c": 28,
+            "small_d": 316,
+            "small_e": 237,
+            "small_f": 205,
+            "medium_a": 27,
+            "medium_b": 279,
+            "medium_c": 35,
+            "medium_d": 195,
+            "medium_e": 13,
+            "medium_f": 32,
+            "dead_a": 15,
+            "dead_b": 12,
+            "flattened_a": 69,
+            "seedling_c": 17
+          }
+        },
+        {
+          "name": "Césped botánico 03-09",
+          "kind": "lawn",
+          "original_roots": 4682,
+          "candidate_roots": 1872,
+          "accepted_clumps": 1827,
+          "rejected_at_exclusions": 45,
+          "vertices_before": 23410,
+          "vertices_after": 23905,
+          "polygons_after": 13908,
+          "triangles_after": 23577,
+          "height_range_m": [
+            0.022082358488126525,
+            0.09
+          ],
+          "variants": {
+            "small_a": 208,
+            "small_b": 297,
+            "small_c": 22,
+            "small_d": 298,
+            "small_e": 239,
+            "small_f": 186,
+            "medium_a": 30,
+            "medium_b": 220,
+            "medium_c": 28,
+            "medium_d": 178,
+            "medium_e": 11,
+            "medium_f": 22,
+            "dead_a": 9,
+            "dead_b": 5,
+            "flattened_a": 55,
+            "seedling_c": 19
+          }
+        },
+        {
+          "name": "Césped botánico 04-00",
+          "kind": "lawn",
+          "original_roots": 4685,
+          "candidate_roots": 1874,
+          "accepted_clumps": 1835,
+          "rejected_at_exclusions": 39,
+          "vertices_before": 23425,
+          "vertices_after": 24456,
+          "polygons_after": 14308,
+          "triangles_after": 24247,
+          "height_range_m": [
+            0.01949582967723054,
+            0.09
+          ],
+          "variants": {
+            "small_a": 257,
+            "small_b": 288,
+            "small_c": 15,
+            "small_d": 304,
+            "small_e": 226,
+            "small_f": 174,
+            "medium_a": 34,
+            "medium_b": 210,
+            "medium_c": 32,
+            "medium_d": 168,
+            "medium_e": 9,
+            "medium_f": 28,
+            "dead_a": 11,
+            "dead_b": 7,
+            "flattened_a": 49,
+            "seedling_c": 23
+          }
+        },
+        {
+          "name": "Césped botánico 04-01",
+          "kind": "lawn",
+          "original_roots": 4693,
+          "candidate_roots": 1877,
+          "accepted_clumps": 1849,
+          "rejected_at_exclusions": 28,
+          "vertices_before": 23465,
+          "vertices_after": 24551,
+          "polygons_after": 14324,
+          "triangles_after": 24292,
+          "height_range_m": [
+            0.020553673506473004,
+            0.09
+          ],
+          "variants": {
+            "small_a": 232,
+            "small_b": 283,
+            "small_c": 13,
+            "small_d": 266,
+            "small_e": 282,
+            "small_f": 163,
+            "medium_a": 20,
+            "medium_b": 232,
+            "medium_c": 40,
+            "medium_d": 174,
+            "medium_e": 12,
+            "medium_f": 25,
+            "dead_a": 9,
+            "dead_b": 10,
+            "flattened_a": 66,
+            "seedling_c": 22
+          }
+        },
+        {
+          "name": "Césped botánico 04-02",
+          "kind": "lawn",
+          "original_roots": 2517,
+          "candidate_roots": 1006,
+          "accepted_clumps": 939,
+          "rejected_at_exclusions": 67,
+          "vertices_before": 12585,
+          "vertices_after": 12028,
+          "polygons_after": 6955,
+          "triangles_after": 11788,
+          "height_range_m": [
+            0.020591754698431237,
+            0.09
+          ],
+          "variants": {
+            "small_a": 111,
+            "small_b": 160,
+            "small_c": 7,
+            "small_d": 151,
+            "small_e": 139,
+            "small_f": 85,
+            "medium_a": 10,
+            "medium_b": 110,
+            "medium_c": 24,
+            "medium_d": 85,
+            "medium_e": 5,
+            "medium_f": 12,
+            "dead_a": 3,
+            "dead_b": 6,
+            "flattened_a": 24,
+            "seedling_c": 7
+          }
+        },
+        {
+          "name": "Césped botánico 04-03",
+          "kind": "lawn",
+          "original_roots": 3334,
+          "candidate_roots": 1333,
+          "accepted_clumps": 1296,
+          "rejected_at_exclusions": 37,
+          "vertices_before": 16670,
+          "vertices_after": 16770,
+          "polygons_after": 9723,
+          "triangles_after": 16471,
+          "height_range_m": [
+            0.02165864237587854,
+            0.09
+          ],
+          "variants": {
+            "small_a": 149,
+            "small_b": 183,
+            "small_c": 10,
+            "small_d": 255,
+            "small_e": 180,
+            "small_f": 145,
+            "medium_a": 17,
+            "medium_b": 152,
+            "medium_c": 15,
+            "medium_d": 111,
+            "medium_e": 7,
+            "medium_f": 18,
+            "dead_a": 6,
+            "dead_b": 10,
+            "flattened_a": 24,
+            "seedling_c": 14
+          }
+        },
+        {
+          "name": "Césped botánico 04-04",
+          "kind": "lawn",
+          "original_roots": 5186,
+          "candidate_roots": 2074,
+          "accepted_clumps": 2062,
+          "rejected_at_exclusions": 12,
+          "vertices_before": 25930,
+          "vertices_after": 27139,
+          "polygons_after": 15881,
+          "triangles_after": 26872,
+          "height_range_m": [
+            0.019303254565088947,
+            0.09
+          ],
+          "variants": {
+            "small_a": 224,
+            "small_b": 329,
+            "small_c": 16,
+            "small_d": 323,
+            "small_e": 257,
+            "small_f": 223,
+            "medium_a": 43,
+            "medium_b": 246,
+            "medium_c": 25,
+            "medium_d": 225,
+            "medium_e": 11,
+            "medium_f": 39,
+            "dead_a": 13,
+            "dead_b": 13,
+            "flattened_a": 53,
+            "seedling_c": 22
+          }
+        },
+        {
+          "name": "Césped botánico 04-05",
+          "kind": "lawn",
+          "original_roots": 5200,
+          "candidate_roots": 2080,
+          "accepted_clumps": 2080,
+          "rejected_at_exclusions": 0,
+          "vertices_before": 26000,
+          "vertices_after": 26792,
+          "polygons_after": 15543,
+          "triangles_after": 26368,
+          "height_range_m": [
+            0.020812397772071563,
+            0.09
+          ],
+          "variants": {
+            "small_a": 280,
+            "small_b": 327,
+            "small_c": 24,
+            "small_d": 347,
+            "small_e": 249,
+            "small_f": 201,
+            "medium_a": 28,
+            "medium_b": 265,
+            "medium_c": 27,
+            "medium_d": 205,
+            "medium_e": 8,
+            "medium_f": 32,
+            "dead_a": 9,
+            "dead_b": 4,
+            "flattened_a": 56,
+            "seedling_c": 18
+          }
+        },
+        {
+          "name": "Césped botánico 04-06",
+          "kind": "lawn",
+          "original_roots": 4538,
+          "candidate_roots": 1815,
+          "accepted_clumps": 1785,
+          "rejected_at_exclusions": 30,
+          "vertices_before": 22690,
+          "vertices_after": 23026,
+          "polygons_after": 13373,
+          "triangles_after": 22663,
+          "height_range_m": [
+            0.019360601367695587,
+            0.09
+          ],
+          "variants": {
+            "small_a": 206,
+            "small_b": 295,
+            "small_c": 19,
+            "small_d": 278,
+            "small_e": 224,
+            "small_f": 192,
+            "medium_a": 26,
+            "medium_b": 216,
+            "medium_c": 33,
+            "medium_d": 185,
+            "medium_e": 8,
+            "medium_f": 14,
+            "dead_a": 7,
+            "dead_b": 7,
+            "flattened_a": 59,
+            "seedling_c": 16
+          }
+        },
+        {
+          "name": "Césped botánico 04-07",
+          "kind": "lawn",
+          "original_roots": 5194,
+          "candidate_roots": 2077,
+          "accepted_clumps": 2076,
+          "rejected_at_exclusions": 1,
+          "vertices_before": 25970,
+          "vertices_after": 26574,
+          "polygons_after": 15452,
+          "triangles_after": 26138,
+          "height_range_m": [
+            0.019566499313508467,
+            0.09
+          ],
+          "variants": {
+            "small_a": 217,
+            "small_b": 338,
+            "small_c": 20,
+            "small_d": 336,
+            "small_e": 281,
+            "small_f": 212,
+            "medium_a": 32,
+            "medium_b": 239,
+            "medium_c": 26,
+            "medium_d": 234,
+            "medium_e": 8,
+            "medium_f": 31,
+            "dead_a": 6,
+            "dead_b": 11,
+            "flattened_a": 70,
+            "seedling_c": 15
+          }
+        },
+        {
+          "name": "Césped botánico 04-08",
+          "kind": "lawn",
+          "original_roots": 4759,
+          "candidate_roots": 1903,
+          "accepted_clumps": 1883,
+          "rejected_at_exclusions": 20,
+          "vertices_before": 23795,
+          "vertices_after": 24807,
+          "polygons_after": 14484,
+          "triangles_after": 24511,
+          "height_range_m": [
+            0.019479662804443226,
+            0.09
+          ],
+          "variants": {
+            "small_a": 228,
+            "small_b": 284,
+            "small_c": 19,
+            "small_d": 306,
+            "small_e": 267,
+            "small_f": 203,
+            "medium_a": 29,
+            "medium_b": 206,
+            "medium_c": 29,
+            "medium_d": 188,
+            "medium_e": 10,
+            "medium_f": 20,
+            "dead_a": 10,
+            "dead_b": 6,
+            "flattened_a": 56,
+            "seedling_c": 22
+          }
+        },
+        {
+          "name": "Césped botánico 04-09",
+          "kind": "lawn",
+          "original_roots": 4487,
+          "candidate_roots": 1794,
+          "accepted_clumps": 1742,
+          "rejected_at_exclusions": 52,
+          "vertices_before": 22435,
+          "vertices_after": 22944,
+          "polygons_after": 13387,
+          "triangles_after": 22684,
+          "height_range_m": [
+            0.019423713823261905,
+            0.09
+          ],
+          "variants": {
+            "small_a": 211,
+            "small_b": 287,
+            "small_c": 17,
+            "small_d": 270,
+            "small_e": 224,
+            "small_f": 200,
+            "medium_a": 31,
+            "medium_b": 198,
+            "medium_c": 23,
+            "medium_d": 163,
+            "medium_e": 10,
+            "medium_f": 22,
+            "dead_a": 8,
+            "dead_b": 7,
+            "flattened_a": 51,
+            "seedling_c": 20
+          }
+        },
+        {
+          "name": "Césped botánico 05-00",
+          "kind": "lawn",
+          "original_roots": 4684,
+          "candidate_roots": 1873,
+          "accepted_clumps": 1828,
+          "rejected_at_exclusions": 45,
+          "vertices_before": 23420,
+          "vertices_after": 23571,
+          "polygons_after": 13695,
+          "triangles_after": 23218,
+          "height_range_m": [
+            0.02052768483697996,
+            0.09
+          ],
+          "variants": {
+            "small_a": 206,
+            "small_b": 314,
+            "small_c": 17,
+            "small_d": 296,
+            "small_e": 241,
+            "small_f": 184,
+            "medium_a": 27,
+            "medium_b": 219,
+            "medium_c": 24,
+            "medium_d": 175,
+            "medium_e": 3,
+            "medium_f": 23,
+            "dead_a": 12,
+            "dead_b": 13,
+            "flattened_a": 57,
+            "seedling_c": 17
+          }
+        },
+        {
+          "name": "Césped botánico 05-01",
+          "kind": "lawn",
+          "original_roots": 5200,
+          "candidate_roots": 2080,
+          "accepted_clumps": 2080,
+          "rejected_at_exclusions": 0,
+          "vertices_before": 26000,
+          "vertices_after": 27074,
+          "polygons_after": 15728,
+          "triangles_after": 26703,
+          "height_range_m": [
+            0.019910271193745263,
+            0.09
+          ],
+          "variants": {
+            "small_a": 239,
+            "small_b": 345,
+            "small_c": 20,
+            "small_d": 318,
+            "small_e": 284,
+            "small_f": 192,
+            "medium_a": 40,
+            "medium_b": 271,
+            "medium_c": 36,
+            "medium_d": 195,
+            "medium_e": 8,
+            "medium_f": 20,
+            "dead_a": 5,
+            "dead_b": 11,
+            "flattened_a": 75,
+            "seedling_c": 21
+          }
+        },
+        {
+          "name": "Césped botánico 05-02",
+          "kind": "lawn",
+          "original_roots": 5200,
+          "candidate_roots": 2080,
+          "accepted_clumps": 2080,
+          "rejected_at_exclusions": 0,
+          "vertices_before": 26000,
+          "vertices_after": 27498,
+          "polygons_after": 16046,
+          "triangles_after": 27194,
+          "height_range_m": [
+            0.019614217240607256,
+            0.09
+          ],
+          "variants": {
+            "small_a": 254,
+            "small_b": 324,
+            "small_c": 19,
+            "small_d": 296,
+            "small_e": 284,
+            "small_f": 227,
+            "medium_a": 32,
+            "medium_b": 244,
+            "medium_c": 35,
+            "medium_d": 194,
+            "medium_e": 7,
+            "medium_f": 42,
+            "dead_a": 18,
+            "dead_b": 12,
+            "flattened_a": 70,
+            "seedling_c": 22
+          }
+        },
+        {
+          "name": "Césped botánico 05-03",
+          "kind": "lawn",
+          "original_roots": 5200,
+          "candidate_roots": 2080,
+          "accepted_clumps": 2080,
+          "rejected_at_exclusions": 0,
+          "vertices_before": 26000,
+          "vertices_after": 27178,
+          "polygons_after": 15843,
+          "triangles_after": 26815,
+          "height_range_m": [
+            0.02064099117125904,
+            0.09
+          ],
+          "variants": {
+            "small_a": 245,
+            "small_b": 320,
+            "small_c": 27,
+            "small_d": 335,
+            "small_e": 280,
+            "small_f": 191,
+            "medium_a": 34,
+            "medium_b": 235,
+            "medium_c": 31,
+            "medium_d": 220,
+            "medium_e": 7,
+            "medium_f": 43,
+            "dead_a": 15,
+            "dead_b": 16,
+            "flattened_a": 63,
+            "seedling_c": 18
+          }
+        },
+        {
+          "name": "Césped botánico 05-04",
+          "kind": "lawn",
+          "original_roots": 5200,
+          "candidate_roots": 2080,
+          "accepted_clumps": 2080,
+          "rejected_at_exclusions": 0,
+          "vertices_before": 26000,
+          "vertices_after": 26826,
+          "polygons_after": 15572,
+          "triangles_after": 26397,
+          "height_range_m": [
+            0.02178062159704298,
+            0.09
+          ],
+          "variants": {
+            "small_a": 264,
+            "small_b": 335,
+            "small_c": 19,
+            "small_d": 360,
+            "small_e": 249,
+            "small_f": 214,
+            "medium_a": 27,
+            "medium_b": 249,
+            "medium_c": 32,
+            "medium_d": 196,
+            "medium_e": 4,
+            "medium_f": 34,
+            "dead_a": 3,
+            "dead_b": 14,
+            "flattened_a": 62,
+            "seedling_c": 18
+          }
+        },
+        {
+          "name": "Césped botánico 05-05",
+          "kind": "lawn",
+          "original_roots": 5200,
+          "candidate_roots": 2080,
+          "accepted_clumps": 2080,
+          "rejected_at_exclusions": 0,
+          "vertices_before": 26000,
+          "vertices_after": 26575,
+          "polygons_after": 15374,
+          "triangles_after": 26073,
+          "height_range_m": [
+            0.0197101122624221,
+            0.09
+          ],
+          "variants": {
+            "small_a": 232,
+            "small_b": 344,
+            "small_c": 24,
+            "small_d": 320,
+            "small_e": 279,
+            "small_f": 237,
+            "medium_a": 30,
+            "medium_b": 249,
+            "medium_c": 19,
+            "medium_d": 193,
+            "medium_e": 11,
+            "medium_f": 41,
+            "dead_a": 11,
+            "dead_b": 11,
+            "flattened_a": 65,
+            "seedling_c": 14
+          }
+        },
+        {
+          "name": "Césped botánico 05-06",
+          "kind": "lawn",
+          "original_roots": 5199,
+          "candidate_roots": 2079,
+          "accepted_clumps": 2075,
+          "rejected_at_exclusions": 4,
+          "vertices_before": 25995,
+          "vertices_after": 26982,
+          "polygons_after": 15703,
+          "triangles_after": 26613,
+          "height_range_m": [
+            0.019351230295778357,
+            0.09
+          ],
+          "variants": {
+            "small_a": 252,
+            "small_b": 320,
+            "small_c": 25,
+            "small_d": 328,
+            "small_e": 281,
+            "small_f": 205,
+            "medium_a": 27,
+            "medium_b": 262,
+            "medium_c": 24,
+            "medium_d": 218,
+            "medium_e": 9,
+            "medium_f": 30,
+            "dead_a": 11,
+            "dead_b": 6,
+            "flattened_a": 56,
+            "seedling_c": 21
+          }
+        },
+        {
+          "name": "Césped botánico 05-07",
+          "kind": "lawn",
+          "original_roots": 5105,
+          "candidate_roots": 2042,
+          "accepted_clumps": 2003,
+          "rejected_at_exclusions": 39,
+          "vertices_before": 25525,
+          "vertices_after": 26288,
+          "polygons_after": 15369,
+          "triangles_after": 26003,
+          "height_range_m": [
+            0.020543505272135748,
+            0.09
+          ],
+          "variants": {
+            "small_a": 264,
+            "small_b": 325,
+            "small_c": 18,
+            "small_d": 298,
+            "small_e": 261,
+            "small_f": 202,
+            "medium_a": 37,
+            "medium_b": 216,
+            "medium_c": 37,
+            "medium_d": 208,
+            "medium_e": 5,
+            "medium_f": 32,
+            "dead_a": 14,
+            "dead_b": 10,
+            "flattened_a": 56,
+            "seedling_c": 20
+          }
+        },
+        {
+          "name": "Césped botánico 05-08",
+          "kind": "lawn",
+          "original_roots": 4913,
+          "candidate_roots": 1965,
+          "accepted_clumps": 1910,
+          "rejected_at_exclusions": 55,
+          "vertices_before": 24565,
+          "vertices_after": 24622,
+          "polygons_after": 14267,
+          "triangles_after": 24205,
+          "height_range_m": [
+            0.01981214780155716,
+            0.09
+          ],
+          "variants": {
+            "small_a": 231,
+            "small_b": 305,
+            "small_c": 17,
+            "small_d": 302,
+            "small_e": 258,
+            "small_f": 213,
+            "medium_a": 24,
+            "medium_b": 235,
+            "medium_c": 21,
+            "medium_d": 169,
+            "medium_e": 13,
+            "medium_f": 31,
+            "dead_a": 12,
+            "dead_b": 11,
+            "flattened_a": 51,
+            "seedling_c": 17
+          }
+        },
+        {
+          "name": "Césped botánico 05-09",
+          "kind": "lawn",
+          "original_roots": 4570,
+          "candidate_roots": 1828,
+          "accepted_clumps": 1761,
+          "rejected_at_exclusions": 67,
+          "vertices_before": 22850,
+          "vertices_after": 22514,
+          "polygons_after": 13045,
+          "triangles_after": 22097,
+          "height_range_m": [
+            0.019305313840674375,
+            0.09
+          ],
+          "variants": {
+            "small_a": 238,
+            "small_b": 281,
+            "small_c": 24,
+            "small_d": 298,
+            "small_e": 218,
+            "small_f": 184,
+            "medium_a": 25,
+            "medium_b": 196,
+            "medium_c": 22,
+            "medium_d": 172,
+            "medium_e": 8,
+            "medium_f": 28,
+            "dead_a": 8,
+            "dead_b": 10,
+            "flattened_a": 36,
+            "seedling_c": 13
+          }
+        },
+        {
+          "name": "Césped botánico 06-00",
+          "kind": "lawn",
+          "original_roots": 1870,
+          "candidate_roots": 748,
+          "accepted_clumps": 696,
+          "rejected_at_exclusions": 52,
+          "vertices_before": 9350,
+          "vertices_after": 9179,
+          "polygons_after": 5369,
+          "triangles_after": 9080,
+          "height_range_m": [
+            0.024314812916440068,
+            0.09
+          ],
+          "variants": {
+            "small_a": 94,
+            "small_b": 86,
+            "small_c": 6,
+            "small_d": 119,
+            "small_e": 100,
+            "small_f": 67,
+            "medium_a": 11,
+            "medium_b": 79,
+            "medium_c": 10,
+            "medium_d": 74,
+            "medium_e": 2,
+            "medium_f": 11,
+            "dead_a": 3,
+            "dead_b": 5,
+            "flattened_a": 21,
+            "seedling_c": 8
+          }
+        },
+        {
+          "name": "Césped botánico 06-01",
+          "kind": "lawn",
+          "original_roots": 2132,
+          "candidate_roots": 852,
+          "accepted_clumps": 810,
+          "rejected_at_exclusions": 42,
+          "vertices_before": 10660,
+          "vertices_after": 10498,
+          "polygons_after": 6121,
+          "triangles_after": 10352,
+          "height_range_m": [
+            0.022158093268272967,
+            0.09
+          ],
+          "variants": {
+            "small_a": 91,
+            "small_b": 141,
+            "small_c": 11,
+            "small_d": 133,
+            "small_e": 107,
+            "small_f": 84,
+            "medium_a": 16,
+            "medium_b": 88,
+            "medium_c": 10,
+            "medium_d": 88,
+            "medium_e": 2,
+            "medium_f": 10,
+            "dead_a": 2,
+            "dead_b": 5,
+            "flattened_a": 14,
+            "seedling_c": 8
+          }
+        },
+        {
+          "name": "Césped botánico 06-02",
+          "kind": "lawn",
+          "original_roots": 2067,
+          "candidate_roots": 826,
+          "accepted_clumps": 788,
+          "rejected_at_exclusions": 38,
+          "vertices_before": 10335,
+          "vertices_after": 10281,
+          "polygons_after": 5973,
+          "triangles_after": 10130,
+          "height_range_m": [
+            0.02019205069957225,
+            0.09
+          ],
+          "variants": {
+            "small_a": 86,
+            "small_b": 128,
+            "small_c": 5,
+            "small_d": 131,
+            "small_e": 113,
+            "small_f": 88,
+            "medium_a": 4,
+            "medium_b": 102,
+            "medium_c": 8,
+            "medium_d": 71,
+            "medium_e": 6,
+            "medium_f": 13,
+            "dead_a": 3,
+            "dead_b": 1,
+            "flattened_a": 20,
+            "seedling_c": 9
+          }
+        },
+        {
+          "name": "Césped botánico 06-03",
+          "kind": "lawn",
+          "original_roots": 2059,
+          "candidate_roots": 823,
+          "accepted_clumps": 798,
+          "rejected_at_exclusions": 25,
+          "vertices_before": 10295,
+          "vertices_after": 10734,
+          "polygons_after": 6303,
+          "triangles_after": 10650,
+          "height_range_m": [
+            0.02273092012152956,
+            0.09
+          ],
+          "variants": {
+            "small_a": 113,
+            "small_b": 108,
+            "small_c": 8,
+            "small_d": 141,
+            "small_e": 112,
+            "small_f": 74,
+            "medium_a": 13,
+            "medium_b": 73,
+            "medium_c": 15,
+            "medium_d": 79,
+            "medium_e": 3,
+            "medium_f": 12,
+            "dead_a": 3,
+            "dead_b": 3,
+            "flattened_a": 31,
+            "seedling_c": 10
+          }
+        },
+        {
+          "name": "Césped botánico 06-04",
+          "kind": "lawn",
+          "original_roots": 2001,
+          "candidate_roots": 800,
+          "accepted_clumps": 761,
+          "rejected_at_exclusions": 39,
+          "vertices_before": 10005,
+          "vertices_after": 10170,
+          "polygons_after": 5978,
+          "triangles_after": 10102,
+          "height_range_m": [
+            0.021166190074480597,
+            0.09
+          ],
+          "variants": {
+            "small_a": 84,
+            "small_b": 147,
+            "small_c": 3,
+            "small_d": 115,
+            "small_e": 100,
+            "small_f": 72,
+            "medium_a": 12,
+            "medium_b": 76,
+            "medium_c": 18,
+            "medium_d": 79,
+            "medium_e": 3,
+            "medium_f": 13,
+            "dead_a": 6,
+            "dead_b": 2,
+            "flattened_a": 22,
+            "seedling_c": 9
+          }
+        },
+        {
+          "name": "Césped botánico 06-05",
+          "kind": "lawn",
+          "original_roots": 2034,
+          "candidate_roots": 813,
+          "accepted_clumps": 771,
+          "rejected_at_exclusions": 42,
+          "vertices_before": 10170,
+          "vertices_after": 10511,
+          "polygons_after": 6171,
+          "triangles_after": 10464,
+          "height_range_m": [
+            0.020862985194867654,
+            0.09
+          ],
+          "variants": {
+            "small_a": 87,
+            "small_b": 121,
+            "small_c": 7,
+            "small_d": 115,
+            "small_e": 109,
+            "small_f": 93,
+            "medium_a": 10,
+            "medium_b": 102,
+            "medium_c": 9,
+            "medium_d": 69,
+            "medium_e": 2,
+            "medium_f": 13,
+            "dead_a": 7,
+            "dead_b": 3,
+            "flattened_a": 10,
+            "seedling_c": 14
+          }
+        },
+        {
+          "name": "Césped botánico 06-06",
+          "kind": "lawn",
+          "original_roots": 3236,
+          "candidate_roots": 1294,
+          "accepted_clumps": 1214,
+          "rejected_at_exclusions": 80,
+          "vertices_before": 16180,
+          "vertices_after": 16246,
+          "polygons_after": 9505,
+          "triangles_after": 16096,
+          "height_range_m": [
+            0.02103200750428813,
+            0.09
+          ],
+          "variants": {
+            "small_a": 136,
+            "small_b": 186,
+            "small_c": 18,
+            "small_d": 194,
+            "small_e": 167,
+            "small_f": 123,
+            "medium_a": 23,
+            "medium_b": 137,
+            "medium_c": 20,
+            "medium_d": 123,
+            "medium_e": 7,
+            "medium_f": 12,
+            "dead_a": 3,
+            "dead_b": 12,
+            "flattened_a": 37,
+            "seedling_c": 16
+          }
+        },
+        {
+          "name": "Césped botánico 06-09",
+          "kind": "lawn",
+          "original_roots": 2017,
+          "candidate_roots": 806,
+          "accepted_clumps": 714,
+          "rejected_at_exclusions": 92,
+          "vertices_before": 10085,
+          "vertices_after": 9001,
+          "polygons_after": 5209,
+          "triangles_after": 8823,
+          "height_range_m": [
+            0.020128168643686994,
+            0.09
+          ],
+          "variants": {
+            "small_a": 92,
+            "small_b": 122,
+            "small_c": 8,
+            "small_d": 112,
+            "small_e": 100,
+            "small_f": 66,
+            "medium_a": 14,
+            "medium_b": 78,
+            "medium_c": 8,
+            "medium_d": 71,
+            "medium_e": 3,
+            "medium_f": 10,
+            "dead_a": 4,
+            "dead_b": 5,
+            "flattened_a": 17,
+            "seedling_c": 4
+          }
+        },
+        {
+          "name": "Césped botánico 07-06",
+          "kind": "lawn",
+          "original_roots": 2099,
+          "candidate_roots": 839,
+          "accepted_clumps": 769,
+          "rejected_at_exclusions": 70,
+          "vertices_before": 10495,
+          "vertices_after": 10604,
+          "polygons_after": 6237,
+          "triangles_after": 10588,
+          "height_range_m": [
+            0.020327847443435305,
+            0.09
+          ],
+          "variants": {
+            "small_a": 96,
+            "small_b": 122,
+            "small_c": 8,
+            "small_d": 121,
+            "small_e": 99,
+            "small_f": 66,
+            "medium_a": 14,
+            "medium_b": 102,
+            "medium_c": 11,
+            "medium_d": 69,
+            "medium_e": 3,
+            "medium_f": 15,
+            "dead_a": 2,
+            "dead_b": 2,
+            "flattened_a": 26,
+            "seedling_c": 13
+          }
+        },
+        {
+          "name": "Césped botánico 07-09",
+          "kind": "lawn",
+          "original_roots": 1968,
+          "candidate_roots": 787,
+          "accepted_clumps": 707,
+          "rejected_at_exclusions": 80,
+          "vertices_before": 9840,
+          "vertices_after": 9858,
+          "polygons_after": 5815,
+          "triangles_after": 9848,
+          "height_range_m": [
+            0.021568606345860823,
+            0.09
+          ],
+          "variants": {
+            "small_a": 92,
+            "small_b": 102,
+            "small_c": 7,
+            "small_d": 114,
+            "small_e": 87,
+            "small_f": 77,
+            "medium_a": 14,
+            "medium_b": 84,
+            "medium_c": 16,
+            "medium_d": 64,
+            "medium_e": 1,
+            "medium_f": 15,
+            "dead_a": 3,
+            "dead_b": 4,
+            "flattened_a": 14,
+            "seedling_c": 13
+          }
+        },
+        {
+          "name": "Césped botánico 08-06",
+          "kind": "lawn",
+          "original_roots": 2066,
+          "candidate_roots": 826,
+          "accepted_clumps": 751,
+          "rejected_at_exclusions": 75,
+          "vertices_before": 10330,
+          "vertices_after": 9796,
+          "polygons_after": 5706,
+          "triangles_after": 9667,
+          "height_range_m": [
+            0.021106093042793705,
+            0.09
+          ],
+          "variants": {
+            "small_a": 71,
+            "small_b": 133,
+            "small_c": 5,
+            "small_d": 115,
+            "small_e": 116,
+            "small_f": 68,
+            "medium_a": 11,
+            "medium_b": 92,
+            "medium_c": 14,
+            "medium_d": 73,
+            "medium_e": 1,
+            "medium_f": 11,
+            "dead_a": 10,
+            "dead_b": 3,
+            "flattened_a": 20,
+            "seedling_c": 8
+          }
+        },
+        {
+          "name": "Césped botánico 08-09",
+          "kind": "lawn",
+          "original_roots": 2005,
+          "candidate_roots": 802,
+          "accepted_clumps": 742,
+          "rejected_at_exclusions": 60,
+          "vertices_before": 10025,
+          "vertices_after": 9284,
+          "polygons_after": 5342,
+          "triangles_after": 9067,
+          "height_range_m": [
+            0.025168672177406374,
+            0.09
+          ],
+          "variants": {
+            "small_a": 94,
+            "small_b": 104,
+            "small_c": 5,
+            "small_d": 123,
+            "small_e": 111,
+            "small_f": 73,
+            "medium_a": 5,
+            "medium_b": 104,
+            "medium_c": 10,
+            "medium_d": 73,
+            "medium_e": 4,
+            "medium_f": 8,
+            "dead_a": 2,
+            "dead_b": 1,
+            "flattened_a": 20,
+            "seedling_c": 5
+          }
+        },
+        {
+          "name": "Césped botánico 09-06",
+          "kind": "lawn",
+          "original_roots": 2079,
+          "candidate_roots": 831,
+          "accepted_clumps": 759,
+          "rejected_at_exclusions": 72,
+          "vertices_before": 10395,
+          "vertices_after": 10333,
+          "polygons_after": 6064,
+          "triangles_after": 10273,
+          "height_range_m": [
+            0.02515332985769506,
+            0.09
+          ],
+          "variants": {
+            "small_a": 102,
+            "small_b": 105,
+            "small_c": 7,
+            "small_d": 113,
+            "small_e": 119,
+            "small_f": 75,
+            "medium_a": 11,
+            "medium_b": 88,
+            "medium_c": 14,
+            "medium_d": 70,
+            "medium_e": 5,
+            "medium_f": 9,
+            "dead_a": 2,
+            "dead_b": 3,
+            "flattened_a": 24,
+            "seedling_c": 12
+          }
+        },
+        {
+          "name": "Césped botánico 09-09",
+          "kind": "lawn",
+          "original_roots": 1991,
+          "candidate_roots": 796,
+          "accepted_clumps": 715,
+          "rejected_at_exclusions": 81,
+          "vertices_before": 9955,
+          "vertices_after": 9209,
+          "polygons_after": 5331,
+          "triangles_after": 9060,
+          "height_range_m": [
+            0.019838362198589206,
+            0.09
+          ],
+          "variants": {
+            "small_a": 80,
+            "small_b": 113,
+            "small_c": 5,
+            "small_d": 118,
+            "small_e": 86,
+            "small_f": 75,
+            "medium_a": 10,
+            "medium_b": 107,
+            "medium_c": 9,
+            "medium_d": 68,
+            "medium_e": 5,
+            "medium_f": 10,
+            "dead_a": 3,
+            "dead_b": 1,
+            "flattened_a": 18,
+            "seedling_c": 7
+          }
+        },
+        {
+          "name": "Césped botánico 10-06",
+          "kind": "lawn",
+          "original_roots": 1909,
+          "candidate_roots": 763,
+          "accepted_clumps": 697,
+          "rejected_at_exclusions": 66,
+          "vertices_before": 9545,
+          "vertices_after": 9403,
+          "polygons_after": 5540,
+          "triangles_after": 9353,
+          "height_range_m": [
+            0.019817572884491756,
+            0.09
+          ],
+          "variants": {
+            "small_a": 90,
+            "small_b": 114,
+            "small_c": 10,
+            "small_d": 101,
+            "small_e": 78,
+            "small_f": 67,
+            "medium_a": 9,
+            "medium_b": 73,
+            "medium_c": 14,
+            "medium_d": 90,
+            "medium_e": 7,
+            "medium_f": 14,
+            "dead_a": 3,
+            "dead_b": 3,
+            "flattened_a": 16,
+            "seedling_c": 8
+          }
+        },
+        {
+          "name": "Césped botánico 10-07",
+          "kind": "lawn",
+          "original_roots": 1968,
+          "candidate_roots": 787,
+          "accepted_clumps": 703,
+          "rejected_at_exclusions": 84,
+          "vertices_before": 9840,
+          "vertices_after": 9232,
+          "polygons_after": 5391,
+          "triangles_after": 9125,
+          "height_range_m": [
+            0.021798472922981295,
+            0.09
+          ],
+          "variants": {
+            "small_a": 60,
+            "small_b": 135,
+            "small_c": 7,
+            "small_d": 127,
+            "small_e": 82,
+            "small_f": 69,
+            "medium_a": 11,
+            "medium_b": 80,
+            "medium_c": 9,
+            "medium_d": 73,
+            "medium_e": 3,
+            "medium_f": 13,
+            "dead_a": 3,
+            "dead_b": 0,
+            "flattened_a": 24,
+            "seedling_c": 7
+          }
+        },
+        {
+          "name": "Césped botánico 10-08",
+          "kind": "lawn",
+          "original_roots": 2000,
+          "candidate_roots": 800,
+          "accepted_clumps": 745,
+          "rejected_at_exclusions": 55,
+          "vertices_before": 10000,
+          "vertices_after": 10176,
+          "polygons_after": 5996,
+          "triangles_after": 10122,
+          "height_range_m": [
+            0.02356841901458215,
+            0.09
+          ],
+          "variants": {
+            "small_a": 89,
+            "small_b": 106,
+            "small_c": 6,
+            "small_d": 124,
+            "small_e": 101,
+            "small_f": 71,
+            "medium_a": 10,
+            "medium_b": 82,
+            "medium_c": 21,
+            "medium_d": 85,
+            "medium_e": 4,
+            "medium_f": 15,
+            "dead_a": 4,
+            "dead_b": 4,
+            "flattened_a": 12,
+            "seedling_c": 11
+          }
+        },
+        {
+          "name": "Césped botánico 10-09",
+          "kind": "lawn",
+          "original_roots": 2832,
+          "candidate_roots": 1132,
+          "accepted_clumps": 1026,
+          "rejected_at_exclusions": 106,
+          "vertices_before": 14160,
+          "vertices_after": 13411,
+          "polygons_after": 7830,
+          "triangles_after": 13252,
+          "height_range_m": [
+            0.02517916403064084,
+            0.09
+          ],
+          "variants": {
+            "small_a": 107,
+            "small_b": 153,
+            "small_c": 6,
+            "small_d": 188,
+            "small_e": 131,
+            "small_f": 96,
+            "medium_a": 20,
+            "medium_b": 133,
+            "medium_c": 12,
+            "medium_d": 113,
+            "medium_e": 6,
+            "medium_f": 19,
+            "dead_a": 2,
+            "dead_b": 7,
+            "flattened_a": 22,
+            "seedling_c": 11
+          }
+        },
+        {
+          "name": "Paisaje | pradera de transición",
+          "kind": "meadow",
+          "original_roots": 7648,
+          "candidate_roots": 7648,
+          "accepted_clumps": 7444,
+          "rejected_at_exclusions": 204,
+          "vertices_before": 68799,
+          "vertices_after": 96916,
+          "polygons_after": 56268,
+          "triangles_after": 95469,
+          "height_range_m": [
+            0.019660114102108498,
+            0.12000000000000001
+          ],
+          "variants": {
+            "small_a": 838,
+            "small_b": 1171,
+            "small_c": 73,
+            "small_d": 1177,
+            "small_e": 1019,
+            "small_f": 752,
+            "medium_a": 113,
+            "medium_b": 961,
+            "medium_c": 101,
+            "medium_d": 698,
+            "medium_e": 49,
+            "medium_f": 126,
+            "dead_a": 35,
+            "dead_b": 34,
+            "flattened_a": 226,
+            "seedling_c": 71
+          }
+        }
+      ],
+      "root_embedding_m": 0.0007,
+      "geometry_decimation": false,
+      "alpha": "Physical photographic cutout, Math ROUND -> glTF MASK 0.5; no procedural dither",
+      "variants": [
+        {
+          "name": "small_a",
+          "height": 0.03223959356546402,
+          "radius": 0.048782311379909515,
+          "custom_normals": false
+        },
+        {
+          "name": "small_b",
+          "height": 0.04585026204586029,
+          "radius": 0.0498897023499012,
+          "custom_normals": false
+        },
+        {
+          "name": "small_c",
+          "height": 0.055165212601423264,
+          "radius": 0.03307030349969864,
+          "custom_normals": false
+        },
+        {
+          "name": "small_d",
+          "height": 0.05464456230401993,
+          "radius": 0.032909177243709564,
+          "custom_normals": false
+        },
+        {
+          "name": "small_e",
+          "height": 0.09073731303215027,
+          "radius": 0.017305565997958183,
+          "custom_normals": false
+        },
+        {
+          "name": "small_f",
+          "height": 0.06905271857976913,
+          "radius": 0.02856261469423771,
+          "custom_normals": false
+        },
+        {
+          "name": "medium_a",
+          "height": 0.09775002300739288,
+          "radius": 0.026656482368707657,
+          "custom_normals": false
+        },
+        {
+          "name": "medium_b",
+          "height": 0.0745726078748703,
+          "radius": 0.03508812189102173,
+          "custom_normals": false
+        },
+        {
+          "name": "medium_c",
+          "height": 0.06667336076498032,
+          "radius": 0.049440279603004456,
+          "custom_normals": false
+        },
+        {
+          "name": "medium_d",
+          "height": 0.10206569731235504,
+          "radius": 0.03963948041200638,
+          "custom_normals": false
+        },
+        {
+          "name": "medium_e",
+          "height": 0.082661472260952,
+          "radius": 0.04180404916405678,
+          "custom_normals": false
+        },
+        {
+          "name": "medium_f",
+          "height": 0.11300424486398697,
+          "radius": 0.024728387594223022,
+          "custom_normals": false
+        },
+        {
+          "name": "dead_a",
+          "height": 0.024741128087043762,
+          "radius": 0.058737631887197495,
+          "custom_normals": false
+        },
+        {
+          "name": "dead_b",
+          "height": 0.04334356263279915,
+          "radius": 0.05716955289244652,
+          "custom_normals": false
+        },
+        {
+          "name": "flattened_a",
+          "height": 0.043633755296468735,
+          "radius": 0.07113390415906906,
+          "custom_normals": false
+        },
+        {
+          "name": "seedling_c",
+          "height": 0.09225825220346451,
+          "radius": 0.03049246221780777,
+          "custom_normals": false
+        }
+      ],
+      "ground_atlas": {
+        "world_bounds_m": {
+          "x": [
+            0,
+            22
+          ],
+          "y": [
+            -20,
+            0
+          ]
+        },
+        "tile_repeat_m": 2,
+        "mask": "Exact source fine-grass mask; full huerta, house, pool, tree wells and boundary remain original scanned substrate. No geometry overlay.",
+        "normal_rotation_deg": 23,
+        "prefilter": "Linear-light area prefilter: source 2m tiles reduced to512px color /256px normal+roughness before atlas sampling; prevents minification aliasing.",
+        "color_tint": "Original point-color attributes barycentrically interpolated and baked; original geometry is unchanged.",
+        "files": {
+          "lot_color.jpg": {
+            "sha256": "6431860aaf9eb872afc3819af70a384f1e9ecf79279e4fc5cd1a860bc17dd3e1",
+            "bytes": 13574616,
+            "resolution": [
+              4096,
+              4096
+            ],
+            "metres_per_texel": [
+              0.00537109375,
+              0.0048828125
+            ]
+          },
+          "lot_normal.png": {
+            "sha256": "f8e3fe87c021686382d70e3b6950709d57591c2b2601b45614df14a02c566926",
+            "bytes": 10195429,
+            "resolution": [
+              2048,
+              2048
+            ],
+            "metres_per_texel": [
+              0.0107421875,
+              0.009765625
+            ]
+          },
+          "lot_rough.png": {
+            "sha256": "da46d274a6bf2017aaf2ea775343d22e8b516f53936e3dc7845f3eabb607f8d2",
+            "bytes": 4585387,
+            "resolution": [
+              2048,
+              2048
+            ],
+            "metres_per_texel": [
+              0.0107421875,
+              0.009765625
+            ]
+          },
+          "bermuda_source_normal_2k.png": {
+            "sha256": "abfa1f185bcd74b690024847aa0d49e5c88ae6e30be6aeb17102ce7734ca312e",
+            "bytes": 5642120,
+            "quantization_max": 0.00196078431372549
+          },
+          "bermuda_source_rough_2k.png": {
+            "sha256": "dd5be9b36f4ac7f7fe9c0c32da5ce85d455aadd661176289155bb35364e92d65",
+            "bytes": 1413169,
+            "quantization_max": 0.00196078431372549
+          }
+        },
+        "rows": [],
+        "roughness_lod": {
+          "method": "Normal-variance specular AA inspired by Toksvig; approximate GGX adaptation. r_eff = min(1,(r^4 + strength^2*(1-L)/max(L,0.05))^0.25), L=length(area-filtered source normal), strength=0.65. Applied only to the derived understory; original bare-ground roughness unchanged.",
+          "reference": "https://developer.download.nvidia.com/whitepapers/2006/Mipmapping_Normal_Maps.pdf",
+          "original_mean": 0.42262599138961615,
+          "effective_mean": 0.8402052716328614,
+          "effective_range": [
+            0.32825610041618347,
+            1.0
+          ]
+        },
+        "grass_area_m2": 225.26647806167603,
+        "huerta_nonzero_mask_pixels": 0
+      },
+      "total_vertices_before": 1531804,
+      "total_vertices_after": 1588465,
+      "total_triangles_after": 1567231,
+      "total_clumps": 121647,
+      "scenes": [
+        "CASA DE CAMPO | Atardecer",
+        "CASA DE CAMPO | DÍA",
+        "CASA DE CAMPO | NOCHE",
+        "INSPECCIÓN | Planta alta"
+      ]
+    },
+    "correcciones99_camara_pileta_r8.py": {
+      "positionBlender": [
+        10.0,
+        -14.25,
+        1.7200000286102295
+      ],
+      "heightAboveGarden_m": 1.6800000286102295,
+      "lens_mm": 25.0,
+      "nearCopingSamples": [
+        {
+          "sample": 0,
+          "point": [
+            13.050000190734863,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 1,
+          "point": [
+            13.337499618530273,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 2,
+          "point": [
+            13.625,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 3,
+          "point": [
+            13.912500381469727,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 4,
+          "point": [
+            14.199999809265137,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 5,
+          "point": [
+            14.487500190734863,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 6,
+          "point": [
+            14.774999618530273,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 7,
+          "point": [
+            15.0625,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 8,
+          "point": [
+            15.350000381469727,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 9,
+          "point": [
+            15.637499809265137,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 10,
+          "point": [
+            15.925000190734863,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 11,
+          "point": [
+            16.212499618530273,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 12,
+          "point": [
+            16.5,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 13,
+          "point": [
+            16.787500381469727,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 14,
+          "point": [
+            17.075000762939453,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 15,
+          "point": [
+            17.362499237060547,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 16,
+          "point": [
+            17.649999618530273,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 17,
+          "point": [
+            17.9375,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 18,
+          "point": [
+            18.225000381469727,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 19,
+          "point": [
+            18.512500762939453,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 20,
+          "point": [
+            18.799999237060547,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 21,
+          "point": [
+            19.087499618530273,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 22,
+          "point": [
+            19.375,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 23,
+          "point": [
+            19.662500381469727,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        },
+        {
+          "sample": 24,
+          "point": [
+            19.950000762939453,
+            -15.03499984741211,
+            0.10999999940395355
+          ],
+          "blockingObject": null,
+          "distanceBeforeTarget": null
+        }
+      ],
+      "poolCornerNDC": [
+        [
+          0.4432787597179413,
+          0.2261400818824768,
+          3.3373985290527344
+        ],
+        [
+          0.9138352274894714,
+          0.3287166953086853,
+          4.299826145172119
+        ],
+        [
+          0.3188859522342682,
+          0.5287476181983948,
+          9.824872970581055
+        ],
+        [
+          0.5175482630729675,
+          0.542636513710022,
+          10.787300109863281
+        ]
+      ],
+      "blocking": [],
+      "preservedOriginalCamera": "CAM | Pileta & playa húmeda"
+    },
+    "correcciones99_agua_optica_r8.py": {
+      "material": "Agua | water",
+      "scope": "Optical bump only; no vertex, volume, surface level, basin, colour, absorption or IOR changes.",
+      "bumpDistanceBefore_m": 0.036,
+      "bumpDistanceAfter_m": 0.008,
+      "strength": 0.23000000417232513,
+      "effectiveHeightScale_m": 0.00184,
+      "noiseObjectScale": 7.5,
+      "reason": "The earlier optical bump distance represented8.28mm effective modulation and looked choppy in the human-height pool view. Reduce the optical height multiplier to1.84mm for subtle wind ripple; no hydraulic simulation or wave-amplitude certification."
+    },
+    "finish99_metadata_r8.py": {
+      "objects": [
+        {
+          "name": "R8B | Manta dormitorio | caída CPU",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Manta | costura doble 0",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Manta | costura doble 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Manta | costura doble 2",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Manta | costura doble 3",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Almohada 1 | funda relleno y compresión",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Almohada 1 | costura perimetral",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Almohada 2 | funda relleno y compresión",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Almohada 2 | costura perimetral",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 1 | pliegues suspendidos",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 1 | cabezal",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 1 | dobladillo",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 1 | cinta al carro 0",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 1 | cinta al carro 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 1 | cinta al carro 2",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 1 | cinta al carro 3",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 1 | cinta al carro 4",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 1 | cinta al carro 5",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 1 | cinta al carro 6",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 2 | pliegues suspendidos",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 2 | cabezal",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 2 | dobladillo",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 2 | cinta al carro 0",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 2 | cinta al carro 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 2 | cinta al carro 2",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 2 | cinta al carro 3",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 2 | cinta al carro 4",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 2 | cinta al carro 5",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Cortina 2 | cinta al carro 6",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 0 | torso tejido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 0 | bajo cosido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 0 | cuello",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 0 | solapa cuello -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 0 | manga -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 0 | puño -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 0 | solapa cuello 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 0 | manga 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 0 | puño 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 0 | tapeta",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 0 | botón 0.18",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 0 | botón 0.31",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 0 | botón 0.44",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 0 | botón 0.58",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 0 | botón 0.71",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 0 | botón 0.84",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 0 | gancho apoyado barral",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 0 | percha hombros 420",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 1 | torso tejido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 1 | bajo cosido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 1 | cuello",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 1 | solapa cuello -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 1 | manga -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 1 | puño -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 1 | solapa cuello 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 1 | manga 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 1 | puño 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 1 | tapeta",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 1 | botón 0.18",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 1 | botón 0.31",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 1 | botón 0.44",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 1 | botón 0.58",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 1 | botón 0.71",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 1 | botón 0.84",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 1 | gancho apoyado barral",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 1 | percha hombros 420",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 2 | torso tejido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 2 | bajo cosido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 2 | cuello",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 2 | solapa cuello -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 2 | manga -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 2 | puño -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 2 | solapa cuello 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 2 | manga 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 2 | puño 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 2 | tapeta",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 2 | botón 0.18",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 2 | botón 0.31",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 2 | botón 0.44",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 2 | botón 0.58",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 2 | botón 0.71",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 2 | botón 0.84",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 2 | gancho apoyado barral",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 2 | percha hombros 420",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 3 | torso tejido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 3 | bajo cosido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 3 | cuello",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 3 | solapa cuello -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 3 | manga -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 3 | puño -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 3 | solapa cuello 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 3 | manga 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 3 | puño 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 3 | tapeta",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 3 | botón 0.18",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 3 | botón 0.31",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 3 | botón 0.44",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 3 | botón 0.58",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 3 | botón 0.71",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 3 | botón 0.84",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 3 | gancho apoyado barral",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 3 | percha hombros 420",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 4 | torso tejido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 4 | bajo cosido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 4 | cuello",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 4 | solapa cuello -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 4 | manga -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 4 | puño -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 4 | solapa cuello 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 4 | manga 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 4 | puño 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 4 | tapeta",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 4 | botón 0.18",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 4 | botón 0.31",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 4 | botón 0.44",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 4 | botón 0.58",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 4 | botón 0.71",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 4 | botón 0.84",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 4 | gancho apoyado barral",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 4 | percha hombros 420",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 5 | torso tejido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 5 | bajo cosido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 5 | cuello",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 5 | solapa cuello -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 5 | manga -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 5 | puño -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 5 | solapa cuello 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 5 | manga 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 5 | puño 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 5 | tapeta",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 5 | botón 0.18",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 5 | botón 0.31",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 5 | botón 0.44",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 5 | botón 0.58",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 5 | botón 0.71",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 5 | botón 0.84",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 5 | gancho apoyado barral",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 5 | percha hombros 420",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 6 | torso tejido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 6 | bajo cosido",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 6 | cuello",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 6 | solapa cuello -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 6 | manga -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 6 | puño -1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 6 | solapa cuello 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 6 | manga 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 6 | puño 1",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 6 | tapeta",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 6 | botón 0.18",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 6 | botón 0.31",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 6 | botón 0.44",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 6 | botón 0.58",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 6 | botón 0.71",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 6 | botón 0.84",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 6 | gancho apoyado barral",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Prenda 6 | percha hombros 420",
+          "sourceLayer": "upperDetail",
+          "collections": [
+            "FURNITURE",
+            "INTERIORS"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 1 | sustrato labrado",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 1 | agregados milimétricos 0",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 1 | agregados milimétricos 1",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 1 | agregados milimétricos 2",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 1 | agregados milimétricos 3",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 1 | lechuga de hoja hojas",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 1 | nervaduras",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 1 | tallos pecíolos",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 2 | sustrato labrado",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 2 | agregados milimétricos 0",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 2 | agregados milimétricos 1",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 2 | agregados milimétricos 2",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 2 | agregados milimétricos 3",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 2 | fruto 0",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 2 | fruto 2",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 2 | fruto 3",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 2 | fruto 5",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 2 | fruto 6",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 2 | pimiento compacto hojas",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 2 | nervaduras",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 2 | tallos pecíolos",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 3 | sustrato labrado",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 3 | agregados milimétricos 0",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 3 | agregados milimétricos 1",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 3 | agregados milimétricos 2",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 3 | agregados milimétricos 3",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 3 | acelga hojas",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 3 | nervaduras",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 3 | tallos pecíolos",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 4 | sustrato labrado",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 4 | agregados milimétricos 0",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 4 | agregados milimétricos 1",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 4 | agregados milimétricos 2",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 4 | agregados milimétricos 3",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 4 | albahaca hojas",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 4 | nervaduras",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        },
+        {
+          "name": "R8B | Huerta 4 | tallos pecíolos",
+          "sourceLayer": "garden",
+          "collections": [
+            "LANDSCAPE"
+          ]
+        }
+      ],
+      "cameras": [
+        {
+          "name": "CAM | Casa & paisaje",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Pileta & playa húmeda",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Escalera & acceso",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Estudio de grabación",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Cocina & comedor",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Cocina",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Comedor",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Vestidor pasante",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Dormitorio",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Baño de pileta",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Quincho",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Implantación general",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Distribución · planta alta",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Huerta",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Balcón",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Fachada de acceso",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Baño suite",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Monoambiente",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Presentación verticales corregidas",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "CAM | Planta alta ortogonal",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Dormitorio completo",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Dormitorio acceso",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Baño completo",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Baño desde acceso",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Vestidor circulación",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Estudio y cubierta",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Cocina comedor",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Quincho y extracción",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Escalera y desembarco",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Cubierta escalonada",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Portón y riel",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Baño acceso comedor",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Mono cocina e isla",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Mono distribución",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Baño mono",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Baño quincho",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "REV | Baño mono sanitarios",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "LUZ99 | Estudio amplitud",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "LUZ99 | Estudio retrato",
+          "resolution": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "name": "LUZ99 | Dormitorio desde paso",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "LUZ99 | Dormitorio amplitud",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "LUZ99 | Dormitorio retrato",
+          "resolution": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "name": "LUZ99 | Vestidor retrato",
+          "resolution": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "name": "LUZ99 | Exterior jardin retrato",
+          "resolution": [
+            1800,
+            2400
+          ]
+        },
+        {
+          "name": "LUZ99 | Quincho amplitud",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "LUZ99 | Bano suite humano",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "LUZ99 | Bano PB desde puerta",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "LUZ99 | Acceso dormitorio desde estar",
+          "resolution": [
+            2400,
+            1800
+          ]
+        },
+        {
+          "name": "LUZ99 | Pileta desde jardin",
+          "resolution": [
+            2400,
+            1800
+          ]
+        }
+      ]
+    }
+  },
+  "scripts": {
+    "correcciones99_uv_madera_r8.py": "89ec7476185b6f196f49c2b965f9a65e52518d0006323db2beac098524dba6c6",
+    "correcciones99_textiles_botanica_r8.py": "3cde0861f804afac87eb3983a4f465cd371cd6e30ed43c50cb4699e9ae0a32a9",
+    "correcciones99_tapizados_r8.py": "b9cfcf091f2d5d4d988658adf98ac31ebe79f99fc16a4101b87e6ed0ab561628",
+    "correcciones99_cesped_r8.py": "f68d744baaa229545fd481f9ded04d24916a91f009ecec4a0656f0dd87f7504e",
+    "correcciones99_camara_pileta_r8.py": "7e97da0a9712d88d9d03d39c400177054e28438beb7ef42ffcc2adc360bf6e7c",
+    "correcciones99_agua_optica_r8.py": "8d222e7ee8bba812b101c1866ba9fa4f9c5a68b96364a6cc5113a31bffefe052",
+    "finish99_metadata_r8.py": "116804eca0ea8d7c4ff4d2c1085331a4339ebc158c78656f41878a37e2240371"
+  },
+  "sceneSynchronization": {
+    "before": [
+      {
+        "name": "CASA DE CAMPO | Atardecer",
+        "objects": 6555,
+        "camera": "CAM | Presentación verticales corregidas"
+      },
+      {
+        "name": "CASA DE CAMPO | DÍA",
+        "objects": 6555,
+        "camera": "CAM | Presentación verticales corregidas"
+      },
+      {
+        "name": "CASA DE CAMPO | NOCHE",
+        "objects": 6555,
+        "camera": "CAM | Presentación verticales corregidas"
+      },
+      {
+        "name": "INSPECCIÓN | Planta alta",
+        "objects": 6555,
+        "camera": "CAM | Planta alta ortogonal"
+      }
+    ],
+    "after": [
+      {
+        "name": "CASA DE CAMPO | DÍA",
+        "objects": 6555,
+        "sameMembership": true,
+        "world": "Cielo físico | DÍA",
+        "camera": "CAM | Presentación verticales corregidas"
+      },
+      {
+        "name": "CASA DE CAMPO | NOCHE",
+        "objects": 6555,
+        "sameMembership": true,
+        "world": "Cielo físico | NOCHE",
+        "camera": "CAM | Presentación verticales corregidas"
+      },
+      {
+        "name": "INSPECCIÓN | Planta alta",
+        "objects": 6555,
+        "sameMembership": true,
+        "world": "Cielo físico | DÍA",
+        "camera": "CAM | Planta alta ortogonal"
+      }
+    ],
+    "mainObjects": 6555,
+    "removedGeneratedLegacy": [
+      "RECORRIDO | Continuo",
+      "TOUR | Recorrido continuo"
+    ],
+    "retainedTour": "TOUR | Recorrido virtual",
+    "videoRendered": false
+  },
+  "tourVerified": true,
+  "videoRendered": false,
+  "changes": {
+    "added": [
+      "LUZ99 | Pileta desde jardin",
+      "R8B | Almohada 1 | costura perimetral",
+      "R8B | Almohada 1 | funda relleno y compresión",
+      "R8B | Almohada 2 | costura perimetral",
+      "R8B | Almohada 2 | funda relleno y compresión",
+      "R8B | Cortina 1 | cabezal",
+      "R8B | Cortina 1 | cinta al carro 0",
+      "R8B | Cortina 1 | cinta al carro 1",
+      "R8B | Cortina 1 | cinta al carro 2",
+      "R8B | Cortina 1 | cinta al carro 3",
+      "R8B | Cortina 1 | cinta al carro 4",
+      "R8B | Cortina 1 | cinta al carro 5",
+      "R8B | Cortina 1 | cinta al carro 6",
+      "R8B | Cortina 1 | dobladillo",
+      "R8B | Cortina 1 | pliegues suspendidos",
+      "R8B | Cortina 2 | cabezal",
+      "R8B | Cortina 2 | cinta al carro 0",
+      "R8B | Cortina 2 | cinta al carro 1",
+      "R8B | Cortina 2 | cinta al carro 2",
+      "R8B | Cortina 2 | cinta al carro 3",
+      "R8B | Cortina 2 | cinta al carro 4",
+      "R8B | Cortina 2 | cinta al carro 5",
+      "R8B | Cortina 2 | cinta al carro 6",
+      "R8B | Cortina 2 | dobladillo",
+      "R8B | Cortina 2 | pliegues suspendidos",
+      "R8B | Huerta 1 | agregados milimétricos 0",
+      "R8B | Huerta 1 | agregados milimétricos 1",
+      "R8B | Huerta 1 | agregados milimétricos 2",
+      "R8B | Huerta 1 | agregados milimétricos 3",
+      "R8B | Huerta 1 | lechuga de hoja hojas",
+      "R8B | Huerta 1 | nervaduras",
+      "R8B | Huerta 1 | sustrato labrado",
+      "R8B | Huerta 1 | tallos pecíolos",
+      "R8B | Huerta 2 | agregados milimétricos 0",
+      "R8B | Huerta 2 | agregados milimétricos 1",
+      "R8B | Huerta 2 | agregados milimétricos 2",
+      "R8B | Huerta 2 | agregados milimétricos 3",
+      "R8B | Huerta 2 | fruto 0",
+      "R8B | Huerta 2 | fruto 2",
+      "R8B | Huerta 2 | fruto 3",
+      "R8B | Huerta 2 | fruto 5",
+      "R8B | Huerta 2 | fruto 6",
+      "R8B | Huerta 2 | nervaduras",
+      "R8B | Huerta 2 | pimiento compacto hojas",
+      "R8B | Huerta 2 | sustrato labrado",
+      "R8B | Huerta 2 | tallos pecíolos",
+      "R8B | Huerta 3 | acelga hojas",
+      "R8B | Huerta 3 | agregados milimétricos 0",
+      "R8B | Huerta 3 | agregados milimétricos 1",
+      "R8B | Huerta 3 | agregados milimétricos 2",
+      "R8B | Huerta 3 | agregados milimétricos 3",
+      "R8B | Huerta 3 | nervaduras",
+      "R8B | Huerta 3 | sustrato labrado",
+      "R8B | Huerta 3 | tallos pecíolos",
+      "R8B | Huerta 4 | agregados milimétricos 0",
+      "R8B | Huerta 4 | agregados milimétricos 1",
+      "R8B | Huerta 4 | agregados milimétricos 2",
+      "R8B | Huerta 4 | agregados milimétricos 3",
+      "R8B | Huerta 4 | albahaca hojas",
+      "R8B | Huerta 4 | nervaduras",
+      "R8B | Huerta 4 | sustrato labrado",
+      "R8B | Huerta 4 | tallos pecíolos",
+      "R8B | Manta dormitorio | caída CPU",
+      "R8B | Manta | costura doble 0",
+      "R8B | Manta | costura doble 1",
+      "R8B | Manta | costura doble 2",
+      "R8B | Manta | costura doble 3",
+      "R8B | Prenda 0 | bajo cosido",
+      "R8B | Prenda 0 | botón 0.18",
+      "R8B | Prenda 0 | botón 0.31",
+      "R8B | Prenda 0 | botón 0.44",
+      "R8B | Prenda 0 | botón 0.58",
+      "R8B | Prenda 0 | botón 0.71",
+      "R8B | Prenda 0 | botón 0.84",
+      "R8B | Prenda 0 | cuello",
+      "R8B | Prenda 0 | gancho apoyado barral",
+      "R8B | Prenda 0 | manga -1",
+      "R8B | Prenda 0 | manga 1",
+      "R8B | Prenda 0 | percha hombros 420",
+      "R8B | Prenda 0 | puño -1",
+      "R8B | Prenda 0 | puño 1",
+      "R8B | Prenda 0 | solapa cuello -1",
+      "R8B | Prenda 0 | solapa cuello 1",
+      "R8B | Prenda 0 | tapeta",
+      "R8B | Prenda 0 | torso tejido",
+      "R8B | Prenda 1 | bajo cosido",
+      "R8B | Prenda 1 | botón 0.18",
+      "R8B | Prenda 1 | botón 0.31",
+      "R8B | Prenda 1 | botón 0.44",
+      "R8B | Prenda 1 | botón 0.58",
+      "R8B | Prenda 1 | botón 0.71",
+      "R8B | Prenda 1 | botón 0.84",
+      "R8B | Prenda 1 | cuello",
+      "R8B | Prenda 1 | gancho apoyado barral",
+      "R8B | Prenda 1 | manga -1",
+      "R8B | Prenda 1 | manga 1",
+      "R8B | Prenda 1 | percha hombros 420",
+      "R8B | Prenda 1 | puño -1",
+      "R8B | Prenda 1 | puño 1",
+      "R8B | Prenda 1 | solapa cuello -1",
+      "R8B | Prenda 1 | solapa cuello 1",
+      "R8B | Prenda 1 | tapeta",
+      "R8B | Prenda 1 | torso tejido",
+      "R8B | Prenda 2 | bajo cosido",
+      "R8B | Prenda 2 | botón 0.18",
+      "R8B | Prenda 2 | botón 0.31",
+      "R8B | Prenda 2 | botón 0.44",
+      "R8B | Prenda 2 | botón 0.58",
+      "R8B | Prenda 2 | botón 0.71",
+      "R8B | Prenda 2 | botón 0.84",
+      "R8B | Prenda 2 | cuello",
+      "R8B | Prenda 2 | gancho apoyado barral",
+      "R8B | Prenda 2 | manga -1",
+      "R8B | Prenda 2 | manga 1",
+      "R8B | Prenda 2 | percha hombros 420",
+      "R8B | Prenda 2 | puño -1",
+      "R8B | Prenda 2 | puño 1",
+      "R8B | Prenda 2 | solapa cuello -1",
+      "R8B | Prenda 2 | solapa cuello 1",
+      "R8B | Prenda 2 | tapeta",
+      "R8B | Prenda 2 | torso tejido",
+      "R8B | Prenda 3 | bajo cosido",
+      "R8B | Prenda 3 | botón 0.18",
+      "R8B | Prenda 3 | botón 0.31",
+      "R8B | Prenda 3 | botón 0.44",
+      "R8B | Prenda 3 | botón 0.58",
+      "R8B | Prenda 3 | botón 0.71",
+      "R8B | Prenda 3 | botón 0.84",
+      "R8B | Prenda 3 | cuello",
+      "R8B | Prenda 3 | gancho apoyado barral",
+      "R8B | Prenda 3 | manga -1",
+      "R8B | Prenda 3 | manga 1",
+      "R8B | Prenda 3 | percha hombros 420",
+      "R8B | Prenda 3 | puño -1",
+      "R8B | Prenda 3 | puño 1",
+      "R8B | Prenda 3 | solapa cuello -1",
+      "R8B | Prenda 3 | solapa cuello 1",
+      "R8B | Prenda 3 | tapeta",
+      "R8B | Prenda 3 | torso tejido",
+      "R8B | Prenda 4 | bajo cosido",
+      "R8B | Prenda 4 | botón 0.18",
+      "R8B | Prenda 4 | botón 0.31",
+      "R8B | Prenda 4 | botón 0.44",
+      "R8B | Prenda 4 | botón 0.58",
+      "R8B | Prenda 4 | botón 0.71",
+      "R8B | Prenda 4 | botón 0.84",
+      "R8B | Prenda 4 | cuello",
+      "R8B | Prenda 4 | gancho apoyado barral",
+      "R8B | Prenda 4 | manga -1",
+      "R8B | Prenda 4 | manga 1",
+      "R8B | Prenda 4 | percha hombros 420",
+      "R8B | Prenda 4 | puño -1",
+      "R8B | Prenda 4 | puño 1",
+      "R8B | Prenda 4 | solapa cuello -1",
+      "R8B | Prenda 4 | solapa cuello 1",
+      "R8B | Prenda 4 | tapeta",
+      "R8B | Prenda 4 | torso tejido",
+      "R8B | Prenda 5 | bajo cosido",
+      "R8B | Prenda 5 | botón 0.18",
+      "R8B | Prenda 5 | botón 0.31",
+      "R8B | Prenda 5 | botón 0.44",
+      "R8B | Prenda 5 | botón 0.58",
+      "R8B | Prenda 5 | botón 0.71",
+      "R8B | Prenda 5 | botón 0.84",
+      "R8B | Prenda 5 | cuello",
+      "R8B | Prenda 5 | gancho apoyado barral",
+      "R8B | Prenda 5 | manga -1",
+      "R8B | Prenda 5 | manga 1",
+      "R8B | Prenda 5 | percha hombros 420",
+      "R8B | Prenda 5 | puño -1",
+      "R8B | Prenda 5 | puño 1",
+      "R8B | Prenda 5 | solapa cuello -1",
+      "R8B | Prenda 5 | solapa cuello 1",
+      "R8B | Prenda 5 | tapeta",
+      "R8B | Prenda 5 | torso tejido",
+      "R8B | Prenda 6 | bajo cosido",
+      "R8B | Prenda 6 | botón 0.18",
+      "R8B | Prenda 6 | botón 0.31",
+      "R8B | Prenda 6 | botón 0.44",
+      "R8B | Prenda 6 | botón 0.58",
+      "R8B | Prenda 6 | botón 0.71",
+      "R8B | Prenda 6 | botón 0.84",
+      "R8B | Prenda 6 | cuello",
+      "R8B | Prenda 6 | gancho apoyado barral",
+      "R8B | Prenda 6 | manga -1",
+      "R8B | Prenda 6 | manga 1",
+      "R8B | Prenda 6 | percha hombros 420",
+      "R8B | Prenda 6 | puño -1",
+      "R8B | Prenda 6 | puño 1",
+      "R8B | Prenda 6 | solapa cuello -1",
+      "R8B | Prenda 6 | solapa cuello 1",
+      "R8B | Prenda 6 | tapeta",
+      "R8B | Prenda 6 | torso tejido"
+    ],
+    "removed": [
+      "R7B | Almohada 1 | costura perimetral",
+      "R7B | Almohada 1 | funda relleno y compresión",
+      "R7B | Almohada 2 | costura perimetral",
+      "R7B | Almohada 2 | funda relleno y compresión",
+      "R7B | Cortina 1 | cabezal",
+      "R7B | Cortina 1 | cinta al carro 0",
+      "R7B | Cortina 1 | cinta al carro 1",
+      "R7B | Cortina 1 | cinta al carro 2",
+      "R7B | Cortina 1 | cinta al carro 3",
+      "R7B | Cortina 1 | cinta al carro 4",
+      "R7B | Cortina 1 | cinta al carro 5",
+      "R7B | Cortina 1 | cinta al carro 6",
+      "R7B | Cortina 1 | dobladillo",
+      "R7B | Cortina 1 | pliegues suspendidos",
+      "R7B | Cortina 2 | cabezal",
+      "R7B | Cortina 2 | cinta al carro 0",
+      "R7B | Cortina 2 | cinta al carro 1",
+      "R7B | Cortina 2 | cinta al carro 2",
+      "R7B | Cortina 2 | cinta al carro 3",
+      "R7B | Cortina 2 | cinta al carro 4",
+      "R7B | Cortina 2 | cinta al carro 5",
+      "R7B | Cortina 2 | cinta al carro 6",
+      "R7B | Cortina 2 | dobladillo",
+      "R7B | Cortina 2 | pliegues suspendidos",
+      "R7B | Huerta 1 | agregados milimétricos 0",
+      "R7B | Huerta 1 | agregados milimétricos 1",
+      "R7B | Huerta 1 | agregados milimétricos 2",
+      "R7B | Huerta 1 | agregados milimétricos 3",
+      "R7B | Huerta 1 | lechuga de hoja hojas",
+      "R7B | Huerta 1 | nervaduras",
+      "R7B | Huerta 1 | sustrato labrado",
+      "R7B | Huerta 1 | tallos pecíolos",
+      "R7B | Huerta 2 | agregados milimétricos 0",
+      "R7B | Huerta 2 | agregados milimétricos 1",
+      "R7B | Huerta 2 | agregados milimétricos 2",
+      "R7B | Huerta 2 | agregados milimétricos 3",
+      "R7B | Huerta 2 | fruto 0",
+      "R7B | Huerta 2 | fruto 2",
+      "R7B | Huerta 2 | fruto 3",
+      "R7B | Huerta 2 | fruto 5",
+      "R7B | Huerta 2 | fruto 6",
+      "R7B | Huerta 2 | nervaduras",
+      "R7B | Huerta 2 | pimiento compacto hojas",
+      "R7B | Huerta 2 | sustrato labrado",
+      "R7B | Huerta 2 | tallos pecíolos",
+      "R7B | Huerta 3 | acelga hojas",
+      "R7B | Huerta 3 | agregados milimétricos 0",
+      "R7B | Huerta 3 | agregados milimétricos 1",
+      "R7B | Huerta 3 | agregados milimétricos 2",
+      "R7B | Huerta 3 | agregados milimétricos 3",
+      "R7B | Huerta 3 | nervaduras",
+      "R7B | Huerta 3 | sustrato labrado",
+      "R7B | Huerta 3 | tallos pecíolos",
+      "R7B | Huerta 4 | agregados milimétricos 0",
+      "R7B | Huerta 4 | agregados milimétricos 1",
+      "R7B | Huerta 4 | agregados milimétricos 2",
+      "R7B | Huerta 4 | agregados milimétricos 3",
+      "R7B | Huerta 4 | albahaca hojas",
+      "R7B | Huerta 4 | nervaduras",
+      "R7B | Huerta 4 | sustrato labrado",
+      "R7B | Huerta 4 | tallos pecíolos",
+      "R7B | Manta dormitorio | caída CPU",
+      "R7B | Manta | costura doble 0",
+      "R7B | Manta | costura doble 1",
+      "R7B | Manta | costura doble 2",
+      "R7B | Manta | costura doble 3",
+      "R7B | Prenda 0 | bajo cosido",
+      "R7B | Prenda 0 | botón 0.18",
+      "R7B | Prenda 0 | botón 0.31",
+      "R7B | Prenda 0 | botón 0.44",
+      "R7B | Prenda 0 | botón 0.58",
+      "R7B | Prenda 0 | botón 0.71",
+      "R7B | Prenda 0 | botón 0.84",
+      "R7B | Prenda 0 | cuello",
+      "R7B | Prenda 0 | gancho apoyado barral",
+      "R7B | Prenda 0 | manga -1",
+      "R7B | Prenda 0 | manga 1",
+      "R7B | Prenda 0 | percha hombros 420",
+      "R7B | Prenda 0 | puño -1",
+      "R7B | Prenda 0 | puño 1",
+      "R7B | Prenda 0 | solapa cuello -1",
+      "R7B | Prenda 0 | solapa cuello 1",
+      "R7B | Prenda 0 | tapeta",
+      "R7B | Prenda 0 | torso tejido",
+      "R7B | Prenda 1 | bajo cosido",
+      "R7B | Prenda 1 | botón 0.18",
+      "R7B | Prenda 1 | botón 0.31",
+      "R7B | Prenda 1 | botón 0.44",
+      "R7B | Prenda 1 | botón 0.58",
+      "R7B | Prenda 1 | botón 0.71",
+      "R7B | Prenda 1 | botón 0.84",
+      "R7B | Prenda 1 | cuello",
+      "R7B | Prenda 1 | gancho apoyado barral",
+      "R7B | Prenda 1 | manga -1",
+      "R7B | Prenda 1 | manga 1",
+      "R7B | Prenda 1 | percha hombros 420",
+      "R7B | Prenda 1 | puño -1",
+      "R7B | Prenda 1 | puño 1",
+      "R7B | Prenda 1 | solapa cuello -1",
+      "R7B | Prenda 1 | solapa cuello 1",
+      "R7B | Prenda 1 | tapeta",
+      "R7B | Prenda 1 | torso tejido",
+      "R7B | Prenda 2 | bajo cosido",
+      "R7B | Prenda 2 | botón 0.18",
+      "R7B | Prenda 2 | botón 0.31",
+      "R7B | Prenda 2 | botón 0.44",
+      "R7B | Prenda 2 | botón 0.58",
+      "R7B | Prenda 2 | botón 0.71",
+      "R7B | Prenda 2 | botón 0.84",
+      "R7B | Prenda 2 | cuello",
+      "R7B | Prenda 2 | gancho apoyado barral",
+      "R7B | Prenda 2 | manga -1",
+      "R7B | Prenda 2 | manga 1",
+      "R7B | Prenda 2 | percha hombros 420",
+      "R7B | Prenda 2 | puño -1",
+      "R7B | Prenda 2 | puño 1",
+      "R7B | Prenda 2 | solapa cuello -1",
+      "R7B | Prenda 2 | solapa cuello 1",
+      "R7B | Prenda 2 | tapeta",
+      "R7B | Prenda 2 | torso tejido",
+      "R7B | Prenda 3 | bajo cosido",
+      "R7B | Prenda 3 | botón 0.18",
+      "R7B | Prenda 3 | botón 0.31",
+      "R7B | Prenda 3 | botón 0.44",
+      "R7B | Prenda 3 | botón 0.58",
+      "R7B | Prenda 3 | botón 0.71",
+      "R7B | Prenda 3 | botón 0.84",
+      "R7B | Prenda 3 | cuello",
+      "R7B | Prenda 3 | gancho apoyado barral",
+      "R7B | Prenda 3 | manga -1",
+      "R7B | Prenda 3 | manga 1",
+      "R7B | Prenda 3 | percha hombros 420",
+      "R7B | Prenda 3 | puño -1",
+      "R7B | Prenda 3 | puño 1",
+      "R7B | Prenda 3 | solapa cuello -1",
+      "R7B | Prenda 3 | solapa cuello 1",
+      "R7B | Prenda 3 | tapeta",
+      "R7B | Prenda 3 | torso tejido",
+      "R7B | Prenda 4 | bajo cosido",
+      "R7B | Prenda 4 | botón 0.18",
+      "R7B | Prenda 4 | botón 0.31",
+      "R7B | Prenda 4 | botón 0.44",
+      "R7B | Prenda 4 | botón 0.58",
+      "R7B | Prenda 4 | botón 0.71",
+      "R7B | Prenda 4 | botón 0.84",
+      "R7B | Prenda 4 | cuello",
+      "R7B | Prenda 4 | gancho apoyado barral",
+      "R7B | Prenda 4 | manga -1",
+      "R7B | Prenda 4 | manga 1",
+      "R7B | Prenda 4 | percha hombros 420",
+      "R7B | Prenda 4 | puño -1",
+      "R7B | Prenda 4 | puño 1",
+      "R7B | Prenda 4 | solapa cuello -1",
+      "R7B | Prenda 4 | solapa cuello 1",
+      "R7B | Prenda 4 | tapeta",
+      "R7B | Prenda 4 | torso tejido",
+      "R7B | Prenda 5 | bajo cosido",
+      "R7B | Prenda 5 | botón 0.18",
+      "R7B | Prenda 5 | botón 0.31",
+      "R7B | Prenda 5 | botón 0.44",
+      "R7B | Prenda 5 | botón 0.58",
+      "R7B | Prenda 5 | botón 0.71",
+      "R7B | Prenda 5 | botón 0.84",
+      "R7B | Prenda 5 | cuello",
+      "R7B | Prenda 5 | gancho apoyado barral",
+      "R7B | Prenda 5 | manga -1",
+      "R7B | Prenda 5 | manga 1",
+      "R7B | Prenda 5 | percha hombros 420",
+      "R7B | Prenda 5 | puño -1",
+      "R7B | Prenda 5 | puño 1",
+      "R7B | Prenda 5 | solapa cuello -1",
+      "R7B | Prenda 5 | solapa cuello 1",
+      "R7B | Prenda 5 | tapeta",
+      "R7B | Prenda 5 | torso tejido",
+      "R7B | Prenda 6 | bajo cosido",
+      "R7B | Prenda 6 | botón 0.18",
+      "R7B | Prenda 6 | botón 0.31",
+      "R7B | Prenda 6 | botón 0.44",
+      "R7B | Prenda 6 | botón 0.58",
+      "R7B | Prenda 6 | botón 0.71",
+      "R7B | Prenda 6 | botón 0.84",
+      "R7B | Prenda 6 | cuello",
+      "R7B | Prenda 6 | gancho apoyado barral",
+      "R7B | Prenda 6 | manga -1",
+      "R7B | Prenda 6 | manga 1",
+      "R7B | Prenda 6 | percha hombros 420",
+      "R7B | Prenda 6 | puño -1",
+      "R7B | Prenda 6 | puño 1",
+      "R7B | Prenda 6 | solapa cuello -1",
+      "R7B | Prenda 6 | solapa cuello 1",
+      "R7B | Prenda 6 | tapeta",
+      "R7B | Prenda 6 | torso tejido"
+    ],
+    "changed": [
+      "Alfombra comedor",
+      "Alfombra estudio",
+      "Cabezal dormitorio",
+      "Césped botánico 00-00",
+      "Césped botánico 00-01",
+      "Césped botánico 00-02",
+      "Césped botánico 00-03",
+      "Césped botánico 00-04",
+      "Césped botánico 00-05",
+      "Césped botánico 00-06",
+      "Césped botánico 00-07",
+      "Césped botánico 00-08",
+      "Césped botánico 00-09",
+      "Césped botánico 01-00",
+      "Césped botánico 01-01",
+      "Césped botánico 01-04",
+      "Césped botánico 01-05",
+      "Césped botánico 01-06",
+      "Césped botánico 01-07",
+      "Césped botánico 01-08",
+      "Césped botánico 01-09",
+      "Césped botánico 02-00",
+      "Césped botánico 02-01",
+      "Césped botánico 02-04",
+      "Césped botánico 02-05",
+      "Césped botánico 02-06",
+      "Césped botánico 02-07",
+      "Césped botánico 02-08",
+      "Césped botánico 02-09",
+      "Césped botánico 03-00",
+      "Césped botánico 03-01",
+      "Césped botánico 03-04",
+      "Césped botánico 03-05",
+      "Césped botánico 03-06",
+      "Césped botánico 03-07",
+      "Césped botánico 03-08",
+      "Césped botánico 03-09",
+      "Césped botánico 04-00",
+      "Césped botánico 04-01",
+      "Césped botánico 04-02",
+      "Césped botánico 04-03",
+      "Césped botánico 04-04",
+      "Césped botánico 04-05",
+      "Césped botánico 04-06",
+      "Césped botánico 04-07",
+      "Césped botánico 04-08",
+      "Césped botánico 04-09",
+      "Césped botánico 05-00",
+      "Césped botánico 05-01",
+      "Césped botánico 05-02",
+      "Césped botánico 05-03",
+      "Césped botánico 05-04",
+      "Césped botánico 05-05",
+      "Césped botánico 05-06",
+      "Césped botánico 05-07",
+      "Césped botánico 05-08",
+      "Césped botánico 05-09",
+      "Césped botánico 06-00",
+      "Césped botánico 06-01",
+      "Césped botánico 06-02",
+      "Césped botánico 06-03",
+      "Césped botánico 06-04",
+      "Césped botánico 06-05",
+      "Césped botánico 06-06",
+      "Césped botánico 06-09",
+      "Césped botánico 07-06",
+      "Césped botánico 07-09",
+      "Césped botánico 08-06",
+      "Césped botánico 08-09",
+      "Césped botánico 09-06",
+      "Césped botánico 09-09",
+      "Césped botánico 10-06",
+      "Césped botánico 10-07",
+      "Césped botánico 10-08",
+      "Césped botánico 10-09",
+      "Césped del lote",
+      "Paisaje | pradera de transición",
+      "Piso estudio",
+      "Silla comedor norte -0.49 asiento",
+      "Silla comedor norte -0.49 respaldo",
+      "Silla comedor norte 0.49 asiento",
+      "Silla comedor norte 0.49 respaldo",
+      "Silla comedor sur -0.49 asiento",
+      "Silla comedor sur -0.49 respaldo",
+      "Silla comedor sur 0.49 asiento",
+      "Silla comedor sur 0.49 respaldo",
+      "Silla estudio asiento",
+      "Silla estudio respaldo",
+      "Sofá cama mono base",
+      "Sofá cama mono brazo -1",
+      "Sofá cama mono brazo 1",
+      "Sofá cama mono cojín 0",
+      "Sofá cama mono cojín 1",
+      "Sofá cama mono cojín 2",
+      "Sofá cama mono costura cojín 0",
+      "Sofá cama mono costura cojín 1",
+      "Sofá cama mono costura cojín 2",
+      "Sofá cama mono respaldo",
+      "Sofá estudio base",
+      "Sofá estudio brazo -1",
+      "Sofá estudio brazo 1",
+      "Sofá estudio cojín 0",
+      "Sofá estudio cojín 1",
+      "Sofá estudio cojín 2",
+      "Sofá estudio costura cojín 0",
+      "Sofá estudio costura cojín 1",
+      "Sofá estudio costura cojín 2",
+      "Sofá estudio respaldo",
+      "Sofá vivienda base",
+      "Sofá vivienda brazo -1",
+      "Sofá vivienda brazo 1",
+      "Sofá vivienda cojín 0",
+      "Sofá vivienda cojín 1",
+      "Sofá vivienda cojín 2",
+      "Sofá vivienda costura cojín 0",
+      "Sofá vivienda costura cojín 1",
+      "Sofá vivienda costura cojín 2",
+      "Sofá vivienda respaldo"
+    ]
+  }
+}

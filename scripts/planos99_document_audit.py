@@ -33,6 +33,16 @@ vparts=[o for n,o in ob.items() if n.startswith('VENT99 |')];item('Minimum new v
 wet=g['scene_metadata']['r7_wet_details'];check('Full-depth wet joints',wet['PB_grout_width_mm']==2 and wet['PB_grout_depth_mm']==8 and wet['PB_tile_mesh_version']==2,{'width_mm':wet['PB_grout_width_mm'],'depth_mm':wet['PB_grout_depth_mm'],'tile_components':wet['PB_tile_components']})
 check('Former suite entry absent',not any('Puerta acceso vestidor' in n for n in ob),[n for n in ob if 'Puerta acceso vestidor' in n]);check('Orphan WC kitchen plinth absent','Zócalo columna cocina' not in ob,'source id853 removed')
 check('Door hand metadata incorporated',bool(g['scene_metadata'].get('door_hands99_v1')),'door_hands99_v1')
+if g.get('scene_metadata',{}).get('r8_uso_details'):
+ for prefix,expected in [('MAT95 | tecla natural',.750),('MAT95 | tecla sostenido',.7625)]:
+  n=next(n for n in ob if n.startswith(prefix));item(prefix+' above study NPT',top(n)-top('Piso estudio'),expected,n+'.maxH minus study.maxH')
+ item('MIDI tray underside above NPT',ob['USO99 | MIDI bandeja18']['lo'][2]-top('Piso estudio'),.665,'tray.minH minus study.maxH')
+ item('MIDI body depth',ob['Controlador estudio']['hi'][0]-ob['Controlador estudio']['lo'][0],.400,'Controlador estudio hiX-loX')
+ item('Island knee depth',ob['Isla cocina mono base | fondo']['lo'][1]-ob['Isla cocina mono tapa']['lo'][1],.400,'base.fondo.minZ minus top.minZ')
+ for p in ['Taburete isla mono A |','Taburete isla mono B |']:
+  item(p+' front leg clearance',ob[p+' pata der frente']['lo'][0]-ob[p+' pata izq frente']['hi'][0],.305,'inner faces of front legs')
+ check('R8 use sheets present',all(any(s['id']==n for s in det['sheets']) for n in ['D13','D14']),'D13 and D14')
+ evidence=json.loads((out/'use_evidence/use_validation.json').read_text('utf8'));check('R8 use evidence same source',evidence['sha256']==sha and evidence['status']=='PASS',evidence['sha256'])
 all_dims=[]
 for d in m['dimensions']:all_dims.append(dict(sheet=d['sheet'],view=d['view'],axis=d['axis'],from_m=d['from'],to_m=d['to'],value_m=d['value_m'],label=d['label'],kind='base'))
 for d in det['dimensions']:all_dims.append(dict(sheet=d['sheet'],view=d['view'],axis=d['axis'],from_m=d['from_mm']/1000,to_m=d['to_mm']/1000,value_m=d['value_mm']/1000,label=d.get('label') or '',kind='detail',classification=d.get('class')))
@@ -51,7 +61,7 @@ r={'status':'PASS' if all(c['pass'] for c in checks) else 'FAIL','model':g['mode
 (out/'dimensional_audit.json').write_text(json.dumps(r,ensure_ascii=False,indent=2),'utf8')
 with (out/'dimension_register.csv').open('w',encoding='utf-8-sig',newline='') as f:
  writer=csv.DictWriter(f,fieldnames=['sheet','view','axis','from_m','to_m','value_m','label','kind','classification']);writer.writeheader();writer.writerows(all_dims)
-lines=['# Auditoría dimensional documental R7', '', 'Modelo: '+Path(g['model']).name, 'SHA256: '+sha,'','Estado: '+r['status']+'. '+str(len(all_dims))+' cotas nativas y '+str(len(measure))+' dimensiones críticas recalculadas.','','| Medida G | Valor | Fuente geométrica |','|---|---:|---|']
+lines=['# Auditoría dimensional documental '+('R8' if g.get('scene_metadata',{}).get('r8_uso_details') else 'R7'), '', 'Modelo: '+Path(g['model']).name, 'SHA256: '+sha,'','Estado: '+r['status']+'. '+str(len(all_dims))+' cotas nativas y '+str(len(measure))+' dimensiones críticas recalculadas.','','| Medida G | Valor | Fuente geométrica |','|---|---:|---|']
 for d in measure:lines.append('| '+d['item']+' | '+format(d['value'],'.6f')+' '+d['units']+' | '+d['source']+' |')
 lines+=['','El registro CSV incluye todas las cotas, sus extremos y unidades. El JSON enlaza el cuadro de carpinterías con envolventes cerradas del frame1.','Norte orientativo -X/+Z del propietario; no es rumbo topográfico.','Se verifica documentación digital y geometría nombrada; no mensura, cálculo ni certificación de productos.']
 (out/'AUDITORIA_DIMENSIONAL.md').write_text('\n'.join(lines)+'\n','utf8');print(json.dumps({'status':r['status'],'checks':len(checks),'dimensions':len(all_dims),'measured':len(measure),'failed':[c for c in checks if not c['pass']]},indent=2))

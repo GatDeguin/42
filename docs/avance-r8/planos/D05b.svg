@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="594mm" height="420mm" viewBox="0 0 594 420"><rect width="594" height="420" fill="white"/>
+<polygon points="10.0000,10.0000 584.0000,10.0000 584.0000,410.0000 10.0000,410.0000" stroke="#384c55" stroke-width="0.3" fill="none"/>
+<text x="19" y="22" fill="#384c55" font-family="Arial" font-size="4.8" font-weight="bold" text-anchor="start">CASA DE CAMPO / DETALLES R8</text>
+<text x="575" y="22" fill="#384c55" font-family="Arial" font-size="4.2" font-weight="bold" text-anchor="end">D05b | Escalera: arranque y plantilla</text>
+<text x="19" y="30" fill="#75838a" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">VIRREY DEL PINO, LA MATANZA, BUENOS AIRES</text>
+<text x="575" y="30" fill="#75838a" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="end">Propuesta P dibujada para coordinacion | complemento de D05, sin calculo</text>
+<line x1="10.0000" y1="37.0000" x2="584.0000" y2="37.0000" stroke="#384c55" stroke-width="0.25"/>
+<text x="20" y="47" fill="#384c55" font-family="Arial" font-size="2.7" font-weight="bold" text-anchor="start">G = medido / gris</text>
+<text x="112" y="47" fill="#1c6b92" font-family="Arial" font-size="2.7" font-weight="bold" text-anchor="start">P = propuesta dimensional / azul</text>
+<text x="288" y="47" fill="#75838a" font-family="Arial" font-size="2.7" font-weight="normal" text-anchor="start">Todas las cotas en mm salvo niveles en m</text>
+<line x1="10.0000" y1="383.0000" x2="584.0000" y2="383.0000" stroke="#384c55" stroke-width="0.3"/>
+<text x="20" y="391" fill="#a25228" font-family="Arial" font-size="2.9" font-weight="bold" text-anchor="start">R8 EN REVISION / SIN APROBACION9,9 / SIN CALCULO DE CAPACIDAD</text>
+<text x="20" y="399" fill="#75838a" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="start">Base G: Casa_de_Campo_99_R8.blend / 60810e1945f53b33</text>
+<text x="20" y="406" fill="#75838a" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="start">G acredita geometria, no capacidad. P identifica propuestas; su presencia3D no valida prestaciones.</text>
+<text x="575" y="392" fill="#384c55" font-family="Arial" font-size="2.8" font-weight="normal" text-anchor="end">A2 / imprimir al 100 %</text>
+<text x="575" y="405" fill="#75838a" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="end">06 / 11-09-2026</text>
+<text x="31" y="77" fill="#1c6b92" font-family="Arial" font-size="3.2" font-weight="bold" text-anchor="start">11 Apoyo inferior / seccion P | 1:5</text>
+<line x1="43.0000" y1="242.0000" x2="243.0000" y2="242.0000" stroke="#384c55" stroke-width="0.25" stroke-dasharray="1.8 .9"/>
+<polygon points="103.0000,286.0000 163.0000,286.0000 163.0000,236.0000 103.0000,236.0000" stroke="#1c6b92" stroke-width="0.4" fill="#e4f2f8"/>
+<line x1="103.0000" y1="236.0000" x2="103.0000" y2="236.0000" stroke="#1c6b92" stroke-width="0.1"/>
+<line x1="103.0000" y1="243.0000" x2="110.0000" y2="236.0000" stroke="#1c6b92" stroke-width="0.1"/>
+<line x1="103.0000" y1="250.0000" x2="117.0000" y2="236.0000" stroke="#1c6b92" stroke-width="0.1"/>
+<line x1="103.0000" y1="257.0000" x2="124.0000" y2="236.0000" stroke="#1c6b92" stroke-width="0.1"/>
+<line x1="103.0000" y1="264.0000" x2="131.0000" y2="236.0000" stroke="#1c6b92" stroke-width="0.1"/>
+<line x1="103.0000" y1="271.0000" x2="138.0000" y2="236.0000" stroke="#1c6b92" stroke-width="0.1"/>
+<line x1="103.0000" y1="278.0000" x2="145.0000" y2="236.0000" stroke="#1c6b92" stroke-width="0.1"/>
+<line x1="103.0000" y1="285.0000" x2="152.0000" y2="236.0000" stroke="#1c6b92" stroke-width="0.1"/>
+<line x1="109.0000" y1="286.0000" x2="159.0000" y2="236.0000" stroke="#1c6b92" stroke-width="0.1"/>
+<line x1="116.0000" y1="286.0000" x2="163.0000" y2="239.0000" stroke="#1c6b92" stroke-width="0.1"/>
+<line x1="123.0000" y1="286.0000" x2="163.0000" y2="246.0000" stroke="#1c6b92" stroke-width="0.1"/>
+<line x1="130.0000" y1="286.0000" x2="163.0000" y2="253.0000" stroke="#1c6b92" stroke-width="0.1"/>
+<line x1="137.0000" y1="286.0000" x2="163.0000" y2="260.0000" stroke="#1c6b92" stroke-width="0.1"/>
+<line x1="144.0000" y1="286.0000" x2="163.0000" y2="267.0000" stroke="#1c6b92" stroke-width="0.1"/>
+<line x1="151.0000" y1="286.0000" x2="163.0000" y2="274.0000" stroke="#1c6b92" stroke-width="0.1"/>
+<line x1="158.0000" y1="286.0000" x2="163.0000" y2="281.0000" stroke="#1c6b92" stroke-width="0.1"/>
+<polygon points="115.0000,236.0000 151.0000,236.0000 151.0000,232.0000 115.0000,232.0000" stroke="#1c6b92" stroke-width="0.25" fill="#e4f2f8"/>
+<polygon points="115.0000,232.0000 151.0000,232.0000 151.0000,229.6000 115.0000,229.6000" stroke="#1c6b92" stroke-width="0.4" fill="none"/>
+<polygon points="125.0000,229.6000 141.0000,229.6000 193.0000,160.0000 180.2000,150.4000" stroke="#1c6b92" stroke-width="0.35" fill="none"/>
+<polygon points="121.8000,256.0000 124.2000,256.0000 124.2000,226.0000 121.8000,226.0000" stroke="#1c6b92" stroke-width="0.25" fill="#ffffff"/>
+<polygon points="120.4000,229.6000 125.6000,229.6000 125.6000,229.0000 120.4000,229.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="121.2000,229.0000 124.8000,229.0000 124.8000,227.0000 121.2000,227.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="141.8000,256.0000 144.2000,256.0000 144.2000,226.0000 141.8000,226.0000" stroke="#1c6b92" stroke-width="0.25" fill="#ffffff"/>
+<polygon points="140.4000,229.6000 145.6000,229.6000 145.6000,229.0000 140.4000,229.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="141.2000,229.0000 144.8000,229.0000 144.8000,227.0000 141.2000,227.0000" stroke="#1c6b92" stroke-width="0.2" fill="#e4f2f8"/>
+<polygon points="125.0000,229.6000 123.0000,229.6000 125.0000,227.6000" stroke="#1c6b92" stroke-width="0.2" fill="#1c6b92"/>
+<polygon points="141.0000,229.6000 143.0000,229.6000 141.0000,227.6000" stroke="#1c6b92" stroke-width="0.2" fill="#1c6b92"/>
+<line x1="103.0000" y1="296.0000" x2="163.0000" y2="296.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="102.0000" y1="297.0000" x2="104.0000" y2="295.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="162.0000" y1="297.0000" x2="164.0000" y2="295.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="125.7496,291.9000 140.2504,291.9000 140.2504,295.5000 125.7496,295.5000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="133.0" y="294.5" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="middle">300 P dado</text>
+<line x1="115.0000" y1="202.0000" x2="151.0000" y2="202.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="114.0000" y1="203.0000" x2="116.0000" y2="201.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="150.0000" y1="203.0000" x2="152.0000" y2="201.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="125.5337,197.9000 140.4663,197.9000 140.4663,201.5000 125.5337,201.5000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="133.0" y="200.5" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="middle">180 P placa</text>
+<line x1="123.0000" y1="213.0000" x2="143.0000" y2="213.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="122.0000" y1="214.0000" x2="124.0000" y2="212.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="142.0000" y1="214.0000" x2="144.0000" y2="212.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="126.2567,208.9000 139.7433,208.9000 139.7433,212.5000 126.2567,212.5000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="133.0" y="211.5" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="middle">100 P ejes</text>
+<line x1="203.0000" y1="286.0000" x2="203.0000" y2="236.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="202.0000" y1="287.0000" x2="204.0000" y2="285.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="202.0000" y1="237.0000" x2="204.0000" y2="235.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="204.4000,259.4000 212.3945,259.4000 212.3945,263.0000 204.4000,263.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="205.0" y="262.0" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">250 P</text>
+<line x1="178.0000" y1="256.0000" x2="178.0000" y2="236.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="177.0000" y1="257.0000" x2="179.0000" y2="255.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="177.0000" y1="237.0000" x2="179.0000" y2="235.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="179.4000,244.4000 194.6486,244.4000 194.6486,248.0000 179.4000,248.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="180.0" y="247.0" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">100 P en H°</text>
+<line x1="151.0000" y1="232.0000" x2="28.0000" y2="310.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<line x1="28.0000" y1="310.0000" x2="31.0000" y2="310.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<text x="32" y="311" fill="#1c6b92" font-family="Arial" font-size="2.7" font-weight="normal" text-anchor="start">P placa180 x160 x12; grout20 sobre dado300 x300 x250. Vástagos M12 con100 dentro del hormigon; cabeza, arandela y tuerca accesibles.</text>
+<line x1="179.0000" y1="162.0000" x2="28.0000" y2="338.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<line x1="28.0000" y1="338.0000" x2="31.0000" y2="338.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<text x="32" y="339" fill="#1c6b92" font-family="Arial" font-size="2.7" font-weight="normal" text-anchor="start">P zanca soldada a placa: contacto continuo, limpieza y proteccion anticorrosiva. Espesor y largo del cordon requieren solicitaciones y material.</text>
+<text x="334" y="77" fill="#1c6b92" font-family="Arial" font-size="3.2" font-weight="bold" text-anchor="start">12 Plantilla de arranque / planta P | 1:5</text>
+<polygon points="394.0000,246.0000 454.0000,246.0000 454.0000,186.0000 394.0000,186.0000" stroke="#1c6b92" stroke-width="0.3" fill="none"/>
+<polygon points="406.0000,232.0000 442.0000,232.0000 442.0000,200.0000 406.0000,200.0000" stroke="#1c6b92" stroke-width="0.35" fill="#e4f2f8"/>
+<polygon points="419.6000,230.0000 428.4000,230.0000 428.4000,202.0000 419.6000,202.0000" stroke="#1c6b92" stroke-width="0.3" fill="none"/>
+<polygon points="416.6000,216.0000 416.5663,215.5829 416.4662,215.1767 416.3022,214.7917 416.0786,214.4381 415.8011,214.1249 415.4770,213.8602 415.1146,213.6510 414.7234,213.5027 414.3134,213.4190 413.8953,213.4021 413.4799,213.4525 413.0780,213.5690 412.7000,213.7483 412.3556,213.9860 412.0539,214.2759 411.8025,214.6104 411.6081,214.9809 411.4756,215.3778 411.4084,215.7908 411.4084,216.2092 411.4756,216.6222 411.6081,217.0191 411.8025,217.3896 412.0539,217.7241 412.3556,218.0140 412.7000,218.2517 413.0780,218.4310 413.4799,218.5475 413.8953,218.5979 414.3134,218.5810 414.7234,218.4973 415.1146,218.3490 415.4770,218.1398 415.8011,217.8751 416.0786,217.5619 416.3022,217.2083 416.4662,216.8233 416.5663,216.4171 416.6000,216.0000" stroke="#1c6b92" stroke-width="0.18" fill="none"/>
+<polygon points="415.4000,216.0000 415.3819,215.7754 415.3280,215.5567 415.2396,215.3494 415.1192,215.1590 414.9698,214.9903 414.7953,214.8478 414.6002,214.7352 414.3895,214.6553 414.1688,214.6102 413.9436,214.6011 413.7200,214.6283 413.5036,214.6910 413.3000,214.7876 413.1146,214.9156 412.9521,215.0716 412.8167,215.2517 412.7120,215.4512 412.6407,215.6650 412.6045,215.8873 412.6045,216.1127 412.6407,216.3350 412.7120,216.5488 412.8167,216.7483 412.9521,216.9284 413.1146,217.0844 413.3000,217.2124 413.5036,217.3090 413.7200,217.3717 413.9436,217.3989 414.1688,217.3898 414.3895,217.3447 414.6002,217.2648 414.7953,217.1522 414.9698,217.0097 415.1192,216.8410 415.2396,216.6506 415.3280,216.4433 415.3819,216.2246 415.4000,216.0000" stroke="#1c6b92" stroke-width="0.18" fill="none"/>
+<polygon points="436.6000,216.0000 436.5663,215.5829 436.4662,215.1767 436.3022,214.7917 436.0786,214.4381 435.8011,214.1249 435.4770,213.8602 435.1146,213.6510 434.7234,213.5027 434.3134,213.4190 433.8953,213.4021 433.4799,213.4525 433.0780,213.5690 432.7000,213.7483 432.3556,213.9860 432.0539,214.2759 431.8025,214.6104 431.6081,214.9809 431.4756,215.3778 431.4084,215.7908 431.4084,216.2092 431.4756,216.6222 431.6081,217.0191 431.8025,217.3896 432.0539,217.7241 432.3556,218.0140 432.7000,218.2517 433.0780,218.4310 433.4799,218.5475 433.8953,218.5979 434.3134,218.5810 434.7234,218.4973 435.1146,218.3490 435.4770,218.1398 435.8011,217.8751 436.0786,217.5619 436.3022,217.2083 436.4662,216.8233 436.5663,216.4171 436.6000,216.0000" stroke="#1c6b92" stroke-width="0.18" fill="none"/>
+<polygon points="435.4000,216.0000 435.3819,215.7754 435.3280,215.5567 435.2396,215.3494 435.1192,215.1590 434.9698,214.9903 434.7953,214.8478 434.6002,214.7352 434.3895,214.6553 434.1688,214.6102 433.9436,214.6011 433.7200,214.6283 433.5036,214.6910 433.3000,214.7876 433.1146,214.9156 432.9521,215.0716 432.8167,215.2517 432.7120,215.4512 432.6407,215.6650 432.6045,215.8873 432.6045,216.1127 432.6407,216.3350 432.7120,216.5488 432.8167,216.7483 432.9521,216.9284 433.1146,217.0844 433.3000,217.2124 433.5036,217.3090 433.7200,217.3717 433.9436,217.3989 434.1688,217.3898 434.3895,217.3447 434.6002,217.2648 434.7953,217.1522 434.9698,217.0097 435.1192,216.8410 435.2396,216.6506 435.3280,216.4433 435.3819,216.2246 435.4000,216.0000" stroke="#1c6b92" stroke-width="0.18" fill="none"/>
+<line x1="406.0000" y1="157.0000" x2="442.0000" y2="157.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="405.0000" y1="158.0000" x2="407.0000" y2="156.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="441.0000" y1="158.0000" x2="443.0000" y2="156.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="420.0027,152.9000 427.9973,152.9000 427.9973,156.5000 420.0027,156.5000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="424.0" y="155.5" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="middle">180 P</text>
+<line x1="414.0000" y1="170.0000" x2="434.0000" y2="170.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="413.0000" y1="171.0000" x2="415.0000" y2="169.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="433.0000" y1="171.0000" x2="435.0000" y2="169.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="417.2567,165.9000 430.7433,165.9000 430.7433,169.5000 417.2567,169.5000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="424.0" y="168.5" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="middle">100 P ejes</text>
+<line x1="472.0000" y1="232.0000" x2="472.0000" y2="200.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="471.0000" y1="233.0000" x2="473.0000" y2="231.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="471.0000" y1="201.0000" x2="473.0000" y2="199.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="473.4000,214.4000 481.3945,214.4000 481.3945,218.0000 473.4000,218.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="474.0" y="217.0" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">160 P</text>
+<line x1="406.0000" y1="184.0000" x2="414.0000" y2="184.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="405.0000" y1="185.0000" x2="407.0000" y2="183.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="413.0000" y1="185.0000" x2="415.0000" y2="183.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="403.0396,179.9000 416.9604,179.9000 416.9604,183.5000 403.0396,183.5000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="410.0" y="182.5" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="middle">40 P borde</text>
+<line x1="514.0000" y1="246.0000" x2="514.0000" y2="186.0000" stroke="#1c6b92" stroke-width="0.13"/>
+<line x1="513.0000" y1="247.0000" x2="515.0000" y2="245.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<line x1="513.0000" y1="187.0000" x2="515.0000" y2="185.0000" stroke="#1c6b92" stroke-width="0.2"/>
+<polygon points="515.4000,214.4000 529.9009,214.4000 529.9009,218.0000 515.4000,218.0000" stroke="#ffffff" stroke-width="0.0" fill="#ffffff"/>
+<text x="516.0" y="217.0" fill="#1c6b92" font-family="Arial" font-size="2.6" font-weight="normal" text-anchor="start">300 P dado</text>
+<line x1="434.0000" y1="216.0000" x2="331.0000" y2="300.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<line x1="331.0000" y1="300.0000" x2="334.0000" y2="300.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<text x="335" y="301" fill="#1c6b92" font-family="Arial" font-size="2.7" font-weight="normal" text-anchor="start">P2 agujerosØ14 para M12. El dibujo reserva montaje y acceso de llave; diametro, tipo de anclaje y tolerancias finales segun sistema seleccionado.</text>
+<line x1="394.0000" y1="246.0000" x2="331.0000" y2="330.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<line x1="331.0000" y1="330.0000" x2="334.0000" y2="330.0000" stroke="#1c6b92" stroke-width="0.15"/>
+<text x="335" y="331" fill="#1c6b92" font-family="Arial" font-size="2.7" font-weight="normal" text-anchor="start">P apoyo propuesto fuera del pavimento terminado; ajustar cota a la primera contrahuella del recorrido A07. Suelo, zapata real, armado y cargas no calculados.</text>
+<text x="31" y="374" fill="#384c55" font-family="Arial" font-size="2.5" font-weight="normal" text-anchor="start">R5 | Hilti: Base plates - design considerations</text>
+<a href="https://www.hilti.com.sg/content/hilti/A2/SG/en/engineering/design-center/anchor-systems/typical-applications/base-plate.html"><rect x="31" y="371" width="430" height="5" fill="transparent"/></a>
+</svg>

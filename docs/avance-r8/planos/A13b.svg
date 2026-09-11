@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="594mm" height="420mm" viewBox="0 0 594 420">
+<rect width="594" height="420" fill="white"/>
+<polygon points="10.0000,10.0000 584.0000,10.0000 584.0000,410.0000 10.0000,410.0000" fill="none" stroke="#172b35" stroke-width="0.35"/>
+<text x="18.0000" y="21.0000" font-family="Arial" font-size="4.8" font-weight="bold" fill="#172b35" text-anchor="start">CASA DE CAMPO</text>
+<text x="18.0000" y="28.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#6f7e83" text-anchor="start">VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO</text>
+<text x="577.0000" y="21.0000" font-family="Arial" font-size="4.2" font-weight="bold" fill="#172b35" text-anchor="end">A13b | Captacion, DVH y penetraciones</text>
+<text x="577.0000" y="28.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#6f7e83" text-anchor="end">Ampliaciones de geometria G; especificacion final pendiente</text>
+<line x1="10.0000" y1="34.0000" x2="584.0000" y2="34.0000" stroke="#172b35" stroke-width="0.25"/>
+<line x1="10.0000" y1="384.0000" x2="584.0000" y2="384.0000" stroke="#172b35" stroke-width="0.3"/>
+<text x="18.0000" y="393.0000" font-family="Arial" font-size="3" font-weight="bold" fill="#ac5b27" text-anchor="start">R8 EN REVISION / SIN APROBACION9,9 / SIN CALCULO DE CAPACIDAD | NO APTO PARA CONSTRUCCION</text>
+<text x="18.0000" y="401.0000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#6f7e83" text-anchor="start">Modelo: Casa_de_Campo_99_R8.blend | SHA256 60810e1945f53b33 | 11/09/2026</text>
+<text x="375.0000" y="393.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">A2 594 x 420 mm | imprimir al 100 %</text>
+<text x="375.0000" y="401.0000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#6f7e83" text-anchor="start">Metros salvo indicacion | cotas prevalecen al escalimetro</text>
+<text x="577.0000" y="407.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#172b35" text-anchor="end">18</text>
+<text x="35.0000" y="72.0000" font-family="Arial" font-size="3.2" font-weight="bold" fill="#236a86" text-anchor="start">05/A13b Canaleta abierta / X=14,00 | 1:2</text>
+<polygon points="70.0000,221.0000 70.0000,151.0000 70.6000,151.0000 70.6000,220.4000 149.4000,220.4000 149.4000,151.0000 150.0000,151.0000 150.0000,221.0000 70.0000,221.0000" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="70.0000" y1="249.0000" x2="150.0000" y2="249.0000" stroke="#236a86" stroke-width="0.13"/>
+<line x1="69.0000" y1="250.0000" x2="71.0000" y2="248.0000" stroke="#236a86" stroke-width="0.2"/>
+<line x1="149.0000" y1="250.0000" x2="151.0000" y2="248.0000" stroke="#236a86" stroke-width="0.2"/>
+<polygon points="104.0590,245.0000 115.9410,245.0000 115.9410,248.8000 104.0590,248.8000" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="110.0000" y="247.5000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#236a86" text-anchor="middle">0,16 m G</text>
+<polygon points="101.5978,106.3000 128.4022,106.3000 128.4022,110.3000 101.5978,110.3000" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="115.0000" y="109.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#236a86" text-anchor="middle">BOCA RECEPTORA</text>
+<text x="228.0000" y="73.0000" font-family="Arial" font-size="3.2" font-weight="bold" fill="#236a86" text-anchor="start">06/A13b DVH / antepecho / Z=3,00 | 1:5</text>
+<line x1="264.0000" y1="200.0000" x2="264.0000" y2="168.8000" stroke="#172b35" stroke-width="0.5"/>
+<line x1="304.0002" y1="164.9000" x2="304.0002" y2="200.0000" stroke="#172b35" stroke-width="0.5"/>
+<line x1="303.9170" y1="164.6395" x2="304.0002" y2="164.9000" stroke="#172b35" stroke-width="0.5"/>
+<line x1="303.8338" y1="164.3790" x2="303.9170" y2="164.6395" stroke="#172b35" stroke-width="0.5"/>
+<line x1="303.7852" y1="164.3213" x2="303.8338" y2="164.3790" stroke="#172b35" stroke-width="0.5"/>
+<line x1="303.7366" y1="164.2636" x2="303.7852" y2="164.3213" stroke="#172b35" stroke-width="0.5"/>
+<line x1="273.7000" y1="164.0000" x2="284.0000" y2="164.0000" stroke="#172b35" stroke-width="0.5"/>
+<line x1="303.1000" y1="164.0000" x2="284.0000" y2="164.0000" stroke="#172b35" stroke-width="0.5"/>
+<line x1="303.1000" y1="164.0000" x2="303.3606" y2="164.0831" stroke="#172b35" stroke-width="0.5"/>
+<line x1="303.6212" y1="164.1662" x2="303.3606" y2="164.0831" stroke="#172b35" stroke-width="0.5"/>
+<line x1="303.6212" y1="164.1662" x2="303.6789" y2="164.2149" stroke="#172b35" stroke-width="0.5"/>
+<line x1="303.7366" y1="164.2636" x2="303.6789" y2="164.2149" stroke="#172b35" stroke-width="0.5"/>
+<line x1="264.0000" y1="168.8000" x2="273.7000" y2="168.8000" stroke="#172b35" stroke-width="0.5"/>
+<line x1="273.7000" y1="164.0000" x2="273.7000" y2="168.8000" stroke="#172b35" stroke-width="0.5"/>
+<polygon points="259.3002,160.0000 258.4001,160.0000 257.5000,160.0000 257.5000,80.0000 259.3002,80.0000 259.3002,160.0000" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="264.5002,159.4840 263.6001,159.4840 262.7000,159.4840 262.7000,80.0000 264.5002,80.0000 264.5002,159.4840" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="248.7342" y1="167.9656" x2="248.6909" y2="167.9144" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="248.6909" y1="167.9144" x2="248.6476" y2="167.8632" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="248.6476" y1="167.8632" x2="248.5738" y2="167.6316" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="248.5738" y1="167.6316" x2="248.5000" y2="167.4000" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="248.5000" y1="167.4000" x2="248.5000" y2="160.0000" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="248.5000" y1="160.0000" x2="248.5000" y2="152.6000" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="248.5000" y1="152.6000" x2="248.5738" y2="152.3684" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="248.5738" y1="152.3684" x2="248.6476" y2="152.1368" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="248.6476" y1="152.1368" x2="248.6909" y2="152.0856" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="248.6909" y1="152.0856" x2="248.7342" y2="152.0344" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="273.3091" y1="167.9144" x2="273.2658" y2="167.9656" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="273.3524" y1="167.8632" x2="273.3091" y2="167.9144" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="273.4262" y1="167.6316" x2="273.3524" y2="167.8632" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="273.5000" y1="167.4000" x2="273.4262" y2="167.6316" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="273.5000" y1="160.0000" x2="273.5000" y2="167.4000" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="273.5000" y1="152.6000" x2="273.5000" y2="160.0000" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="273.4262" y1="152.3684" x2="273.5000" y2="152.6000" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="273.3524" y1="152.1368" x2="273.4262" y2="152.3684" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="273.3091" y1="152.0856" x2="273.3524" y2="152.1368" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="273.2658" y1="152.0344" x2="273.3091" y2="152.0856" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="248.7855" y1="168.0090" x2="248.7342" y2="167.9656" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="248.7855" y1="168.0090" x2="248.8368" y2="168.0524" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="249.0683" y1="168.1262" x2="248.8368" y2="168.0524" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="249.0683" y1="168.1262" x2="249.2998" y2="168.2000" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="260.9999" y1="168.2000" x2="249.2998" y2="168.2000" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="260.9999" y1="168.2000" x2="272.7000" y2="168.2000" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="272.9315" y1="168.1262" x2="272.7000" y2="168.2000" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="272.9315" y1="168.1262" x2="273.1630" y2="168.0524" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="273.2144" y1="168.0090" x2="273.1630" y2="168.0524" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="273.2144" y1="168.0090" x2="273.2658" y2="167.9656" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="248.7342" y1="152.0344" x2="248.7855" y2="151.9910" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="248.8368" y1="151.9476" x2="248.7855" y2="151.9910" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="248.8368" y1="151.9476" x2="249.0683" y2="151.8738" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="249.2998" y1="151.8000" x2="249.0683" y2="151.8738" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="249.2998" y1="151.8000" x2="257.1000" y2="151.8000" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="272.7000" y1="151.8000" x2="264.9000" y2="151.8000" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="272.7000" y1="151.8000" x2="272.9315" y2="151.8738" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="273.1630" y1="151.9476" x2="272.9315" y2="151.8738" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="273.1630" y1="151.9476" x2="273.2144" y2="151.9910" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="273.2658" y1="152.0344" x2="273.2144" y2="151.9910" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="257.1000" y1="161.2000" x2="264.9000" y2="161.2000" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="264.9000" y1="161.2000" x2="264.9000" y2="151.8000" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="257.1000" y1="161.2000" x2="257.1000" y2="151.8000" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="246.8866,175.0716 246.8216,174.9946 246.7108,174.6473 246.6000,174.3000 246.6000,171.0000 246.6000,167.7000 246.7108,167.3526 246.8216,167.0052 246.8866,166.9283 246.9516,166.8514 247.0284,166.7865 247.1052,166.7216 247.4527,166.6108 247.8002,166.5000 248.2998,166.5000 248.2998,168.8000 273.7000,168.8000 273.7000,166.5000 281.4000,166.5000 281.7474,166.6108 282.0948,166.7216 282.1717,166.7865 282.2486,166.8514 282.3135,166.9283 282.3784,167.0052 282.4892,167.3526 282.6000,167.7000 282.6000,171.0000 282.6000,174.3000 282.4892,174.6473 282.3784,174.9946 282.3135,175.0716 282.2486,175.1486 282.1717,175.2135 282.0948,175.2784 281.7474,175.3892 281.4000,175.5000 264.6001,175.5000 247.8002,175.5000 247.4527,175.3892 247.1052,175.2784 247.0284,175.2135 246.9516,175.1486 246.8866,175.0716" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="248.5000,168.8000 248.5000,168.2000 273.5000,168.2000 273.5000,168.8000 248.5000,168.8000" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<line x1="264.0000" y1="196.0000" x2="304.0000" y2="196.0000" stroke="#236a86" stroke-width="0.13"/>
+<line x1="263.0000" y1="197.0000" x2="265.0000" y2="195.0000" stroke="#236a86" stroke-width="0.2"/>
+<line x1="303.0000" y1="197.0000" x2="305.0000" y2="195.0000" stroke="#236a86" stroke-width="0.2"/>
+<polygon points="277.5719,192.0000 290.4281,192.0000 290.4281,195.8000 277.5719,195.8000" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="284.0000" y="194.5000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#236a86" text-anchor="middle">Muro 0,20</text>
+<text x="370.0000" y="73.0000" font-family="Arial" font-size="3.2" font-weight="bold" fill="#236a86" text-anchor="start">07/A13b Paso de conductos / X=21,50 | 1:5</text>
+<line x1="454.4000" y1="153.4726" x2="462.4277" y2="152.0010" stroke="#172b35" stroke-width="0.5"/>
+<line x1="454.4000" y1="153.4726" x2="454.4000" y2="153.3100" stroke="#172b35" stroke-width="0.5"/>
+<line x1="401.6000" y1="163.1528" x2="401.6000" y2="162.9900" stroke="#172b35" stroke-width="0.5"/>
+<line x1="539.4000" y1="137.8894" x2="539.4000" y2="137.7268" stroke="#172b35" stroke-width="0.5"/>
+<line x1="464.6000" y1="151.6028" x2="464.6000" y2="151.4400" stroke="#172b35" stroke-width="0.5"/>
+<polygon points="390.7600,194.1400 390.6428,193.8570 390.6428,183.6572 390.7600,183.3742 391.0428,183.2570 399.2428,183.2570 399.5256,183.3742 399.6428,183.6572 399.6428,193.8570 399.5256,194.1400 399.2428,194.2572 391.0428,194.2572 390.7600,194.1400" fill="#b8c1c5" stroke="#172b35" stroke-width="0.5"/>
+<polygon points="553.6172,164.2828 553.5000,164.0000 553.5000,153.8000 553.6172,153.5172 553.9000,153.4000 562.1000,153.4000 562.3828,153.5172 562.5000,153.8000 562.5000,164.0000 562.3828,164.2828 562.1000,164.4000 553.9000,164.4000 553.6172,164.2828" fill="#b8c1c5" stroke="#172b35" stroke-width="0.5"/>
+<polygon points="554.1172,207.5496 554.0000,207.2666 554.0000,164.0668 554.1172,163.7838 554.4000,163.6666 566.0000,163.6666 566.0000,207.6668 554.4000,207.6668 554.1172,207.5496" fill="#b8c1c5" stroke="#172b35" stroke-width="0.5"/>
+<line x1="454.4000" y1="171.1766" x2="462.7427" y2="169.6472" stroke="#172b35" stroke-width="0.5"/>
+<line x1="454.4000" y1="171.1766" x2="454.4000" y2="154.9100" stroke="#172b35" stroke-width="0.5"/>
+<line x1="401.6000" y1="180.8566" x2="401.6000" y2="164.5900" stroke="#172b35" stroke-width="0.5"/>
+<line x1="539.4000" y1="155.5934" x2="539.4000" y2="139.3266" stroke="#172b35" stroke-width="0.5"/>
+<line x1="464.6000" y1="169.3068" x2="464.6000" y2="153.0400" stroke="#172b35" stroke-width="0.5"/>
+<polygon points="409.8000,220.0000 407.0000,220.0000 407.0000,80.0000 409.8000,80.0000 409.8000,220.0000" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="446.2000,80.0000 449.0000,80.0000 449.0000,220.0000 446.2000,220.0000 446.2000,80.0000" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="393.3214,165.8678 393.3534,165.7182 393.4820,165.6350 405.2007,163.4866 405.3417,163.5198 405.3999,163.6516 405.3999,166.5026 405.3417,166.6554 405.2007,166.7400 394.0582,168.7826 393.9091,168.7504 393.8262,168.6218 393.3214,165.8678" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="450.7991,158.3800 450.6583,158.3470 450.5999,158.2152 450.5999,155.3642 450.6583,155.2114 450.7991,155.1270 461.9470,153.0831 462.0923,153.1159 462.1738,153.2448 462.6786,155.9990 462.6466,156.1486 462.5180,156.2316 450.7991,158.3800" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="470.0000,80.0000 472.8000,80.0000 472.8000,220.0000 470.0000,220.0000 470.0000,80.0000" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="531.2000,80.0000 534.0000,80.0000 534.0000,220.0000 531.2000,220.0000 531.2000,80.0000" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="456.5016,154.2846 456.5338,154.1350 456.6624,154.0520 468.2009,151.9364 468.3419,151.9696 468.4001,152.1014 468.4001,154.9526 468.3419,155.1052 468.2009,155.1898 457.2383,157.1996 457.0894,157.1674 457.0066,157.0388 456.5016,154.2846" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="535.7993,142.7968 535.6583,142.7636 535.5999,142.6318 535.5999,139.7808 535.6583,139.6282 535.7993,139.5434 546.7687,137.5325 546.9125,137.5655 546.9934,137.6946 547.4984,140.4488 547.4662,140.5982 547.3378,140.6814 535.7993,142.7968" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="390.5000,114.4000 390.6172,114.1172 390.9000,114.0000 395.1000,114.0000 395.3828,114.1172 395.5000,114.4000 395.5000,220.0000 390.5000,220.0000 390.5000,114.4000" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="546.5000,114.4000 546.6172,114.1172 546.9000,114.0000 551.1000,114.0000 551.3828,114.1172 551.5000,114.4000 551.5000,220.0000 546.5000,220.0000 546.5000,114.4000" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="388.2586,173.9414 388.2000,173.8000 388.2000,110.1998 388.2586,110.0586 388.4000,110.0000 390.4000,110.0000 390.5414,110.0586 390.6000,110.1998 390.6000,173.8000 390.5414,173.9414 390.4000,174.0000 388.4000,174.0000 388.2586,173.9414" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="551.4586,173.9414 551.4000,173.8000 551.4000,110.1998 551.4586,110.0586 551.6000,110.0000 553.6000,110.0000 553.7414,110.0586 553.8000,110.1998 553.8000,173.8000 553.7414,173.9414 553.6000,174.0000 551.6000,174.0000 551.4586,173.9414" fill="none" stroke="#6f7e83" stroke-width="0.16"/>
+<polygon points="436.2730,97.3000 479.7270,97.3000 479.7270,101.3000 436.2730,101.3000" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="458.0000" y="100.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#236a86" text-anchor="middle">CONDUCTOS INDEPENDIENTES</text>
+<text x="35.0000" y="284.0000" font-family="Arial" font-size="3.7" font-weight="bold" fill="#236a86" text-anchor="start">05/A13b CAPTACION / FIJACION</text>
+<text x="35.0000" y="291.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">G: seccion de canaleta recortada directamente de la malla. Verificar apertura superior, fondo, salida lateral y continuidad en</text>
+<text x="35.0000" y="295.4000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">la prueba del modelo.</text>
+<text x="35.0000" y="302.8000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">P: pendiente longitudinal, caudal, fijacion y sellos requieren dimensionado; el ancho grafico no certifica capacidad pluvial.</text>
+<text x="227.0000" y="242.0000" font-family="Arial" font-size="3.7" font-weight="bold" fill="#236a86" text-anchor="start">06/A13b ENCUENTRO DE VENTANA</text>
+<text x="227.0000" y="249.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">G: dos paños, marco, antepecho y alféizar representados. La ampliacion permite revisar solapes y</text>
+<text x="227.0000" y="253.4000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">contacto.</text>
+<text x="227.0000" y="260.8000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">P: apoyo, sellos, drenaje del marco y conexion de aislacion desarrollados a1:5 en suplemento D03.</text>
+<text x="227.0000" y="268.2000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Ver A12 para anchos, alturas y cotas de cada pieza.</text>
+<text x="370.0000" y="245.0000" font-family="Arial" font-size="3.7" font-weight="bold" fill="#236a86" text-anchor="start">07/A13b PENETRACION / PATINILLO</text>
+<text x="370.0000" y="252.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">G: conductos independientes, babetas perforadas y remate de patinillo. Se muestra la interseccion con cubierta.</text>
+<text x="370.0000" y="259.4000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">P: continuidad de membrana, cuello y contrababetas, dilataciones, aislamiento termico y acceso de limpieza por especificar.</text>
+<text x="370.0000" y="266.8000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">No se asignan distancias reglamentarias a combustibles ni caudales sin proyecto de combustion.</text>
+</svg>

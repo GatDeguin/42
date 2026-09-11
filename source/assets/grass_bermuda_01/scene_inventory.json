@@ -1,0 +1,995 @@
+{
+  "objects": [
+    {
+      "name": "grass_bermuda_01_dead_a",
+      "type": "MESH",
+      "dimensions": [
+        0.06773801147937775,
+        0.0843101441860199,
+        0.024741128087043762
+      ],
+      "location": [
+        -0.5927864909172058,
+        0.0017063836567103863,
+        0.0007589152082800865
+      ],
+      "vertices": 12,
+      "faces": 7,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_dead_b",
+      "type": "MESH",
+      "dimensions": [
+        0.07010027766227722,
+        0.05502614378929138,
+        0.04334356263279915
+      ],
+      "location": [
+        -0.5395382642745972,
+        0.0014924663119018078,
+        0.0005264685023576021
+      ],
+      "vertices": 12,
+      "faces": 7,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_flattened_a",
+      "type": "MESH",
+      "dimensions": [
+        0.043938048183918,
+        0.06925326585769653,
+        0.043633755296468735
+      ],
+      "location": [
+        -0.6884512901306152,
+        0.0038146707229316235,
+        -0.0003332803025841713
+      ],
+      "vertices": 18,
+      "faces": 11,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_dead_a",
+      "type": "MESH",
+      "dimensions": [
+        0.06773801147937775,
+        0.0843101441860199,
+        0.024741128087043762
+      ],
+      "location": [
+        -0.5927864909172058,
+        0.0017063836567103863,
+        0.0007589152082800865
+      ],
+      "vertices": 12,
+      "faces": 7,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_dead_b",
+      "type": "MESH",
+      "dimensions": [
+        0.07010027766227722,
+        0.05502614378929138,
+        0.04334356263279915
+      ],
+      "location": [
+        -0.5395382642745972,
+        0.0014924663119018078,
+        0.0005264685023576021
+      ],
+      "vertices": 12,
+      "faces": 7,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_flattened_a",
+      "type": "MESH",
+      "dimensions": [
+        0.043938048183918,
+        0.06925326585769653,
+        0.043633755296468735
+      ],
+      "location": [
+        -0.6884512901306152,
+        0.0038146707229316235,
+        -0.0003332803025841713
+      ],
+      "vertices": 18,
+      "faces": 11,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_medium_a",
+      "type": "MESH",
+      "dimensions": [
+        0.03851224482059479,
+        0.02856733277440071,
+        0.09775002300739288
+      ],
+      "location": [
+        -0.7426877021789551,
+        0.002644236432388425,
+        -0.0007399478927254677
+      ],
+      "vertices": 16,
+      "faces": 10,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_medium_b",
+      "type": "MESH",
+      "dimensions": [
+        0.051163725554943085,
+        0.021864350885152817,
+        0.0745726078748703
+      ],
+      "location": [
+        0.7379401326179504,
+        -0.008286217227578163,
+        0.0014649808872491121
+      ],
+      "vertices": 9,
+      "faces": 4,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_medium_c",
+      "type": "MESH",
+      "dimensions": [
+        0.05698142200708389,
+        0.09161889553070068,
+        0.06667336076498032
+      ],
+      "location": [
+        0.07156552374362946,
+        -0.0010710246860980988,
+        -0.002195997629314661
+      ],
+      "vertices": 21,
+      "faces": 12,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_medium_d",
+      "type": "MESH",
+      "dimensions": [
+        0.05497361719608307,
+        0.016299284994602203,
+        0.10206569731235504
+      ],
+      "location": [
+        0.8339244723320007,
+        -0.009924020618200302,
+        0.00045594293624162674
+      ],
+      "vertices": 13,
+      "faces": 9,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_medium_e",
+      "type": "MESH",
+      "dimensions": [
+        0.06603643298149109,
+        0.03687525540590286,
+        0.082661472260952
+      ],
+      "location": [
+        0.16164429485797882,
+        -0.0013983789831399918,
+        -0.002678921911865473
+      ],
+      "vertices": 24,
+      "faces": 14,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_medium_f",
+      "type": "MESH",
+      "dimensions": [
+        0.04070085287094116,
+        0.02610260248184204,
+        0.11300424486398697
+      ],
+      "location": [
+        0.24350793659687042,
+        -0.0017635039985179901,
+        -0.0023800195194780827
+      ],
+      "vertices": 28,
+      "faces": 18,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_nodes",
+      "type": "MESH",
+      "dimensions": [
+        1.0788681507110596,
+        1.0768089294433594,
+        1.083741545677185
+      ],
+      "location": [
+        -1.6788809299468994,
+        0.0,
+        0.0
+      ],
+      "vertices": 482,
+      "faces": 512,
+      "hidden": false,
+      "modifiers": [
+        {
+          "name": "GeometryNodes",
+          "type": "NODES"
+        }
+      ],
+      "materials": [
+        "grass_bermuda_01_sphere",
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_seedling_a",
+      "type": "MESH",
+      "dimensions": [
+        0.06783504039049149,
+        0.04558120667934418,
+        0.1508864462375641
+      ],
+      "location": [
+        0.348913311958313,
+        -0.0022334307432174683,
+        -0.0019972086884081364
+      ],
+      "vertices": 125,
+      "faces": 86,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_seedling_b",
+      "type": "MESH",
+      "dimensions": [
+        0.076595239341259,
+        0.049266546964645386,
+        0.127205029129982
+      ],
+      "location": [
+        0.46332934498786926,
+        -0.0025088563561439514,
+        -0.00414243945851922
+      ],
+      "vertices": 118,
+      "faces": 82,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_seedling_c",
+      "type": "MESH",
+      "dimensions": [
+        0.037162233144044876,
+        0.04451197385787964,
+        0.09225825220346451
+      ],
+      "location": [
+        0.5535324215888977,
+        -0.003077588975429535,
+        -0.0019972086884081364
+      ],
+      "vertices": 108,
+      "faces": 76,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_seedling_d",
+      "type": "MESH",
+      "dimensions": [
+        0.06964705884456635,
+        0.08313377946615219,
+        0.1521890014410019
+      ],
+      "location": [
+        0.6350690126419067,
+        -0.0032197758555412292,
+        -0.004774367902427912
+      ],
+      "vertices": 226,
+      "faces": 158,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_single_a",
+      "type": "MESH",
+      "dimensions": [
+        0.0035752211697399616,
+        0.013696599751710892,
+        0.14941483736038208
+      ],
+      "location": [
+        0.9164353013038635,
+        -0.0038117244839668274,
+        -0.002277171704918146
+      ],
+      "vertices": 17,
+      "faces": 8,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_single_b",
+      "type": "MESH",
+      "dimensions": [
+        0.0035752211697399616,
+        0.013696597889065742,
+        0.14941483736038208
+      ],
+      "location": [
+        0.9258216023445129,
+        -0.0038545429706573486,
+        -0.0022326470352709293
+      ],
+      "vertices": 17,
+      "faces": 8,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_small_a",
+      "type": "MESH",
+      "dimensions": [
+        0.07986544072628021,
+        0.02775387465953827,
+        0.03223959356546402
+      ],
+      "location": [
+        -0.43225741386413574,
+        -0.005144219845533371,
+        -0.0004870869452133775
+      ],
+      "vertices": 12,
+      "faces": 7,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_small_b",
+      "type": "MESH",
+      "dimensions": [
+        0.08268746733665466,
+        0.03603371977806091,
+        0.04585026204586029
+      ],
+      "location": [
+        -0.2115013599395752,
+        -0.0006084572523832321,
+        0.0048597389832139015
+      ],
+      "vertices": 12,
+      "faces": 7,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_small_c",
+      "type": "MESH",
+      "dimensions": [
+        0.053999610245227814,
+        0.041465919464826584,
+        0.055165212601423264
+      ],
+      "location": [
+        -0.1329820305109024,
+        -0.00043730437755584717,
+        9.676162153482437e-05
+      ],
+      "vertices": 20,
+      "faces": 10,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_small_d",
+      "type": "MESH",
+      "dimensions": [
+        0.05821169912815094,
+        0.03346908837556839,
+        0.05464456230401993
+      ],
+      "location": [
+        -0.02666320651769638,
+        -0.0009970404207706451,
+        0.0018245438113808632
+      ],
+      "vertices": 11,
+      "faces": 6,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_small_e",
+      "type": "MESH",
+      "dimensions": [
+        0.028711911290884018,
+        0.017662715166807175,
+        0.09073731303215027
+      ],
+      "location": [
+        -0.34815514087677,
+        0.0004998203366994858,
+        -4.6996516175568104e-05
+      ],
+      "vertices": 11,
+      "faces": 6,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_small_f",
+      "type": "MESH",
+      "dimensions": [
+        0.035537708550691605,
+        0.02461286261677742,
+        0.06905271857976913
+      ],
+      "location": [
+        -0.2808748185634613,
+        0.00035902485251426697,
+        -0.002777969930320978
+      ],
+      "vertices": 11,
+      "faces": 6,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_medium_a",
+      "type": "MESH",
+      "dimensions": [
+        0.03851224482059479,
+        0.02856733277440071,
+        0.09775002300739288
+      ],
+      "location": [
+        -0.7426877021789551,
+        0.002644236432388425,
+        -0.0007399478927254677
+      ],
+      "vertices": 16,
+      "faces": 10,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_medium_b",
+      "type": "MESH",
+      "dimensions": [
+        0.051163725554943085,
+        0.021864350885152817,
+        0.0745726078748703
+      ],
+      "location": [
+        0.7379401326179504,
+        -0.008286217227578163,
+        0.0014649808872491121
+      ],
+      "vertices": 9,
+      "faces": 4,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_medium_c",
+      "type": "MESH",
+      "dimensions": [
+        0.05698142200708389,
+        0.09161889553070068,
+        0.06667336076498032
+      ],
+      "location": [
+        0.07156552374362946,
+        -0.0010710246860980988,
+        -0.002195997629314661
+      ],
+      "vertices": 21,
+      "faces": 12,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_medium_d",
+      "type": "MESH",
+      "dimensions": [
+        0.05497361719608307,
+        0.016299284994602203,
+        0.10206569731235504
+      ],
+      "location": [
+        0.8339244723320007,
+        -0.009924020618200302,
+        0.00045594293624162674
+      ],
+      "vertices": 13,
+      "faces": 9,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_medium_e",
+      "type": "MESH",
+      "dimensions": [
+        0.06603643298149109,
+        0.03687525540590286,
+        0.082661472260952
+      ],
+      "location": [
+        0.16164429485797882,
+        -0.0013983789831399918,
+        -0.002678921911865473
+      ],
+      "vertices": 24,
+      "faces": 14,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_medium_f",
+      "type": "MESH",
+      "dimensions": [
+        0.04070085287094116,
+        0.02610260248184204,
+        0.11300424486398697
+      ],
+      "location": [
+        0.24350793659687042,
+        -0.0017635039985179901,
+        -0.0023800195194780827
+      ],
+      "vertices": 28,
+      "faces": 18,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_seedling_a",
+      "type": "MESH",
+      "dimensions": [
+        0.06783504039049149,
+        0.04558120667934418,
+        0.1508864462375641
+      ],
+      "location": [
+        0.348913311958313,
+        -0.0022334307432174683,
+        -0.0019972086884081364
+      ],
+      "vertices": 125,
+      "faces": 86,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_seedling_b",
+      "type": "MESH",
+      "dimensions": [
+        0.076595239341259,
+        0.049266546964645386,
+        0.127205029129982
+      ],
+      "location": [
+        0.46332934498786926,
+        -0.0025088563561439514,
+        -0.00414243945851922
+      ],
+      "vertices": 118,
+      "faces": 82,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_seedling_c",
+      "type": "MESH",
+      "dimensions": [
+        0.037162233144044876,
+        0.04451197385787964,
+        0.09225825220346451
+      ],
+      "location": [
+        0.5535324215888977,
+        -0.003077588975429535,
+        -0.0019972086884081364
+      ],
+      "vertices": 108,
+      "faces": 76,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_seedling_d",
+      "type": "MESH",
+      "dimensions": [
+        0.06964705884456635,
+        0.08313377946615219,
+        0.1521890014410019
+      ],
+      "location": [
+        0.6350690126419067,
+        -0.0032197758555412292,
+        -0.004774367902427912
+      ],
+      "vertices": 226,
+      "faces": 158,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_single_a",
+      "type": "MESH",
+      "dimensions": [
+        0.0035752211697399616,
+        0.013696599751710892,
+        0.14941483736038208
+      ],
+      "location": [
+        0.9164353013038635,
+        -0.0038117244839668274,
+        -0.002277171704918146
+      ],
+      "vertices": 17,
+      "faces": 8,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_single_b",
+      "type": "MESH",
+      "dimensions": [
+        0.0035752211697399616,
+        0.013696597889065742,
+        0.14941483736038208
+      ],
+      "location": [
+        0.9258216023445129,
+        -0.0038545429706573486,
+        -0.0022326470352709293
+      ],
+      "vertices": 17,
+      "faces": 8,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_small_a",
+      "type": "MESH",
+      "dimensions": [
+        0.07986544072628021,
+        0.02775387465953827,
+        0.03223959356546402
+      ],
+      "location": [
+        -0.43225741386413574,
+        -0.005144219845533371,
+        -0.0004870869452133775
+      ],
+      "vertices": 12,
+      "faces": 7,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_small_b",
+      "type": "MESH",
+      "dimensions": [
+        0.08268746733665466,
+        0.03603371977806091,
+        0.04585026204586029
+      ],
+      "location": [
+        -0.2115013599395752,
+        -0.0006084572523832321,
+        0.0048597389832139015
+      ],
+      "vertices": 12,
+      "faces": 7,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_small_c",
+      "type": "MESH",
+      "dimensions": [
+        0.053999610245227814,
+        0.041465919464826584,
+        0.055165212601423264
+      ],
+      "location": [
+        -0.1329820305109024,
+        -0.00043730437755584717,
+        9.676162153482437e-05
+      ],
+      "vertices": 20,
+      "faces": 10,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_small_d",
+      "type": "MESH",
+      "dimensions": [
+        0.05821169912815094,
+        0.03346908837556839,
+        0.05464456230401993
+      ],
+      "location": [
+        -0.02666320651769638,
+        -0.0009970404207706451,
+        0.0018245438113808632
+      ],
+      "vertices": 11,
+      "faces": 6,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_small_e",
+      "type": "MESH",
+      "dimensions": [
+        0.028711911290884018,
+        0.017662715166807175,
+        0.09073731303215027
+      ],
+      "location": [
+        -0.34815514087677,
+        0.0004998203366994858,
+        -4.6996516175568104e-05
+      ],
+      "vertices": 11,
+      "faces": 6,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_small_f",
+      "type": "MESH",
+      "dimensions": [
+        0.035537708550691605,
+        0.02461286261677742,
+        0.06905271857976913
+      ],
+      "location": [
+        -0.2808748185634613,
+        0.00035902485251426697,
+        -0.002777969930320978
+      ],
+      "vertices": 11,
+      "faces": 6,
+      "hidden": false,
+      "modifiers": [],
+      "materials": [
+        "grass_bermuda_01"
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "name": "grass_bermuda_01",
+      "objects": []
+    },
+    {
+      "name": "grass_bermuda_01_geometry",
+      "objects": [
+        "grass_bermuda_01_geometry_dead_a",
+        "grass_bermuda_01_geometry_dead_b",
+        "grass_bermuda_01_geometry_flattened_a",
+        "grass_bermuda_01_geometry_medium_a",
+        "grass_bermuda_01_geometry_medium_b",
+        "grass_bermuda_01_geometry_medium_c",
+        "grass_bermuda_01_geometry_medium_d",
+        "grass_bermuda_01_geometry_medium_e",
+        "grass_bermuda_01_geometry_medium_f",
+        "grass_bermuda_01_geometry_seedling_a",
+        "grass_bermuda_01_geometry_seedling_b",
+        "grass_bermuda_01_geometry_seedling_c",
+        "grass_bermuda_01_geometry_seedling_d",
+        "grass_bermuda_01_geometry_single_a",
+        "grass_bermuda_01_geometry_single_b",
+        "grass_bermuda_01_geometry_small_a",
+        "grass_bermuda_01_geometry_small_b",
+        "grass_bermuda_01_geometry_small_c",
+        "grass_bermuda_01_geometry_small_d",
+        "grass_bermuda_01_geometry_small_e",
+        "grass_bermuda_01_geometry_small_f"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_geometry_nodes",
+      "objects": [
+        "grass_bermuda_01_geometry_nodes"
+      ]
+    },
+    {
+      "name": "grass_bermuda_01_static",
+      "objects": [
+        "grass_bermuda_01_dead_a",
+        "grass_bermuda_01_dead_b",
+        "grass_bermuda_01_flattened_a",
+        "grass_bermuda_01_medium_a",
+        "grass_bermuda_01_medium_b",
+        "grass_bermuda_01_medium_c",
+        "grass_bermuda_01_medium_d",
+        "grass_bermuda_01_medium_e",
+        "grass_bermuda_01_medium_f",
+        "grass_bermuda_01_seedling_a",
+        "grass_bermuda_01_seedling_b",
+        "grass_bermuda_01_seedling_c",
+        "grass_bermuda_01_seedling_d",
+        "grass_bermuda_01_single_a",
+        "grass_bermuda_01_single_b",
+        "grass_bermuda_01_small_a",
+        "grass_bermuda_01_small_b",
+        "grass_bermuda_01_small_c",
+        "grass_bermuda_01_small_d",
+        "grass_bermuda_01_small_e",
+        "grass_bermuda_01_small_f"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "name": "grass_bermuda_01_alpha.png",
+      "path": "//textures\\grass_bermuda_01_alpha_2k.png"
+    },
+    {
+      "name": "grass_bermuda_01_diff.png",
+      "path": "//textures\\grass_bermuda_01_diff_2k.jpg"
+    },
+    {
+      "name": "grass_bermuda_01_nor_gl.png",
+      "path": "//textures\\grass_bermuda_01_nor_gl_2k.exr"
+    },
+    {
+      "name": "grass_bermuda_01_rough.png",
+      "path": "//textures\\grass_bermuda_01_rough_2k.exr"
+    }
+  ]
+}

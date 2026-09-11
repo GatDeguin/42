@@ -1,0 +1,3074 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R8.blend",
+  "source_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+  "reference": "D:\\2026\\42\\output\\Casa_de_Campo_99_R8_cesped_preview.blend",
+  "reference_sha256": "ff504115cb562a1031865cef8cd0e93f2ecf737b8a5d75571cb51170bef28452",
+  "source_unchanged": true,
+  "reference_unchanged": true,
+  "mode": "read-only CPU; no apply(), no save(), no render, no GPU",
+  "max_threads": 4,
+  "grass_objects": 73,
+  "vertices": 1588465,
+  "triangles": 1567231,
+  "component_differences": [],
+  "anchors_checked": 121647,
+  "root_errors": [],
+  "resource_errors": [],
+  "scenes": {
+    "CASA DE CAMPO | Atardecer": {
+      "grass_present": 73,
+      "ground_present": true,
+      "marked": true,
+      "atlas": {
+        "lot_color.jpg": {
+          "sha256": "6431860aaf9eb872afc3819af70a384f1e9ecf79279e4fc5cd1a860bc17dd3e1",
+          "bytes": 13574616,
+          "resolution": [
+            4096,
+            4096
+          ],
+          "metres_per_texel": [
+            0.00537109375,
+            0.0048828125
+          ]
+        },
+        "lot_normal.png": {
+          "sha256": "f8e3fe87c021686382d70e3b6950709d57591c2b2601b45614df14a02c566926",
+          "bytes": 10195429,
+          "resolution": [
+            2048,
+            2048
+          ],
+          "metres_per_texel": [
+            0.0107421875,
+            0.009765625
+          ]
+        },
+        "lot_rough.png": {
+          "sha256": "da46d274a6bf2017aaf2ea775343d22e8b516f53936e3dc7845f3eabb607f8d2",
+          "bytes": 4585387,
+          "resolution": [
+            2048,
+            2048
+          ],
+          "metres_per_texel": [
+            0.0107421875,
+            0.009765625
+          ]
+        },
+        "bermuda_source_normal_2k.png": {
+          "sha256": "abfa1f185bcd74b690024847aa0d49e5c88ae6e30be6aeb17102ce7734ca312e",
+          "bytes": 5642120,
+          "quantization_max": 0.00196078431372549
+        },
+        "bermuda_source_rough_2k.png": {
+          "sha256": "dd5be9b36f4ac7f7fe9c0c32da5ce85d455aadd661176289155bb35364e92d65",
+          "bytes": 1413169,
+          "quantization_max": 0.00196078431372549
+        }
+      }
+    },
+    "CASA DE CAMPO | DÍA": {
+      "grass_present": 73,
+      "ground_present": true,
+      "marked": true,
+      "atlas": {
+        "lot_color.jpg": {
+          "sha256": "6431860aaf9eb872afc3819af70a384f1e9ecf79279e4fc5cd1a860bc17dd3e1",
+          "bytes": 13574616,
+          "resolution": [
+            4096,
+            4096
+          ],
+          "metres_per_texel": [
+            0.00537109375,
+            0.0048828125
+          ]
+        },
+        "lot_normal.png": {
+          "sha256": "f8e3fe87c021686382d70e3b6950709d57591c2b2601b45614df14a02c566926",
+          "bytes": 10195429,
+          "resolution": [
+            2048,
+            2048
+          ],
+          "metres_per_texel": [
+            0.0107421875,
+            0.009765625
+          ]
+        },
+        "lot_rough.png": {
+          "sha256": "da46d274a6bf2017aaf2ea775343d22e8b516f53936e3dc7845f3eabb607f8d2",
+          "bytes": 4585387,
+          "resolution": [
+            2048,
+            2048
+          ],
+          "metres_per_texel": [
+            0.0107421875,
+            0.009765625
+          ]
+        },
+        "bermuda_source_normal_2k.png": {
+          "sha256": "abfa1f185bcd74b690024847aa0d49e5c88ae6e30be6aeb17102ce7734ca312e",
+          "bytes": 5642120,
+          "quantization_max": 0.00196078431372549
+        },
+        "bermuda_source_rough_2k.png": {
+          "sha256": "dd5be9b36f4ac7f7fe9c0c32da5ce85d455aadd661176289155bb35364e92d65",
+          "bytes": 1413169,
+          "quantization_max": 0.00196078431372549
+        }
+      }
+    },
+    "CASA DE CAMPO | NOCHE": {
+      "grass_present": 73,
+      "ground_present": true,
+      "marked": true,
+      "atlas": {
+        "lot_color.jpg": {
+          "sha256": "6431860aaf9eb872afc3819af70a384f1e9ecf79279e4fc5cd1a860bc17dd3e1",
+          "bytes": 13574616,
+          "resolution": [
+            4096,
+            4096
+          ],
+          "metres_per_texel": [
+            0.00537109375,
+            0.0048828125
+          ]
+        },
+        "lot_normal.png": {
+          "sha256": "f8e3fe87c021686382d70e3b6950709d57591c2b2601b45614df14a02c566926",
+          "bytes": 10195429,
+          "resolution": [
+            2048,
+            2048
+          ],
+          "metres_per_texel": [
+            0.0107421875,
+            0.009765625
+          ]
+        },
+        "lot_rough.png": {
+          "sha256": "da46d274a6bf2017aaf2ea775343d22e8b516f53936e3dc7845f3eabb607f8d2",
+          "bytes": 4585387,
+          "resolution": [
+            2048,
+            2048
+          ],
+          "metres_per_texel": [
+            0.0107421875,
+            0.009765625
+          ]
+        },
+        "bermuda_source_normal_2k.png": {
+          "sha256": "abfa1f185bcd74b690024847aa0d49e5c88ae6e30be6aeb17102ce7734ca312e",
+          "bytes": 5642120,
+          "quantization_max": 0.00196078431372549
+        },
+        "bermuda_source_rough_2k.png": {
+          "sha256": "dd5be9b36f4ac7f7fe9c0c32da5ce85d455aadd661176289155bb35364e92d65",
+          "bytes": 1413169,
+          "quantization_max": 0.00196078431372549
+        }
+      }
+    },
+    "INSPECCIÓN | Planta alta": {
+      "grass_present": 73,
+      "ground_present": true,
+      "marked": true,
+      "atlas": {
+        "lot_color.jpg": {
+          "sha256": "6431860aaf9eb872afc3819af70a384f1e9ecf79279e4fc5cd1a860bc17dd3e1",
+          "bytes": 13574616,
+          "resolution": [
+            4096,
+            4096
+          ],
+          "metres_per_texel": [
+            0.00537109375,
+            0.0048828125
+          ]
+        },
+        "lot_normal.png": {
+          "sha256": "f8e3fe87c021686382d70e3b6950709d57591c2b2601b45614df14a02c566926",
+          "bytes": 10195429,
+          "resolution": [
+            2048,
+            2048
+          ],
+          "metres_per_texel": [
+            0.0107421875,
+            0.009765625
+          ]
+        },
+        "lot_rough.png": {
+          "sha256": "da46d274a6bf2017aaf2ea775343d22e8b516f53936e3dc7845f3eabb607f8d2",
+          "bytes": 4585387,
+          "resolution": [
+            2048,
+            2048
+          ],
+          "metres_per_texel": [
+            0.0107421875,
+            0.009765625
+          ]
+        },
+        "bermuda_source_normal_2k.png": {
+          "sha256": "abfa1f185bcd74b690024847aa0d49e5c88ae6e30be6aeb17102ce7734ca312e",
+          "bytes": 5642120,
+          "quantization_max": 0.00196078431372549
+        },
+        "bermuda_source_rough_2k.png": {
+          "sha256": "dd5be9b36f4ac7f7fe9c0c32da5ce85d455aadd661176289155bb35364e92d65",
+          "bytes": 1413169,
+          "quantization_max": 0.00196078431372549
+        }
+      }
+    }
+  },
+  "material_names": [
+    "GRASS8 | Bermuda CC0 alpha mask",
+    "GRASS8 | Lote césped y tierra CC0"
+  ],
+  "ground": {
+    "name": "Césped del lote",
+    "vertices": 16,
+    "polygons": 8,
+    "triangles": 8,
+    "positions_sha": "deb31a1a44b215852f4cae6b9743eaaafdb73221a537735d586f177774a41b85",
+    "indices_sha": "1688e87542b2eb82101cd49720236b5bcfe65fde1eddf4c9a550c476daa76724",
+    "polygon_counts_sha": "fd274f3642db122d9927ae55e2fd19df565c1f582398d1a7c597b1484f7e9781",
+    "smooth_sha": "04abc8821a06e5a30937967d11ad10221cb5ac3b5273e434f1284ee87129a061",
+    "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+    "uv": [
+      {
+        "name": "UVMap",
+        "sha": "0aa846d4d585b89fd19839fff551b508a6677f56e92c499de8e74ca507ff508c",
+        "active_render": true,
+        "finite": true
+      }
+    ],
+    "material_names": [
+      "GRASS8 | Lote césped y tierra CC0"
+    ],
+    "hide_render": false,
+    "anchor_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "export_preserve": false,
+    "colors": []
+  },
+  "seconds": 24.079315900802612,
+  "details": {
+    "grass": {
+      "Césped botánico 00-00": {
+        "name": "Césped botánico 00-00",
+        "vertices": 21795,
+        "polygons": 12705,
+        "triangles": 21553,
+        "positions_sha": "e16937be374df52efa53afb76262b8208e6b3e2167622cdc950d59d3fa80779e",
+        "indices_sha": "890c755bbd148b767c236fe7f0e224f6dcaf5f2b31ce7248b71603f4a47711b8",
+        "polygon_counts_sha": "fbcdf12a885425d91b2d1ff309c0c5fce841fc089848b69dad7969cf71df8218",
+        "smooth_sha": "15c994e826bf6c11978e61b929de3b327dde25bdfde8a8abd81690c81f34e298",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "f7ea7a3bba84895ce52fc1ca5d24b3c10ce00febaa89ad96f29ac3dce30871b8",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "db98aed071a2effddc4af0a13f399145fe660022ec2fe15fe4c5c799a7d36f77",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 00-01": {
+        "name": "Césped botánico 00-01",
+        "vertices": 22540,
+        "polygons": 13046,
+        "triangles": 22100,
+        "positions_sha": "1f50a261a4196ed1416a8c89041625bbd10ef977bf0484429d6d7bd0aadcf700",
+        "indices_sha": "a39633bde841b387535ef3b8cad3039ad0fce89bf8ba5e561e401c553ca9972e",
+        "polygon_counts_sha": "f676c4c106356b20ba1a13e94f47ed8c4a3321f6f979443b8f89154b9eee1709",
+        "smooth_sha": "cef18b098df15a4b1d4d94d991533ed2f95eea79fa0af1e41bf99c76eec59bc6",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "256978f2cd8ea8625f73f0f29748b54c42b92cd4aa566228a9331bde23b1499c",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "6460c14aebdd7b602784755aa4f91aff2f172effa1da9485dd33d7276ea6b654",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 00-02": {
+        "name": "Césped botánico 00-02",
+        "vertices": 20430,
+        "polygons": 11852,
+        "triangles": 20105,
+        "positions_sha": "3ef76f9a685418173b9655fa481ea65f896b793ccbb16116ae321b03c28a56bf",
+        "indices_sha": "75e567631d18c7ce92de45dec49c9d4427edf8d0c93537117560944158d05147",
+        "polygon_counts_sha": "6fd51828b3588e67663b9c4e1c388c68b14833ea95585f67668a094bfa98d836",
+        "smooth_sha": "01f7599765f579fd992b056df59cc835b992b66da88442118f988eb47a90fa6a",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "f956a0b19f358cd5b623a4b85698523c1c0896282c1a10dc091338ed7edfffa0",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "568c703f6d042ff1fd1622d79491e398678a28bad9d81ab0d38993e6f352e9d8",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 00-03": {
+        "name": "Césped botánico 00-03",
+        "vertices": 20763,
+        "polygons": 12041,
+        "triangles": 20415,
+        "positions_sha": "18fa5e3df46261ba57688c79ad38f5461096c73ce03bd08088e98ad3d22d8eec",
+        "indices_sha": "ee87db26179af66485d8311a9fd2544a5bcada33481fe8baa33bae280002ca6b",
+        "polygon_counts_sha": "0c2f9e0c2d8f1380880be77c9ec97dcc5a0092f6e129db4c9cea25f3f766f732",
+        "smooth_sha": "4bae5707fc7fc720fb3c927800ec0c364bcd80cbade7cced21486e60f9b62585",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "f0483bb65792de6567f7ec46e2e3fe3171b68d9a8f708f3bd9618c9dbc107927",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "c4dad9c6ed509946e889c5f5ef6a67a20e4d18096516394bd783b5737984c268",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 00-04": {
+        "name": "Césped botánico 00-04",
+        "vertices": 24374,
+        "polygons": 14227,
+        "triangles": 24108,
+        "positions_sha": "36d64082fdd62258a3f47a531472006e203c985c89e9b2adfa9c8a582bc8eb21",
+        "indices_sha": "aa145d729866de21106b3d39571e5e93ecf375d3df521db939fac3146b713e3d",
+        "polygon_counts_sha": "6b1f3366218714ee8a1ba639c11521655c03eaeb0729df263ac9cf9c7c01274a",
+        "smooth_sha": "1d27f29288bfe7e132bd608ecdbced0ebee1bbdc09bbc96d14079144b8ac79f7",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "bf6698b19f2c73d4294df40f4e9ff35dd6afb3b522787d6b3d051e60e2795c34",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "8b6ae33041f95a96d76a69a37a92cc42330459349aab0fef299b612a0c1ab2dd",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 00-05": {
+        "name": "Césped botánico 00-05",
+        "vertices": 21412,
+        "polygons": 12458,
+        "triangles": 21103,
+        "positions_sha": "31aabb4b373ce0aa1b98826ab66019c129138fc829d931ed06ae1f4f5fc90eb6",
+        "indices_sha": "02dc8750bcc67ba67c9612b15a6d772323e9430574e5516dc32c786baedc9a48",
+        "polygon_counts_sha": "113984a6cca7431ddecc13e01b1bcd0f456903b7deb308f75ad2b846f239f3a7",
+        "smooth_sha": "cf933e0cc64c1cd1a1371a06e7a53b6d6256891b23bc06eb152ce35f9fd9acae",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "6e4d6d52c7137700e32f753627581e3ccc8e99e181c130fc846faf0487ec3243",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "950648328d0e9b82fbe3683cbefc2f6a907c5f2d0ed46821e377a4ee27fc5fa4",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 00-06": {
+        "name": "Césped botánico 00-06",
+        "vertices": 23242,
+        "polygons": 13450,
+        "triangles": 22838,
+        "positions_sha": "3de8eb8407646c38b07b726f03e1b503036792da44cccd0f4857b95212f9e938",
+        "indices_sha": "724e025855b472cfa2e162d2270e5cd1aec1be7139c588b95bf0cae2d954bba5",
+        "polygon_counts_sha": "9d14a9ad6d670240f8d3cd853894001dfb69f1bfae8ecc6d0768640f2f608830",
+        "smooth_sha": "547c495dc8016ec08b6deb908d60e2a29ff5f3951dd7c6a4e18632de0ae81e33",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "92ee616d6ebbb12c9402674dddb64309cf44d9666436db34ec0bf59e61bde86e",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "bfc254dbc87c1aa8874c0c8a4b2211f80cca3fa4c9115c3ba948655dc7e5e153",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 00-07": {
+        "name": "Césped botánico 00-07",
+        "vertices": 24507,
+        "polygons": 14313,
+        "triangles": 24241,
+        "positions_sha": "16f1dadac1b2d9bacb1c5b4c89139aaf00a41f0e7e3d06803c930a19f37bb1f6",
+        "indices_sha": "261446836ff81f16c4949375d2917b6525f82a3bb81aade9f724f8e2de283ad5",
+        "polygon_counts_sha": "82d6c570b2545154605233893d820f3c22191cf2bd38793fdfda71a1bc0a9c37",
+        "smooth_sha": "b366f4e7642f569ba7769ab108e7824b3f898c7c9d6b4880987aa4a73a1d31ea",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "3fb63391f55e90e47746e547b873cd4f5412c4d7fc22ad8c26639840c030e22b",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "aad5e4632a4714e0bdbd123118518a8fee38cb32041d9551c1ad1c31d824a18e",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 00-08": {
+        "name": "Césped botánico 00-08",
+        "vertices": 20882,
+        "polygons": 12215,
+        "triangles": 20673,
+        "positions_sha": "90b65f4d003ccd2db931514e3a84dc1733521b5756cb573400ab89f1a3da7a15",
+        "indices_sha": "09fb4c034d93e338ff0bfc08a9fc56110f970a203a4714d03e9ef2ab59ae5c1f",
+        "polygon_counts_sha": "bfcbd81d9ad008570180fd7fa511e99a07d47c412a1807a52b612c75fed06867",
+        "smooth_sha": "579f9b60d22217b4439fbc69942dd1ab0e0423d54a9464c17e5250619838531e",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "bab3be2860ed9568db8104b8452af37c293af73c8fa04ec0de80c4d3a4147c51",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "4e93f28ffc1334a308d1bc65e36331b5e1bcdd1367ad670dce5583a66aff0006",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 00-09": {
+        "name": "Césped botánico 00-09",
+        "vertices": 20851,
+        "polygons": 12074,
+        "triangles": 20476,
+        "positions_sha": "58474e97a4b731861c5aa317ffa18a71ad3de383dd115673078ca186580c5b4b",
+        "indices_sha": "fd5f57e423904dd997c876043656f5416cb0eb60378475459890eb31b67a5f71",
+        "polygon_counts_sha": "1bed2ff13bddcc37b7c5357c557120e7821f7e5fd415ac3fd2cb36f329df8d6f",
+        "smooth_sha": "b469594fcc6622cd63b735ded2cefaaba42ad0bab1699f3d6bbcf51f963ae899",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "334031ad9cb625857682d8c673fdc99e45379a711973937bf771407617e6c374",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "db7dec4551e1561a3cf30148a7211d5bf598cde5437bf8f2c117e7a934510a8b",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 01-00": {
+        "name": "Césped botánico 01-00",
+        "vertices": 23796,
+        "polygons": 13790,
+        "triangles": 23366,
+        "positions_sha": "5be32a12f586e8aa0d3d5e04dee1a75e08bbd9ad1cbe42332b1c6e65373290de",
+        "indices_sha": "936c2674b2bcf95d67fe3e3f38847f0b67395e9c65cf84acd71599211d0220d2",
+        "polygon_counts_sha": "419b038c1f3df3cd191de685d33fe053a6e692e7b34bb51d20af7d1d99547742",
+        "smooth_sha": "6dff4269f0619948eb11601ffb2fac9b0c8db40d381031b05e7d949dcec20fc7",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "c4b0e023a85b89948a790300e73db0ad7dc7a1ff4d7c8231d309a22ea9a91c47",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "4a70bf4abc8b9fcd6d91a9a1d9549882f099533b241425805d5f96d8c9c4aef8",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 01-01": {
+        "name": "Césped botánico 01-01",
+        "vertices": 19598,
+        "polygons": 11459,
+        "triangles": 19392,
+        "positions_sha": "28f7c77b0e8c2e627bbb117dc6e5a66a9b8234501b384da462bd6f1c5f222d71",
+        "indices_sha": "1437d996907a7593c8a3b44dfbbdc3e4065e2c182dad7f21b795f888e30bc81f",
+        "polygon_counts_sha": "f0f55a858701c85c2ea4cf685332daa20bb77b65bf61cf300000a32ff9c29923",
+        "smooth_sha": "fe2208706142ac86f614c2bb4c0df7e44cc134542ffaebadca1c1afd865e04b8",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "9a088e79b292d4a3cb20885eaeeae592f05622bfa41ee4f0d9d200f2d2347069",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "0853706d6c8f97b4171135134d1d795152623a0060bb22b754cf24b30b5dd82f",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 01-04": {
+        "name": "Césped botánico 01-04",
+        "vertices": 26076,
+        "polygons": 15184,
+        "triangles": 25667,
+        "positions_sha": "683502161c8951cc2df42111c7a2806856a2ce7c8e77dd744e8cf7082c0c5e9b",
+        "indices_sha": "4bf876fe457a25470da55d0f304c275e5eac78555ec0bba17967db5ffb117cb8",
+        "polygon_counts_sha": "3c12e88bfd7a889334b5cff14e3f2609c61700d94794bdbfbe47347de5a588db",
+        "smooth_sha": "1ddf63251f09cb1f4ed4e04aa5e0c09cb3fedcb5137269c3910d9dcc1eec7f56",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "32f4873dadf13e97409c82c93af754a888c1c5e65bc5dcf19e973ab657be0456",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "5d8bf741ff074feb0c6049c2e1186c3be5c5b73721ef661ca6de0c48898f37ad",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 01-05": {
+        "name": "Césped botánico 01-05",
+        "vertices": 24414,
+        "polygons": 14178,
+        "triangles": 24048,
+        "positions_sha": "c8b06aeb96c7d570b0536709bd1e2a65cdc9aacad99603d32e8a88635be71eaf",
+        "indices_sha": "549795fd24aae6556791f708d62b394a3d0ac28e6082952c875c80229df86810",
+        "polygon_counts_sha": "e7ab45a1b9b0d9f5896cd12af5e18043e91291af0b8646674bf62df6616d77f0",
+        "smooth_sha": "42956acfd58f5bc8a208afe719df4c378ac06ed7e8e01e86fcd3c8499847bc37",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "81aed75930fecea8382b99f4464928579da6da82cd4ca84fbba4a5d337639a8d",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "aac64d820e79bb3dfbe248e0a80998a6c106065943f5b5bea3966f7df44597ae",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 01-06": {
+        "name": "Césped botánico 01-06",
+        "vertices": 26730,
+        "polygons": 15574,
+        "triangles": 26402,
+        "positions_sha": "6a2d0c8cd45de5388ddf261bdc21148fa5e6ff680abb8f05e277d302e731896f",
+        "indices_sha": "3ab155e61955037072f068ee63d97bd90a1cce12678ffe9d4538e448edf16d87",
+        "polygon_counts_sha": "c114b801a1ba289fbbec6f268a831b3c75215779c5aa23834fa8e2e2da610e6f",
+        "smooth_sha": "3c6a62d205e66ede457b642fc0f9844d3f800aa34edf0b4822ebefc2e1d440c6",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "d8f6506d2e6aa1168901a4ff426ee48e0a8df2ddcb845ea9b97e0ed5dac55796",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "50b2d50eaadf4b5036d93ba44886ec551cdee6b3890148d7cc7a8c2cf23a2e0c",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 01-07": {
+        "name": "Césped botánico 01-07",
+        "vertices": 26591,
+        "polygons": 15375,
+        "triangles": 26098,
+        "positions_sha": "b7ec760493c1d31d28745836d9f31fd5d0cf9b3812a860f76d0e39a8d247ec06",
+        "indices_sha": "54c2e62b954fe64da12fa652ba232cb5386adb5bce088bad2441a58a4c700bae",
+        "polygon_counts_sha": "2eab58473e575982f51d2cc0eb92668d4fbe67ffa8aa11223e739c436ba26938",
+        "smooth_sha": "6cb43548da075a6fe5db0263e3eedb84d26ad08607e03c0aab08f21a4fccf0e7",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "488a163cfb5c636d4e294230f9f30de6fef4e5f9369a8f59eacde9098b7b1776",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "80e518a97d67a885c5387d2ece517edcf38a93db6351402a8ea49facb1910cea",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 01-08": {
+        "name": "Césped botánico 01-08",
+        "vertices": 23718,
+        "polygons": 13782,
+        "triangles": 23362,
+        "positions_sha": "192e83ed1e81b1437e9fd2f5f1427368c4bcacc4ecec059fc62d5bf6ca468bad",
+        "indices_sha": "cbdfb8ff41d7faf7aedbbb71c02a2b6d648b06c8d2889367fab1f501ac29f106",
+        "polygon_counts_sha": "667e2f99fe641df3ed7776b79656ec1bc55dfbe172bb25a882105972820667ef",
+        "smooth_sha": "54c0d1b608507f3e23c2ef8b8bcaa918c565237c120846f7f978bb4754bb29dd",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "92d2625120bc894859ac809717a3d3fe4ab0b59655bc1fb786ef3232fcc7e297",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "f371b8595d26b7e8f1a0d00c7c71993c5cb8a477359dd97cbb04b4ab7bcab3f0",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 01-09": {
+        "name": "Césped botánico 01-09",
+        "vertices": 23782,
+        "polygons": 13815,
+        "triangles": 23438,
+        "positions_sha": "a17794960047ae8492b2b8cbceb5b7684dddfdfa9268362912fbe2be94c1e479",
+        "indices_sha": "3bccf37030753889fbcccefedfbb460fe0669c8fe29c82de2da1a39a4b12066b",
+        "polygon_counts_sha": "a66598b8366d262eb358b665424a9f82c53e87863eff28364358fdfd7c002ce1",
+        "smooth_sha": "a35f5a0b22254a60db86ec778a7bc1cdbde780a7636990e0161bfab1edcc361f",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "d2e59f5a36844443d6739f52b2b9e692103b3e7655d7cf21f354846918de22d0",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "4279b519148eef2db7036154c62166863314df7d88739e686e55933000fc5b7d",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 02-00": {
+        "name": "Césped botánico 02-00",
+        "vertices": 24531,
+        "polygons": 14355,
+        "triangles": 24324,
+        "positions_sha": "409d50ceb848cc1d16d3c3ec9cb2af23a9e4a1da70ec0c56baae0af060268c4b",
+        "indices_sha": "f9f61d7d847b82cd281a7df068567079c940919d90706edd5e06e1d5c47a4d26",
+        "polygon_counts_sha": "73817f14bd31f56578e2101e40a6f1a4828ed073cc8c7d67cca9189a45b6e001",
+        "smooth_sha": "2b7ae398d8248a9893ae7369eb3a94170000383e32305ef318ae3b1813f611a0",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "bda16e802a6710e8bbf32aa8a1ee9cedb0971b6aafdf13f54475d9c67bf84d1b",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "75089cb4f6090edef8f76582a6291e29eae54826307badeb954c44080a5be1f5",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 02-01": {
+        "name": "Césped botánico 02-01",
+        "vertices": 19429,
+        "polygons": 11292,
+        "triangles": 19162,
+        "positions_sha": "509261be2fc235d81a8290706743dbab6ae4edcfb7b94f8b1907ce568f7e32a8",
+        "indices_sha": "8242da7c29b7cc683485b8a768e8c991a6bba4ecaea86fa70382318f8b555a63",
+        "polygon_counts_sha": "a94ef51bc5946798b899ed6640b81622ebbc49037c1996afc338564d1a164497",
+        "smooth_sha": "4393eee3b9ec22288e86ba5f714dc0853b0f220be574c3e7f299adc1ef48ab9a",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "b266652375d36ee0c1fb812212c4a53f18d0dcb0fc8c10dfafbb3155e13e2547",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "b77cf97bf57bc94bd55038aad800051536ebd67591dccae8359a94027923eb4f",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 02-04": {
+        "name": "Césped botánico 02-04",
+        "vertices": 26683,
+        "polygons": 15585,
+        "triangles": 26374,
+        "positions_sha": "fd178c4642a1c072d663f803c9270226e18f24776dc5df243affa1f8bfa54b45",
+        "indices_sha": "153e2fa8ef8a67a28e9aeca9c769c5ba087f861f74ae952d61511852c9a810b0",
+        "polygon_counts_sha": "5ba45d7debdb44b1edfb511df04b8d5830635318566352679d3afe8e0634cb51",
+        "smooth_sha": "d0dfcd53ea5c9940d3a51603d3e8f88e8fae4bb1b4a88c92d933432a76e72210",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "909fb293dcc6b83da658cc650595063f2c102516a4d3ad31007a44072317c95c",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "38a9f95093f9c42b16fc632a313ef766725881e3e264491bbc030e0402ea4505",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 02-05": {
+        "name": "Césped botánico 02-05",
+        "vertices": 27032,
+        "polygons": 15751,
+        "triangles": 26675,
+        "positions_sha": "62d28c482cfb3ef144b476a7c6a1706c6cf8bda3f48612dda6230f38b5c0743e",
+        "indices_sha": "0978a8d3c2e0df81a9c0b416fa1411b4050f00cc65c9287fe7a6b6ef2bb5b444",
+        "polygon_counts_sha": "f4004ae8654ab491a0b836643f46c003f37f3fdfab75f5eec09f69a0308b17ac",
+        "smooth_sha": "fe536c6dfad43848cf3bb62e71bdf126c3641a1e45a835f34dca285345ca5174",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "0237db49346e9a7139dbde1f34f59ec565ca2c15e1a54611628d7836e8fb7434",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "0fe312cd2203cbe2b16dcf900e35a91a661a6d626d3128ca3f8d5661529c9af9",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 02-06": {
+        "name": "Césped botánico 02-06",
+        "vertices": 27115,
+        "polygons": 15782,
+        "triangles": 26732,
+        "positions_sha": "64554d19970a83f4adebaae402c3c0f8931064a459c206cbb6ed95b34e4f4557",
+        "indices_sha": "b19ca595fa8099f3aa3cc2d0731a047cdc120fa2b7bdfe32f5507766a453c4da",
+        "polygon_counts_sha": "967cf023a1a8295187fb90489e98db88a7cef1bb8ebac107b5b38f5e164e78f8",
+        "smooth_sha": "d2e095c76663d259512808f7627728a052c0a2d7a7ab667d2206ef34947db2b0",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "ad1752cd3e95da403dee6e3a3083c0dc32abbe78c440c4caa62fd4d9780a7c87",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "6008940d998d78c31b627ae715b59806528d692fcef2b13cf58e1bd6ecab55aa",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 02-07": {
+        "name": "Césped botánico 02-07",
+        "vertices": 26693,
+        "polygons": 15476,
+        "triangles": 26230,
+        "positions_sha": "67ca457ef49beb60254af19a7a9550e06a4efb5377736b7bbac9d11339c833eb",
+        "indices_sha": "606c87bd965bc11027daa58e2ac101a0bc384c4d6e9eec4f548a9d5ab4e9403e",
+        "polygon_counts_sha": "b182a515c6154da85cd9e3007d4f6c7eb3d0c3f4a84776e6c02aa3b1ea273c07",
+        "smooth_sha": "b6c9c32bace5ca212cae7d495943b1279df593c188742c28b6268014c7df586c",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "73a5240e5f0fbb1bea29d5b962e7152ef02993ff8cf5696fc62b5229d770748e",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "098157503be073498ffc5a975fdccccd194eab75568788d7c0e4df3724963050",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 02-08": {
+        "name": "Césped botánico 02-08",
+        "vertices": 23581,
+        "polygons": 13918,
+        "triangles": 23525,
+        "positions_sha": "27afda3d3ca9bfbe5d3c47de26b7f615cf02fb416e93d5f137ad501070966ce6",
+        "indices_sha": "b862e913f5e47e9d23980acc745bb47b959bfb1338dc45164a571b1942a35a21",
+        "polygon_counts_sha": "13ed6acae5f442504b9784cad21708b17df025e0676766832b3b34ba43183d96",
+        "smooth_sha": "a489c13d4e726f8278bdb7148b96cad57fd7498ad901d1cdb86c6cae7b0f74b2",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "4e75f85310a805f6da03bc0ae75ca49c65c291c82f2ca664a51f53e5df893940",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "446f7f077e4d40e142f74aad59afdffadd1fc1309b54666c2bf9c75bee42bb60",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 02-09": {
+        "name": "Césped botánico 02-09",
+        "vertices": 24698,
+        "polygons": 14500,
+        "triangles": 24556,
+        "positions_sha": "28a46db16f1d6558fad0be81cd6d6ac5f1d95a8dcac12bfb8da1cb7937a22e9a",
+        "indices_sha": "43885d208ad23790656738d1f1dffb917b7bed5b171576f896d37f3aa42a939e",
+        "polygon_counts_sha": "4da3ebe402a47f7161fc92b91bce99061c92621bef6f4572e3a6425ee0c51305",
+        "smooth_sha": "958ed4d4fdfe1d9cce00e442c1ee8714809434462111e540cbcd84cc504827e6",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "66571fa4a9173057b10ae55acb554f0f2ac366228664f4ed85f3087c5123d19a",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "154c6f977cd6b8d285ebcb70b3ce39cb1a23e01351d7b1719d5c906bf20e0c14",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 03-00": {
+        "name": "Césped botánico 03-00",
+        "vertices": 24085,
+        "polygons": 14095,
+        "triangles": 23857,
+        "positions_sha": "da1fbbc4555c516da39c17d111e0e9d6ffc939a7f720e527723fff57f39dd234",
+        "indices_sha": "e65ec1b22337b013b9b43b66c294724db7e387da272133729dbf4cadb2fc3d32",
+        "polygon_counts_sha": "58e74917cbea5fb650c117d256020126a88e183f54c951918929ac565466195f",
+        "smooth_sha": "74fb990a8a268eb5c632b4cfc3a7b7e37a90de4d30d1aa181c9d14431796c7f7",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "bbbac87e642e248fd949804e7d7a75bc73f76e1ace19c4d533aff7b127f984bc",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "ec8a5c42cb68bcc99580cc0e4b5e7921eccc0ec9b0a0947c8be7eb94723d018f",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 03-01": {
+        "name": "Césped botánico 03-01",
+        "vertices": 19508,
+        "polygons": 11365,
+        "triangles": 19259,
+        "positions_sha": "7b5b70cd59582c0396784fa8363064befca49dfa8412d1762fb4f02260efeb24",
+        "indices_sha": "4e2b0f3a6c5ec64919fadaaa86a77be6bbaeffe7929e680d3fa96a3936525200",
+        "polygon_counts_sha": "12b33d7adc65f9829e99c26b7ebba4da4f9b4a5a2bf187956a3d9ad888124539",
+        "smooth_sha": "90d0e22411dd5fdae03339e8b01434f28e57431504620db2cb0f0d2ea45c402d",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "a2394b4ef789891defe12c02ca69b749994011c6860a1d3c40ed82d988885417",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "c7705c4fb9ed6fe7d4c678f562ede2f247244ab62f74e85764c3f5e050899d4e",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 03-04": {
+        "name": "Césped botánico 03-04",
+        "vertices": 26137,
+        "polygons": 15202,
+        "triangles": 25741,
+        "positions_sha": "c8d0f290d4710e85956ea80d8d4b4a8b47b2696b3b86d821a31f3338e8c93a7d",
+        "indices_sha": "0e85d43b0109d2ba3daeb6e3d441fa3987dc04e30e90b85e63d05efdfe87c520",
+        "polygon_counts_sha": "e7bd40f124077f9f241216a2fd816baf30a77f1d3cbef682fa39e0f5554f28af",
+        "smooth_sha": "baead1a7267238cc1f3e4af7c167c2cc967f11b683dbaf147066a2f3ce5adefc",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "bd58213685aed260caecf55774f2dbb6eadc672deac2e14dad1d40c9fea41af8",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "6bb5353e1597f6acb31751dba96519ebd37c15c90efd0b17a3df6bd983878f09",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 03-05": {
+        "name": "Césped botánico 03-05",
+        "vertices": 26952,
+        "polygons": 15699,
+        "triangles": 26570,
+        "positions_sha": "dd4504beaa86232e454a1b70cfeed3cf48ed0b339fc3389e3e9c7a30fad6da85",
+        "indices_sha": "67e703d2b64e91580b1b88343b42ab88e21c8539665ce544f3ec4af30759fad8",
+        "polygon_counts_sha": "cfb021da258035975227d0e4c72a3a016df241cd3beb5e65a09c0a3bd711d14e",
+        "smooth_sha": "15402e5c432e9eda63c5a5dcc18d2eb58f17d6df0ab0468a01e0f12dc9f8b991",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "61117049cbc4127a91023e8d20913d6259eda2594330bf981caea3fbc41e2bea",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "257ae9a9ff74a1b3515506518432cde3ac336c33247850a6aa4e915fe1dee369",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 03-06": {
+        "name": "Césped botánico 03-06",
+        "vertices": 25634,
+        "polygons": 14930,
+        "triangles": 25278,
+        "positions_sha": "b8682e2b81a7b3d77111bbdfcfbdd794697452c6f2ce9776132093c34b075132",
+        "indices_sha": "0cf011b9f9f523a85613c84fd4665f77cf6cc77b78effbc3d3b3f6f220315283",
+        "polygon_counts_sha": "69111c58f396367a980e2059b6a7576a0a496de3d54d1999bb269009b765b15d",
+        "smooth_sha": "e1238e69b5b6e9b922900f0f9cbd683d2810821f1ff63dd2abcc0526a90346c4",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "561bf0fb17f7e8b7c1e9f50139640e281c0aab827f2b35eb7a90d1d9fed0522f",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "873c332a440790cdb60dbfd1c69940e0345459eb92d99d8a77819b12611d62d9",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 03-07": {
+        "name": "Césped botánico 03-07",
+        "vertices": 27003,
+        "polygons": 15714,
+        "triangles": 26625,
+        "positions_sha": "c2914d113e76029053a52082f3940a19ae40cf7a5dcc69a42d845f67d1453e44",
+        "indices_sha": "76eea0b7cfe23583457eb7f61c6f5a8ba9d5c08650db265225379351dfa47d87",
+        "polygon_counts_sha": "b792cb5ea5b6a4a0b29257e0c57a3a79f8146aee24d2b135781951d3c9ec0656",
+        "smooth_sha": "733476c3813a0e80b77e37224932f7bbf7e1dd789125eaae54ed63d91d343d09",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "823e63b5993a7ce93a9901cae8baa8c6a2eb3b6b30621a3fbf2072490f215cf6",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "0fd0f43b28c54f89f38b5c20e41bd8fcfa3baf36fe606fe2015f7620fa564433",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 03-08": {
+        "name": "Césped botánico 03-08",
+        "vertices": 26921,
+        "polygons": 15587,
+        "triangles": 26488,
+        "positions_sha": "203dafdd1730d62c7ee057f9611d43854819f20f4f2d7c460af85020d8c81e6e",
+        "indices_sha": "8cdb59f2c6fd3428c051d8c51022cb18df912f8a6a3dcb3195d1c32f15e10ebb",
+        "polygon_counts_sha": "c182a17d3e2a545f24860d1ee6c482cfd3be15c908b8079c235010b8ddc40087",
+        "smooth_sha": "eaeb5ef2cd470cf4bb8b7470229c82b0d04b62cd196fbae649c43cc4a3ecd89a",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "0225f1a9be04e6d56ecf9cddd81e85d9dea4482846b1e153621c97fa78e71ac5",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "96715ee54c1797972d64e6bf555caecbc6f88da7118be937b86c742b58b16678",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 03-09": {
+        "name": "Césped botánico 03-09",
+        "vertices": 23905,
+        "polygons": 13908,
+        "triangles": 23577,
+        "positions_sha": "698a79f4bc68ea45201d5f1f2a4bcbd87acf1e63a3f2d148d988e89ab5a57929",
+        "indices_sha": "eff62029e08dc90d2f4114b310bbe2af3c72654634496a6744d1ed7134803126",
+        "polygon_counts_sha": "1c7736c4f21e1de6b2f8401bf3246eac2778dfe9f34e8f233edc0f85e52c9a44",
+        "smooth_sha": "ad2c66005d1a08215addfd787b2f654cb99f5a2d1ad40bc1d71dbc2fd830f601",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "c379fc7389676ef26b4fe2a1e1d702b5b592fe4f36fc6088fadcd6649f21c3a3",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "d459541663afa0f36aa8238b94a1a1c8159ecee6607d960fde3f5d523aa63396",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 04-00": {
+        "name": "Césped botánico 04-00",
+        "vertices": 24456,
+        "polygons": 14308,
+        "triangles": 24247,
+        "positions_sha": "9be194d6960a961aba63a9657e397bc4340e87f54239c22a03be7ad6bad0ccf5",
+        "indices_sha": "fbae0b448f22f778cc900686f1ce7edc657e09abb67972f626d53bd8e76d6821",
+        "polygon_counts_sha": "ca7991331bbb6d3ebce9c8111bab5fdd00df8254c64cf9063d4766ab2d8635d4",
+        "smooth_sha": "59ddb4b0b358f7820ab174f4ebcb2085323d7309e4b9e373870e72ad696b520f",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "5e524749fb7753c2e13c6d8c36998d726e1f2acb657b3bce6f568ab6604ded4e",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "0527cc9d47c2481a8e1078255587aac3927e14eb425ffbb1b0424242e987c3fe",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 04-01": {
+        "name": "Césped botánico 04-01",
+        "vertices": 24551,
+        "polygons": 14324,
+        "triangles": 24292,
+        "positions_sha": "504ef2102598136df3ef8530cdba7b105919edddeccc1075fb6400868b872b0d",
+        "indices_sha": "9c072c17e2fc19872c7bdc55ac039cb7f6599123e7cc6f47db2ef6e8aa4f40f9",
+        "polygon_counts_sha": "850586ced7af76d444d75104818cc01e25bd6dc02c36bd3bcadd2399d3a2b89d",
+        "smooth_sha": "8ff38f8542a407e00ba1d14bfbbc80fef87966cadaf83d5d368860f8903144af",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "44d27892168948e52d13e2fb6a89817236f7d0557ae75fbf939e19dab1746c38",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "35cd04bdb0317e64f90bfe7af0de66e2ea5bb71a5852b16a089743c793fc19d5",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 04-02": {
+        "name": "Césped botánico 04-02",
+        "vertices": 12028,
+        "polygons": 6955,
+        "triangles": 11788,
+        "positions_sha": "c91e2b1c61db84f7630cb0934cf6d06379783a8dc1baaeca02eb18f07019e3c5",
+        "indices_sha": "d970adf79d811cfa05ea5faede5eb9ed9247d7493e6c49df4238b0cc89013f76",
+        "polygon_counts_sha": "6ccb93d055f14cb0ccf11a0306ede0ddc3638d796eb0ef793cc33189c6ff1305",
+        "smooth_sha": "72aae67bf09a27e0549183b689b459d3e94e3c69b17b4f331c72dcb8326246f7",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "9b0011365197dd40b2540ba8fe309ae5df7eff241ecc19f2678e2666ef425d53",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "7a8f123e8bb11364d39e3b25d7e185be0ebde16aef292a1158af646ee3770a1e",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 04-03": {
+        "name": "Césped botánico 04-03",
+        "vertices": 16770,
+        "polygons": 9723,
+        "triangles": 16471,
+        "positions_sha": "0f87f0a016eb8a2854eb724e27b2c032b11393c360c30c2d88bcf3ffd79da5b1",
+        "indices_sha": "8878b431efd1434d7a921b02fcb72377572839e2dba7380c1b54f7dc5ca128d6",
+        "polygon_counts_sha": "69f5451203130e4038384e843af36e861ca341055bb967e682e579d6948a7e9d",
+        "smooth_sha": "f7769ecc81b77e99bb95d3f0552f9428704d1b08c049610713bfd93989bb39c2",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "ba5b798d7763c082853396d56e0f82141c198d875731e7f4f022e7e165d47733",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "ed631c77b7ec2a0f553ba0a1396ac92cdf2e315ab5abb5191010755df50ca5f1",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 04-04": {
+        "name": "Césped botánico 04-04",
+        "vertices": 27139,
+        "polygons": 15881,
+        "triangles": 26872,
+        "positions_sha": "a0d4d5b9eb259042689d04b4155a51cfa60af6dfed32eb2be173c53a7d86be55",
+        "indices_sha": "5caa69ed8ee802db8e0b551f5938afd73fcf601a55d1618fd9cb8dcd4665fda8",
+        "polygon_counts_sha": "dab50ce37f83e8d06b3f264abd61dd1c41561ff14598133173286f9ee34e98df",
+        "smooth_sha": "e3844d0043feb3b2e52b127288b346c3d754fc8bc7181cb505f2dd1edc98738f",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "3e348cbc612af04ae5d09f299e9aad8a0c554242a0b6849b591ca5baf514fc2f",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "9ad7c3a279b75ea0618e6840305cd94f635325ca4f584c6eb8b8c02e2ea3f8ac",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 04-05": {
+        "name": "Césped botánico 04-05",
+        "vertices": 26792,
+        "polygons": 15543,
+        "triangles": 26368,
+        "positions_sha": "253af9b0b75a7783578c1d6e12d7e9417e36b5ac3108877827383bf1232b25f7",
+        "indices_sha": "66fc72d01a70f35178ab2bcad5f612c86affbf20cdeb91c3543c9d211586e78f",
+        "polygon_counts_sha": "2b599d4015e13ad03641eec208297318b6d442a1fe2716a1258b22262a6bfe4c",
+        "smooth_sha": "3a42daacf73b3078fd10be67be0d279387801f3848cfcb289110e50ccf08406f",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "5c491c3d2b704e211e409d895a7e0a3910f8ee8901e504863a21b533041dc357",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "ced7b63f5125d9643696445245ec1b803783610b21dd2c1889022ba67ae38e51",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 04-06": {
+        "name": "Césped botánico 04-06",
+        "vertices": 23026,
+        "polygons": 13373,
+        "triangles": 22663,
+        "positions_sha": "19339a6169b9635ff8e1cbc776add1b1885aa4348ef10c3517f5de8185acde67",
+        "indices_sha": "4197ae4ca74fd1e2b1d0c0f7f91a229b53b149071318bd8c9229a5bfa53ad683",
+        "polygon_counts_sha": "9f6afe91d4fff49551f61a268415281be323cc8515f27d6fb1d79884daa04d22",
+        "smooth_sha": "c11ec84a4a809b8be3c6f5bc12aac751fa0c8305ba647035e559981ae6e53275",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "adf2e8f136b024628e8330d4bdfb885689afe7cc35e6833a1be65d45d3b39f6c",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "52fe702c9b8f4684f191b94f3bab32a8164b29a35ae6a3ba64376a3ce909fc63",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 04-07": {
+        "name": "Césped botánico 04-07",
+        "vertices": 26574,
+        "polygons": 15452,
+        "triangles": 26138,
+        "positions_sha": "b648aadb59a62066205dcf23ad944aecae25c7ba45dea30aca8b07aa517ccfd0",
+        "indices_sha": "eb466f728f030d51cb6cda2ab80feb638e12acf86a39782a8eda88a30d4b0609",
+        "polygon_counts_sha": "4935264e268477a15ecc50b1a5a8a3a18b3ecca81c9b1472f50973d31b1f4012",
+        "smooth_sha": "e7c89975d2c3fe0e94e10d5c0cc9d8778233eda7ab83726db3c39137d84c8f8b",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "3b9d899b3f8f7e9b24b14a10d4eaae25c20759f6e9a3fb939915cfd4892c3088",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "1f8058c868a8295f5b782cec272d7ba7f070309f7df3457b619822f117c36677",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 04-08": {
+        "name": "Césped botánico 04-08",
+        "vertices": 24807,
+        "polygons": 14484,
+        "triangles": 24511,
+        "positions_sha": "db0b96c0d8ef89de7341a295e4bf1c4f74688ed4ea2a5b99a2c47e2f3f91d17c",
+        "indices_sha": "7a65de91347f86693141c50c34031b009ea5eb94da35da6c6fffc76f0081fa5d",
+        "polygon_counts_sha": "86ce2f873132643bc7fdef087603a80146c9a586dc3038322e044d180ab17211",
+        "smooth_sha": "0408da26d9fbe9466f638937457ca6df20528942d1d6cdab6d8c69abefb5b507",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "a316b942fa405997072c782c5d15fc3591ebda0ae09a9c198fc82fc781837556",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "2328db9c908927fb1581f5fdd5b5d406157c4ecbfc70d6fe7ec105866c2e0470",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 04-09": {
+        "name": "Césped botánico 04-09",
+        "vertices": 22944,
+        "polygons": 13387,
+        "triangles": 22684,
+        "positions_sha": "9fb5df37b03f4218e2b7a6e1b514c69e7b56c6cda943ad44586cbdb350a03319",
+        "indices_sha": "783cd7726eee0fe7852486719404af4674c2476421fd10723d56c8a7bce9aeee",
+        "polygon_counts_sha": "3c2163a745c65eb54381bc851af905ab126b1d471bc904f5de25acc712d62acb",
+        "smooth_sha": "b4c5d960660a7a221b0c0f46f5e7b24c58fb1214c9a9de5c0242121e244507fa",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "7bbca2a41a28298912986a3b05aec37038ab274e477cdeda1daa4589e427b721",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "682cb01141578da78b51fe75662c8c9e8ba582bb383a127f195adf05afd4f200",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 05-00": {
+        "name": "Césped botánico 05-00",
+        "vertices": 23571,
+        "polygons": 13695,
+        "triangles": 23218,
+        "positions_sha": "b40a356d73acd8e8368a780630f18ea367064d295e0b5e83d50e5b717c8214de",
+        "indices_sha": "ac0ded95b125bfdd4894f63cbf5fb19fbf11a207960d1e1f744c4ccd90f82e10",
+        "polygon_counts_sha": "7227990df9be16899bc8d48c5163b83e1025c75e826f805d2846bf43f39c747f",
+        "smooth_sha": "3265114dd2227241f6f8229888e50240ab3bbf2788559463261940c31cf369d8",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "c435ad715a3a43fcb18a26723fd766bc0ef3aa0dfa5b89ff861e2b62935572de",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "a06f5f33610d3b060477b0947766b8aa2c0985e1f353d42d9758127f445ed39c",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 05-01": {
+        "name": "Césped botánico 05-01",
+        "vertices": 27074,
+        "polygons": 15728,
+        "triangles": 26703,
+        "positions_sha": "50e57857a3400019d4d63a92dadc0b70dbcfd5350ce95950b15c45a3207b36e2",
+        "indices_sha": "0ceb93718475228a62d6c499d4f44c2ca9f9e39c5ea16ce9493f19241d652a92",
+        "polygon_counts_sha": "47efb63015a2cd559c9e93aa5c34725ff068a023cd6db77a41a18f66286d58df",
+        "smooth_sha": "244298f2cc26c82a0fde832ba0d2e1bea2daa6277e9308b2729679c493b9bd7b",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "28d266e362cd3d2af0f50c9b0c61788f06bab70b90583770e88bc5ebc760ac62",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "34fcf56b7da702d110a2c9c41f4995796489faf2581320a22d3301f050d686aa",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 05-02": {
+        "name": "Césped botánico 05-02",
+        "vertices": 27498,
+        "polygons": 16046,
+        "triangles": 27194,
+        "positions_sha": "ff1a68f6b4ed2588742a735e5d1f34d4ed528811f93d66d6722d0bdf596eecf3",
+        "indices_sha": "55a52034ad48fcd989000dad32beb475a7d8c587c219cc04dec97cb9764c4167",
+        "polygon_counts_sha": "8969507b495daaec6fc35e90a78927f58a322d1a342b6d51b36eaa2ae60b6e9b",
+        "smooth_sha": "655ab482a380545b79841d2d3923ace44518fd036c7e2e92edddcff9cb59df18",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "7a9dfab1e63f1b0e0f91a88df11b9ccef281398a7e8ab3b668c6edef2254b1eb",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "3c227cc000327d099c31c8ea66f7011c294180a7e6f6a6f494187dc3b376b62a",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 05-03": {
+        "name": "Césped botánico 05-03",
+        "vertices": 27178,
+        "polygons": 15843,
+        "triangles": 26815,
+        "positions_sha": "8dd283c6c31cf60fcf67a2f624d531ae31a42bcc2c08ffce1f4938c201ec0bbc",
+        "indices_sha": "6febf19712010f7c750b8302c9ef9cd45c23cce9a2e13cacef43024fc118b040",
+        "polygon_counts_sha": "972b2be8757b0672c9b35277deac55da0d701787b0f53f85622ee24fa95d7f92",
+        "smooth_sha": "66f906604a234652eef55b09bcf978b3b7adc74d956d94cca2ce47024e493621",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "39013cb13e98854b4a8b2fbb2a4ea19010f5658b44f8118e38059c3488e85f19",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "748873906385f4b3ad3be39f9f1703d8fcd39d14f40345491e17bba62d562ee1",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 05-04": {
+        "name": "Césped botánico 05-04",
+        "vertices": 26826,
+        "polygons": 15572,
+        "triangles": 26397,
+        "positions_sha": "390352015786ee8cc956cb1853e76b4925f85eed66f0a061f5d5e8ba13d3a7eb",
+        "indices_sha": "c0e4c8ae335c73ee34965d2a1afc472e02643de658dbe28bbc6850122987439b",
+        "polygon_counts_sha": "8311af47a23f808d846420f3452b690c755068cb5f6e66fdb255748757886913",
+        "smooth_sha": "de9d9f31394b5b4caa57082d5ad734dc333f2dcea55821caf41d90b336390620",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "56d065310a29468708cdc30a89fb521cc42950d5c6941e91d16906bf1864f56b",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "1c3ea740530ea6b59b59c086585a32b174bd891d7f09ed87d02aa809883848d7",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 05-05": {
+        "name": "Césped botánico 05-05",
+        "vertices": 26575,
+        "polygons": 15374,
+        "triangles": 26073,
+        "positions_sha": "d0ed05a6b41f622c0a300b46570d5e86539ca755ab7a2ac00e281734656c2c21",
+        "indices_sha": "f3cced1e642f5d9b7c41e7cd29bb4a921ca7c0ab99037fcde2c003248beb220e",
+        "polygon_counts_sha": "400793907cefab8c484584fd80a41feecb1c51a83982371a44b7736097a1c3ab",
+        "smooth_sha": "3da6df7c876a7627ccdb4edc1041a2666f36aeefd1747fddd02a15b95737a9bb",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "8c10ebd3675d3d637a917f67dad4dd0d10059e49b09260afcf8b9bed46c1b7e5",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "4d315dfad8a7ce8130f821e4f8e7859b40e4c90f85f722f521617e5288ad8638",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 05-06": {
+        "name": "Césped botánico 05-06",
+        "vertices": 26982,
+        "polygons": 15703,
+        "triangles": 26613,
+        "positions_sha": "2b618c04ae6c12ffe9c646742c6c7e1bf1ae6a1befe2531469b7deacf49488e0",
+        "indices_sha": "3e0be4986bdf2d4d5da9834543ac9f5d0891ef992e60e3df5dfedf9be7ad03f5",
+        "polygon_counts_sha": "ffeacd6677446fa95f141ff0fbd4ea00201e928bcbdb1717cc1fb2f53425004b",
+        "smooth_sha": "c24ed0dc03af300a193323edd02915a6d5b29c90f8be9e0293ba4e0f5170946b",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "0abb989c2d56458980399e0925fdf7cd7ffc36e0b704962481f3e5d42344b0f2",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "22901bbaba4b158fdb4ceae06ddd0066d22f8e82e809e3d26243123a742eea12",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 05-07": {
+        "name": "Césped botánico 05-07",
+        "vertices": 26288,
+        "polygons": 15369,
+        "triangles": 26003,
+        "positions_sha": "d730bbddd5cc97b6b3550c95694943bb781e58571e50bbc425619e073080e498",
+        "indices_sha": "ba4383602cce331b4553ab0dc7f20dd48dda217cc3baeb97cec19f8a45c66db0",
+        "polygon_counts_sha": "80c0d855f1bdc507ce97bebeaa305f616adebb82f5216a094fa5f47466d3cbb9",
+        "smooth_sha": "1b1da9424f249beb9909008f27e3030464844200c03925251612eedd5a9cbfa2",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "3c601f702c8dd86614e73e749953838448acf72e7d13e90a61b013b88351864f",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "49b56cd5ca2a6382efdb0fac4ddf84bdda3fb59f3ff1cd532fa90fc79085f667",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 05-08": {
+        "name": "Césped botánico 05-08",
+        "vertices": 24622,
+        "polygons": 14267,
+        "triangles": 24205,
+        "positions_sha": "fa7d3b4596fd8fb65bfdeb7471b0eeba1685d6a7455a56f1f1f629fe241b1156",
+        "indices_sha": "05a34a7c75cb70ce595a577e68d2dae24f99c5b8192ae998d7cbd6ea318d5b28",
+        "polygon_counts_sha": "a1c3715bbd7438c8810fa5bce312b7356c821d05a97866e10d86667a4845db0e",
+        "smooth_sha": "e3c56d8e9d7e2a711d24703ab10d92d2f7333b062e20a0381636e8bbc60a6ea7",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "764a66092385fabb344ade32a57c7beadf35b254a29fe44fe0a7e07009934bde",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "39ee1b4b2fc48923265248792928389cdd7ab4d6e3966814274b4941453192f8",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 05-09": {
+        "name": "Césped botánico 05-09",
+        "vertices": 22514,
+        "polygons": 13045,
+        "triangles": 22097,
+        "positions_sha": "ba89e5ceb802080fc0712d2056b7dbf12f5cedd44b11052ee15716460df68f29",
+        "indices_sha": "9b125b4f9d385b8b0fdc02aaf619570ac72c609e1a10854edca3e736cda3f12f",
+        "polygon_counts_sha": "3fa4d320bc63ef3f1d3fe85e1498881e90a865faab77413371c522070c528de5",
+        "smooth_sha": "8c43597d3fa83a94396633d1f2cde78010132663bee17bd37b8349f0724dc616",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "08023b104400b8553faf37af3fe210d04c2656d28c897e61dea13dedbe5c85d4",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "5ec64cb8cced284995fdb69b22efe0c67e64e9dcfe882e238b6392540cdcb5cb",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 06-00": {
+        "name": "Césped botánico 06-00",
+        "vertices": 9179,
+        "polygons": 5369,
+        "triangles": 9080,
+        "positions_sha": "c1d0523a0b250816c6dd4e1df7d59ce2c1d9b7630defd739fc53096f9e15cdd0",
+        "indices_sha": "ca931c7778d58df9120d9e75515ee3ca650e4031d117e035b12ccae26af846a9",
+        "polygon_counts_sha": "bc29d2f519400ed6f95e97c53300e702c7e835eedba59260f25f9bc094dffaf7",
+        "smooth_sha": "2bd8e6b9dde638dccf55eaba8caa8df783ab815dac79ec02c8f65852517ad936",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "06f3fbdd0445bcd808bee7e8cc14b048b91c29344315fa337542920cfe6e9fcd",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "c16401a33989a983b444e7458eaf44aed3548517c29a2645d45f507f46267a43",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 06-01": {
+        "name": "Césped botánico 06-01",
+        "vertices": 10498,
+        "polygons": 6121,
+        "triangles": 10352,
+        "positions_sha": "f1787593a4753fa5596004edb5912843834f55e5a9b2846f94465c3427daa160",
+        "indices_sha": "99c582c3a504e049524c5e8a3cacc6ee3c51661807e62b4dd39021fb95985278",
+        "polygon_counts_sha": "c6e82a37bd48a536710b3ea4e4dc95032c94249d03b65babdcc220685cb71bfb",
+        "smooth_sha": "e6f56faba6d43c3bde2bbbb3f417e9fcac27e3dfdbde5029bc012d5276e82931",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "8b23aa40efd8a8de8ecd02e48e83431d32c425f87ccd2d43e15b411c102fa875",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "572242d48980e42175e88ba3dc394bf87e5a5a1897e4e4e914808023b7a8626a",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 06-02": {
+        "name": "Césped botánico 06-02",
+        "vertices": 10281,
+        "polygons": 5973,
+        "triangles": 10130,
+        "positions_sha": "835b2c8b2357a4914320f7e9dcc3627703527cee627c37b1d76fe5645c1c7f1f",
+        "indices_sha": "884458d104da2281f40bdc9608b8ea050547832f3d3d9fba394b8424d848034b",
+        "polygon_counts_sha": "5576fad857a6a1317f8b7ec343adc7b8692f76f9b6c7e5183a8e01d24279fbd6",
+        "smooth_sha": "70c0ce79eb47708ce3265785b854a986ea63166fb5bbb1bf0120e76e7adc4865",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "0767fb4f910ab18f18bb0d6aa451483847d05d8e1d0c8007a87c91d29f218156",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "c1d1d2b69f9995ba048d13c5ff926c165b819521c775d9a1f55f1f3d3455aafc",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 06-03": {
+        "name": "Césped botánico 06-03",
+        "vertices": 10734,
+        "polygons": 6303,
+        "triangles": 10650,
+        "positions_sha": "51b2c22959baa0dc70c17f7b4672d0d6fda5db5910e80f6d5fed9d898844d3e1",
+        "indices_sha": "0410a72712ee6545cb22af3b35b3c4d147449218d9c67ea3d434615792b3f76a",
+        "polygon_counts_sha": "8eececbcf78d70e4c80eff6364a066bfbc93938c78cb48e467db26958123fbdb",
+        "smooth_sha": "5067c6ddcc0c9c29f7997ff4b8e92bd4f8989e9b18a14b05ccd28520bf535059",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "a2e1bd5be531d1123ee1b4ed26dce00d58fb32a068601a7cb8fb6152ed715dc2",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "7ea31eae276588c80fc9d6477d4ad288100546aad76c8cf502ee06cb42277e85",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 06-04": {
+        "name": "Césped botánico 06-04",
+        "vertices": 10170,
+        "polygons": 5978,
+        "triangles": 10102,
+        "positions_sha": "6d0a4981da132a68f5788a49ae1b3df1be23ec7823b71321337934abb862cc01",
+        "indices_sha": "dcfe59384cdf7587fa8b9ef2cf4aab17320dedd4e0b58b1bf846b911f29e888c",
+        "polygon_counts_sha": "23acb36d2e9dcae9f348123033c4b550b1d97543a08418b09cd4fe0df105eede",
+        "smooth_sha": "76895f1642023ce5793d2e9236c63ac5b80d0007f90c42d93269110566f3b552",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "846f2d19bd50f3a835fe8f896500ea091d16c6e436e985b1ea64064e2a86abfd",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "2b4fd027cb95e3ef6be2c79a08724bc4dc943f557387b86bc78447f6e23e4a2a",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 06-05": {
+        "name": "Césped botánico 06-05",
+        "vertices": 10511,
+        "polygons": 6171,
+        "triangles": 10464,
+        "positions_sha": "d5a9f1846a327bc950f9242b33e73e7c209ba1a7fd8bc81ae1729bca5aad354b",
+        "indices_sha": "187f50f593dca52acae7b48b90ac6bbfda6b6dbf0e6783338a5259a4a02e3709",
+        "polygon_counts_sha": "30e7c3fa5511a5b42a7ba19dc6f342fcb626d1e563ca3e2bb307de6e2e1780fe",
+        "smooth_sha": "9c2c4d07713ec207572d475a4571101f0938a2db382d155d7b621179979c1137",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "a8e1db37dbc8ce8151428c762979dbcaad2123abc6fde865fb34c34a5f2e0f48",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "07e5e47c2b9585847efd6deea71c664e31802c13d58f567d63332d1d5b9f2b95",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 06-06": {
+        "name": "Césped botánico 06-06",
+        "vertices": 16246,
+        "polygons": 9505,
+        "triangles": 16096,
+        "positions_sha": "f7f5eca92597b674fc5c92a5e866624f2fbeb079100b394319504a552d001387",
+        "indices_sha": "f1837e65e55c03bbe86631dbe6ce92e18b8e8d145fff7c2c2f5b5b75971b6ed9",
+        "polygon_counts_sha": "2b2fca35675a0a8412cd5c3bfa5b8e699315f5266ecd451e7e54dab04dab41e9",
+        "smooth_sha": "2931e9c5b36a270ee562bffd6cd5ac62b02e706532a7dadcb7469075d7f245e6",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "a587b4544cb78711d314622c1b4356adec8c2143d83b21049ea8d74c50bd94f6",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "854fe95282d2e858241e24362f62e264e13e17fa2ada8c63f5884d28f063b0b9",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 06-09": {
+        "name": "Césped botánico 06-09",
+        "vertices": 9001,
+        "polygons": 5209,
+        "triangles": 8823,
+        "positions_sha": "907e4cff70a19241549dd24e65209131a1f6de1973f29df86a66de606791c0fb",
+        "indices_sha": "36333902ad9cdcadbed3ae77c786f8ee1b02329835835da7733f7af4c973f0d8",
+        "polygon_counts_sha": "0fc2e32f7c3f1ce0d3860cee8595ffbc860bddf2db261114a5ae17a6b567f114",
+        "smooth_sha": "6602e8780331e6f6d0f461da8758459732f6d9279c305a5e97572cf4ad1e0560",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "1a5b4f48f63acb756d160b76f568d64b47bd6bb1402b4f0179ebb9d5bdaf1fb2",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "94a6f10e569b7d9fc78696d958736806e8c174f0f67b00ec6198fc286d29b05a",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 07-06": {
+        "name": "Césped botánico 07-06",
+        "vertices": 10604,
+        "polygons": 6237,
+        "triangles": 10588,
+        "positions_sha": "879bb54cadd7a95ea0b8b2814ae1b349a22f12756088ae8ce3c2cea4831717fc",
+        "indices_sha": "7f35f0498490333fc7340f6c2f47916f7c652c7cf58f9dd9fd48762990a43845",
+        "polygon_counts_sha": "aec96829e659defc1b3fd0ca364a8fe61761df9b05f4445b75311afca4a23ae7",
+        "smooth_sha": "8a880fed0b16e702e3b67f358bb97bf58c60b588403774b2a97acffa925e709e",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "217cb40461c5dbcdf2592dee3b3d3aca3efb59da057fe00dad621d98ac744d0e",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "7f2e5da0847c96987fc5dcbf52eb9028767c225d418fc9f9f1f90ac651239dda",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 07-09": {
+        "name": "Césped botánico 07-09",
+        "vertices": 9858,
+        "polygons": 5815,
+        "triangles": 9848,
+        "positions_sha": "ea0f526710e02da8e8f06781e7f9f485c05f921a568ff7877167c0997b426878",
+        "indices_sha": "b9e58d26f10483267764f1905753309dba8945838698f3a302cf02719ba273da",
+        "polygon_counts_sha": "393950905c271437531b8e84acd4c3262d84592fbb3f5b267990ffb941ee15cb",
+        "smooth_sha": "1a2a2cb08e69bc4946e2b4847f997220e5a2ef39506e94b2c35f484a250e263c",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "5d94423ccfa919d1438edf305fdf76476ba762c860f8eb77d4f807cc67d55d67",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "36c4119433d99a9520854d898c431619834d6dd35d8d89c4d9f98c9831e20718",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 08-06": {
+        "name": "Césped botánico 08-06",
+        "vertices": 9796,
+        "polygons": 5706,
+        "triangles": 9667,
+        "positions_sha": "b452d9910fb6ba8f25fbea4fba6fdb2fa9e17d0b6cc27c58a9b591a172e3b39d",
+        "indices_sha": "5c87ca6da67c7ccbc4683288720e48dcb5f8e8daf7e8f51f10ac8100153fe293",
+        "polygon_counts_sha": "ac0d039043fd2930085557fc3c059e4803c1da458145a8903a09e96b592d4e90",
+        "smooth_sha": "0dc7e7c8a3fd72b4d9803c5c0b0e38a7e93df135ba247fd0d93935143cd7dcd1",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "9f3c68f6d8c6e509a307537bfba431778d780bf9f6f5687e57ebb4b579407a1d",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "f102afe8bf2bd7f6aa8b374ffca63680a3f1c2cc9722a663d1b41a0248320e3e",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 08-09": {
+        "name": "Césped botánico 08-09",
+        "vertices": 9284,
+        "polygons": 5342,
+        "triangles": 9067,
+        "positions_sha": "4a8d98290448111d36975d28dddc2eda27647aa395fb63b7ee2915de886841fe",
+        "indices_sha": "d571a5e155169c31b302fdc40a9063a26172f2d57094378862248681a54e20b6",
+        "polygon_counts_sha": "69bc84656ea993b6f2e8ba3f91e300bbb95096f3e2f080751e4a277dcd768a4b",
+        "smooth_sha": "2d56906256ea32928b486b43bd281b4af0dc70dd08419fff02ae4c60f9d135ec",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "005f7b527d66cec9f331da3a66aae1f0954afaa08a21c8ed04cb8a5eee6b053b",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "5a3296b348ecb06c88e417e03382e28802ed64a5cd34a7e1b8687d2b7987fdc2",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 09-06": {
+        "name": "Césped botánico 09-06",
+        "vertices": 10333,
+        "polygons": 6064,
+        "triangles": 10273,
+        "positions_sha": "84e7f0d432716183929f4264f68ba9484a506c215f8f23918737eff906504cb9",
+        "indices_sha": "bb17af5b9a91a9cda2d67b621f7685ea17f6887a10178a6ca1524f4c6cdff9f4",
+        "polygon_counts_sha": "b5e4b90f856688de87ec7b39428bb96afe848f28091a3e79cc073b873fb988e1",
+        "smooth_sha": "6cec21708945da058f10220343dd454363fcc818458be8cbddb92e2d4bc321bd",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "e1098bd1affd6b4cbbf1c6071c7c91095599288eb33b4c5045e89aaebe208b04",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "b18aba1cadb0b48a30c25a23e6b5cea16519c3aeb578974d9a164871be601d95",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 09-09": {
+        "name": "Césped botánico 09-09",
+        "vertices": 9209,
+        "polygons": 5331,
+        "triangles": 9060,
+        "positions_sha": "60b464c2448c0ee50313fc177556445c40e11f4a8eb74537bb5b470dbbaf66df",
+        "indices_sha": "27de2bd92f1e4a2e88ccca508371f689d51aa563ade86d0945d35549c0909b34",
+        "polygon_counts_sha": "47ed66ccb0d530513dee5a4b3d3fa438bbaa2731c7b71f55261ef72fdce97b6f",
+        "smooth_sha": "397a23d7bc9359ea5b746828dee1b2e27e91d9847ebedf4322375adf2e8df953",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "3343d6cfa9f8fb46aa42324deab6832d5bbd99ccb4bb0e6f44bcea04a3b8ba51",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "ab8e1ef5605422f30691a5c5e980cb31f7d22af7f600ad4b616f46efb25f83e5",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 10-06": {
+        "name": "Césped botánico 10-06",
+        "vertices": 9403,
+        "polygons": 5540,
+        "triangles": 9353,
+        "positions_sha": "91e52f4a0df521874ec1cdc791a2f5604a780140cd19072f89d0e30ab355ea0b",
+        "indices_sha": "89dafd1219218571a8c7c0a6a947444e29bd5c4c11ce6ec5d12083b8ed178b63",
+        "polygon_counts_sha": "06c3f5534c2751eaa5010c06f4ee612b858dd74e0b363f234014aa80e2be2b94",
+        "smooth_sha": "d233e7a13fe5d09846f1c4fe1fdbebbbec8471900944ca9b5ba93059fa90c223",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "89ebae0c75364c4d86be067f7285e3cfc18f4be919f17b5a799a15047e29227d",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "17e66ddff30512f27c2b2722ef2e2b24e0adc49cbd1c779e81c1f2e4340efe42",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 10-07": {
+        "name": "Césped botánico 10-07",
+        "vertices": 9232,
+        "polygons": 5391,
+        "triangles": 9125,
+        "positions_sha": "c2aa981a4f7953439a19a9943a3b025132bb0fb8561647963ec0f4225c9170c5",
+        "indices_sha": "59d4901ebf7c085bbc041a2dd15336f4c83a613f94e8d714b5f8b9fd6575dca0",
+        "polygon_counts_sha": "555d8ba8a245119a4f2b6066aa5ac2cf0bc06fd3a1f870617a0b85e17a11d947",
+        "smooth_sha": "a415d4b49e722bb80c4f0ae457e4fc4c3a10217f20f593585a8a385150800428",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "d9885c6e8b3bcf8a46e8934473c6c6f83573a5b5bd2c71422ff6e94e81cc61cc",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "430e3e6371926d576896dc78404d69e55f922ac17f86ad0ad04dde1237a8c085",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 10-08": {
+        "name": "Césped botánico 10-08",
+        "vertices": 10176,
+        "polygons": 5996,
+        "triangles": 10122,
+        "positions_sha": "355dc63473ba3ec92e177196c5be06e0d11d4a4a641b405026cca6e68325f5f4",
+        "indices_sha": "fca31138786dc813ae1f9f32a57d665d6f8f7ca61cceda93fccbe775b7cbeed5",
+        "polygon_counts_sha": "3099bce04ac1d576f0b006e89afc4f4f4dd1759e874dda34339cc439e856494a",
+        "smooth_sha": "f7666d276a06f2fbfbef4e6ac91c4979b105a53fd660642bbc1c07495bd97c6a",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "9a5c9b6fbb0ae5edf5249254de695d010f3aad4ea9136759755af424f16da035",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "92350224f10b35cde33546698ab9a871ec6e22c7f27aafd356286e18055da7e8",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Césped botánico 10-09": {
+        "name": "Césped botánico 10-09",
+        "vertices": 13411,
+        "polygons": 7830,
+        "triangles": 13252,
+        "positions_sha": "7a91619d735f22366fec6346f36676d175d543ec02e33fa13a4dd66f65ca43f1",
+        "indices_sha": "d80984feff9cd5154522559406373efeedb5c6bef311c7699db11ce4e5305aad",
+        "polygon_counts_sha": "1f64ba088d32ddefaf1dafa33089132ced604dfcd03841b42e3c2b9656303f4b",
+        "smooth_sha": "b90b2d72f90dd2ebd7cc14c5511a33858db48277f98e8fcd929b217b76c75b33",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "67107a4b2f82927e4e9a07a1d3b900eee76de71e314598bb6b78ae037cdbff70",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "3053920212685fbf19e5779df97b39641addb25fb9280156e3bd6b903e563974",
+        "export_preserve": true,
+        "colors": []
+      },
+      "Paisaje | pradera de transición": {
+        "name": "Paisaje | pradera de transición",
+        "vertices": 96916,
+        "polygons": 56268,
+        "triangles": 95469,
+        "positions_sha": "2f0b76c77f4e85c6fb7ffebfc71946766b6d6c0ad231012293a909e046e7820a",
+        "indices_sha": "58fdf7d1fdcfa0b9ede8a72839bc365639e5f77920b80b49faa3032b997a0dbe",
+        "polygon_counts_sha": "089f8696b5c53e3950ed68b2d4440d50eecbc10a235e6db27aeb81eecee344e7",
+        "smooth_sha": "df14cce0768fa6753dc5179e8b181b3451ccc2df7df7cbdd661952ea8dfa09e2",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "b104d558876ca54eeb42b14cb04d042a80f56c079c0466ca5bc16e2d9f83d383",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Bermuda CC0 alpha mask"
+        ],
+        "hide_render": false,
+        "anchor_sha": "5e0102a183be92a69412c9db7674e268e1a7e79ba002bb3302173d536ffc8a46",
+        "export_preserve": true,
+        "colors": []
+      }
+    },
+    "surfaces": {
+      "Césped del lote": {
+        "name": "Césped del lote",
+        "vertices": 16,
+        "polygons": 8,
+        "triangles": 8,
+        "positions_sha": "deb31a1a44b215852f4cae6b9743eaaafdb73221a537735d586f177774a41b85",
+        "indices_sha": "1688e87542b2eb82101cd49720236b5bcfe65fde1eddf4c9a550c476daa76724",
+        "polygon_counts_sha": "fd274f3642db122d9927ae55e2fd19df565c1f582398d1a7c597b1484f7e9781",
+        "smooth_sha": "04abc8821a06e5a30937967d11ad10221cb5ac3b5273e434f1284ee87129a061",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "0aa846d4d585b89fd19839fff551b508a6677f56e92c499de8e74ca507ff508c",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "GRASS8 | Lote césped y tierra CC0"
+        ],
+        "hide_render": false,
+        "anchor_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "export_preserve": false,
+        "colors": []
+      },
+      "Entorno exterior": {
+        "name": "Entorno exterior",
+        "vertices": 16,
+        "polygons": 8,
+        "triangles": 8,
+        "positions_sha": "8b9be1761febd2ae1dfe174d6da3a0033fdeb8a1adfd8aca61302e9f06646a89",
+        "indices_sha": "1688e87542b2eb82101cd49720236b5bcfe65fde1eddf4c9a550c476daa76724",
+        "polygon_counts_sha": "fd274f3642db122d9927ae55e2fd19df565c1f582398d1a7c597b1484f7e9781",
+        "smooth_sha": "04abc8821a06e5a30937967d11ad10221cb5ac3b5273e434f1284ee87129a061",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "5432372d5e49fdd8aefee49f40a9d8f0ea6abcb3e591fe6ab77a4607567a0125",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "LUZ99 | terreno vegetal CC0"
+        ],
+        "hide_render": false,
+        "anchor_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "export_preserve": false,
+        "colors": [
+          [
+            "landscape_tint99",
+            "POINT",
+            "FLOAT_COLOR"
+          ]
+        ]
+      },
+      "Entorno | terreno continuo": {
+        "name": "Entorno | terreno continuo",
+        "vertices": 4236,
+        "polygons": 4097,
+        "triangles": 8214,
+        "positions_sha": "165490fce2572ca4c971aa1c7f7e84c61ca9113a6783f90ed0ed6ad4d8a66e9c",
+        "indices_sha": "db5667ee370871eb0bb73fc5c750f5f577261f2f5aaa138233006f29ef3fa10f",
+        "polygon_counts_sha": "a67aa815f8f62b10e1844b65ef0571534236f58abed9a033db6e5caf259326b8",
+        "smooth_sha": "b587fa297299ce9c602e58292b51379402bf7b1074f6b18679c2fb871c917ca8",
+        "world_matrix_sha": "5998e9d1dd9bf48af6af87a1ef8c7783b818ac8329637ada08cc5fb329042376",
+        "uv": [
+          {
+            "name": "UVMap",
+            "sha": "d1ffff213e1e61d6b6d62174ba1d145e79ba546adfcaecd24e7667dc74efbea6",
+            "active_render": true,
+            "finite": true
+          }
+        ],
+        "material_names": [
+          "LUZ99 | terreno vegetal CC0"
+        ],
+        "hide_render": false,
+        "anchor_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "export_preserve": false,
+        "colors": [
+          [
+            "landscape_tint99",
+            "POINT",
+            "FLOAT_COLOR"
+          ]
+        ]
+      }
+    },
+    "materials": {
+      "GRASS8 | Bermuda CC0 alpha mask": {
+        "name": "GRASS8 | Bermuda CC0 alpha mask",
+        "nodes": [
+          {
+            "name": "BSDF Principista",
+            "type": "ShaderNodeBsdfPrincipled",
+            "inputs": {
+              "Base Color": [
+                0.800000011920929,
+                0.800000011920929,
+                0.800000011920929,
+                1.0
+              ],
+              "Metallic": 0.0,
+              "Roughness": 0.7599999904632568,
+              "IOR": 1.5,
+              "Alpha": 1.0,
+              "Thin Wall": false,
+              "Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Weight": 0.0,
+              "Diffuse Roughness": 0.0,
+              "Subsurface Weight": 0.0,
+              "Subsurface Radius": [
+                1.0,
+                0.20000000298023224,
+                0.10000000149011612
+              ],
+              "Subsurface Scale": 0.004999999888241291,
+              "Subsurface IOR": 1.399999976158142,
+              "Subsurface Anisotropy": 0.0,
+              "Specular IOR Level": 0.5,
+              "Specular Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Anisotropic": 0.0,
+              "Anisotropic Rotation": 0.0,
+              "Tangent": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Transmission Weight": 0.0,
+              "Coat Weight": 0.0,
+              "Coat Roughness": 0.029999999329447746,
+              "Coat IOR": 1.5,
+              "Coat Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Coat Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Sheen Weight": 0.0,
+              "Sheen Roughness": 0.5,
+              "Sheen Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Strength": 0.0,
+              "Thin Film Thickness": 0.0,
+              "Thin Film IOR": 1.3300000429153442
+            }
+          },
+          {
+            "name": "Material",
+            "type": "ShaderNodeOutputMaterial",
+            "inputs": {
+              "Displacement": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Thickness": 0.0
+            }
+          },
+          {
+            "name": "Mapa UV",
+            "type": "ShaderNodeUVMap",
+            "inputs": {},
+            "uv_map": "UVMap"
+          },
+          {
+            "name": "Imagen",
+            "type": "ShaderNodeTexImage",
+            "inputs": {
+              "Vector": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            "interpolation": "Linear",
+            "extension": "REPEAT",
+            "image": {
+              "file": "grass_bermuda_01_diff_2k.jpg",
+              "colorspace": "sRGB",
+              "packed_sha256": "30183c203739dee9812b70f21916fcdcd88719dcfe4fa3270d8ce208369ec933",
+              "file_sha256": "30183c203739dee9812b70f21916fcdcd88719dcfe4fa3270d8ce208369ec933",
+              "size": [
+                2048,
+                2048
+              ]
+            }
+          },
+          {
+            "name": "Imagen.001",
+            "type": "ShaderNodeTexImage",
+            "inputs": {
+              "Vector": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            "interpolation": "Linear",
+            "extension": "REPEAT",
+            "image": {
+              "file": "grass_bermuda_01_alpha_2k.png",
+              "colorspace": "Non-Color",
+              "packed_sha256": "2750b808598d2c4116e494c20065a2dbf7fba5a098c3ed445772ff6d02ec3d3c",
+              "file_sha256": "2750b808598d2c4116e494c20065a2dbf7fba5a098c3ed445772ff6d02ec3d3c",
+              "size": [
+                2048,
+                2048
+              ]
+            }
+          },
+          {
+            "name": "Operar",
+            "type": "ShaderNodeMath",
+            "inputs": {
+              "Value": 0.5,
+              "Value_001": 0.5,
+              "Value_002": 0.5
+            },
+            "operation": "ROUND"
+          },
+          {
+            "name": "Imagen.002",
+            "type": "ShaderNodeTexImage",
+            "inputs": {
+              "Vector": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            "interpolation": "Linear",
+            "extension": "REPEAT",
+            "image": {
+              "file": "bermuda_source_normal_2k.png",
+              "colorspace": "Non-Color",
+              "packed_sha256": "abfa1f185bcd74b690024847aa0d49e5c88ae6e30be6aeb17102ce7734ca312e",
+              "file_sha256": "abfa1f185bcd74b690024847aa0d49e5c88ae6e30be6aeb17102ce7734ca312e",
+              "size": [
+                2048,
+                2048
+              ]
+            }
+          },
+          {
+            "name": "Mapa de normales",
+            "type": "ShaderNodeNormalMap",
+            "inputs": {
+              "Strength": 0.6499999761581421,
+              "Color": [
+                0.5,
+                0.5,
+                1.0,
+                1.0
+              ]
+            },
+            "uv_map": "UVMap"
+          },
+          {
+            "name": "Imagen.003",
+            "type": "ShaderNodeTexImage",
+            "inputs": {
+              "Vector": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            "interpolation": "Linear",
+            "extension": "REPEAT",
+            "image": {
+              "file": "bermuda_source_rough_2k.png",
+              "colorspace": "Non-Color",
+              "packed_sha256": "dd5be9b36f4ac7f7fe9c0c32da5ce85d455aadd661176289155bb35364e92d65",
+              "file_sha256": "dd5be9b36f4ac7f7fe9c0c32da5ce85d455aadd661176289155bb35364e92d65",
+              "size": [
+                2048,
+                2048
+              ]
+            }
+          }
+        ],
+        "links": [
+          [
+            "BSDF Principista",
+            "BSDF",
+            "Material",
+            "Surface"
+          ],
+          [
+            "Imagen",
+            "Color",
+            "BSDF Principista",
+            "Base Color"
+          ],
+          [
+            "Imagen.001",
+            "Color",
+            "Operar",
+            "Value"
+          ],
+          [
+            "Imagen.002",
+            "Color",
+            "Mapa de normales",
+            "Color"
+          ],
+          [
+            "Imagen.003",
+            "Color",
+            "BSDF Principista",
+            "Roughness"
+          ],
+          [
+            "Mapa UV",
+            "UV",
+            "Imagen",
+            "Vector"
+          ],
+          [
+            "Mapa UV",
+            "UV",
+            "Imagen.001",
+            "Vector"
+          ],
+          [
+            "Mapa UV",
+            "UV",
+            "Imagen.002",
+            "Vector"
+          ],
+          [
+            "Mapa UV",
+            "UV",
+            "Imagen.003",
+            "Vector"
+          ],
+          [
+            "Mapa de normales",
+            "Normal",
+            "BSDF Principista",
+            "Normal"
+          ],
+          [
+            "Operar",
+            "Value",
+            "BSDF Principista",
+            "Alpha"
+          ]
+        ],
+        "double_sided": true
+      },
+      "GRASS8 | Lote césped y tierra CC0": {
+        "name": "GRASS8 | Lote césped y tierra CC0",
+        "nodes": [
+          {
+            "name": "BSDF Principista",
+            "type": "ShaderNodeBsdfPrincipled",
+            "inputs": {
+              "Base Color": [
+                0.800000011920929,
+                0.800000011920929,
+                0.800000011920929,
+                1.0
+              ],
+              "Metallic": 0.0,
+              "Roughness": 0.5,
+              "IOR": 1.5,
+              "Alpha": 1.0,
+              "Thin Wall": false,
+              "Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Weight": 0.0,
+              "Diffuse Roughness": 0.0,
+              "Subsurface Weight": 0.0,
+              "Subsurface Radius": [
+                1.0,
+                0.20000000298023224,
+                0.10000000149011612
+              ],
+              "Subsurface Scale": 0.004999999888241291,
+              "Subsurface IOR": 1.399999976158142,
+              "Subsurface Anisotropy": 0.0,
+              "Specular IOR Level": 0.5,
+              "Specular Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Anisotropic": 0.0,
+              "Anisotropic Rotation": 0.0,
+              "Tangent": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Transmission Weight": 0.0,
+              "Coat Weight": 0.0,
+              "Coat Roughness": 0.029999999329447746,
+              "Coat IOR": 1.5,
+              "Coat Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Coat Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Sheen Weight": 0.0,
+              "Sheen Roughness": 0.5,
+              "Sheen Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Strength": 0.0,
+              "Thin Film Thickness": 0.0,
+              "Thin Film IOR": 1.3300000429153442
+            }
+          },
+          {
+            "name": "Material",
+            "type": "ShaderNodeOutputMaterial",
+            "inputs": {
+              "Displacement": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Thickness": 0.0
+            }
+          },
+          {
+            "name": "Mapa UV",
+            "type": "ShaderNodeUVMap",
+            "inputs": {},
+            "uv_map": "UVMap"
+          },
+          {
+            "name": "Imagen",
+            "type": "ShaderNodeTexImage",
+            "inputs": {
+              "Vector": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            "interpolation": "Linear",
+            "extension": "EXTEND",
+            "image": {
+              "file": "lot_color.jpg",
+              "colorspace": "sRGB",
+              "packed_sha256": "6431860aaf9eb872afc3819af70a384f1e9ecf79279e4fc5cd1a860bc17dd3e1",
+              "file_sha256": "6431860aaf9eb872afc3819af70a384f1e9ecf79279e4fc5cd1a860bc17dd3e1",
+              "size": [
+                4096,
+                4096
+              ]
+            }
+          },
+          {
+            "name": "Imagen.001",
+            "type": "ShaderNodeTexImage",
+            "inputs": {
+              "Vector": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            "interpolation": "Linear",
+            "extension": "EXTEND",
+            "image": {
+              "file": "lot_normal.png",
+              "colorspace": "Non-Color",
+              "packed_sha256": "f8e3fe87c021686382d70e3b6950709d57591c2b2601b45614df14a02c566926",
+              "file_sha256": "f8e3fe87c021686382d70e3b6950709d57591c2b2601b45614df14a02c566926",
+              "size": [
+                2048,
+                2048
+              ]
+            }
+          },
+          {
+            "name": "Mapa de normales",
+            "type": "ShaderNodeNormalMap",
+            "inputs": {
+              "Strength": 0.6499999761581421,
+              "Color": [
+                0.5,
+                0.5,
+                1.0,
+                1.0
+              ]
+            },
+            "uv_map": "UVMap"
+          },
+          {
+            "name": "Imagen.002",
+            "type": "ShaderNodeTexImage",
+            "inputs": {
+              "Vector": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            },
+            "interpolation": "Linear",
+            "extension": "EXTEND",
+            "image": {
+              "file": "lot_rough.png",
+              "colorspace": "Non-Color",
+              "packed_sha256": "da46d274a6bf2017aaf2ea775343d22e8b516f53936e3dc7845f3eabb607f8d2",
+              "file_sha256": "da46d274a6bf2017aaf2ea775343d22e8b516f53936e3dc7845f3eabb607f8d2",
+              "size": [
+                2048,
+                2048
+              ]
+            }
+          }
+        ],
+        "links": [
+          [
+            "BSDF Principista",
+            "BSDF",
+            "Material",
+            "Surface"
+          ],
+          [
+            "Imagen",
+            "Color",
+            "BSDF Principista",
+            "Base Color"
+          ],
+          [
+            "Imagen.001",
+            "Color",
+            "Mapa de normales",
+            "Color"
+          ],
+          [
+            "Imagen.002",
+            "Color",
+            "BSDF Principista",
+            "Roughness"
+          ],
+          [
+            "Mapa UV",
+            "UV",
+            "Imagen",
+            "Vector"
+          ],
+          [
+            "Mapa UV",
+            "UV",
+            "Imagen.001",
+            "Vector"
+          ],
+          [
+            "Mapa UV",
+            "UV",
+            "Imagen.002",
+            "Vector"
+          ],
+          [
+            "Mapa de normales",
+            "Normal",
+            "BSDF Principista",
+            "Normal"
+          ]
+        ],
+        "double_sided": true
+      }
+    },
+    "scenes": {
+      "CASA DE CAMPO | Atardecer": {
+        "grass_present": 73,
+        "ground_present": true,
+        "marked": true,
+        "atlas": {
+          "lot_color.jpg": {
+            "sha256": "6431860aaf9eb872afc3819af70a384f1e9ecf79279e4fc5cd1a860bc17dd3e1",
+            "bytes": 13574616,
+            "resolution": [
+              4096,
+              4096
+            ],
+            "metres_per_texel": [
+              0.00537109375,
+              0.0048828125
+            ]
+          },
+          "lot_normal.png": {
+            "sha256": "f8e3fe87c021686382d70e3b6950709d57591c2b2601b45614df14a02c566926",
+            "bytes": 10195429,
+            "resolution": [
+              2048,
+              2048
+            ],
+            "metres_per_texel": [
+              0.0107421875,
+              0.009765625
+            ]
+          },
+          "lot_rough.png": {
+            "sha256": "da46d274a6bf2017aaf2ea775343d22e8b516f53936e3dc7845f3eabb607f8d2",
+            "bytes": 4585387,
+            "resolution": [
+              2048,
+              2048
+            ],
+            "metres_per_texel": [
+              0.0107421875,
+              0.009765625
+            ]
+          },
+          "bermuda_source_normal_2k.png": {
+            "sha256": "abfa1f185bcd74b690024847aa0d49e5c88ae6e30be6aeb17102ce7734ca312e",
+            "bytes": 5642120,
+            "quantization_max": 0.00196078431372549
+          },
+          "bermuda_source_rough_2k.png": {
+            "sha256": "dd5be9b36f4ac7f7fe9c0c32da5ce85d455aadd661176289155bb35364e92d65",
+            "bytes": 1413169,
+            "quantization_max": 0.00196078431372549
+          }
+        }
+      },
+      "CASA DE CAMPO | DÍA": {
+        "grass_present": 73,
+        "ground_present": true,
+        "marked": true,
+        "atlas": {
+          "lot_color.jpg": {
+            "sha256": "6431860aaf9eb872afc3819af70a384f1e9ecf79279e4fc5cd1a860bc17dd3e1",
+            "bytes": 13574616,
+            "resolution": [
+              4096,
+              4096
+            ],
+            "metres_per_texel": [
+              0.00537109375,
+              0.0048828125
+            ]
+          },
+          "lot_normal.png": {
+            "sha256": "f8e3fe87c021686382d70e3b6950709d57591c2b2601b45614df14a02c566926",
+            "bytes": 10195429,
+            "resolution": [
+              2048,
+              2048
+            ],
+            "metres_per_texel": [
+              0.0107421875,
+              0.009765625
+            ]
+          },
+          "lot_rough.png": {
+            "sha256": "da46d274a6bf2017aaf2ea775343d22e8b516f53936e3dc7845f3eabb607f8d2",
+            "bytes": 4585387,
+            "resolution": [
+              2048,
+              2048
+            ],
+            "metres_per_texel": [
+              0.0107421875,
+              0.009765625
+            ]
+          },
+          "bermuda_source_normal_2k.png": {
+            "sha256": "abfa1f185bcd74b690024847aa0d49e5c88ae6e30be6aeb17102ce7734ca312e",
+            "bytes": 5642120,
+            "quantization_max": 0.00196078431372549
+          },
+          "bermuda_source_rough_2k.png": {
+            "sha256": "dd5be9b36f4ac7f7fe9c0c32da5ce85d455aadd661176289155bb35364e92d65",
+            "bytes": 1413169,
+            "quantization_max": 0.00196078431372549
+          }
+        }
+      },
+      "CASA DE CAMPO | NOCHE": {
+        "grass_present": 73,
+        "ground_present": true,
+        "marked": true,
+        "atlas": {
+          "lot_color.jpg": {
+            "sha256": "6431860aaf9eb872afc3819af70a384f1e9ecf79279e4fc5cd1a860bc17dd3e1",
+            "bytes": 13574616,
+            "resolution": [
+              4096,
+              4096
+            ],
+            "metres_per_texel": [
+              0.00537109375,
+              0.0048828125
+            ]
+          },
+          "lot_normal.png": {
+            "sha256": "f8e3fe87c021686382d70e3b6950709d57591c2b2601b45614df14a02c566926",
+            "bytes": 10195429,
+            "resolution": [
+              2048,
+              2048
+            ],
+            "metres_per_texel": [
+              0.0107421875,
+              0.009765625
+            ]
+          },
+          "lot_rough.png": {
+            "sha256": "da46d274a6bf2017aaf2ea775343d22e8b516f53936e3dc7845f3eabb607f8d2",
+            "bytes": 4585387,
+            "resolution": [
+              2048,
+              2048
+            ],
+            "metres_per_texel": [
+              0.0107421875,
+              0.009765625
+            ]
+          },
+          "bermuda_source_normal_2k.png": {
+            "sha256": "abfa1f185bcd74b690024847aa0d49e5c88ae6e30be6aeb17102ce7734ca312e",
+            "bytes": 5642120,
+            "quantization_max": 0.00196078431372549
+          },
+          "bermuda_source_rough_2k.png": {
+            "sha256": "dd5be9b36f4ac7f7fe9c0c32da5ce85d455aadd661176289155bb35364e92d65",
+            "bytes": 1413169,
+            "quantization_max": 0.00196078431372549
+          }
+        }
+      },
+      "INSPECCIÓN | Planta alta": {
+        "grass_present": 73,
+        "ground_present": true,
+        "marked": true,
+        "atlas": {
+          "lot_color.jpg": {
+            "sha256": "6431860aaf9eb872afc3819af70a384f1e9ecf79279e4fc5cd1a860bc17dd3e1",
+            "bytes": 13574616,
+            "resolution": [
+              4096,
+              4096
+            ],
+            "metres_per_texel": [
+              0.00537109375,
+              0.0048828125
+            ]
+          },
+          "lot_normal.png": {
+            "sha256": "f8e3fe87c021686382d70e3b6950709d57591c2b2601b45614df14a02c566926",
+            "bytes": 10195429,
+            "resolution": [
+              2048,
+              2048
+            ],
+            "metres_per_texel": [
+              0.0107421875,
+              0.009765625
+            ]
+          },
+          "lot_rough.png": {
+            "sha256": "da46d274a6bf2017aaf2ea775343d22e8b516f53936e3dc7845f3eabb607f8d2",
+            "bytes": 4585387,
+            "resolution": [
+              2048,
+              2048
+            ],
+            "metres_per_texel": [
+              0.0107421875,
+              0.009765625
+            ]
+          },
+          "bermuda_source_normal_2k.png": {
+            "sha256": "abfa1f185bcd74b690024847aa0d49e5c88ae6e30be6aeb17102ce7734ca312e",
+            "bytes": 5642120,
+            "quantization_max": 0.00196078431372549
+          },
+          "bermuda_source_rough_2k.png": {
+            "sha256": "dd5be9b36f4ac7f7fe9c0c32da5ce85d455aadd661176289155bb35364e92d65",
+            "bytes": 1413169,
+            "quantization_max": 0.00196078431372549
+          }
+        }
+      }
+    },
+    "resource_manifest": {
+      "world_bounds_m": {
+        "x": [
+          0,
+          22
+        ],
+        "y": [
+          -20,
+          0
+        ]
+      },
+      "tile_repeat_m": 2,
+      "mask": "Exact source fine-grass mask; full huerta, house, pool, tree wells and boundary remain original scanned substrate. No geometry overlay.",
+      "normal_rotation_deg": 23,
+      "prefilter": "Linear-light area prefilter: source 2m tiles reduced to512px color /256px normal+roughness before atlas sampling; prevents minification aliasing.",
+      "color_tint": "Original point-color attributes barycentrically interpolated and baked; original geometry is unchanged.",
+      "files": {
+        "lot_color.jpg": {
+          "sha256": "6431860aaf9eb872afc3819af70a384f1e9ecf79279e4fc5cd1a860bc17dd3e1",
+          "bytes": 13574616,
+          "resolution": [
+            4096,
+            4096
+          ],
+          "metres_per_texel": [
+            0.00537109375,
+            0.0048828125
+          ]
+        },
+        "lot_normal.png": {
+          "sha256": "f8e3fe87c021686382d70e3b6950709d57591c2b2601b45614df14a02c566926",
+          "bytes": 10195429,
+          "resolution": [
+            2048,
+            2048
+          ],
+          "metres_per_texel": [
+            0.0107421875,
+            0.009765625
+          ]
+        },
+        "lot_rough.png": {
+          "sha256": "da46d274a6bf2017aaf2ea775343d22e8b516f53936e3dc7845f3eabb607f8d2",
+          "bytes": 4585387,
+          "resolution": [
+            2048,
+            2048
+          ],
+          "metres_per_texel": [
+            0.0107421875,
+            0.009765625
+          ]
+        },
+        "bermuda_source_normal_2k.png": {
+          "sha256": "abfa1f185bcd74b690024847aa0d49e5c88ae6e30be6aeb17102ce7734ca312e",
+          "bytes": 5642120,
+          "quantization_max": 0.00196078431372549
+        },
+        "bermuda_source_rough_2k.png": {
+          "sha256": "dd5be9b36f4ac7f7fe9c0c32da5ce85d455aadd661176289155bb35364e92d65",
+          "bytes": 1413169,
+          "quantization_max": 0.00196078431372549
+        }
+      },
+      "rows": [],
+      "roughness_lod": {
+        "method": "Normal-variance specular AA inspired by Toksvig; approximate GGX adaptation. r_eff = min(1,(r^4 + strength^2*(1-L)/max(L,0.05))^0.25), L=length(area-filtered source normal), strength=0.65. Applied only to the derived understory; original bare-ground roughness unchanged.",
+        "reference": "https://developer.download.nvidia.com/whitepapers/2006/Mipmapping_Normal_Maps.pdf",
+        "original_mean": 0.42262599138961615,
+        "effective_mean": 0.8402052716328614,
+        "effective_range": [
+          0.32825610041618347,
+          1.0
+        ]
+      },
+      "grass_area_m2": 225.26647806167603,
+      "huerta_nonzero_mask_pixels": 0
+    }
+  },
+  "pass": true
+}

@@ -16,7 +16,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 import ezdxf,pymupdf as fitz
 P=argparse.ArgumentParser();P.add_argument('--model',required=True);P.add_argument('--out',default='planos95/pass1');P.add_argument('--status',default='EN REVISION');P.add_argument('--reuse-geometry',action='store_true');a=P.parse_args()
 OUT=(ROOT/a.out).resolve();OUT.mkdir(parents=True,exist_ok=True);MODEL=(ROOT/a.model).resolve();GEO=OUT/'geometry.json'
-if not a.reuse_geometry:subprocess.run([r'C:\Program Files\Blender Foundation\Blender 5.2\blender.exe','-b',str(MODEL),'--python',str(ROOT/'scripts/planos95_extract.py'),'--',str(GEO)],check=True,stdout=open(OUT/'extract.log','w'),stderr=subprocess.STDOUT)
+if not a.reuse_geometry:subprocess.run([r'C:\Program Files\Blender Foundation\Blender 5.2\blender.exe','-t','4','-b',str(MODEL),'--python',str(ROOT/'scripts/planos95_extract.py'),'--',str(GEO)],check=True,stdout=open(OUT/'extract.log','w'),stderr=subprocess.STDOUT)
 DATA=json.loads(GEO.read_text(encoding='utf8'));OB=DATA['objects'];BY={o['name']:o for o in OB};SHA=hashlib.sha256(MODEL.read_bytes()).hexdigest()
 if SHA!=DATA['sha256']:raise RuntimeError('Model differs from extracted geometry; regenerate without --reuse-geometry')
 for o in OB:
@@ -25,7 +25,7 @@ CORRECTED=any(o['name'].startswith('AC95 | acabado descanso') for o in OB)
 LANDING=3.25 if CORRECTED else 3.20
 START=0.06 if CORRECTED else None
 RAILO=BY.get('Baranda lateral pasamanos');RAILCENTER=(RAILO['lo'][2]+RAILO['hi'][2])/2 if RAILO else 4.25
-META=DATA.get('scene_metadata',{});R7=bool(META.get('r7_layout'));HANDS=bool(META.get('door_hands99_v1'));WET=bool(META.get('r7_wet_details'));VENT=META.get('r7_vent_details');CLOSED=DATA.get('closed_envelopes',{})
+META=DATA.get('scene_metadata',{});R7=bool(META.get('r7_layout'));HANDS=bool(META.get('door_hands99_v1'));WET=bool(META.get('r7_wet_details'));VENT=META.get('r7_vent_details');CLOSED=DATA.get('closed_envelopes',{});R8=bool(META.get('r8_uso_details'))
 P05_LEFT=BY['Puerta dormitorio comedor | galce cierre']['hi'][0] if HANDS else None
 P05_RIGHT=BY['Puerta dormitorio comedor | manija palanca.001']['lo'][0] if HANDS else None
 P05_CLEAR=P05_RIGHT-P05_LEFT if HANDS else None
@@ -96,7 +96,7 @@ def begin(code,title,subtitle=''):
  rect(10,10,574,400,None,INK,.35);text(18,21,'CASA DE CAMPO',4.8,INK,True);text(18,28,'VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO',2.6,GREY)
  text(577,21,code+' | '+title,4.2,INK,True,'end');text(577,28,subtitle or 'Geometria del modelo seleccionado; desarrollo documental en revision',2.6,GREY,anchor='end');line(10,34,584,34,.25)
  line(10,384,584,384,.3);text(18,393,a.status+' | NO APTO PARA CONSTRUCCION',3,ORANGE,True)
- text(18,401,'Modelo: '+MODEL.name+' | SHA256 '+SHA[:16]+' | 10/09/2026',2.5,GREY)
+ text(18,401,'Modelo: '+MODEL.name+' | SHA256 '+SHA[:16]+' | '+datetime.datetime.now(datetime.timezone.utc).strftime('%d/%m/%Y'),2.5,GREY)
  text(375,393,'A2 594 x 420 mm | imprimir al 100 %',2.8,INK);text(375,401,'Metros salvo indicacion | cotas prevalecen al escalimetro',2.5,GREY)
  text(577,407,f'{len(SHEETS)+1:02d}',2.6,INK,anchor='end');SHEETS.append({'id':code,'title':title,'svg':code+'.svg','dxf':code+'.dxf'})
 
@@ -236,6 +236,7 @@ begin('A00','Indice y criterios','Juego coordinado para revision independiente; 
 text(22,56,'LA PROPIEDAD COMPLETA, EN UNA MISMA VERSION',7.5,INK,True)
 para(22,70,'Plantas, fachadas, cortes y detalles extraidos del archivo Blender indicado en cada cartela. Las anotaciones distinguen fuente dimensional, geometria medida y propuestas pendientes.',535,3.5,leading=5.5)
 INDEX=[('A01','Implantacion, paisaje y perimetro','1:100 / 1:50'),('A02','Planta baja y vanos','1:50'),('A03','Planta alta, estudio y vivienda','1:50'),('A03b','Vivienda / uso y recorridos','1:25'),('A04','Cubiertas y coordinacion pluvial','1:50 / esquema'),('A05a / A05b','Cuatro fachadas','1:50'),('A06','Cortes generales A-A y B-B','1:50'),('A07','Escalera, descanso y acceso','1:20 / 1:5'),('A08','Pileta y bordes','1:25'),('A09','Banos: plantas y elevaciones','1:20 / 1:25'),('A10','Quincho y cocinas','1:25 / 1:50'),('A10b','Monoambiente: uso y cotas G','1:25 / 1:20'),('A11','Estudio y tratamiento acustico','1:25 / 1:50'),('A12','Carpinterias y herreria','Cuadros / 1:25'),('A13 / A13b','Encuentros de envolvente','1:5 / 1:10'),('A14','Estructura conceptual','1:50 / 1:10'),('A15','Instalaciones coordinadas','1:100 / esquemas'),('A16','Superficies, decisiones y trazabilidad','Cuadros'),('D01-D11' if 'BTH95 | ducha columna' in BY else 'D01-D10' if 'SL95 | A rodillo1 diámetro20' in BY else 'D01-D09' if abs(BATH_NPT-3.25)<.01 else 'D01-D08','Suplemento G/P (incluye D05b)','1:1 a 1:50')]
+if R8:INDEX.append(('D13 / D14','Uso MIDI e isla / apoyo y recorridos','1:5 / 1:10 / 1:20'))
 table(22,93,[30,193,50],['Hoja','Contenido','Escala'],INDEX,13)
 notes(330,96,'COMO LEER ESTE JUEGO',[
 'F - Fuente: cotas expresas del HTML original y decisiones del propietario.',
@@ -300,7 +301,7 @@ notes(333,54,'DIMENSIONES Y NIVELES',[
 'Barridos azules: pose de apertura esquematica de hojas; la ausencia de colision se audita en el modelo y no se presume por este simbolo.'
 ],223)
 notes(333,223,'LECTURA DE LOS EQUIPOS',[
-'Cocina en L e isla del monoambiente: plantas y alturas de mesada en A10.',
+('Cocina en L e isla: A10b. D14 amplia las dos plazas, rodillas, apoyos y trayectorias de uso.' if R8 else 'Cocina en L e isla del monoambiente: plantas y alturas de mesada en A10.'),
 'Quincho: horno, bacha y parrilla mantienen la linea de fuente; extracciones independientes hacia patinillo. Ver A10 y A15.',
 'La circulacion y los usos se muestran con el mobiliario actual. No se certifican accesibilidad ni condiciones reglamentarias locales.'
 ],223)
@@ -556,13 +557,19 @@ if 'Isla cocina mono tapa' in BY:
  def actual_height(n,floor):return BY[n]['hi'][2]-floor if n in BY else None
  table_height=actual_height('Mesa mono tapa',.21);chair=actual_height('Silla mono 1 asiento',.21)
  rows=[('Mesa / altura G',f'{table_height:.3f} m' if table_height else 'no disponible'),('Asiento silla / G',f'{chair:.3f} m' if chair else 'no disponible'),('Mesada-isla / G',f"{il['hi'][2]-.21:.3f} m"),('Piso terminado / G','+0,210 m'),('Paso hasta tirador / G',f'{gap:.3f} m' if handle else 'no disponible')]
+ if R8:
+  fondo=BY['Isla cocina mono base | fondo'];left=BY['Taburete isla mono A | pata izq frente'];right=BY['Taburete isla mono A | pata der frente']
+  knee=fondo['lo'][1]-il['lo'][1];legclear=right['lo'][0]-left['hi'][0]
+  rows += [('Rodillas / fondo G',f'{knee:.3f} m'),('Taburete / entre patas G',f'{legclear:.3f} m')]
+  METRICS.setdefault('usage_clearances',{}).update(island_knee_depth_m=knee,stool_front_leg_clearance_m=legclear)
+  v.dimy(il['lo'][1],fondo['lo'][1],15.55,label=f'{knee:.3f} G rodillas / D14')
  yy=83
  for label,value in rows:text(396,yy,label,3.0,INK,True);text(570,yy,value,3.0,BLUE,anchor='end');yy+=10
  notes(397,150,'ALCANCE DE LAS HUELLAS P',[
  'P: usuario600 mm al lado del barrido de heladera y hoja abierta90° con eje derecho propuesto por tirador izquierdo. La seleccion del equipo debe confirmar mano, carrera y acceso.',
  'G: posicion de muebles y sanitarios del modelo. P: retiro450 mm de ambas sillas en trazo discontinuo; no es pose guardada. A09 y D11 amplian los banos.',
  'Herrajes, electrodomesticos y muebles no tienen marca/producto confirmados. G documenta geometria, no conformidad del producto o accesibilidad.',
- 'Las dimensiones de obra, espesores y servicios necesitan replanteo y proyecto ejecutivo segun jurisdiccion.'
+ ('D14: cuerpos declarados, rodillas, bastidor y retirada alternada de taburetes. El paso posterior corresponde a plazas ocupadas; no equivale a accesibilidad certificada.' if R8 else 'Las dimensiones de obra, espesores y servicios necesitan replanteo y proyecto ejecutivo segun jurisdiccion.')
  ],174)
  if R7:
   ev=View(397,273,[18.10,20.40,.10,1.40],20,False,'02 Mesa y sillas / elevacion G')
@@ -579,7 +586,11 @@ if 'Isla cocina mono tapa' in BY:
  end()
 # STUDIO
 begin('A11','Estudio y estrategia acustica','Tratamiento representado; prestaciones sin calcular')
-v=View(35,69,[13.8,22.2,-.2,6.25],25,True,'01 Estudio / posiciones y cerramientos');draw_plan(v,4.5,filter_fn=lambda o:'SITE' not in o['collections']);v.dimx(14.2,21.8,-.5,0);v.dimy(.2,5.8,22.4,22);v.label(17.9,1,'FRENTE DE ESCUCHA',3.1,BLUE,True);v.label(18,3.4,'Punto de escucha / verificar',2.8,BLUE);v.line((18,3.1),(18,1.4),.35,BLUE,True)
+v=View(35,69,[13.8,22.2,-.2,6.25],25,True,'01 Estudio / posiciones y cerramientos');draw_plan(v,4.5,filter_fn=lambda o:'SITE' not in o['collections']);v.dimx(14.2,21.8,-.5,0);v.dimy(.2,5.8,22.4,22);v.label(16.6,3,'FRENTE DE ESCUCHA',3.1,BLUE,True) if R8 else v.label(17.9,1,'FRENTE DE ESCUCHA',3.1,BLUE,True)
+if R8:
+ operator_x=(BY['Silla estudio asiento']['lo'][0]+BY['Silla estudio asiento']['hi'][0])/2;operator_z=(BY['Silla estudio asiento']['lo'][1]+BY['Silla estudio asiento']['hi'][1])/2
+ v.label(operator_x,operator_z-.50,'P operador / ajustar oidos',2.8,BLUE);v.line((operator_x,operator_z),(17.8,operator_z),.35,BLUE,True)
+else:v.label(18,3.4,'Punto de escucha / verificar',2.8,BLUE);v.line((18,3.1),(18,1.4),.35,BLUE,True)
 # Acoustic cloud projection included from actual mesh
 for o in OB:
  if 'np' in o and any(t in o['name'].lower() for t in ['cloud estudio','bafle cielorraso']):v.shp(shape_project(o,[0,1]),.13,BLUE,None)
@@ -595,6 +606,14 @@ notes(407,55,'CRITERIO ACUSTICO PROPUESTO',[
 ('P modelado:2 circuitos con filtros, ventiladores, silenciadores600 y ductosØ150; pasos frontales300x80. Registro1,40x0,83 y accesorios desde+6,453. D08 muestra montaje y retirada.' if VENT else 'P: ventilacion silenciosa con recorridos atenuados; controlar vibracion y ruido de equipos. No hay sistema de acondicionamiento dimensionado.'),
 'P: patinillo de combustion: definir proteccion termica, separacion, juntas y acceso de limpieza sin comprometer el estudio.'
 ],154)
+if R8:
+ white=next(o for n,o in BY.items() if n.startswith('MAT95 | tecla natural'));black=next(o for n,o in BY.items() if n.startswith('MAT95 | tecla sostenido'));tray=BY['USO99 | MIDI bandeja18'];floor=BY['Piso estudio']['hi'][2];seat=BY['Silla estudio asiento']['hi'][2]-floor
+ METRICS['midi_use']={'white_key_height_m':white['hi'][2]-floor,'black_key_height_m':black['hi'][2]-floor,'seat_height_m':seat,'tray_clear_height_m':tray['lo'][2]-floor,'source_sha256':SHA}
+ notes(407,282,'PUESTO MIDI / VER D13',[
+ f"G teclas blancas {(white['hi'][2]-floor)*1000:.1f} / negras {(black['hi'][2]-floor)*1000:.1f} mm; asiento {seat*1000:.0f} mm sobre NPT.",
+ f"G bandeja libre {(tray['lo'][2]-floor)*1000:.0f} mm. D13 muestra recorte, brazos, apoyo y operador P dimensionado.",
+ 'La postura y el montaje se distinguen de la capacidad resistente y del ajuste a cada usuario.'
+ ],154)
 notes(35,348,'VERIFICACION PENDIENTE',[
 'Medicion o simulacion acustica con absorcion real de materiales, volumen util, posiciones definitivas y ruido de instalaciones. No se asignan valores de dB ni tiempos de reverberacion sin evidencia.'
 ],335)

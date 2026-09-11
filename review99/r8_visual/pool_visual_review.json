@@ -1,0 +1,20 @@
+{
+  "reviewer": "constructor/root",
+  "type": "Partial visual check, not independent global audit",
+  "sourceSHA256": "9d4501a26630b5679fbaa1a6e75026f4ae0645fb80f4cf2cc94951ba221a24f0",
+  "camera": "LUZ99 | Pileta desde jardin",
+  "images": [
+    "pileta_jardin.png",
+    "pileta_jardin_agua_suave.png"
+  ],
+  "findings": [
+    "New camera shows complete near coping, underwater steps, rail and relationship with quincho; the existing wall no longer masks the foreground.",
+    "Subtler optical ripple improves continuity of reflected trees/wall and legibility of steps; dark oblique reflections remain physically plausible at dusk.",
+    "Water geometry, confinement and elevations are unchanged; effective bump-height multiplier falls from8.28mm to1.84mm.",
+    "Grass visible in these proofs is the old R7D layer; final R8 photographs must use the integrated updated turf.",
+    "Browser water normal field remains an approximation and must be identified in matched-camera comparison."
+  ],
+  "acceptForIntegration": true,
+  "globalScoreAssigned": false,
+  "videoRendered": false
+}

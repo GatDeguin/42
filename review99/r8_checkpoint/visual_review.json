@@ -1,0 +1,38 @@
+{
+  "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+  "type": "Constructor visual inspection of progress stills; not an independent architectural rating",
+  "images": [
+    {
+      "key": "huerta",
+      "sha256": "1eb4bbc67c5b211dbc83cf69fb041d92598dde2544579c2dc567ef9de289ccf8",
+      "inspected": true
+    },
+    {
+      "key": "estudio",
+      "sha256": "db117ab04ba97a1d45119f168293693530a9489dd4fd35405b394145dec9d724",
+      "inspected": true
+    },
+    {
+      "key": "dormitorio",
+      "sha256": "87af0f73c32379fd534c7c3b0c2ca59532742829aba46571efa24fe4e3561418",
+      "inspected": true
+    },
+    {
+      "key": "pileta_jardin",
+      "sha256": "227b2ada728c13f5da643da05e0008615ad5bbc529567d7c824fb232cd6130a4",
+      "inspected": true
+    }
+  ],
+  "observations": [
+    "Studio shows new supported MIDI at the identified use height; no camera clipping.",
+    "Bedroom blanket is continuous and upholstery bands are removed; finish remains in photographic review.",
+    "Lawn coverage and leaf silhouettes are improved; no claim of botanical or photorealistic approval.",
+    "Pool foreground border is visible from the additional human-height view; water remains the exact basin volume with adjusted optical bump."
+  ],
+  "status": "SUITABLE_AS_IDENTIFIED_PROGRESS",
+  "lastFormalRating": {
+    "revision": "R7D",
+    "score": 8.5
+  },
+  "videoRendered": false
+}

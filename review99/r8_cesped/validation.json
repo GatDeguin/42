@@ -1,0 +1,908 @@
+{
+  "source_sha256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7D.blend",
+  "patch_sha256": "f68d744baaa229545fd481f9ded04d24916a91f009ecec4a0656f0dd87f7504e",
+  "seconds_apply": 16.919535160064697,
+  "changed": [
+    "Césped botánico 00-00",
+    "Césped botánico 00-01",
+    "Césped botánico 00-02",
+    "Césped botánico 00-03",
+    "Césped botánico 00-04",
+    "Césped botánico 00-05",
+    "Césped botánico 00-06",
+    "Césped botánico 00-07",
+    "Césped botánico 00-08",
+    "Césped botánico 00-09",
+    "Césped botánico 01-00",
+    "Césped botánico 01-01",
+    "Césped botánico 01-04",
+    "Césped botánico 01-05",
+    "Césped botánico 01-06",
+    "Césped botánico 01-07",
+    "Césped botánico 01-08",
+    "Césped botánico 01-09",
+    "Césped botánico 02-00",
+    "Césped botánico 02-01",
+    "Césped botánico 02-04",
+    "Césped botánico 02-05",
+    "Césped botánico 02-06",
+    "Césped botánico 02-07",
+    "Césped botánico 02-08",
+    "Césped botánico 02-09",
+    "Césped botánico 03-00",
+    "Césped botánico 03-01",
+    "Césped botánico 03-04",
+    "Césped botánico 03-05",
+    "Césped botánico 03-06",
+    "Césped botánico 03-07",
+    "Césped botánico 03-08",
+    "Césped botánico 03-09",
+    "Césped botánico 04-00",
+    "Césped botánico 04-01",
+    "Césped botánico 04-02",
+    "Césped botánico 04-03",
+    "Césped botánico 04-04",
+    "Césped botánico 04-05",
+    "Césped botánico 04-06",
+    "Césped botánico 04-07",
+    "Césped botánico 04-08",
+    "Césped botánico 04-09",
+    "Césped botánico 05-00",
+    "Césped botánico 05-01",
+    "Césped botánico 05-02",
+    "Césped botánico 05-03",
+    "Césped botánico 05-04",
+    "Césped botánico 05-05",
+    "Césped botánico 05-06",
+    "Césped botánico 05-07",
+    "Césped botánico 05-08",
+    "Césped botánico 05-09",
+    "Césped botánico 06-00",
+    "Césped botánico 06-01",
+    "Césped botánico 06-02",
+    "Césped botánico 06-03",
+    "Césped botánico 06-04",
+    "Césped botánico 06-05",
+    "Césped botánico 06-06",
+    "Césped botánico 06-09",
+    "Césped botánico 07-06",
+    "Césped botánico 07-09",
+    "Césped botánico 08-06",
+    "Césped botánico 08-09",
+    "Césped botánico 09-06",
+    "Césped botánico 09-09",
+    "Césped botánico 10-06",
+    "Césped botánico 10-07",
+    "Césped botánico 10-08",
+    "Césped botánico 10-09",
+    "Césped del lote",
+    "Paisaje | pradera de transición"
+  ],
+  "added_objects": [],
+  "removed_objects": [],
+  "idempotent": true,
+  "root_errors": [],
+  "roots": [
+    {
+      "object": "Césped botánico 00-00",
+      "anchors": 1632,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 00-01",
+      "anchors": 1758,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 00-02",
+      "anchors": 1586,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 00-03",
+      "anchors": 1597,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 00-04",
+      "anchors": 1839,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 00-05",
+      "anchors": 1647,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 00-06",
+      "anchors": 1816,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 00-07",
+      "anchors": 1847,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 00-08",
+      "anchors": 1577,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 00-09",
+      "anchors": 1632,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 01-00",
+      "anchors": 1834,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 01-01",
+      "anchors": 1491,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 01-04",
+      "anchors": 2024,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 01-05",
+      "anchors": 1892,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 01-06",
+      "anchors": 2048,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 01-07",
+      "anchors": 2080,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 01-08",
+      "anchors": 1815,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 01-09",
+      "anchors": 1835,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 02-00",
+      "anchors": 1859,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 02-01",
+      "anchors": 1488,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 02-04",
+      "anchors": 2021,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 02-05",
+      "anchors": 2080,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 02-06",
+      "anchors": 2080,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 02-07",
+      "anchors": 2080,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 02-08",
+      "anchors": 1734,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 02-09",
+      "anchors": 1821,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 03-00",
+      "anchors": 1821,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 03-01",
+      "anchors": 1500,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 03-04",
+      "anchors": 2032,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 03-05",
+      "anchors": 2080,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 03-06",
+      "anchors": 1981,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 03-07",
+      "anchors": 2079,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 03-08",
+      "anchors": 2080,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 03-09",
+      "anchors": 1827,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 04-00",
+      "anchors": 1835,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 04-01",
+      "anchors": 1849,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 04-02",
+      "anchors": 939,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 04-03",
+      "anchors": 1296,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 04-04",
+      "anchors": 2062,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 04-05",
+      "anchors": 2080,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 04-06",
+      "anchors": 1785,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 04-07",
+      "anchors": 2076,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 04-08",
+      "anchors": 1883,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 04-09",
+      "anchors": 1742,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 05-00",
+      "anchors": 1828,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 05-01",
+      "anchors": 2080,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 05-02",
+      "anchors": 2080,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 05-03",
+      "anchors": 2080,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 05-04",
+      "anchors": 2080,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 05-05",
+      "anchors": 2080,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 05-06",
+      "anchors": 2075,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 05-07",
+      "anchors": 2003,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 05-08",
+      "anchors": 1910,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 05-09",
+      "anchors": 1761,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 06-00",
+      "anchors": 696,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 06-01",
+      "anchors": 810,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 06-02",
+      "anchors": 788,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 06-03",
+      "anchors": 798,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 06-04",
+      "anchors": 761,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 06-05",
+      "anchors": 771,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 06-06",
+      "anchors": 1214,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 06-09",
+      "anchors": 714,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 07-06",
+      "anchors": 769,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 07-09",
+      "anchors": 707,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 08-06",
+      "anchors": 751,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 08-09",
+      "anchors": 742,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 09-06",
+      "anchors": 759,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 09-09",
+      "anchors": 715,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 10-06",
+      "anchors": 697,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 10-07",
+      "anchors": 703,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 10-08",
+      "anchors": 745,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Césped botánico 10-09",
+      "anchors": 1026,
+      "excluded_roots": 0
+    },
+    {
+      "object": "Paisaje | pradera de transición",
+      "anchors": 7444,
+      "excluded_roots": 0
+    }
+  ],
+  "uv": [
+    {
+      "object": "Césped botánico 00-00",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 00-01",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 00-02",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 00-03",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 00-04",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 00-05",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 00-06",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 00-07",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 00-08",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 00-09",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 01-00",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 01-01",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 01-04",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 01-05",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 01-06",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 01-07",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 01-08",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 01-09",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 02-00",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 02-01",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 02-04",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 02-05",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 02-06",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 02-07",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 02-08",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 02-09",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 03-00",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 03-01",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 03-04",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 03-05",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 03-06",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 03-07",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 03-08",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 03-09",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 04-00",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 04-01",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 04-02",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 04-03",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 04-04",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 04-05",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 04-06",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 04-07",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 04-08",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 04-09",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 05-00",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 05-01",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 05-02",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 05-03",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 05-04",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 05-05",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 05-06",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 05-07",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 05-08",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 05-09",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 06-00",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 06-01",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 06-02",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 06-03",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 06-04",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 06-05",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 06-06",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 06-09",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 07-06",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 07-09",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 08-06",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 08-09",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 09-06",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 09-09",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 10-06",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 10-07",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 10-08",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Césped botánico 10-09",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    },
+    {
+      "object": "Paisaje | pradera de transición",
+      "min": 0.0056401328183710575,
+      "max": 0.9923574924468994,
+      "finite": true
+    }
+  ],
+  "totals": {
+    "total_vertices_before": 1531804,
+    "total_vertices_after": 1588465,
+    "total_triangles_after": 1567231,
+    "total_clumps": 121647
+  },
+  "scenes": [
+    "CASA DE CAMPO | Atardecer",
+    "CASA DE CAMPO | DÍA",
+    "CASA DE CAMPO | NOCHE",
+    "INSPECCIÓN | Planta alta"
+  ],
+  "ground_geometry_unchanged": true,
+  "ground_mask_huerta_errors": 0,
+  "pass": true
+}

@@ -1,0 +1,1597 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R8.blend",
+  "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+  "externalPairs": 505,
+  "externalHits": [],
+  "internal": [
+    {
+      "a": "Inodoro mono | asiento",
+      "b": "Inodoro mono | mochila compacta",
+      "volume_m3": 0
+    },
+    {
+      "a": "Inodoro mono | asiento",
+      "b": "Inodoro mono",
+      "volume_m3": 0
+    },
+    {
+      "a": "SAN99 | mono cover open90",
+      "b": "Inodoro mono | mochila compacta",
+      "volume_m3": 0
+    },
+    {
+      "a": "SAN99 | mono cover open90",
+      "b": "Inodoro mono | asiento",
+      "volume_m3": 0
+    },
+    {
+      "a": "Inodoro mono | mochila compacta",
+      "b": "Inodoro mono",
+      "volume_m3": 0
+    },
+    {
+      "a": "Inodoro quincho | asiento",
+      "b": "Inodoro quincho | mochila compacta",
+      "volume_m3": 0
+    },
+    {
+      "a": "Inodoro quincho | asiento",
+      "b": "Inodoro quincho",
+      "volume_m3": 0
+    },
+    {
+      "a": "SAN99 | quincho cover open90",
+      "b": "Inodoro quincho | mochila compacta",
+      "volume_m3": 0
+    },
+    {
+      "a": "SAN99 | quincho cover open90",
+      "b": "Inodoro quincho | asiento",
+      "volume_m3": 0
+    },
+    {
+      "a": "Inodoro quincho | mochila compacta",
+      "b": "Inodoro quincho",
+      "volume_m3": 0
+    },
+    {
+      "a": "Inodoro suite | asiento",
+      "b": "Inodoro suite | mochila compacta",
+      "volume_m3": 0
+    },
+    {
+      "a": "Inodoro suite | asiento",
+      "b": "Inodoro vivienda",
+      "volume_m3": 0
+    },
+    {
+      "a": "SAN99 | suite cover open90",
+      "b": "Inodoro suite | mochila compacta",
+      "volume_m3": 0
+    },
+    {
+      "a": "SAN99 | suite cover open90",
+      "b": "Inodoro suite | asiento",
+      "volume_m3": 0
+    },
+    {
+      "a": "Inodoro suite | mochila compacta",
+      "b": "Inodoro vivienda",
+      "volume_m3": 0
+    }
+  ],
+  "normals": [
+    {
+      "name": "Inodoro mono",
+      "volume": 0.035257575688641345,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "Inodoro quincho",
+      "volume": 0.035257577331894066,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "Inodoro vivienda",
+      "volume": 0.042574887075307835,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "Inodoro mono | asiento",
+      "volume": 0.001536971013481248,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "Inodoro quincho | asiento",
+      "volume": 0.0015369693415418074,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "Inodoro suite | asiento",
+      "volume": 0.0015369835354521418,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "Inodoro mono | mochila compacta",
+      "volume": 0.01449366270630321,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "Inodoro quincho | mochila compacta",
+      "volume": 0.014493553510639575,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "Inodoro suite | mochila compacta",
+      "volume": 0.015568719063072736,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | mono seat rubber stop",
+      "volume": 1.1160703470818525e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | mono seat rubber stop.001",
+      "volume": 1.116069218466734e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | mono seat rubber stop.002",
+      "volume": 1.1159886382950619e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | mono seat rubber stop.003",
+      "volume": 1.1159875098468833e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | mono tank support pad",
+      "volume": 1.959264030679047e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | mono tank support pad.001",
+      "volume": 1.959398652612819e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | mono hinge bolt",
+      "volume": 1.152919529545504e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | mono hinge washer",
+      "volume": 5.709197162918662e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | mono hinge bolt.001",
+      "volume": 1.152919529545211e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | mono hinge washer.001",
+      "volume": 5.70919716291077e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | mono cover open90",
+      "volume": 0.0019113484591780896,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | quincho seat rubber stop",
+      "volume": 1.1161070419688429e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | quincho seat rubber stop.001",
+      "volume": 1.116107041969656e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | quincho seat rubber stop.002",
+      "volume": 1.11598446946422e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | quincho seat rubber stop.003",
+      "volume": 1.1159844694648164e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | quincho tank support pad",
+      "volume": 1.959211539797248e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | quincho tank support pad.001",
+      "volume": 1.959278854175183e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | quincho hinge bolt",
+      "volume": 1.1528688964334634e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | quincho hinge washer",
+      "volume": 5.709218404581442e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | quincho hinge bolt.001",
+      "volume": 1.1528688967282682e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | quincho hinge washer.001",
+      "volume": 5.70921840259258e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | quincho cover open90",
+      "volume": 0.0019113404445285844,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | suite seat rubber stop",
+      "volume": 1.1159682799216208e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | suite seat rubber stop.001",
+      "volume": 1.1159682769378422e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | suite seat rubber stop.002",
+      "volume": 1.1160091347994783e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | suite seat rubber stop.003",
+      "volume": 1.1160091355727855e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | suite tank support pad",
+      "volume": 1.959408538482069e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | suite tank support pad.001",
+      "volume": 1.9594758525713217e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | suite hinge bolt",
+      "volume": 1.1528688966278304e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | suite hinge washer",
+      "volume": 5.709218404377834e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | suite hinge bolt.001",
+      "volume": 1.1528688965934747e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | suite hinge washer.001",
+      "volume": 5.709218404407057e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN99 | suite cover open90",
+      "volume": 0.0019113375289552018,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 base yoke",
+      "volume": 2.6880005469322385e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 ear L",
+      "volume": 1.3917023612042552e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 ear stem L",
+      "volume": 2.0479998745918226e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 ear R",
+      "volume": 1.3917026852352376e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 ear stem R",
+      "volume": 2.048000351428984e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 anchor gasket",
+      "volume": 1.9054535630018325e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 axle doubleD",
+      "volume": 1.2389132279298153e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 axle thread blank M6",
+      "volume": 2.2583152486885482e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 axle head",
+      "volume": 3.464102210983117e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 clamp washer",
+      "volume": 6.570285904771888e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 clamp nut M6 nominal",
+      "volume": 3.309446234567547e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 preload coned spring",
+      "volume": 6.582990378014987e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 friction centre",
+      "volume": 2.9930911933994643e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 friction outer",
+      "volume": 2.993088754307849e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 seat housing",
+      "volume": 1.4490853619636406e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 seat bearing",
+      "volume": 2.805956458897156e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 seat arm",
+      "volume": 1.5299999208049861e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 seat dog",
+      "volume": 4.129239208035311e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 seat stop carrier",
+      "volume": 3.983127944566785e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 seat stop0",
+      "volume": 3.811605485351501e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 seat stop90",
+      "volume": 3.8116056596463945e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 seat stop stand",
+      "volume": 3.711999791324125e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 lid housing",
+      "volume": 1.2420732087106487e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 lid bearing",
+      "volume": 2.405105616195042e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 lid arm",
+      "volume": 1.6320000295191984e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 lid dog",
+      "volume": 3.0969294661148204e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 lid stop carrier",
+      "volume": 2.987346016387229e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 lid stop0",
+      "volume": 2.858704169479784e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 lid stop90",
+      "volume": 2.8587043002009632e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H1 lid stop stand",
+      "volume": 2.7839998975097996e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 base yoke",
+      "volume": 2.6880005469322385e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 ear L",
+      "volume": 1.3917023612042552e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 ear stem L",
+      "volume": 2.0479998745918226e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 ear R",
+      "volume": 1.3917026852352376e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 ear stem R",
+      "volume": 2.048000351428984e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 anchor gasket",
+      "volume": 1.9054535630018325e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 axle doubleD",
+      "volume": 1.2389132279298153e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 axle thread blank M6",
+      "volume": 2.2583152486885482e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 axle head",
+      "volume": 3.464102210983117e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 clamp washer",
+      "volume": 6.570285904771888e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 clamp nut M6 nominal",
+      "volume": 3.309446234567547e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 preload coned spring",
+      "volume": 6.582990378014987e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 friction centre",
+      "volume": 2.9930911933994643e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 friction outer",
+      "volume": 2.993088754307849e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 seat housing",
+      "volume": 1.4490853619636406e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 seat bearing",
+      "volume": 2.805956458897156e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 seat arm",
+      "volume": 1.5299999208049861e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 seat dog",
+      "volume": 4.129239208035311e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 seat stop carrier",
+      "volume": 3.983127944566785e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 seat stop0",
+      "volume": 3.811605485351501e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 seat stop90",
+      "volume": 3.8116056596463945e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 seat stop stand",
+      "volume": 3.711999791324125e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 lid housing",
+      "volume": 1.2420732087106487e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 lid bearing",
+      "volume": 2.405105616195042e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 lid arm",
+      "volume": 1.6320000295191984e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 lid dog",
+      "volume": 3.0969294661148204e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 lid stop carrier",
+      "volume": 2.987346016387229e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 lid stop0",
+      "volume": 2.858704169479784e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 lid stop90",
+      "volume": 2.8587043002009632e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono H2 lid stop stand",
+      "volume": 2.7839998975097996e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono lid buffer 00",
+      "volume": 5.599994190223935e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono lid buffer 01",
+      "volume": 5.60000253487352e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono lid buffer 10",
+      "volume": 5.599994190223933e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | mono lid buffer 11",
+      "volume": 5.600002534873517e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 base yoke",
+      "volume": 2.6880005469322385e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 ear L",
+      "volume": 1.3917023612042552e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 ear stem L",
+      "volume": 2.0479998745918226e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 ear R",
+      "volume": 1.3917026852352376e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 ear stem R",
+      "volume": 2.048000351428984e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 anchor gasket",
+      "volume": 1.9054535630018325e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 axle doubleD",
+      "volume": 1.2389132279298153e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 axle thread blank M6",
+      "volume": 2.2583152486885482e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 axle head",
+      "volume": 3.464102210983117e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 clamp washer",
+      "volume": 6.570285904771888e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 clamp nut M6 nominal",
+      "volume": 3.309446234567547e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 preload coned spring",
+      "volume": 6.582990378014987e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 friction centre",
+      "volume": 2.9930911933994643e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 friction outer",
+      "volume": 2.993088754307849e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 seat housing",
+      "volume": 1.4490853619636406e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 seat bearing",
+      "volume": 2.805956458897156e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 seat arm",
+      "volume": 1.5299999208049861e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 seat dog",
+      "volume": 4.129239208035311e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 seat stop carrier",
+      "volume": 3.983127944566785e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 seat stop0",
+      "volume": 3.811605485351501e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 seat stop90",
+      "volume": 3.8116056596463945e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 seat stop stand",
+      "volume": 3.711999791324125e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 lid housing",
+      "volume": 1.2420732087106487e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 lid bearing",
+      "volume": 2.405105616195042e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 lid arm",
+      "volume": 1.6320000295191984e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 lid dog",
+      "volume": 3.0969294661148204e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 lid stop carrier",
+      "volume": 2.987346016387229e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 lid stop0",
+      "volume": 2.858704169479784e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 lid stop90",
+      "volume": 2.8587043002009632e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H1 lid stop stand",
+      "volume": 2.7839998975097996e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 base yoke",
+      "volume": 2.6880005469322385e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 ear L",
+      "volume": 1.3917023612042552e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 ear stem L",
+      "volume": 2.0479998745918226e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 ear R",
+      "volume": 1.3917026852352376e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 ear stem R",
+      "volume": 2.048000351428984e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 anchor gasket",
+      "volume": 1.9054535630018325e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 axle doubleD",
+      "volume": 1.2389132279298153e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 axle thread blank M6",
+      "volume": 2.2583152486885482e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 axle head",
+      "volume": 3.464102210983117e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 clamp washer",
+      "volume": 6.570285904771888e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 clamp nut M6 nominal",
+      "volume": 3.309446234567547e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 preload coned spring",
+      "volume": 6.582990378014987e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 friction centre",
+      "volume": 2.9930911933994643e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 friction outer",
+      "volume": 2.993088754307849e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 seat housing",
+      "volume": 1.4490853619636406e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 seat bearing",
+      "volume": 2.805956458897156e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 seat arm",
+      "volume": 1.5299999208049861e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 seat dog",
+      "volume": 4.129239208035311e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 seat stop carrier",
+      "volume": 3.983127944566785e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 seat stop0",
+      "volume": 3.811605485351501e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 seat stop90",
+      "volume": 3.8116056596463945e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 seat stop stand",
+      "volume": 3.711999791324125e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 lid housing",
+      "volume": 1.2420732087106487e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 lid bearing",
+      "volume": 2.405105616195042e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 lid arm",
+      "volume": 1.6320000295191984e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 lid dog",
+      "volume": 3.0969294661148204e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 lid stop carrier",
+      "volume": 2.987346016387229e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 lid stop0",
+      "volume": 2.858704169479784e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 lid stop90",
+      "volume": 2.8587043002009632e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho H2 lid stop stand",
+      "volume": 2.7839998975097996e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho lid buffer 00",
+      "volume": 5.599994190223935e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho lid buffer 01",
+      "volume": 5.60000253487352e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho lid buffer 10",
+      "volume": 5.599994190223933e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | quincho lid buffer 11",
+      "volume": 5.600002534873517e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 base yoke",
+      "volume": 2.6880005469322385e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 ear L",
+      "volume": 1.3917023612042552e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 ear stem L",
+      "volume": 2.0479998745918226e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 ear R",
+      "volume": 1.3917026852352376e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 ear stem R",
+      "volume": 2.048000351428984e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 anchor gasket",
+      "volume": 1.9054535630018325e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 axle doubleD",
+      "volume": 1.2389132279298153e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 axle thread blank M6",
+      "volume": 2.2583152486885482e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 axle head",
+      "volume": 3.464102210983117e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 clamp washer",
+      "volume": 6.570285904771888e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 clamp nut M6 nominal",
+      "volume": 3.309446234567547e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 preload coned spring",
+      "volume": 6.582990378014987e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 friction centre",
+      "volume": 2.9930911933994643e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 friction outer",
+      "volume": 2.993088754307849e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 seat housing",
+      "volume": 1.4490853619636406e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 seat bearing",
+      "volume": 2.805956458897156e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 seat arm",
+      "volume": 1.5299999208049861e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 seat dog",
+      "volume": 4.129239208035311e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 seat stop carrier",
+      "volume": 3.983127944566785e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 seat stop0",
+      "volume": 3.811605485351501e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 seat stop90",
+      "volume": 3.8116056596463945e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 seat stop stand",
+      "volume": 3.711999791324125e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 lid housing",
+      "volume": 1.2420732087106487e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 lid bearing",
+      "volume": 2.405105616195042e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 lid arm",
+      "volume": 1.6320000295191984e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 lid dog",
+      "volume": 3.0969294661148204e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 lid stop carrier",
+      "volume": 2.987346016387229e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 lid stop0",
+      "volume": 2.858704169479784e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 lid stop90",
+      "volume": 2.8587043002009632e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H1 lid stop stand",
+      "volume": 2.7839998975097996e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 base yoke",
+      "volume": 2.6880005469322385e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 ear L",
+      "volume": 1.3917023612042552e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 ear stem L",
+      "volume": 2.0479998745918226e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 ear R",
+      "volume": 1.3917026852352376e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 ear stem R",
+      "volume": 2.048000351428984e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 anchor gasket",
+      "volume": 1.9054535630018325e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 axle doubleD",
+      "volume": 1.2389132279298153e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 axle thread blank M6",
+      "volume": 2.2583152486885482e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 axle head",
+      "volume": 3.464102210983117e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 clamp washer",
+      "volume": 6.570285904771888e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 clamp nut M6 nominal",
+      "volume": 3.309446234567547e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 preload coned spring",
+      "volume": 6.582990378014987e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 friction centre",
+      "volume": 2.9930911933994643e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 friction outer",
+      "volume": 2.993088754307849e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 seat housing",
+      "volume": 1.4490853619636406e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 seat bearing",
+      "volume": 2.805956458897156e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 seat arm",
+      "volume": 1.5299999208049861e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 seat dog",
+      "volume": 4.129239208035311e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 seat stop carrier",
+      "volume": 3.983127944566785e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 seat stop0",
+      "volume": 3.811605485351501e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 seat stop90",
+      "volume": 3.8116056596463945e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 seat stop stand",
+      "volume": 3.711999791324125e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 lid housing",
+      "volume": 1.2420732087106487e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 lid bearing",
+      "volume": 2.405105616195042e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 lid arm",
+      "volume": 1.6320000295191984e-06,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 lid dog",
+      "volume": 3.0969294661148204e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 lid stop carrier",
+      "volume": 2.987346016387229e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 lid stop0",
+      "volume": 2.858704169479784e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 lid stop90",
+      "volume": 2.8587043002009632e-08,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite H2 lid stop stand",
+      "volume": 2.7839998975097996e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite lid buffer 00",
+      "volume": 5.599994190223935e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite lid buffer 01",
+      "volume": 5.60000253487352e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite lid buffer 10",
+      "volume": 5.599994190223933e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    },
+    {
+      "name": "SAN8 | suite lid buffer 11",
+      "volume": 5.600002534873517e-07,
+      "nonmanifold": 0,
+      "determinant": 1.0
+    }
+  ],
+  "footprints": [
+    {
+      "label": "mono",
+      "current": [
+        [
+          19.639999389648438,
+          20.059999465942383
+        ],
+        [
+          -1.6753997802734375,
+          -1.0399999618530273
+        ],
+        [
+          0.20999999344348907,
+          1.1329998970031738
+        ]
+      ],
+      "original": [
+        [
+          19.639999389648438,
+          20.059999465942383
+        ],
+        [
+          -1.6753997802734375,
+          -1.0399999618530273
+        ],
+        [
+          0.20999999344348907,
+          0.9800000190734863
+        ]
+      ],
+      "maxPlanDelta": 0.0
+    },
+    {
+      "label": "quincho",
+      "current": [
+        [
+          21.31999969482422,
+          21.739999771118164
+        ],
+        [
+          -10.889999389648438,
+          -10.254599571228027
+        ],
+        [
+          0.20999999344348907,
+          1.133000373840332
+        ]
+      ],
+      "original": [
+        [
+          21.31999969482422,
+          21.739999771118164
+        ],
+        [
+          -10.889999389648438,
+          -10.254599571228027
+        ],
+        [
+          0.20999999344348907,
+          0.9800000190734863
+        ]
+      ],
+      "maxPlanDelta": 0.0
+    },
+    {
+      "label": "suite",
+      "current": [
+        [
+          21.114999771118164,
+          21.565000534057617
+        ],
+        [
+          -8.472199440002441,
+          -7.800000190734863
+        ],
+        [
+          3.25,
+          4.172999382019043
+        ]
+      ],
+      "original": [
+        [
+          21.114999771118164,
+          21.565000534057617
+        ],
+        [
+          -8.472199440002441,
+          -7.800000190734863
+        ],
+        [
+          3.25,
+          4.019999980926514
+        ]
+      ],
+      "maxPlanDelta": 0.0
+    }
+  ],
+  "retainedInterfaces": [
+    "BTH95 | reserva salida WC mono",
+    "BTH95 | sello salida WC mono",
+    "BTH95 | reserva salida WC quincho",
+    "BTH95 | sello salida WC quincho"
+  ],
+  "orphanPlinthRemoved": true,
+  "videoRendered": false,
+  "scope": "Geometric contacts and envelopes; generic fixture with simplified internal ceramic, no manufacturer hydraulic performance claim.",
+  "pass": true
+}

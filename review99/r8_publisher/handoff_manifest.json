@@ -1,0 +1,120 @@
+{
+  "status": "READY_FOR_FINAL_SOURCE",
+  "published": false,
+  "no_blender_source_saved": true,
+  "generator_sheets": 35,
+  "preserved_sheets": 33,
+  "added_sheets": [
+    "D13",
+    "D14"
+  ],
+  "native_dxf_dimensions": 226,
+  "compatibility_sheets": 33,
+  "compatibility_dimensions": 209,
+  "preview_source_sha256": "ac0922a881eeea24ad0a7dfd13bf20e710a9b0069039f06711f5755c2dd78d4d",
+  "stable_sources": [
+    {
+      "path": "scripts/planos99_emit_r8.py",
+      "bytes": 4584,
+      "sha256": "974fff274fdd42e8d91a10a6342cc6008e9b13bbac6fc24d6b892719607e6c3e"
+    },
+    {
+      "path": "scripts/planos99_uso_a2.py",
+      "bytes": 10400,
+      "sha256": "11cd50b35fffe8ff39648d9f142699c86af782cba689284cfb569d8b8e45a8f5"
+    },
+    {
+      "path": "scripts/planos95_extract.py",
+      "bytes": 2501,
+      "sha256": "f742f768821ef14a81938386fef0a16cd0b653110e039f361cee36791ca32f9f"
+    },
+    {
+      "path": "scripts/planos95_build.py",
+      "bytes": 73475,
+      "sha256": "d3087bfe175b03c48982b06681c003aa0f2ab1adcd6580bd6cedc2385e90d377"
+    },
+    {
+      "path": "scripts/planos95_details_build.py",
+      "bytes": 54475,
+      "sha256": "07441514e9fba0a2e4733b29f66f118a740d9b6bdb2462255d21389d6436ae8e"
+    },
+    {
+      "path": "scripts/planos95_package.py",
+      "bytes": 6012,
+      "sha256": "29d6ace693c0664b20186f8e809f0a4617e8aa87fba1e7a5a3489346da433b6f"
+    },
+    {
+      "path": "scripts/planos99_document_audit.py",
+      "bytes": 9912,
+      "sha256": "da8b28bc3ae95e78f402509414cacf988005cdcdfb104680e36f6e1eebb6209d"
+    },
+    {
+      "path": "scripts/planos99_uso_r8_check.py",
+      "bytes": 18706,
+      "sha256": "4b432b5dc6e82f1ce9d3a5dd3894648b1d6334ccafe4c2eff0d25fd6676d2406"
+    },
+    {
+      "path": "scripts/planos95_publish.py",
+      "bytes": 22658,
+      "sha256": "bbdcf9efd8c27a525e9a91658e3ba3ea7b67b359c46c281deb6ce000c018018d"
+    },
+    {
+      "path": "scripts/planos95_publication.css",
+      "bytes": 2405,
+      "sha256": "6345637a7938359919c46eda86b48cd0cb6bb8d74dcde4a626a34ae82bc9c231"
+    },
+    {
+      "path": "scripts/planos99_service_access_probe.py",
+      "bytes": 5172,
+      "sha256": "4d308c5a419b194ae0b78c0a14b0e4a4ef88039ea77181c2dd79453803f6c5e3"
+    },
+    {
+      "path": "scripts/planos99_service_access.md",
+      "bytes": 1586,
+      "sha256": "5775520d4bafbfca06920abbff88e4b214974ef61d4bbead091a837d370d31c2"
+    },
+    {
+      "path": "web-tools/planos99-publisher-qa.mjs",
+      "bytes": 4447,
+      "sha256": "53543cc8d0496abc790caf1ef8d5fbc22832e9f6015831d44901766f523d85d1"
+    },
+    {
+      "path": "scripts/PLANOS_R8.md",
+      "bytes": 4064,
+      "sha256": "ec591bcedc308e5d4790ca0c032289ab45dc35050576cbeaa4fd8790dbd592b5"
+    }
+  ],
+  "local_evidence_not_for_checkpoint": [
+    {
+      "path": "planos95/r8_publication_preview/publication_validation.json",
+      "bytes": 1387,
+      "sha256": "54804ec0185cc9c22f7e3bb0c8789952368aa729d4b853808ae3eb23b6d84794"
+    },
+    {
+      "path": "planos95/r7d_publisher_compat/publication_validation.json",
+      "bytes": 1427,
+      "sha256": "d2f1870f45aee4bc0c363b4c0d6c45d0abfffe1a4d812df3c63134fe77e073ef"
+    },
+    {
+      "path": "review99/r8_publisher/browser/browser_validation.json",
+      "bytes": 24062,
+      "sha256": "17429e5bcaa911f3731a61ba4fe47fc40b26a47ff26f2f381430f6724d3d0319"
+    },
+    {
+      "path": "review99/r8_publisher/compat_browser/browser_validation.json",
+      "bytes": 23252,
+      "sha256": "1b42a849abd7762901b219b23122786cc01c0c4c81e79422dde9ae551b2b7799"
+    },
+    {
+      "path": "review99/r8_publisher/guard_tests.json",
+      "bytes": 718,
+      "sha256": "b26ecf0930aab086b8ae8e9606ab615a4077947e03952b7c3e101f903ca1caa8"
+    },
+    {
+      "path": "planos95/r8_generator_preview/service_access_proposal.json",
+      "bytes": 4684,
+      "sha256": "a5d2efe503f8b2555df1e4435ffdc90ca4c5a943dcb7195593f45909f155db1d"
+    }
+  ],
+  "final_generation_pending": "Requires frozen integrated model and SHA; repeat use/D08/extraction, review35sheets, package and publish after coordination. No new critical score."
+}

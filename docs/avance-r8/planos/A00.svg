@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="594mm" height="420mm" viewBox="0 0 594 420">
+<rect width="594" height="420" fill="white"/>
+<polygon points="10.0000,10.0000 584.0000,10.0000 584.0000,410.0000 10.0000,410.0000" fill="none" stroke="#172b35" stroke-width="0.35"/>
+<text x="18.0000" y="21.0000" font-family="Arial" font-size="4.8" font-weight="bold" fill="#172b35" text-anchor="start">CASA DE CAMPO</text>
+<text x="18.0000" y="28.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#6f7e83" text-anchor="start">VIRREY DEL PINO - LA MATANZA - BUENOS AIRES | CEDRO MISIONERO</text>
+<text x="577.0000" y="21.0000" font-family="Arial" font-size="4.2" font-weight="bold" fill="#172b35" text-anchor="end">A00 | Indice y criterios</text>
+<text x="577.0000" y="28.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#6f7e83" text-anchor="end">Juego coordinado para revision independiente; video pausado</text>
+<line x1="10.0000" y1="34.0000" x2="584.0000" y2="34.0000" stroke="#172b35" stroke-width="0.25"/>
+<line x1="10.0000" y1="384.0000" x2="584.0000" y2="384.0000" stroke="#172b35" stroke-width="0.3"/>
+<text x="18.0000" y="393.0000" font-family="Arial" font-size="3" font-weight="bold" fill="#ac5b27" text-anchor="start">R8 EN REVISION / SIN APROBACION9,9 / SIN CALCULO DE CAPACIDAD | NO APTO PARA CONSTRUCCION</text>
+<text x="18.0000" y="401.0000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#6f7e83" text-anchor="start">Modelo: Casa_de_Campo_99_R8.blend | SHA256 60810e1945f53b33 | 11/09/2026</text>
+<text x="375.0000" y="393.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">A2 594 x 420 mm | imprimir al 100 %</text>
+<text x="375.0000" y="401.0000" font-family="Arial" font-size="2.5" font-weight="normal" fill="#6f7e83" text-anchor="start">Metros salvo indicacion | cotas prevalecen al escalimetro</text>
+<text x="577.0000" y="407.0000" font-family="Arial" font-size="2.6" font-weight="normal" fill="#172b35" text-anchor="end">01</text>
+<text x="22.0000" y="56.0000" font-family="Arial" font-size="7.5" font-weight="bold" fill="#172b35" text-anchor="start">LA PROPIEDAD COMPLETA, EN UNA MISMA VERSION</text>
+<text x="22.0000" y="70.0000" font-family="Arial" font-size="3.5" font-weight="normal" fill="#172b35" text-anchor="start">Plantas, fachadas, cortes y detalles extraidos del archivo Blender indicado en cada cartela. Las anotaciones distinguen fuente dimensional, geometria medida y propuestas pendientes.</text>
+<polygon points="22.0000,93.0000 295.0000,93.0000 295.0000,106.0000 22.0000,106.0000" fill="#172b35" stroke="#172b35" stroke-width="0.18"/>
+<text x="24.0000" y="99.0000" font-family="Arial" font-size="2.7" font-weight="bold" fill="#ffffff" text-anchor="start">Hoja</text>
+<text x="54.0000" y="99.0000" font-family="Arial" font-size="2.7" font-weight="bold" fill="#ffffff" text-anchor="start">Contenido</text>
+<text x="247.0000" y="99.0000" font-family="Arial" font-size="2.7" font-weight="bold" fill="#ffffff" text-anchor="start">Escala</text>
+<polygon points="22.0000,106.0000 295.0000,106.0000 295.0000,119.0000 22.0000,119.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="111.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">A01</text>
+<text x="54.0000" y="111.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Implantacion, paisaje y perimetro</text>
+<text x="247.0000" y="111.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1:100 / 1:50</text>
+<polygon points="22.0000,119.0000 295.0000,119.0000 295.0000,132.0000 22.0000,132.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="124.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">A02</text>
+<text x="54.0000" y="124.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Planta baja y vanos</text>
+<text x="247.0000" y="124.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1:50</text>
+<polygon points="22.0000,132.0000 295.0000,132.0000 295.0000,145.0000 22.0000,145.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="137.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">A03</text>
+<text x="54.0000" y="137.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Planta alta, estudio y vivienda</text>
+<text x="247.0000" y="137.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1:50</text>
+<polygon points="22.0000,145.0000 295.0000,145.0000 295.0000,158.0000 22.0000,158.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="150.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">A03b</text>
+<text x="54.0000" y="150.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Vivienda / uso y recorridos</text>
+<text x="247.0000" y="150.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1:25</text>
+<polygon points="22.0000,158.0000 295.0000,158.0000 295.0000,171.0000 22.0000,171.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="163.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">A04</text>
+<text x="54.0000" y="163.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Cubiertas y coordinacion pluvial</text>
+<text x="247.0000" y="163.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1:50 / esquema</text>
+<polygon points="22.0000,171.0000 295.0000,171.0000 295.0000,184.0000 22.0000,184.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="176.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">A05a / A05b</text>
+<text x="54.0000" y="176.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Cuatro fachadas</text>
+<text x="247.0000" y="176.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1:50</text>
+<polygon points="22.0000,184.0000 295.0000,184.0000 295.0000,197.0000 22.0000,197.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="189.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">A06</text>
+<text x="54.0000" y="189.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Cortes generales A-A y B-B</text>
+<text x="247.0000" y="189.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1:50</text>
+<polygon points="22.0000,197.0000 295.0000,197.0000 295.0000,210.0000 22.0000,210.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="202.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">A07</text>
+<text x="54.0000" y="202.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Escalera, descanso y acceso</text>
+<text x="247.0000" y="202.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1:20 / 1:5</text>
+<polygon points="22.0000,210.0000 295.0000,210.0000 295.0000,223.0000 22.0000,223.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="215.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">A08</text>
+<text x="54.0000" y="215.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Pileta y bordes</text>
+<text x="247.0000" y="215.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1:25</text>
+<polygon points="22.0000,223.0000 295.0000,223.0000 295.0000,236.0000 22.0000,236.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="228.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">A09</text>
+<text x="54.0000" y="228.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Banos: plantas y elevaciones</text>
+<text x="247.0000" y="228.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1:20 / 1:25</text>
+<polygon points="22.0000,236.0000 295.0000,236.0000 295.0000,249.0000 22.0000,249.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="241.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">A10</text>
+<text x="54.0000" y="241.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Quincho y cocinas</text>
+<text x="247.0000" y="241.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1:25 / 1:50</text>
+<polygon points="22.0000,249.0000 295.0000,249.0000 295.0000,262.0000 22.0000,262.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="254.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">A10b</text>
+<text x="54.0000" y="254.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Monoambiente: uso y cotas G</text>
+<text x="247.0000" y="254.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1:25 / 1:20</text>
+<polygon points="22.0000,262.0000 295.0000,262.0000 295.0000,275.0000 22.0000,275.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="267.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">A11</text>
+<text x="54.0000" y="267.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Estudio y tratamiento acustico</text>
+<text x="247.0000" y="267.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1:25 / 1:50</text>
+<polygon points="22.0000,275.0000 295.0000,275.0000 295.0000,288.0000 22.0000,288.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="280.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">A12</text>
+<text x="54.0000" y="280.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Carpinterias y herreria</text>
+<text x="247.0000" y="280.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Cuadros / 1:25</text>
+<polygon points="22.0000,288.0000 295.0000,288.0000 295.0000,301.0000 22.0000,301.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="293.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">A13 / A13b</text>
+<text x="54.0000" y="293.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Encuentros de envolvente</text>
+<text x="247.0000" y="293.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1:5 / 1:10</text>
+<polygon points="22.0000,301.0000 295.0000,301.0000 295.0000,314.0000 22.0000,314.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="306.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">A14</text>
+<text x="54.0000" y="306.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Estructura conceptual</text>
+<text x="247.0000" y="306.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1:50 / 1:10</text>
+<polygon points="22.0000,314.0000 295.0000,314.0000 295.0000,327.0000 22.0000,327.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="319.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">A15</text>
+<text x="54.0000" y="319.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Instalaciones coordinadas</text>
+<text x="247.0000" y="319.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1:100 / esquemas</text>
+<polygon points="22.0000,327.0000 295.0000,327.0000 295.0000,340.0000 22.0000,340.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="332.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">A16</text>
+<text x="54.0000" y="332.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Superficies, decisiones y trazabilidad</text>
+<text x="247.0000" y="332.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Cuadros</text>
+<polygon points="22.0000,340.0000 295.0000,340.0000 295.0000,353.0000 22.0000,353.0000" fill="#edf2f3" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="345.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">D01-D11</text>
+<text x="54.0000" y="345.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Suplemento G/P (incluye D05b)</text>
+<text x="247.0000" y="345.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1:1 a 1:50</text>
+<polygon points="22.0000,353.0000 295.0000,353.0000 295.0000,366.0000 22.0000,366.0000" fill="#ffffff" stroke="#ccd5d8" stroke-width="0.1"/>
+<text x="24.0000" y="358.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">D13 / D14</text>
+<text x="54.0000" y="358.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">Uso MIDI e isla / apoyo y recorridos</text>
+<text x="247.0000" y="358.0000" font-family="Arial" font-size="2.7" font-weight="normal" fill="#172b35" text-anchor="start">1:5 / 1:10 / 1:20</text>
+<text x="330.0000" y="96.0000" font-family="Arial" font-size="3.7" font-weight="bold" fill="#236a86" text-anchor="start">COMO LEER ESTE JUEGO</text>
+<text x="330.0000" y="103.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">F - Fuente: cotas expresas del HTML original y decisiones del propietario.</text>
+<text x="330.0000" y="110.4000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">G - Geometria: medida derivada de la version Blender identificada por SHA256. No equivale a un relevamiento de obra.</text>
+<text x="330.0000" y="117.8000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">P - Propuesta: coordinacion o solucion grafica inferida. Validar antes de construir.</text>
+<text x="330.0000" y="125.2000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Niveles referidos al cero del modelo. No hay relevamiento altimetrico ni mensura catastral.</text>
+<text x="330.0000" y="132.6000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Ubicacion: Virrey del Pino, Partido de La Matanza, Buenos Aires. Norte orientativo segun propietario: con la calle arriba, abajo a la izquierda.</text>
+<text x="330.0000" y="140.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Servicios de red disponibles segun propietario. Posiciones, cotas y condiciones exactas de acometida pendientes.</text>
+<text x="330.0000" y="147.4000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Escalas fisicas para impresion al 100 %. DXF en metros; cada vista se separa horizontalmente en espacio modelo.</text>
+<text x="330.0000" y="286.0000" font-family="Arial" font-size="3.7" font-weight="bold" fill="#236a86" text-anchor="start">JERARQUIA GRAFICA</text>
+<text x="330.0000" y="293.0000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">0,50 mm: contorno de piezas cortadas. Relleno gris: material seccionado.</text>
+<text x="330.0000" y="300.4000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">0,18 / 0,13 mm: proyecciones, mobiliario y contexto.</text>
+<text x="330.0000" y="307.8000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">Azul: cotas, niveles, referencias y criterios de coordinacion.</text>
+<text x="330.0000" y="315.2000" font-family="Arial" font-size="2.8" font-weight="normal" fill="#172b35" text-anchor="start">No constituye proyecto ejecutivo ni calculo estructural, sanitario, electrico o acustico.</text>
+</svg>

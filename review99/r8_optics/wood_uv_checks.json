@@ -1,0 +1,41 @@
+{
+  "corrected": [
+    {
+      "object": "Puerta dormitorio comedor | hoja",
+      "restoredLayer": "SourceUV",
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | SourceUV"
+      ],
+      "tileMetres": [
+        1.830000043,
+        1.830000043
+      ],
+      "longitudinalAxisLocal": 2,
+      "offset": [
+        0.9109386135824025,
+        0.5773547384887934
+      ],
+      "physicalGeometryUnchanged": true
+    },
+    {
+      "object": "Baño mono puerta | hoja",
+      "restoredLayer": "SourceUV",
+      "materials": [
+        "PHOTO95 | oak_veneer_01 | dark | SourceUV"
+      ],
+      "tileMetres": [
+        1.830000043,
+        1.830000043
+      ],
+      "longitudinalAxisLocal": 2,
+      "offset": [
+        0.34599873796105385,
+        0.5506070838309824
+      ],
+      "physicalGeometryUnchanged": true
+    }
+  ],
+  "unhandledMissingLayers": [],
+  "scope": "Only absent explicitly referenced timber UV; existing layers/materials and all geometry preserved",
+  "videoRendered": false
+}

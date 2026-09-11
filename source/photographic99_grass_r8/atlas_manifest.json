@@ -1,0 +1,78 @@
+{
+  "world_bounds_m": {
+    "x": [
+      0,
+      22
+    ],
+    "y": [
+      -20,
+      0
+    ]
+  },
+  "tile_repeat_m": 2,
+  "mask": "Exact source fine-grass mask; full huerta, house, pool, tree wells and boundary remain original scanned substrate. No geometry overlay.",
+  "normal_rotation_deg": 23,
+  "prefilter": "Linear-light area prefilter: source 2m tiles reduced to512px color /256px normal+roughness before atlas sampling; prevents minification aliasing.",
+  "color_tint": "Original point-color attributes barycentrically interpolated and baked; original geometry is unchanged.",
+  "files": {
+    "lot_color.jpg": {
+      "sha256": "6431860aaf9eb872afc3819af70a384f1e9ecf79279e4fc5cd1a860bc17dd3e1",
+      "bytes": 13574616,
+      "resolution": [
+        4096,
+        4096
+      ],
+      "metres_per_texel": [
+        0.00537109375,
+        0.0048828125
+      ]
+    },
+    "lot_normal.png": {
+      "sha256": "f8e3fe87c021686382d70e3b6950709d57591c2b2601b45614df14a02c566926",
+      "bytes": 10195429,
+      "resolution": [
+        2048,
+        2048
+      ],
+      "metres_per_texel": [
+        0.0107421875,
+        0.009765625
+      ]
+    },
+    "lot_rough.png": {
+      "sha256": "da46d274a6bf2017aaf2ea775343d22e8b516f53936e3dc7845f3eabb607f8d2",
+      "bytes": 4585387,
+      "resolution": [
+        2048,
+        2048
+      ],
+      "metres_per_texel": [
+        0.0107421875,
+        0.009765625
+      ]
+    },
+    "bermuda_source_normal_2k.png": {
+      "sha256": "abfa1f185bcd74b690024847aa0d49e5c88ae6e30be6aeb17102ce7734ca312e",
+      "bytes": 5642120,
+      "quantization_max": 0.00196078431372549
+    },
+    "bermuda_source_rough_2k.png": {
+      "sha256": "dd5be9b36f4ac7f7fe9c0c32da5ce85d455aadd661176289155bb35364e92d65",
+      "bytes": 1413169,
+      "quantization_max": 0.00196078431372549
+    }
+  },
+  "rows": [],
+  "roughness_lod": {
+    "method": "Normal-variance specular AA inspired by Toksvig; approximate GGX adaptation. r_eff = min(1,(r^4 + strength^2*(1-L)/max(L,0.05))^0.25), L=length(area-filtered source normal), strength=0.65. Applied only to the derived understory; original bare-ground roughness unchanged.",
+    "reference": "https://developer.download.nvidia.com/whitepapers/2006/Mipmapping_Normal_Maps.pdf",
+    "original_mean": 0.42262599138961615,
+    "effective_mean": 0.8402052716328614,
+    "effective_range": [
+      0.32825610041618347,
+      1.0
+    ]
+  },
+  "grass_area_m2": 225.26647806167603,
+  "huerta_nonzero_mask_pixels": 0
+}

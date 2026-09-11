@@ -1,0 +1,26 @@
+{
+  "method": "Orthographic material bake of actual CC0 Bermuda meshes at physical scale; no AI image generation or lighting baked into color. Ground normal captures mesh and source texture normals; roughness is source photographic texture.",
+  "source_url": "https://polyhaven.com/a/grass_bermuda_01",
+  "author": "Rico Cilliers",
+  "license": "CC0",
+  "tile_metres": 2,
+  "resolution": 2048,
+  "clumps": 50000,
+  "vertices": 801596,
+  "height_scale_for_understory": 0.7,
+  "source_blend_sha256": "3b2ec52390d293b9e810ec4e2a182d725ed2a858eb0912f5bb36909d9c5f5073",
+  "files": {
+    "bermuda_understory_color.png": {
+      "sha256": "01e14fe8f3757ad940607fccee65915be244c45260a970c7ef7018dc0dbb4251",
+      "bytes": 9435024
+    },
+    "bermuda_understory_normal.png": {
+      "sha256": "f792f97e73f14091eeb3abd4a8de2b46c301fea116d02361fb537da43ce2b41f",
+      "bytes": 11174992
+    },
+    "bermuda_understory_rough.png": {
+      "sha256": "8b18f7b3c05417aa4badbcbba62b4704ce2f04044fd507e11989e32a17fae3f4",
+      "bytes": 5513547
+    }
+  }
+}

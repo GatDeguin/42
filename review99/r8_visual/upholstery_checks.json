@@ -1,0 +1,380 @@
+{
+  "objects": [
+    {
+      "object": "Sofá cama mono base",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "cced5ebdc3514a8be375d4043655fc9ee0705a3cac22c247ad4f31b2b85fe795"
+    },
+    {
+      "object": "Sofá cama mono respaldo",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "65f4279bf5092cad15ee9bde7292d23fcb9951c6960615220b3c3c76273d527d"
+    },
+    {
+      "object": "Sofá cama mono brazo -1",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "f5584c4f4b847ebdd9a94a5b857580f1291eaa29920f3d15632a96ae3d5c2828"
+    },
+    {
+      "object": "Sofá cama mono brazo 1",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "659eb4308a8dc4fe1aee97609e14bdfebd1d449742a1426e861c00e1dc077ed1"
+    },
+    {
+      "object": "Sofá cama mono cojín 0",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "dc9a56aaf9a6830f95119b010eabf68d69df80172c8c199892e3b40ab0cde77d"
+    },
+    {
+      "object": "Sofá cama mono costura cojín 0",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "9916dd40dee8b180e3ebba38f1437486ac55af9aaadd45b6eab91674375ced17"
+    },
+    {
+      "object": "Sofá cama mono cojín 1",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "ee5027aee0a18411080e660ef74c7dd5238f51696d4b98dd780435c6e735a0e7"
+    },
+    {
+      "object": "Sofá cama mono costura cojín 1",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "7bd610ab1e94fded5a9ce0c5d7681219ee45ef63017dbaefe138fc57b4e5434c"
+    },
+    {
+      "object": "Sofá cama mono cojín 2",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "d47d9828aa51fa0eb6f15b38c6015b85bbf71a10da7e54423f38eb98db481647"
+    },
+    {
+      "object": "Sofá cama mono costura cojín 2",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "4553d89504892836ffc82a0645dfe4612531038b113d9ff09dc576574265c9dc"
+    },
+    {
+      "object": "Piso estudio",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "a2dce277ad3adaf82553a4a17709c858a42c73705ba7b526fe415dfb6b75b4ed"
+    },
+    {
+      "object": "Alfombra estudio",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "d92867c014289ffdc2f1b6f95c66b6a2df6c8e094e56f0cda3705a6e9376e14a"
+    },
+    {
+      "object": "Sofá estudio base",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "a392ac36362e9d26780b0c677feb1c387a528ca33692b977e116f8e3dda3d899"
+    },
+    {
+      "object": "Sofá estudio respaldo",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "c2a9c76548c2a3096be48f49c3f93f36b1060b6fdd2f4eab086d7f105410afe3"
+    },
+    {
+      "object": "Sofá estudio brazo -1",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "342b6e305f75c4b6dd6f6f53c65da25949d1ea3710e42b79b2ea2eb8d317b31f"
+    },
+    {
+      "object": "Sofá estudio brazo 1",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "76e866f5fb33fafe2d6d4c0bc3e08aa3c8c75c62d34f6f023cdcfb4de98621cc"
+    },
+    {
+      "object": "Sofá estudio cojín 0",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "4e445d20188806e2024bd1a23aed987e5ea0d8d399fe63faa6b55a59d2acbf7c"
+    },
+    {
+      "object": "Sofá estudio costura cojín 0",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "5b14a8060c254049d30faaaadcfe122ca209dd6a613329baada65d3d04681dd9"
+    },
+    {
+      "object": "Sofá estudio cojín 1",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "2feb0931af14b99a89913703e00573b7785fd3480e3a3dbf6d25bbe984c71f48"
+    },
+    {
+      "object": "Sofá estudio costura cojín 1",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "93c4c4a1aa40a786679123dbaf8a9c1b2ec9d77a16f6523f57f6211ec221e95d"
+    },
+    {
+      "object": "Sofá estudio cojín 2",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "db02a976e591c4e736119097f5f38d38cf806e0c249850e5ee1713cc23e87d92"
+    },
+    {
+      "object": "Sofá estudio costura cojín 2",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "1908f1c588bc8d4ad6ac643198790de2821efae1d901472de1f90b178e94a595"
+    },
+    {
+      "object": "Silla estudio asiento",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "fb141081ddf33aebc22bc0db1ae10e04afde4ea16d1227544fe4cf25b9f5f849"
+    },
+    {
+      "object": "Silla estudio respaldo",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "ebf9af060cd87c55cd6a2353645422b9f6c8ade937dc5ac48a0c9ce4528249ad"
+    },
+    {
+      "object": "Alfombra comedor",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "37b6f7a49a312c244137008a6ba3a77b4435ce180f00153b48a01e83477e76bb"
+    },
+    {
+      "object": "Silla comedor norte -0.49 asiento",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "42dc0884cdd10bd0d4c4eeb4687b35589da547b2e16287fa02559f5c6607f4f4"
+    },
+    {
+      "object": "Silla comedor norte -0.49 respaldo",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "e70370866ed509e2220a2e6528f0c4330939f6c725089b7bb998164d7256637d"
+    },
+    {
+      "object": "Silla comedor sur -0.49 asiento",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "36f6c25d9d5daebc97ffb91d80fa7bd38e6fdaba729b2a99a321f528661ab5bd"
+    },
+    {
+      "object": "Silla comedor sur -0.49 respaldo",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "69d06a8349b0be905cf959d260d54767d18b2558683e3b670161c1a20f15276a"
+    },
+    {
+      "object": "Silla comedor norte 0.49 asiento",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "ad32681d35d20eeb636dbda82f07d6e59f50624521ebc066dc7dff3962ecd8a2"
+    },
+    {
+      "object": "Silla comedor norte 0.49 respaldo",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "262d47712474ccb7f9dea8767fdadfd7c6c80d4e496c8a7450ac3c7eb69b6c74"
+    },
+    {
+      "object": "Silla comedor sur 0.49 asiento",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "3bdf4d8da75a30ec4a641d34795ca4f00381f0530833ac6341db3f235ffc8ea5"
+    },
+    {
+      "object": "Silla comedor sur 0.49 respaldo",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "aa8e46ed7e6999cfd45282da6f991a7683fc697bf98c9a68bf05a6cf763dee9b"
+    },
+    {
+      "object": "Sofá vivienda base",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "c639a4e6d58c51e4cd065bef455e424114af0031739f2406decb901fa21954e6"
+    },
+    {
+      "object": "Sofá vivienda respaldo",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "fa047241fa9fc3ce1c25e60394160ea6013172b8e61e7a30ce002f92b6709d8f"
+    },
+    {
+      "object": "Sofá vivienda brazo -1",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "72c9201c2b7aceb37bbc44b11c5ad90c45a4add094c8a79424ada60c6a6ac4e0"
+    },
+    {
+      "object": "Sofá vivienda brazo 1",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "cff6950f0de2c00adcfb3b663e7d7ac0f7fca1d1afcfdafd8fa575c086a574dc"
+    },
+    {
+      "object": "Sofá vivienda cojín 0",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "1a70c6faca9f130afed95077eadfdf4ffc11fb11c50e10d53ffbc6aa23e3a364"
+    },
+    {
+      "object": "Sofá vivienda costura cojín 0",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "28f22a43d89496ba29e386b883df0d618351816332f91dd62b183b5f304fe831"
+    },
+    {
+      "object": "Sofá vivienda cojín 1",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "5b7fce21079bc5732ef0485da6b17b3eede8f3adeba7e0cba64e4ae333dd9c49"
+    },
+    {
+      "object": "Sofá vivienda costura cojín 1",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "3433b8a818f449642028f5c2887ead3208eab4da41a61abf22a9926735120780"
+    },
+    {
+      "object": "Sofá vivienda cojín 2",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "64f9d959206b5f60b7495e2aea8a256ad31a3e1823e0dcf9dc427f5cda512b6f"
+    },
+    {
+      "object": "Sofá vivienda costura cojín 2",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "08d0ea25603878cacb88672e1c0c7bbc3b8c960f12443c727c0e7f52c10755aa"
+    },
+    {
+      "object": "Cabezal dormitorio",
+      "slots": [
+        0
+      ],
+      "geometryUnchanged": true,
+      "geometrySHA256": "4ce0f29bd688f6b44be428938b42a957c3c91d4b710793eab94ab04e1a55e1c5"
+    }
+  ],
+  "objectCount": 44,
+  "textureModuleM": [
+    0.2657081476760712,
+    0.2662999927997589
+  ],
+  "originalMeanLinearRGB": [
+    0.24723730558865356,
+    0.21749501909852093,
+    0.15854020677115394
+  ],
+  "photoMeanLinearRGB": [
+    0.5622147949416687,
+    0.42960513517215204,
+    0.32259202417152577
+  ],
+  "tintFactor": [
+    0.43975595771062037,
+    0.5062672703187451,
+    0.49145730486769984
+  ],
+  "scope": "Visible furniture with original fabric material only; geometry and placements unchanged",
+  "videoRendered": false,
+  "sourceSHA256": "6009ff817613d4d2060f749e4d902d45126903b1d389bdac81aa686042b5080b",
+  "outputSHA256": "9d4501a26630b5679fbaa1a6e75026f4ae0645fb80f4cf2cc94951ba221a24f0"
+}

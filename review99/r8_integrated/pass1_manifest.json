@@ -1,0 +1,5464 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7D.blend",
+  "sourceSHA256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "output": "D:\\2026\\42\\output\\Casa_de_Campo_99_R8A_construccion_preview.blend",
+  "outputSHA256": "a4fd1fe3d964d9366fbc4ee7eeb1a7a268d1e3621aa599edc8630a6399c7fcd1",
+  "pass": true,
+  "idempotent": true,
+  "videoRendered": false,
+  "scope": {
+    "added": [
+      "SAN8 | mono H1 anchor gasket",
+      "SAN8 | mono H1 axle doubleD",
+      "SAN8 | mono H1 axle head",
+      "SAN8 | mono H1 axle thread blank M6",
+      "SAN8 | mono H1 base yoke",
+      "SAN8 | mono H1 clamp nut M6 nominal",
+      "SAN8 | mono H1 clamp washer",
+      "SAN8 | mono H1 ear L",
+      "SAN8 | mono H1 ear R",
+      "SAN8 | mono H1 ear stem L",
+      "SAN8 | mono H1 ear stem R",
+      "SAN8 | mono H1 friction centre",
+      "SAN8 | mono H1 friction outer",
+      "SAN8 | mono H1 lid arm",
+      "SAN8 | mono H1 lid bearing",
+      "SAN8 | mono H1 lid dog",
+      "SAN8 | mono H1 lid housing",
+      "SAN8 | mono H1 lid stop carrier",
+      "SAN8 | mono H1 lid stop stand",
+      "SAN8 | mono H1 lid stop0",
+      "SAN8 | mono H1 lid stop90",
+      "SAN8 | mono H1 preload coned spring",
+      "SAN8 | mono H1 seat arm",
+      "SAN8 | mono H1 seat bearing",
+      "SAN8 | mono H1 seat dog",
+      "SAN8 | mono H1 seat housing",
+      "SAN8 | mono H1 seat stop carrier",
+      "SAN8 | mono H1 seat stop stand",
+      "SAN8 | mono H1 seat stop0",
+      "SAN8 | mono H1 seat stop90",
+      "SAN8 | mono H2 anchor gasket",
+      "SAN8 | mono H2 axle doubleD",
+      "SAN8 | mono H2 axle head",
+      "SAN8 | mono H2 axle thread blank M6",
+      "SAN8 | mono H2 base yoke",
+      "SAN8 | mono H2 clamp nut M6 nominal",
+      "SAN8 | mono H2 clamp washer",
+      "SAN8 | mono H2 ear L",
+      "SAN8 | mono H2 ear R",
+      "SAN8 | mono H2 ear stem L",
+      "SAN8 | mono H2 ear stem R",
+      "SAN8 | mono H2 friction centre",
+      "SAN8 | mono H2 friction outer",
+      "SAN8 | mono H2 lid arm",
+      "SAN8 | mono H2 lid bearing",
+      "SAN8 | mono H2 lid dog",
+      "SAN8 | mono H2 lid housing",
+      "SAN8 | mono H2 lid stop carrier",
+      "SAN8 | mono H2 lid stop stand",
+      "SAN8 | mono H2 lid stop0",
+      "SAN8 | mono H2 lid stop90",
+      "SAN8 | mono H2 preload coned spring",
+      "SAN8 | mono H2 seat arm",
+      "SAN8 | mono H2 seat bearing",
+      "SAN8 | mono H2 seat dog",
+      "SAN8 | mono H2 seat housing",
+      "SAN8 | mono H2 seat stop carrier",
+      "SAN8 | mono H2 seat stop stand",
+      "SAN8 | mono H2 seat stop0",
+      "SAN8 | mono H2 seat stop90",
+      "SAN8 | mono lid buffer 00",
+      "SAN8 | mono lid buffer 01",
+      "SAN8 | mono lid buffer 10",
+      "SAN8 | mono lid buffer 11",
+      "SAN8 | quincho H1 anchor gasket",
+      "SAN8 | quincho H1 axle doubleD",
+      "SAN8 | quincho H1 axle head",
+      "SAN8 | quincho H1 axle thread blank M6",
+      "SAN8 | quincho H1 base yoke",
+      "SAN8 | quincho H1 clamp nut M6 nominal",
+      "SAN8 | quincho H1 clamp washer",
+      "SAN8 | quincho H1 ear L",
+      "SAN8 | quincho H1 ear R",
+      "SAN8 | quincho H1 ear stem L",
+      "SAN8 | quincho H1 ear stem R",
+      "SAN8 | quincho H1 friction centre",
+      "SAN8 | quincho H1 friction outer",
+      "SAN8 | quincho H1 lid arm",
+      "SAN8 | quincho H1 lid bearing",
+      "SAN8 | quincho H1 lid dog",
+      "SAN8 | quincho H1 lid housing",
+      "SAN8 | quincho H1 lid stop carrier",
+      "SAN8 | quincho H1 lid stop stand",
+      "SAN8 | quincho H1 lid stop0",
+      "SAN8 | quincho H1 lid stop90",
+      "SAN8 | quincho H1 preload coned spring",
+      "SAN8 | quincho H1 seat arm",
+      "SAN8 | quincho H1 seat bearing",
+      "SAN8 | quincho H1 seat dog",
+      "SAN8 | quincho H1 seat housing",
+      "SAN8 | quincho H1 seat stop carrier",
+      "SAN8 | quincho H1 seat stop stand",
+      "SAN8 | quincho H1 seat stop0",
+      "SAN8 | quincho H1 seat stop90",
+      "SAN8 | quincho H2 anchor gasket",
+      "SAN8 | quincho H2 axle doubleD",
+      "SAN8 | quincho H2 axle head",
+      "SAN8 | quincho H2 axle thread blank M6",
+      "SAN8 | quincho H2 base yoke",
+      "SAN8 | quincho H2 clamp nut M6 nominal",
+      "SAN8 | quincho H2 clamp washer",
+      "SAN8 | quincho H2 ear L",
+      "SAN8 | quincho H2 ear R",
+      "SAN8 | quincho H2 ear stem L",
+      "SAN8 | quincho H2 ear stem R",
+      "SAN8 | quincho H2 friction centre",
+      "SAN8 | quincho H2 friction outer",
+      "SAN8 | quincho H2 lid arm",
+      "SAN8 | quincho H2 lid bearing",
+      "SAN8 | quincho H2 lid dog",
+      "SAN8 | quincho H2 lid housing",
+      "SAN8 | quincho H2 lid stop carrier",
+      "SAN8 | quincho H2 lid stop stand",
+      "SAN8 | quincho H2 lid stop0",
+      "SAN8 | quincho H2 lid stop90",
+      "SAN8 | quincho H2 preload coned spring",
+      "SAN8 | quincho H2 seat arm",
+      "SAN8 | quincho H2 seat bearing",
+      "SAN8 | quincho H2 seat dog",
+      "SAN8 | quincho H2 seat housing",
+      "SAN8 | quincho H2 seat stop carrier",
+      "SAN8 | quincho H2 seat stop stand",
+      "SAN8 | quincho H2 seat stop0",
+      "SAN8 | quincho H2 seat stop90",
+      "SAN8 | quincho lid buffer 00",
+      "SAN8 | quincho lid buffer 01",
+      "SAN8 | quincho lid buffer 10",
+      "SAN8 | quincho lid buffer 11",
+      "SAN8 | suite H1 anchor gasket",
+      "SAN8 | suite H1 axle doubleD",
+      "SAN8 | suite H1 axle head",
+      "SAN8 | suite H1 axle thread blank M6",
+      "SAN8 | suite H1 base yoke",
+      "SAN8 | suite H1 clamp nut M6 nominal",
+      "SAN8 | suite H1 clamp washer",
+      "SAN8 | suite H1 ear L",
+      "SAN8 | suite H1 ear R",
+      "SAN8 | suite H1 ear stem L",
+      "SAN8 | suite H1 ear stem R",
+      "SAN8 | suite H1 friction centre",
+      "SAN8 | suite H1 friction outer",
+      "SAN8 | suite H1 lid arm",
+      "SAN8 | suite H1 lid bearing",
+      "SAN8 | suite H1 lid dog",
+      "SAN8 | suite H1 lid housing",
+      "SAN8 | suite H1 lid stop carrier",
+      "SAN8 | suite H1 lid stop stand",
+      "SAN8 | suite H1 lid stop0",
+      "SAN8 | suite H1 lid stop90",
+      "SAN8 | suite H1 preload coned spring",
+      "SAN8 | suite H1 seat arm",
+      "SAN8 | suite H1 seat bearing",
+      "SAN8 | suite H1 seat dog",
+      "SAN8 | suite H1 seat housing",
+      "SAN8 | suite H1 seat stop carrier",
+      "SAN8 | suite H1 seat stop stand",
+      "SAN8 | suite H1 seat stop0",
+      "SAN8 | suite H1 seat stop90",
+      "SAN8 | suite H2 anchor gasket",
+      "SAN8 | suite H2 axle doubleD",
+      "SAN8 | suite H2 axle head",
+      "SAN8 | suite H2 axle thread blank M6",
+      "SAN8 | suite H2 base yoke",
+      "SAN8 | suite H2 clamp nut M6 nominal",
+      "SAN8 | suite H2 clamp washer",
+      "SAN8 | suite H2 ear L",
+      "SAN8 | suite H2 ear R",
+      "SAN8 | suite H2 ear stem L",
+      "SAN8 | suite H2 ear stem R",
+      "SAN8 | suite H2 friction centre",
+      "SAN8 | suite H2 friction outer",
+      "SAN8 | suite H2 lid arm",
+      "SAN8 | suite H2 lid bearing",
+      "SAN8 | suite H2 lid dog",
+      "SAN8 | suite H2 lid housing",
+      "SAN8 | suite H2 lid stop carrier",
+      "SAN8 | suite H2 lid stop stand",
+      "SAN8 | suite H2 lid stop0",
+      "SAN8 | suite H2 lid stop90",
+      "SAN8 | suite H2 preload coned spring",
+      "SAN8 | suite H2 seat arm",
+      "SAN8 | suite H2 seat bearing",
+      "SAN8 | suite H2 seat dog",
+      "SAN8 | suite H2 seat housing",
+      "SAN8 | suite H2 seat stop carrier",
+      "SAN8 | suite H2 seat stop stand",
+      "SAN8 | suite H2 seat stop0",
+      "SAN8 | suite H2 seat stop90",
+      "SAN8 | suite lid buffer 00",
+      "SAN8 | suite lid buffer 01",
+      "SAN8 | suite lid buffer 10",
+      "SAN8 | suite lid buffer 11",
+      "USO99 | MIDI apoyo elastomerico 00",
+      "USO99 | MIDI apoyo elastomerico 01",
+      "USO99 | MIDI apoyo elastomerico 10",
+      "USO99 | MIDI apoyo elastomerico 11",
+      "USO99 | MIDI bandeja18",
+      "USO99 | MIDI brazo40x30 0",
+      "USO99 | MIDI brazo40x30 1",
+      "USO99 | MIDI calce8 0",
+      "USO99 | MIDI calce8 1",
+      "USO99 | MIDI cordon soldadura 00",
+      "USO99 | MIDI cordon soldadura 01",
+      "USO99 | MIDI cordon soldadura 10",
+      "USO99 | MIDI cordon soldadura 11",
+      "USO99 | MIDI placa asiento base 0",
+      "USO99 | MIDI placa asiento base 1",
+      "USO99 | MIDI soldadura base 0 -1",
+      "USO99 | MIDI soldadura base 0 1",
+      "USO99 | MIDI soldadura base 1 -1",
+      "USO99 | MIDI soldadura base 1 1",
+      "USO99 | MIDI tope lateral 0",
+      "USO99 | MIDI tope lateral 1",
+      "USO99 | isla apoyo elastomerico 00",
+      "USO99 | isla apoyo elastomerico 01",
+      "USO99 | isla apoyo elastomerico 10",
+      "USO99 | isla apoyo elastomerico 11",
+      "USO99 | isla asiento elastomerico tapa 0",
+      "USO99 | isla asiento elastomerico tapa 1",
+      "USO99 | isla larguero extremo 0",
+      "USO99 | isla larguero extremo 1",
+      "USO99 | isla montante 00",
+      "USO99 | isla montante 01",
+      "USO99 | isla montante 10",
+      "USO99 | isla montante 11",
+      "USO99 | isla travesano superior 0",
+      "USO99 | isla travesano superior 1"
+    ],
+    "removed": [
+      "SAN99 | mono cover hinge arm",
+      "SAN99 | mono cover hinge arm.001",
+      "SAN99 | mono cover hinge sleeve",
+      "SAN99 | mono cover hinge sleeve.001",
+      "SAN99 | mono hinge pedestal",
+      "SAN99 | mono hinge pedestal.001",
+      "SAN99 | mono hinge pin",
+      "SAN99 | mono hinge pin.001",
+      "SAN99 | mono seat hinge arm",
+      "SAN99 | mono seat hinge arm.001",
+      "SAN99 | mono seat hinge sleeve",
+      "SAN99 | mono seat hinge sleeve.001",
+      "SAN99 | quincho cover hinge arm",
+      "SAN99 | quincho cover hinge arm.001",
+      "SAN99 | quincho cover hinge sleeve",
+      "SAN99 | quincho cover hinge sleeve.001",
+      "SAN99 | quincho hinge pedestal",
+      "SAN99 | quincho hinge pedestal.001",
+      "SAN99 | quincho hinge pin",
+      "SAN99 | quincho hinge pin.001",
+      "SAN99 | quincho seat hinge arm",
+      "SAN99 | quincho seat hinge arm.001",
+      "SAN99 | quincho seat hinge sleeve",
+      "SAN99 | quincho seat hinge sleeve.001",
+      "SAN99 | suite cover hinge arm",
+      "SAN99 | suite cover hinge arm.001",
+      "SAN99 | suite cover hinge sleeve",
+      "SAN99 | suite cover hinge sleeve.001",
+      "SAN99 | suite hinge pedestal",
+      "SAN99 | suite hinge pedestal.001",
+      "SAN99 | suite hinge pin",
+      "SAN99 | suite hinge pin.001",
+      "SAN99 | suite seat hinge arm",
+      "SAN99 | suite seat hinge arm.001",
+      "SAN99 | suite seat hinge sleeve",
+      "SAN99 | suite seat hinge sleeve.001"
+    ],
+    "changed": [
+      "Consola estudio",
+      "Controlador estudio",
+      "Isla cocina mono base | costilla",
+      "Isla cocina mono base | costilla.001",
+      "Isla cocina mono base | costilla.002",
+      "Isla cocina mono base | fondo",
+      "Isla cocina mono base | piso",
+      "Isla cocina mono base | travesaño",
+      "Isla cocina mono base | travesaño.001",
+      "Isla cocina mono base | zócalo",
+      "MAT95 | encoder maestro",
+      "MAT95 | encoder maestro.001",
+      "MAT95 | encoder maestro.002",
+      "MAT95 | encoder maestro.003",
+      "MAT95 | pad MIDI",
+      "MAT95 | pad MIDI.001",
+      "MAT95 | pad MIDI.002",
+      "MAT95 | pad MIDI.003",
+      "MAT95 | pad MIDI.004",
+      "MAT95 | pad MIDI.005",
+      "MAT95 | pad MIDI.006",
+      "MAT95 | pad MIDI.007",
+      "MAT95 | pad MIDI.008",
+      "MAT95 | pad MIDI.009",
+      "MAT95 | pad MIDI.010",
+      "MAT95 | pad MIDI.011",
+      "MAT95 | pad MIDI.012",
+      "MAT95 | pad MIDI.013",
+      "MAT95 | pad MIDI.014",
+      "MAT95 | pad MIDI.015",
+      "MAT95 | pantalla controlador",
+      "MAT95 | tecla natural 00",
+      "MAT95 | tecla natural 01",
+      "MAT95 | tecla natural 02",
+      "MAT95 | tecla natural 03",
+      "MAT95 | tecla natural 04",
+      "MAT95 | tecla natural 05",
+      "MAT95 | tecla natural 06",
+      "MAT95 | tecla natural 07",
+      "MAT95 | tecla natural 08",
+      "MAT95 | tecla natural 09",
+      "MAT95 | tecla natural 10",
+      "MAT95 | tecla natural 11",
+      "MAT95 | tecla natural 12",
+      "MAT95 | tecla natural 13",
+      "MAT95 | tecla natural 14",
+      "MAT95 | tecla natural 15",
+      "MAT95 | tecla natural 16",
+      "MAT95 | tecla natural 17",
+      "MAT95 | tecla natural 18",
+      "MAT95 | tecla natural 19",
+      "MAT95 | tecla natural 20",
+      "MAT95 | tecla natural 21",
+      "MAT95 | tecla natural 22",
+      "MAT95 | tecla natural 23",
+      "MAT95 | tecla natural 24",
+      "MAT95 | tecla natural 25",
+      "MAT95 | tecla natural 26",
+      "MAT95 | tecla natural 27",
+      "MAT95 | tecla natural 28",
+      "MAT95 | tecla natural 29",
+      "MAT95 | tecla natural 30",
+      "MAT95 | tecla natural 31",
+      "MAT95 | tecla natural 32",
+      "MAT95 | tecla natural 33",
+      "MAT95 | tecla natural 34",
+      "MAT95 | tecla natural 35",
+      "MAT95 | tecla sostenido 00",
+      "MAT95 | tecla sostenido 01",
+      "MAT95 | tecla sostenido 03",
+      "MAT95 | tecla sostenido 04",
+      "MAT95 | tecla sostenido 05",
+      "MAT95 | tecla sostenido 07",
+      "MAT95 | tecla sostenido 08",
+      "MAT95 | tecla sostenido 10",
+      "MAT95 | tecla sostenido 11",
+      "MAT95 | tecla sostenido 12",
+      "MAT95 | tecla sostenido 14",
+      "MAT95 | tecla sostenido 15",
+      "MAT95 | tecla sostenido 17",
+      "MAT95 | tecla sostenido 18",
+      "MAT95 | tecla sostenido 19",
+      "MAT95 | tecla sostenido 21",
+      "MAT95 | tecla sostenido 22",
+      "MAT95 | tecla sostenido 24",
+      "MAT95 | tecla sostenido 25",
+      "MAT95 | tecla sostenido 26",
+      "MAT95 | tecla sostenido 28",
+      "MAT95 | tecla sostenido 29",
+      "MAT95 | tecla sostenido 31",
+      "MAT95 | tecla sostenido 32",
+      "MAT95 | tecla sostenido 33",
+      "Taburete isla mono A | apoyo elastomérico der dorso",
+      "Taburete isla mono A | apoyo elastomérico der frente",
+      "Taburete isla mono A | apoyo elastomérico izq dorso",
+      "Taburete isla mono A | apoyo elastomérico izq frente",
+      "Taburete isla mono A | asiento 30 mm",
+      "Taburete isla mono A | faldón unión X -1",
+      "Taburete isla mono A | faldón unión X 1",
+      "Taburete isla mono A | faldón unión Y -1",
+      "Taburete isla mono A | faldón unión Y 1",
+      "Taburete isla mono A | pata der dorso",
+      "Taburete isla mono A | pata der frente",
+      "Taburete isla mono A | pata izq dorso",
+      "Taburete isla mono A | pata izq frente",
+      "Taburete isla mono A | reposapiés X -1",
+      "Taburete isla mono A | reposapiés X 1",
+      "Taburete isla mono A | travesaño Y -1",
+      "Taburete isla mono A | travesaño Y 1",
+      "Taburete isla mono B | apoyo elastomérico der dorso",
+      "Taburete isla mono B | apoyo elastomérico der frente",
+      "Taburete isla mono B | apoyo elastomérico izq dorso",
+      "Taburete isla mono B | apoyo elastomérico izq frente",
+      "Taburete isla mono B | asiento 30 mm",
+      "Taburete isla mono B | faldón unión X -1",
+      "Taburete isla mono B | faldón unión X 1",
+      "Taburete isla mono B | faldón unión Y -1",
+      "Taburete isla mono B | faldón unión Y 1",
+      "Taburete isla mono B | pata der dorso",
+      "Taburete isla mono B | pata der frente",
+      "Taburete isla mono B | pata izq dorso",
+      "Taburete isla mono B | pata izq frente",
+      "Taburete isla mono B | reposapiés X -1",
+      "Taburete isla mono B | reposapiés X 1",
+      "Taburete isla mono B | travesaño Y -1",
+      "Taburete isla mono B | travesaño Y 1",
+      "Vestidor cierre al estar paño A",
+      "WET99 | PB adhesivo4",
+      "WET99 | PB membrana continua2"
+    ]
+  },
+  "patches": {
+    "correcciones99_san_mecanica_r8.py": {
+      "version": "san_mechanical_r8_v1",
+      "replaces": [
+        "SAN99 | mono cover hinge arm",
+        "SAN99 | mono cover hinge arm.001",
+        "SAN99 | mono cover hinge sleeve",
+        "SAN99 | mono cover hinge sleeve.001",
+        "SAN99 | mono hinge pedestal",
+        "SAN99 | mono hinge pedestal.001",
+        "SAN99 | mono hinge pin",
+        "SAN99 | mono hinge pin.001",
+        "SAN99 | mono seat hinge arm",
+        "SAN99 | mono seat hinge arm.001",
+        "SAN99 | mono seat hinge sleeve",
+        "SAN99 | mono seat hinge sleeve.001",
+        "SAN99 | quincho cover hinge arm",
+        "SAN99 | quincho cover hinge arm.001",
+        "SAN99 | quincho cover hinge sleeve",
+        "SAN99 | quincho cover hinge sleeve.001",
+        "SAN99 | quincho hinge pedestal",
+        "SAN99 | quincho hinge pedestal.001",
+        "SAN99 | quincho hinge pin",
+        "SAN99 | quincho hinge pin.001",
+        "SAN99 | quincho seat hinge arm",
+        "SAN99 | quincho seat hinge arm.001",
+        "SAN99 | quincho seat hinge sleeve",
+        "SAN99 | quincho seat hinge sleeve.001",
+        "SAN99 | suite cover hinge arm",
+        "SAN99 | suite cover hinge arm.001",
+        "SAN99 | suite cover hinge sleeve",
+        "SAN99 | suite cover hinge sleeve.001",
+        "SAN99 | suite hinge pedestal",
+        "SAN99 | suite hinge pedestal.001",
+        "SAN99 | suite hinge pin",
+        "SAN99 | suite hinge pin.001",
+        "SAN99 | suite seat hinge arm",
+        "SAN99 | suite seat hinge arm.001",
+        "SAN99 | suite seat hinge sleeve",
+        "SAN99 | suite seat hinge sleeve.001"
+      ],
+      "families": {
+        "mono": {
+          "body": "Inodoro mono",
+          "seat": "Inodoro mono | asiento",
+          "lid": "SAN99 | mono cover open90",
+          "cistern": "Inodoro mono | mochila compacta",
+          "pivot_blender": [
+            19.84999942779541,
+            -1.5131997985839845,
+            0.6659999856948853
+          ],
+          "axis_sign": 1,
+          "mount_centres_mm": 160,
+          "seat_range_deg": [
+            0,
+            90
+          ],
+          "lid_range_deg": [
+            0,
+            90
+          ],
+          "coupled_rule": "0 <= seat <= lid <= 90",
+          "bearing_radial_clearance_mm": 0.1,
+          "faceted_bearing_min_radial_clearance_mm": 0.09626591423603442,
+          "head_and_nut_across_flats_mm": 10,
+          "axle_anti_rotation": "Double-D shaft in matching fixed yoke bores; clamped by hex head and nut; round M6 nominal threaded blank beyond right ear",
+          "stop_radial_clearance_mm": 0.4,
+          "housing_to_stop_radial_clearance_mm": 0.6,
+          "friction_retention": "Axial keyed composite discs with represented coned preload washer and clamp nut; torque capacity is not certified.",
+          "stop_definition": "Rotor dog 180–190 degrees sweeps inside sector 180–280 degrees; fixed stops bound 0 and 90 degrees.",
+          "presentation_pose": {
+            "seat": 0,
+            "lid": 90
+          }
+        },
+        "quincho": {
+          "body": "Inodoro quincho",
+          "seat": "Inodoro quincho | asiento",
+          "lid": "SAN99 | quincho cover open90",
+          "cistern": "Inodoro quincho | mochila compacta",
+          "pivot_blender": [
+            21.52999973297119,
+            -10.41679955291748,
+            0.6659999856948853
+          ],
+          "axis_sign": -1,
+          "mount_centres_mm": 160,
+          "seat_range_deg": [
+            0,
+            90
+          ],
+          "lid_range_deg": [
+            0,
+            90
+          ],
+          "coupled_rule": "0 <= seat <= lid <= 90",
+          "bearing_radial_clearance_mm": 0.1,
+          "faceted_bearing_min_radial_clearance_mm": 0.09626591423603442,
+          "head_and_nut_across_flats_mm": 10,
+          "axle_anti_rotation": "Double-D shaft in matching fixed yoke bores; clamped by hex head and nut; round M6 nominal threaded blank beyond right ear",
+          "stop_radial_clearance_mm": 0.4,
+          "housing_to_stop_radial_clearance_mm": 0.6,
+          "friction_retention": "Axial keyed composite discs with represented coned preload washer and clamp nut; torque capacity is not certified.",
+          "stop_definition": "Rotor dog 180–190 degrees sweeps inside sector 180–280 degrees; fixed stops bound 0 and 90 degrees.",
+          "presentation_pose": {
+            "seat": 0,
+            "lid": 90
+          }
+        },
+        "suite": {
+          "body": "Inodoro vivienda",
+          "seat": "Inodoro suite | asiento",
+          "lid": "SAN99 | suite cover open90",
+          "cistern": "Inodoro suite | mochila compacta",
+          "pivot_blender": [
+            21.34000015258789,
+            -8.273600093841553,
+            3.706000066757202
+          ],
+          "axis_sign": 1,
+          "mount_centres_mm": 160,
+          "seat_range_deg": [
+            0,
+            90
+          ],
+          "lid_range_deg": [
+            0,
+            90
+          ],
+          "coupled_rule": "0 <= seat <= lid <= 90",
+          "bearing_radial_clearance_mm": 0.1,
+          "faceted_bearing_min_radial_clearance_mm": 0.09626591423603442,
+          "head_and_nut_across_flats_mm": 10,
+          "axle_anti_rotation": "Double-D shaft in matching fixed yoke bores; clamped by hex head and nut; round M6 nominal threaded blank beyond right ear",
+          "stop_radial_clearance_mm": 0.4,
+          "housing_to_stop_radial_clearance_mm": 0.6,
+          "friction_retention": "Axial keyed composite discs with represented coned preload washer and clamp nut; torque capacity is not certified.",
+          "stop_definition": "Rotor dog 180–190 degrees sweeps inside sector 180–280 degrees; fixed stops bound 0 and 90 degrees.",
+          "presentation_pose": {
+            "seat": 0,
+            "lid": 90
+          }
+        }
+      },
+      "scenes": [
+        "CASA DE CAMPO | Atardecer",
+        "CASA DE CAMPO | DÍA",
+        "CASA DE CAMPO | NOCHE",
+        "INSPECCIÓN | Planta alta"
+      ],
+      "source_file": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7D.blend",
+      "new_objects": [
+        "SAN8 | mono H1 base yoke",
+        "SAN8 | mono H1 ear L",
+        "SAN8 | mono H1 ear stem L",
+        "SAN8 | mono H1 ear R",
+        "SAN8 | mono H1 ear stem R",
+        "SAN8 | mono H1 anchor gasket",
+        "SAN8 | mono H1 axle doubleD",
+        "SAN8 | mono H1 axle thread blank M6",
+        "SAN8 | mono H1 axle head",
+        "SAN8 | mono H1 clamp washer",
+        "SAN8 | mono H1 clamp nut M6 nominal",
+        "SAN8 | mono H1 preload coned spring",
+        "SAN8 | mono H1 friction centre",
+        "SAN8 | mono H1 friction outer",
+        "SAN8 | mono H1 seat housing",
+        "SAN8 | mono H1 seat bearing",
+        "SAN8 | mono H1 seat arm",
+        "SAN8 | mono H1 seat dog",
+        "SAN8 | mono H1 seat stop carrier",
+        "SAN8 | mono H1 seat stop0",
+        "SAN8 | mono H1 seat stop90",
+        "SAN8 | mono H1 seat stop stand",
+        "SAN8 | mono H1 lid housing",
+        "SAN8 | mono H1 lid bearing",
+        "SAN8 | mono H1 lid arm",
+        "SAN8 | mono H1 lid dog",
+        "SAN8 | mono H1 lid stop carrier",
+        "SAN8 | mono H1 lid stop0",
+        "SAN8 | mono H1 lid stop90",
+        "SAN8 | mono H1 lid stop stand",
+        "SAN8 | mono H2 base yoke",
+        "SAN8 | mono H2 ear L",
+        "SAN8 | mono H2 ear stem L",
+        "SAN8 | mono H2 ear R",
+        "SAN8 | mono H2 ear stem R",
+        "SAN8 | mono H2 anchor gasket",
+        "SAN8 | mono H2 axle doubleD",
+        "SAN8 | mono H2 axle thread blank M6",
+        "SAN8 | mono H2 axle head",
+        "SAN8 | mono H2 clamp washer",
+        "SAN8 | mono H2 clamp nut M6 nominal",
+        "SAN8 | mono H2 preload coned spring",
+        "SAN8 | mono H2 friction centre",
+        "SAN8 | mono H2 friction outer",
+        "SAN8 | mono H2 seat housing",
+        "SAN8 | mono H2 seat bearing",
+        "SAN8 | mono H2 seat arm",
+        "SAN8 | mono H2 seat dog",
+        "SAN8 | mono H2 seat stop carrier",
+        "SAN8 | mono H2 seat stop0",
+        "SAN8 | mono H2 seat stop90",
+        "SAN8 | mono H2 seat stop stand",
+        "SAN8 | mono H2 lid housing",
+        "SAN8 | mono H2 lid bearing",
+        "SAN8 | mono H2 lid arm",
+        "SAN8 | mono H2 lid dog",
+        "SAN8 | mono H2 lid stop carrier",
+        "SAN8 | mono H2 lid stop0",
+        "SAN8 | mono H2 lid stop90",
+        "SAN8 | mono H2 lid stop stand",
+        "SAN8 | mono lid buffer 00",
+        "SAN8 | mono lid buffer 01",
+        "SAN8 | mono lid buffer 10",
+        "SAN8 | mono lid buffer 11",
+        "SAN8 | quincho H1 base yoke",
+        "SAN8 | quincho H1 ear L",
+        "SAN8 | quincho H1 ear stem L",
+        "SAN8 | quincho H1 ear R",
+        "SAN8 | quincho H1 ear stem R",
+        "SAN8 | quincho H1 anchor gasket",
+        "SAN8 | quincho H1 axle doubleD",
+        "SAN8 | quincho H1 axle thread blank M6",
+        "SAN8 | quincho H1 axle head",
+        "SAN8 | quincho H1 clamp washer",
+        "SAN8 | quincho H1 clamp nut M6 nominal",
+        "SAN8 | quincho H1 preload coned spring",
+        "SAN8 | quincho H1 friction centre",
+        "SAN8 | quincho H1 friction outer",
+        "SAN8 | quincho H1 seat housing",
+        "SAN8 | quincho H1 seat bearing",
+        "SAN8 | quincho H1 seat arm",
+        "SAN8 | quincho H1 seat dog",
+        "SAN8 | quincho H1 seat stop carrier",
+        "SAN8 | quincho H1 seat stop0",
+        "SAN8 | quincho H1 seat stop90",
+        "SAN8 | quincho H1 seat stop stand",
+        "SAN8 | quincho H1 lid housing",
+        "SAN8 | quincho H1 lid bearing",
+        "SAN8 | quincho H1 lid arm",
+        "SAN8 | quincho H1 lid dog",
+        "SAN8 | quincho H1 lid stop carrier",
+        "SAN8 | quincho H1 lid stop0",
+        "SAN8 | quincho H1 lid stop90",
+        "SAN8 | quincho H1 lid stop stand",
+        "SAN8 | quincho H2 base yoke",
+        "SAN8 | quincho H2 ear L",
+        "SAN8 | quincho H2 ear stem L",
+        "SAN8 | quincho H2 ear R",
+        "SAN8 | quincho H2 ear stem R",
+        "SAN8 | quincho H2 anchor gasket",
+        "SAN8 | quincho H2 axle doubleD",
+        "SAN8 | quincho H2 axle thread blank M6",
+        "SAN8 | quincho H2 axle head",
+        "SAN8 | quincho H2 clamp washer",
+        "SAN8 | quincho H2 clamp nut M6 nominal",
+        "SAN8 | quincho H2 preload coned spring",
+        "SAN8 | quincho H2 friction centre",
+        "SAN8 | quincho H2 friction outer",
+        "SAN8 | quincho H2 seat housing",
+        "SAN8 | quincho H2 seat bearing",
+        "SAN8 | quincho H2 seat arm",
+        "SAN8 | quincho H2 seat dog",
+        "SAN8 | quincho H2 seat stop carrier",
+        "SAN8 | quincho H2 seat stop0",
+        "SAN8 | quincho H2 seat stop90",
+        "SAN8 | quincho H2 seat stop stand",
+        "SAN8 | quincho H2 lid housing",
+        "SAN8 | quincho H2 lid bearing",
+        "SAN8 | quincho H2 lid arm",
+        "SAN8 | quincho H2 lid dog",
+        "SAN8 | quincho H2 lid stop carrier",
+        "SAN8 | quincho H2 lid stop0",
+        "SAN8 | quincho H2 lid stop90",
+        "SAN8 | quincho H2 lid stop stand",
+        "SAN8 | quincho lid buffer 00",
+        "SAN8 | quincho lid buffer 01",
+        "SAN8 | quincho lid buffer 10",
+        "SAN8 | quincho lid buffer 11",
+        "SAN8 | suite H1 base yoke",
+        "SAN8 | suite H1 ear L",
+        "SAN8 | suite H1 ear stem L",
+        "SAN8 | suite H1 ear R",
+        "SAN8 | suite H1 ear stem R",
+        "SAN8 | suite H1 anchor gasket",
+        "SAN8 | suite H1 axle doubleD",
+        "SAN8 | suite H1 axle thread blank M6",
+        "SAN8 | suite H1 axle head",
+        "SAN8 | suite H1 clamp washer",
+        "SAN8 | suite H1 clamp nut M6 nominal",
+        "SAN8 | suite H1 preload coned spring",
+        "SAN8 | suite H1 friction centre",
+        "SAN8 | suite H1 friction outer",
+        "SAN8 | suite H1 seat housing",
+        "SAN8 | suite H1 seat bearing",
+        "SAN8 | suite H1 seat arm",
+        "SAN8 | suite H1 seat dog",
+        "SAN8 | suite H1 seat stop carrier",
+        "SAN8 | suite H1 seat stop0",
+        "SAN8 | suite H1 seat stop90",
+        "SAN8 | suite H1 seat stop stand",
+        "SAN8 | suite H1 lid housing",
+        "SAN8 | suite H1 lid bearing",
+        "SAN8 | suite H1 lid arm",
+        "SAN8 | suite H1 lid dog",
+        "SAN8 | suite H1 lid stop carrier",
+        "SAN8 | suite H1 lid stop0",
+        "SAN8 | suite H1 lid stop90",
+        "SAN8 | suite H1 lid stop stand",
+        "SAN8 | suite H2 base yoke",
+        "SAN8 | suite H2 ear L",
+        "SAN8 | suite H2 ear stem L",
+        "SAN8 | suite H2 ear R",
+        "SAN8 | suite H2 ear stem R",
+        "SAN8 | suite H2 anchor gasket",
+        "SAN8 | suite H2 axle doubleD",
+        "SAN8 | suite H2 axle thread blank M6",
+        "SAN8 | suite H2 axle head",
+        "SAN8 | suite H2 clamp washer",
+        "SAN8 | suite H2 clamp nut M6 nominal",
+        "SAN8 | suite H2 preload coned spring",
+        "SAN8 | suite H2 friction centre",
+        "SAN8 | suite H2 friction outer",
+        "SAN8 | suite H2 seat housing",
+        "SAN8 | suite H2 seat bearing",
+        "SAN8 | suite H2 seat arm",
+        "SAN8 | suite H2 seat dog",
+        "SAN8 | suite H2 seat stop carrier",
+        "SAN8 | suite H2 seat stop0",
+        "SAN8 | suite H2 seat stop90",
+        "SAN8 | suite H2 seat stop stand",
+        "SAN8 | suite H2 lid housing",
+        "SAN8 | suite H2 lid bearing",
+        "SAN8 | suite H2 lid arm",
+        "SAN8 | suite H2 lid dog",
+        "SAN8 | suite H2 lid stop carrier",
+        "SAN8 | suite H2 lid stop0",
+        "SAN8 | suite H2 lid stop90",
+        "SAN8 | suite H2 lid stop stand",
+        "SAN8 | suite lid buffer 00",
+        "SAN8 | suite lid buffer 01",
+        "SAN8 | suite lid buffer 10",
+        "SAN8 | suite lid buffer 11"
+      ],
+      "groups": {
+        "mono": {
+          "fixed": [
+            "SAN8 | mono H1 anchor gasket",
+            "SAN8 | mono H1 axle doubleD",
+            "SAN8 | mono H1 axle head",
+            "SAN8 | mono H1 axle thread blank M6",
+            "SAN8 | mono H1 base yoke",
+            "SAN8 | mono H1 clamp nut M6 nominal",
+            "SAN8 | mono H1 clamp washer",
+            "SAN8 | mono H1 ear L",
+            "SAN8 | mono H1 ear R",
+            "SAN8 | mono H1 ear stem L",
+            "SAN8 | mono H1 ear stem R",
+            "SAN8 | mono H1 friction centre",
+            "SAN8 | mono H1 friction outer",
+            "SAN8 | mono H1 lid stop carrier",
+            "SAN8 | mono H1 lid stop stand",
+            "SAN8 | mono H1 lid stop0",
+            "SAN8 | mono H1 lid stop90",
+            "SAN8 | mono H1 preload coned spring",
+            "SAN8 | mono H1 seat stop carrier",
+            "SAN8 | mono H1 seat stop stand",
+            "SAN8 | mono H1 seat stop0",
+            "SAN8 | mono H1 seat stop90",
+            "SAN8 | mono H2 anchor gasket",
+            "SAN8 | mono H2 axle doubleD",
+            "SAN8 | mono H2 axle head",
+            "SAN8 | mono H2 axle thread blank M6",
+            "SAN8 | mono H2 base yoke",
+            "SAN8 | mono H2 clamp nut M6 nominal",
+            "SAN8 | mono H2 clamp washer",
+            "SAN8 | mono H2 ear L",
+            "SAN8 | mono H2 ear R",
+            "SAN8 | mono H2 ear stem L",
+            "SAN8 | mono H2 ear stem R",
+            "SAN8 | mono H2 friction centre",
+            "SAN8 | mono H2 friction outer",
+            "SAN8 | mono H2 lid stop carrier",
+            "SAN8 | mono H2 lid stop stand",
+            "SAN8 | mono H2 lid stop0",
+            "SAN8 | mono H2 lid stop90",
+            "SAN8 | mono H2 preload coned spring",
+            "SAN8 | mono H2 seat stop carrier",
+            "SAN8 | mono H2 seat stop stand",
+            "SAN8 | mono H2 seat stop0",
+            "SAN8 | mono H2 seat stop90",
+            "SAN99 | mono hinge bolt",
+            "SAN99 | mono hinge bolt.001",
+            "SAN99 | mono hinge washer",
+            "SAN99 | mono hinge washer.001",
+            "SAN99 | mono tank support pad",
+            "SAN99 | mono tank support pad.001"
+          ],
+          "seat": [
+            "Inodoro mono | asiento",
+            "SAN8 | mono H1 seat arm",
+            "SAN8 | mono H1 seat bearing",
+            "SAN8 | mono H1 seat dog",
+            "SAN8 | mono H1 seat housing",
+            "SAN8 | mono H2 seat arm",
+            "SAN8 | mono H2 seat bearing",
+            "SAN8 | mono H2 seat dog",
+            "SAN8 | mono H2 seat housing",
+            "SAN99 | mono seat rubber stop",
+            "SAN99 | mono seat rubber stop.001",
+            "SAN99 | mono seat rubber stop.002",
+            "SAN99 | mono seat rubber stop.003"
+          ],
+          "lid": [
+            "SAN8 | mono H1 lid arm",
+            "SAN8 | mono H1 lid bearing",
+            "SAN8 | mono H1 lid dog",
+            "SAN8 | mono H1 lid housing",
+            "SAN8 | mono H2 lid arm",
+            "SAN8 | mono H2 lid bearing",
+            "SAN8 | mono H2 lid dog",
+            "SAN8 | mono H2 lid housing",
+            "SAN8 | mono lid buffer 00",
+            "SAN8 | mono lid buffer 01",
+            "SAN8 | mono lid buffer 10",
+            "SAN8 | mono lid buffer 11",
+            "SAN99 | mono cover open90"
+          ]
+        },
+        "quincho": {
+          "fixed": [
+            "SAN8 | quincho H1 anchor gasket",
+            "SAN8 | quincho H1 axle doubleD",
+            "SAN8 | quincho H1 axle head",
+            "SAN8 | quincho H1 axle thread blank M6",
+            "SAN8 | quincho H1 base yoke",
+            "SAN8 | quincho H1 clamp nut M6 nominal",
+            "SAN8 | quincho H1 clamp washer",
+            "SAN8 | quincho H1 ear L",
+            "SAN8 | quincho H1 ear R",
+            "SAN8 | quincho H1 ear stem L",
+            "SAN8 | quincho H1 ear stem R",
+            "SAN8 | quincho H1 friction centre",
+            "SAN8 | quincho H1 friction outer",
+            "SAN8 | quincho H1 lid stop carrier",
+            "SAN8 | quincho H1 lid stop stand",
+            "SAN8 | quincho H1 lid stop0",
+            "SAN8 | quincho H1 lid stop90",
+            "SAN8 | quincho H1 preload coned spring",
+            "SAN8 | quincho H1 seat stop carrier",
+            "SAN8 | quincho H1 seat stop stand",
+            "SAN8 | quincho H1 seat stop0",
+            "SAN8 | quincho H1 seat stop90",
+            "SAN8 | quincho H2 anchor gasket",
+            "SAN8 | quincho H2 axle doubleD",
+            "SAN8 | quincho H2 axle head",
+            "SAN8 | quincho H2 axle thread blank M6",
+            "SAN8 | quincho H2 base yoke",
+            "SAN8 | quincho H2 clamp nut M6 nominal",
+            "SAN8 | quincho H2 clamp washer",
+            "SAN8 | quincho H2 ear L",
+            "SAN8 | quincho H2 ear R",
+            "SAN8 | quincho H2 ear stem L",
+            "SAN8 | quincho H2 ear stem R",
+            "SAN8 | quincho H2 friction centre",
+            "SAN8 | quincho H2 friction outer",
+            "SAN8 | quincho H2 lid stop carrier",
+            "SAN8 | quincho H2 lid stop stand",
+            "SAN8 | quincho H2 lid stop0",
+            "SAN8 | quincho H2 lid stop90",
+            "SAN8 | quincho H2 preload coned spring",
+            "SAN8 | quincho H2 seat stop carrier",
+            "SAN8 | quincho H2 seat stop stand",
+            "SAN8 | quincho H2 seat stop0",
+            "SAN8 | quincho H2 seat stop90",
+            "SAN99 | quincho hinge bolt",
+            "SAN99 | quincho hinge bolt.001",
+            "SAN99 | quincho hinge washer",
+            "SAN99 | quincho hinge washer.001",
+            "SAN99 | quincho tank support pad",
+            "SAN99 | quincho tank support pad.001"
+          ],
+          "seat": [
+            "Inodoro quincho | asiento",
+            "SAN8 | quincho H1 seat arm",
+            "SAN8 | quincho H1 seat bearing",
+            "SAN8 | quincho H1 seat dog",
+            "SAN8 | quincho H1 seat housing",
+            "SAN8 | quincho H2 seat arm",
+            "SAN8 | quincho H2 seat bearing",
+            "SAN8 | quincho H2 seat dog",
+            "SAN8 | quincho H2 seat housing",
+            "SAN99 | quincho seat rubber stop",
+            "SAN99 | quincho seat rubber stop.001",
+            "SAN99 | quincho seat rubber stop.002",
+            "SAN99 | quincho seat rubber stop.003"
+          ],
+          "lid": [
+            "SAN8 | quincho H1 lid arm",
+            "SAN8 | quincho H1 lid bearing",
+            "SAN8 | quincho H1 lid dog",
+            "SAN8 | quincho H1 lid housing",
+            "SAN8 | quincho H2 lid arm",
+            "SAN8 | quincho H2 lid bearing",
+            "SAN8 | quincho H2 lid dog",
+            "SAN8 | quincho H2 lid housing",
+            "SAN8 | quincho lid buffer 00",
+            "SAN8 | quincho lid buffer 01",
+            "SAN8 | quincho lid buffer 10",
+            "SAN8 | quincho lid buffer 11",
+            "SAN99 | quincho cover open90"
+          ]
+        },
+        "suite": {
+          "fixed": [
+            "SAN8 | suite H1 anchor gasket",
+            "SAN8 | suite H1 axle doubleD",
+            "SAN8 | suite H1 axle head",
+            "SAN8 | suite H1 axle thread blank M6",
+            "SAN8 | suite H1 base yoke",
+            "SAN8 | suite H1 clamp nut M6 nominal",
+            "SAN8 | suite H1 clamp washer",
+            "SAN8 | suite H1 ear L",
+            "SAN8 | suite H1 ear R",
+            "SAN8 | suite H1 ear stem L",
+            "SAN8 | suite H1 ear stem R",
+            "SAN8 | suite H1 friction centre",
+            "SAN8 | suite H1 friction outer",
+            "SAN8 | suite H1 lid stop carrier",
+            "SAN8 | suite H1 lid stop stand",
+            "SAN8 | suite H1 lid stop0",
+            "SAN8 | suite H1 lid stop90",
+            "SAN8 | suite H1 preload coned spring",
+            "SAN8 | suite H1 seat stop carrier",
+            "SAN8 | suite H1 seat stop stand",
+            "SAN8 | suite H1 seat stop0",
+            "SAN8 | suite H1 seat stop90",
+            "SAN8 | suite H2 anchor gasket",
+            "SAN8 | suite H2 axle doubleD",
+            "SAN8 | suite H2 axle head",
+            "SAN8 | suite H2 axle thread blank M6",
+            "SAN8 | suite H2 base yoke",
+            "SAN8 | suite H2 clamp nut M6 nominal",
+            "SAN8 | suite H2 clamp washer",
+            "SAN8 | suite H2 ear L",
+            "SAN8 | suite H2 ear R",
+            "SAN8 | suite H2 ear stem L",
+            "SAN8 | suite H2 ear stem R",
+            "SAN8 | suite H2 friction centre",
+            "SAN8 | suite H2 friction outer",
+            "SAN8 | suite H2 lid stop carrier",
+            "SAN8 | suite H2 lid stop stand",
+            "SAN8 | suite H2 lid stop0",
+            "SAN8 | suite H2 lid stop90",
+            "SAN8 | suite H2 preload coned spring",
+            "SAN8 | suite H2 seat stop carrier",
+            "SAN8 | suite H2 seat stop stand",
+            "SAN8 | suite H2 seat stop0",
+            "SAN8 | suite H2 seat stop90",
+            "SAN99 | suite hinge bolt",
+            "SAN99 | suite hinge bolt.001",
+            "SAN99 | suite hinge washer",
+            "SAN99 | suite hinge washer.001",
+            "SAN99 | suite tank support pad",
+            "SAN99 | suite tank support pad.001"
+          ],
+          "seat": [
+            "Inodoro suite | asiento",
+            "SAN8 | suite H1 seat arm",
+            "SAN8 | suite H1 seat bearing",
+            "SAN8 | suite H1 seat dog",
+            "SAN8 | suite H1 seat housing",
+            "SAN8 | suite H2 seat arm",
+            "SAN8 | suite H2 seat bearing",
+            "SAN8 | suite H2 seat dog",
+            "SAN8 | suite H2 seat housing",
+            "SAN99 | suite seat rubber stop",
+            "SAN99 | suite seat rubber stop.001",
+            "SAN99 | suite seat rubber stop.002",
+            "SAN99 | suite seat rubber stop.003"
+          ],
+          "lid": [
+            "SAN8 | suite H1 lid arm",
+            "SAN8 | suite H1 lid bearing",
+            "SAN8 | suite H1 lid dog",
+            "SAN8 | suite H1 lid housing",
+            "SAN8 | suite H2 lid arm",
+            "SAN8 | suite H2 lid bearing",
+            "SAN8 | suite H2 lid dog",
+            "SAN8 | suite H2 lid housing",
+            "SAN8 | suite lid buffer 00",
+            "SAN8 | suite lid buffer 01",
+            "SAN8 | suite lid buffer 10",
+            "SAN8 | suite lid buffer 11",
+            "SAN99 | suite cover open90"
+          ]
+        }
+      },
+      "same_group_contacts": "Cast/welded yoke members, sleeve/arm/dog assemblies, sleeve/liner interference-free press fit, and nominal threaded/clamped fixed members are explicitly solidary.",
+      "main_geometry_unchanged": [
+        "Inodoro mono",
+        "Inodoro mono | asiento",
+        "Inodoro mono | mochila compacta",
+        "Inodoro quincho",
+        "Inodoro quincho | asiento",
+        "Inodoro quincho | mochila compacta",
+        "Inodoro vivienda",
+        "Inodoro suite | asiento",
+        "Inodoro suite | mochila compacta",
+        "SAN99 | mono cover open90",
+        "SAN99 | quincho cover open90",
+        "SAN99 | suite cover open90"
+      ]
+    },
+    "correcciones99_uso_r8.py": {
+      "version": 3,
+      "status": "P / first correction pass; independent assessment pending",
+      "changed_objects": [
+        "Isla cocina mono base | fondo",
+        "Isla cocina mono base | piso",
+        "Isla cocina mono base | costilla",
+        "Isla cocina mono base | costilla.001",
+        "Isla cocina mono base | costilla.002",
+        "Isla cocina mono base | travesaño",
+        "Isla cocina mono base | travesaño.001",
+        "Isla cocina mono base | zócalo",
+        "Taburete isla mono A | asiento 30 mm",
+        "Taburete isla mono A | pata izq frente",
+        "Taburete isla mono A | apoyo elastomérico izq frente",
+        "Taburete isla mono A | pata izq dorso",
+        "Taburete isla mono A | apoyo elastomérico izq dorso",
+        "Taburete isla mono A | pata der frente",
+        "Taburete isla mono A | apoyo elastomérico der frente",
+        "Taburete isla mono A | pata der dorso",
+        "Taburete isla mono A | apoyo elastomérico der dorso",
+        "Taburete isla mono A | faldón unión X -1",
+        "Taburete isla mono A | faldón unión Y -1",
+        "Taburete isla mono A | reposapiés X -1",
+        "Taburete isla mono A | travesaño Y -1",
+        "Taburete isla mono A | faldón unión X 1",
+        "Taburete isla mono A | faldón unión Y 1",
+        "Taburete isla mono A | reposapiés X 1",
+        "Taburete isla mono A | travesaño Y 1",
+        "Taburete isla mono B | asiento 30 mm",
+        "Taburete isla mono B | pata izq frente",
+        "Taburete isla mono B | apoyo elastomérico izq frente",
+        "Taburete isla mono B | pata izq dorso",
+        "Taburete isla mono B | apoyo elastomérico izq dorso",
+        "Taburete isla mono B | pata der frente",
+        "Taburete isla mono B | apoyo elastomérico der frente",
+        "Taburete isla mono B | pata der dorso",
+        "Taburete isla mono B | apoyo elastomérico der dorso",
+        "Taburete isla mono B | faldón unión X -1",
+        "Taburete isla mono B | faldón unión Y -1",
+        "Taburete isla mono B | reposapiés X -1",
+        "Taburete isla mono B | travesaño Y -1",
+        "Taburete isla mono B | faldón unión X 1",
+        "Taburete isla mono B | faldón unión Y 1",
+        "Taburete isla mono B | reposapiés X 1",
+        "Taburete isla mono B | travesaño Y 1",
+        "Controlador estudio",
+        "MAT95 | tecla natural 00",
+        "MAT95 | tecla sostenido 00",
+        "MAT95 | tecla natural 01",
+        "MAT95 | tecla sostenido 01",
+        "MAT95 | tecla natural 02",
+        "MAT95 | tecla natural 03",
+        "MAT95 | tecla sostenido 03",
+        "MAT95 | tecla natural 04",
+        "MAT95 | tecla sostenido 04",
+        "MAT95 | tecla natural 05",
+        "MAT95 | tecla sostenido 05",
+        "MAT95 | tecla natural 06",
+        "MAT95 | tecla natural 07",
+        "MAT95 | tecla sostenido 07",
+        "MAT95 | tecla natural 08",
+        "MAT95 | tecla sostenido 08",
+        "MAT95 | tecla natural 09",
+        "MAT95 | tecla natural 10",
+        "MAT95 | tecla sostenido 10",
+        "MAT95 | tecla natural 11",
+        "MAT95 | tecla sostenido 11",
+        "MAT95 | tecla natural 12",
+        "MAT95 | tecla sostenido 12",
+        "MAT95 | tecla natural 13",
+        "MAT95 | tecla natural 14",
+        "MAT95 | tecla sostenido 14",
+        "MAT95 | tecla natural 15",
+        "MAT95 | tecla sostenido 15",
+        "MAT95 | tecla natural 16",
+        "MAT95 | tecla natural 17",
+        "MAT95 | tecla sostenido 17",
+        "MAT95 | tecla natural 18",
+        "MAT95 | tecla sostenido 18",
+        "MAT95 | tecla natural 19",
+        "MAT95 | tecla sostenido 19",
+        "MAT95 | tecla natural 20",
+        "MAT95 | tecla natural 21",
+        "MAT95 | tecla sostenido 21",
+        "MAT95 | tecla natural 22",
+        "MAT95 | tecla sostenido 22",
+        "MAT95 | tecla natural 23",
+        "MAT95 | tecla natural 24",
+        "MAT95 | tecla sostenido 24",
+        "MAT95 | tecla natural 25",
+        "MAT95 | tecla sostenido 25",
+        "MAT95 | tecla natural 26",
+        "MAT95 | tecla sostenido 26",
+        "MAT95 | tecla natural 27",
+        "MAT95 | tecla natural 28",
+        "MAT95 | tecla sostenido 28",
+        "MAT95 | tecla natural 29",
+        "MAT95 | tecla sostenido 29",
+        "MAT95 | tecla natural 30",
+        "MAT95 | tecla natural 31",
+        "MAT95 | tecla sostenido 31",
+        "MAT95 | tecla natural 32",
+        "MAT95 | tecla sostenido 32",
+        "MAT95 | tecla natural 33",
+        "MAT95 | tecla sostenido 33",
+        "MAT95 | tecla natural 34",
+        "MAT95 | tecla natural 35",
+        "MAT95 | pad MIDI",
+        "MAT95 | pad MIDI.001",
+        "MAT95 | pad MIDI.002",
+        "MAT95 | pad MIDI.003",
+        "MAT95 | pad MIDI.004",
+        "MAT95 | pad MIDI.005",
+        "MAT95 | pad MIDI.006",
+        "MAT95 | pad MIDI.007",
+        "MAT95 | pad MIDI.008",
+        "MAT95 | pad MIDI.009",
+        "MAT95 | pad MIDI.010",
+        "MAT95 | pad MIDI.011",
+        "MAT95 | pad MIDI.012",
+        "MAT95 | pad MIDI.013",
+        "MAT95 | pad MIDI.014",
+        "MAT95 | pad MIDI.015",
+        "MAT95 | pantalla controlador",
+        "MAT95 | encoder maestro",
+        "MAT95 | encoder maestro.001",
+        "MAT95 | encoder maestro.002",
+        "MAT95 | encoder maestro.003",
+        "Consola estudio"
+      ],
+      "created_objects": [
+        "USO99 | isla apoyo elastomerico 00",
+        "USO99 | isla montante 00",
+        "USO99 | isla apoyo elastomerico 01",
+        "USO99 | isla montante 01",
+        "USO99 | isla larguero extremo 0",
+        "USO99 | isla apoyo elastomerico 10",
+        "USO99 | isla montante 10",
+        "USO99 | isla apoyo elastomerico 11",
+        "USO99 | isla montante 11",
+        "USO99 | isla larguero extremo 1",
+        "USO99 | isla travesano superior 0",
+        "USO99 | isla asiento elastomerico tapa 0",
+        "USO99 | isla travesano superior 1",
+        "USO99 | isla asiento elastomerico tapa 1",
+        "USO99 | MIDI bandeja18",
+        "USO99 | MIDI placa asiento base 0",
+        "USO99 | MIDI soldadura base 0 -1",
+        "USO99 | MIDI soldadura base 0 1",
+        "USO99 | MIDI calce8 0",
+        "USO99 | MIDI brazo40x30 0",
+        "USO99 | MIDI cordon soldadura 00",
+        "USO99 | MIDI cordon soldadura 01",
+        "USO99 | MIDI placa asiento base 1",
+        "USO99 | MIDI soldadura base 1 -1",
+        "USO99 | MIDI soldadura base 1 1",
+        "USO99 | MIDI calce8 1",
+        "USO99 | MIDI brazo40x30 1",
+        "USO99 | MIDI cordon soldadura 10",
+        "USO99 | MIDI cordon soldadura 11",
+        "USO99 | MIDI apoyo elastomerico 00",
+        "USO99 | MIDI apoyo elastomerico 01",
+        "USO99 | MIDI apoyo elastomerico 10",
+        "USO99 | MIDI apoyo elastomerico 11",
+        "USO99 | MIDI tope lateral 0",
+        "USO99 | MIDI tope lateral 1"
+      ],
+      "before_bounds_source": {
+        "Isla cocina mono base | fondo": {
+          "x": [
+            16.0,
+            17.639999389648438
+          ],
+          "h": [
+            0.3100000023841858,
+            1.0750000476837158
+          ],
+          "z": [
+            3.569999933242798,
+            3.5880000591278076
+          ]
+        },
+        "Isla cocina mono base | piso": {
+          "x": [
+            16.0,
+            17.639999389648438
+          ],
+          "h": [
+            0.3100000023841858,
+            0.328000009059906
+          ],
+          "z": [
+            3.5879998207092285,
+            3.9600000381469727
+          ]
+        },
+        "Isla cocina mono base | costilla": {
+          "x": [
+            16.0,
+            16.018001556396484
+          ],
+          "h": [
+            0.328000009059906,
+            1.0750000476837158
+          ],
+          "z": [
+            3.5879998207092285,
+            3.9600000381469727
+          ]
+        },
+        "Isla cocina mono base | costilla.001": {
+          "x": [
+            16.810998916625977,
+            16.82900047302246
+          ],
+          "h": [
+            0.328000009059906,
+            1.0750000476837158
+          ],
+          "z": [
+            3.5879998207092285,
+            3.9600000381469727
+          ]
+        },
+        "Isla cocina mono base | costilla.002": {
+          "x": [
+            17.621999740600586,
+            17.64000129699707
+          ],
+          "h": [
+            0.328000009059906,
+            1.0750000476837158
+          ],
+          "z": [
+            3.5879998207092285,
+            3.9600000381469727
+          ]
+        },
+        "Isla cocina mono base | travesaño": {
+          "x": [
+            16.0,
+            17.639999389648438
+          ],
+          "h": [
+            1.0449999570846558,
+            1.0749999284744263
+          ],
+          "z": [
+            3.575000047683716,
+            3.615000009536743
+          ]
+        },
+        "Isla cocina mono base | travesaño.001": {
+          "x": [
+            16.0,
+            17.639999389648438
+          ],
+          "h": [
+            1.0449999570846558,
+            1.0749999284744263
+          ],
+          "z": [
+            3.9100000858306885,
+            3.950000047683716
+          ]
+        },
+        "Isla cocina mono base | zócalo": {
+          "x": [
+            16.059999465942383,
+            17.579999923706055
+          ],
+          "h": [
+            0.20999999344348907,
+            0.3100000023841858
+          ],
+          "z": [
+            3.630000114440918,
+            3.9000000953674316
+          ]
+        },
+        "Taburete isla mono A | asiento 30 mm": {
+          "x": [
+            16.1299991607666,
+            16.510000228881836
+          ],
+          "h": [
+            0.8300000429153442,
+            0.8600000143051147
+          ],
+          "z": [
+            2.859999656677246,
+            3.239999771118164
+          ]
+        },
+        "Taburete isla mono A | pata izq frente": {
+          "x": [
+            16.149999618530273,
+            16.184999465942383
+          ],
+          "h": [
+            0.2149999737739563,
+            0.8299999833106995
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono A | apoyo elastomérico izq frente": {
+          "x": [
+            16.149999618530273,
+            16.184999465942383
+          ],
+          "h": [
+            0.21000000834465027,
+            0.2150000035762787
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono A | pata izq dorso": {
+          "x": [
+            16.149999618530273,
+            16.184999465942383
+          ],
+          "h": [
+            0.2149999737739563,
+            0.8299999833106995
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono A | apoyo elastomérico izq dorso": {
+          "x": [
+            16.149999618530273,
+            16.184999465942383
+          ],
+          "h": [
+            0.21000000834465027,
+            0.2150000035762787
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono A | pata der frente": {
+          "x": [
+            16.454999923706055,
+            16.489999771118164
+          ],
+          "h": [
+            0.2149999737739563,
+            0.8299999833106995
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono A | apoyo elastomérico der frente": {
+          "x": [
+            16.454999923706055,
+            16.489999771118164
+          ],
+          "h": [
+            0.21000000834465027,
+            0.2150000035762787
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono A | pata der dorso": {
+          "x": [
+            16.454999923706055,
+            16.489999771118164
+          ],
+          "h": [
+            0.2149999737739563,
+            0.8299999833106995
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono A | apoyo elastomérico der dorso": {
+          "x": [
+            16.454999923706055,
+            16.489999771118164
+          ],
+          "h": [
+            0.21000000834465027,
+            0.2150000035762787
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono A | faldón unión X -1": {
+          "x": [
+            16.184999465942383,
+            16.454999923706055
+          ],
+          "h": [
+            0.7700000405311584,
+            0.8299999833106995
+          ],
+          "z": [
+            3.1934995651245117,
+            3.2114996910095215
+          ]
+        },
+        "Taburete isla mono A | faldón unión Y -1": {
+          "x": [
+            16.158498764038086,
+            16.17650032043457
+          ],
+          "h": [
+            0.7700000405311584,
+            0.8299999833106995
+          ],
+          "z": [
+            2.9149997234344482,
+            3.184999704360962
+          ]
+        },
+        "Taburete isla mono A | reposapiés X -1": {
+          "x": [
+            16.184999465942383,
+            16.454999923706055
+          ],
+          "h": [
+            0.3850000202655792,
+            0.4099999964237213
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono A | travesaño Y -1": {
+          "x": [
+            16.149999618530273,
+            16.184999465942383
+          ],
+          "h": [
+            0.3850000202655792,
+            0.4099999964237213
+          ],
+          "z": [
+            2.9149997234344482,
+            3.184999704360962
+          ]
+        },
+        "Taburete isla mono A | faldón unión X 1": {
+          "x": [
+            16.184999465942383,
+            16.454999923706055
+          ],
+          "h": [
+            0.7700000405311584,
+            0.8299999833106995
+          ],
+          "z": [
+            2.8884997367858887,
+            2.9064998626708984
+          ]
+        },
+        "Taburete isla mono A | faldón unión Y 1": {
+          "x": [
+            16.463499069213867,
+            16.48150062561035
+          ],
+          "h": [
+            0.7700000405311584,
+            0.8299999833106995
+          ],
+          "z": [
+            2.9149997234344482,
+            3.184999704360962
+          ]
+        },
+        "Taburete isla mono A | reposapiés X 1": {
+          "x": [
+            16.184999465942383,
+            16.454999923706055
+          ],
+          "h": [
+            0.3850000202655792,
+            0.4099999964237213
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono A | travesaño Y 1": {
+          "x": [
+            16.454999923706055,
+            16.489999771118164
+          ],
+          "h": [
+            0.3850000202655792,
+            0.4099999964237213
+          ],
+          "z": [
+            2.9149997234344482,
+            3.184999704360962
+          ]
+        },
+        "Taburete isla mono B | asiento 30 mm": {
+          "x": [
+            17.189998626708984,
+            17.56999969482422
+          ],
+          "h": [
+            0.8300000429153442,
+            0.8600000143051147
+          ],
+          "z": [
+            2.859999656677246,
+            3.239999771118164
+          ]
+        },
+        "Taburete isla mono B | pata izq frente": {
+          "x": [
+            17.209999084472656,
+            17.244998931884766
+          ],
+          "h": [
+            0.2149999737739563,
+            0.8299999833106995
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono B | apoyo elastomérico izq frente": {
+          "x": [
+            17.209999084472656,
+            17.244998931884766
+          ],
+          "h": [
+            0.21000000834465027,
+            0.2150000035762787
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono B | pata izq dorso": {
+          "x": [
+            17.209999084472656,
+            17.244998931884766
+          ],
+          "h": [
+            0.2149999737739563,
+            0.8299999833106995
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono B | apoyo elastomérico izq dorso": {
+          "x": [
+            17.209999084472656,
+            17.244998931884766
+          ],
+          "h": [
+            0.21000000834465027,
+            0.2150000035762787
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono B | pata der frente": {
+          "x": [
+            17.514999389648438,
+            17.549999237060547
+          ],
+          "h": [
+            0.2149999737739563,
+            0.8299999833106995
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono B | apoyo elastomérico der frente": {
+          "x": [
+            17.514999389648438,
+            17.549999237060547
+          ],
+          "h": [
+            0.21000000834465027,
+            0.2150000035762787
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono B | pata der dorso": {
+          "x": [
+            17.514999389648438,
+            17.549999237060547
+          ],
+          "h": [
+            0.2149999737739563,
+            0.8299999833106995
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono B | apoyo elastomérico der dorso": {
+          "x": [
+            17.514999389648438,
+            17.549999237060547
+          ],
+          "h": [
+            0.21000000834465027,
+            0.2150000035762787
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono B | faldón unión X -1": {
+          "x": [
+            17.244998931884766,
+            17.514999389648438
+          ],
+          "h": [
+            0.7700000405311584,
+            0.8299999833106995
+          ],
+          "z": [
+            3.1934995651245117,
+            3.2114996910095215
+          ]
+        },
+        "Taburete isla mono B | faldón unión Y -1": {
+          "x": [
+            17.21849822998047,
+            17.236499786376953
+          ],
+          "h": [
+            0.7700000405311584,
+            0.8299999833106995
+          ],
+          "z": [
+            2.9149997234344482,
+            3.184999704360962
+          ]
+        },
+        "Taburete isla mono B | reposapiés X -1": {
+          "x": [
+            17.244998931884766,
+            17.514999389648438
+          ],
+          "h": [
+            0.3850000202655792,
+            0.4099999964237213
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono B | travesaño Y -1": {
+          "x": [
+            17.209999084472656,
+            17.244998931884766
+          ],
+          "h": [
+            0.3850000202655792,
+            0.4099999964237213
+          ],
+          "z": [
+            2.9149997234344482,
+            3.184999704360962
+          ]
+        },
+        "Taburete isla mono B | faldón unión X 1": {
+          "x": [
+            17.244998931884766,
+            17.514999389648438
+          ],
+          "h": [
+            0.7700000405311584,
+            0.8299999833106995
+          ],
+          "z": [
+            2.8884997367858887,
+            2.9064998626708984
+          ]
+        },
+        "Taburete isla mono B | faldón unión Y 1": {
+          "x": [
+            17.52349853515625,
+            17.541500091552734
+          ],
+          "h": [
+            0.7700000405311584,
+            0.8299999833106995
+          ],
+          "z": [
+            2.9149997234344482,
+            3.184999704360962
+          ]
+        },
+        "Taburete isla mono B | reposapiés X 1": {
+          "x": [
+            17.244998931884766,
+            17.514999389648438
+          ],
+          "h": [
+            0.3850000202655792,
+            0.4099999964237213
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono B | travesaño Y 1": {
+          "x": [
+            17.514999389648438,
+            17.549999237060547
+          ],
+          "h": [
+            0.3850000202655792,
+            0.4099999964237213
+          ],
+          "z": [
+            2.9149997234344482,
+            3.184999704360962
+          ]
+        },
+        "Controlador estudio": {
+          "x": [
+            18.189998626708984,
+            18.90999984741211
+          ],
+          "h": [
+            4.045499801635742,
+            4.100500106811523
+          ],
+          "z": [
+            2.4600000381469727,
+            3.5399999618530273
+          ]
+        },
+        "MAT95 | tecla natural 00": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            2.5567500591278076,
+            2.5792500972747803
+          ]
+        },
+        "MAT95 | tecla sostenido 00": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            2.573499917984009,
+            2.5864999294281006
+          ]
+        },
+        "MAT95 | tecla natural 01": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            2.580749988555908,
+            2.603250026702881
+          ]
+        },
+        "MAT95 | tecla sostenido 01": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            2.5975000858306885,
+            2.6105000972747803
+          ]
+        },
+        "MAT95 | tecla natural 02": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            2.604749917984009,
+            2.6272499561309814
+          ]
+        },
+        "MAT95 | tecla natural 03": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            2.6287500858306885,
+            2.651250123977661
+          ]
+        },
+        "MAT95 | tecla sostenido 03": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            2.6454999446868896,
+            2.6584999561309814
+          ]
+        },
+        "MAT95 | tecla natural 04": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            2.652750015258789,
+            2.6752500534057617
+          ]
+        },
+        "MAT95 | tecla sostenido 04": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            2.6695001125335693,
+            2.682500123977661
+          ]
+        },
+        "MAT95 | tecla natural 05": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            2.6767499446868896,
+            2.6992499828338623
+          ]
+        },
+        "MAT95 | tecla sostenido 05": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            2.69350004196167,
+            2.7065000534057617
+          ]
+        },
+        "MAT95 | tecla natural 06": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            2.7007498741149902,
+            2.723249912261963
+          ]
+        },
+        "MAT95 | tecla natural 07": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            2.72475004196167,
+            2.7472500801086426
+          ]
+        },
+        "MAT95 | tecla sostenido 07": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            2.741499900817871,
+            2.754499912261963
+          ]
+        },
+        "MAT95 | tecla natural 08": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            2.7487499713897705,
+            2.771250009536743
+          ]
+        },
+        "MAT95 | tecla sostenido 08": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            2.765500068664551,
+            2.7785000801086426
+          ]
+        },
+        "MAT95 | tecla natural 09": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            2.772749900817871,
+            2.7952499389648438
+          ]
+        },
+        "MAT95 | tecla natural 10": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            2.796750068664551,
+            2.8192501068115234
+          ]
+        },
+        "MAT95 | tecla sostenido 10": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            2.813499927520752,
+            2.8264999389648438
+          ]
+        },
+        "MAT95 | tecla natural 11": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            2.8207499980926514,
+            2.843250036239624
+          ]
+        },
+        "MAT95 | tecla sostenido 11": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            2.8375000953674316,
+            2.8505001068115234
+          ]
+        },
+        "MAT95 | tecla natural 12": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            2.844749927520752,
+            2.8672499656677246
+          ]
+        },
+        "MAT95 | tecla sostenido 12": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            2.8615000247955322,
+            2.874500036239624
+          ]
+        },
+        "MAT95 | tecla natural 13": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            2.8687500953674316,
+            2.8912501335144043
+          ]
+        },
+        "MAT95 | tecla natural 14": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            2.8927500247955322,
+            2.915250062942505
+          ]
+        },
+        "MAT95 | tecla sostenido 14": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            2.9094998836517334,
+            2.922499895095825
+          ]
+        },
+        "MAT95 | tecla natural 15": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            2.916749954223633,
+            2.9392499923706055
+          ]
+        },
+        "MAT95 | tecla sostenido 15": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            2.933500051498413,
+            2.946500062942505
+          ]
+        },
+        "MAT95 | tecla natural 16": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            2.9407498836517334,
+            2.963249921798706
+          ]
+        },
+        "MAT95 | tecla natural 17": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            2.964750051498413,
+            2.9872500896453857
+          ]
+        },
+        "MAT95 | tecla sostenido 17": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            2.9814999103546143,
+            2.994499921798706
+          ]
+        },
+        "MAT95 | tecla natural 18": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            2.9887499809265137,
+            3.0112500190734863
+          ]
+        },
+        "MAT95 | tecla sostenido 18": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            3.005500078201294,
+            3.0185000896453857
+          ]
+        },
+        "MAT95 | tecla natural 19": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            3.0127499103546143,
+            3.035249948501587
+          ]
+        },
+        "MAT95 | tecla sostenido 19": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            3.0295000076293945,
+            3.0425000190734863
+          ]
+        },
+        "MAT95 | tecla natural 20": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            3.036750078201294,
+            3.0592501163482666
+          ]
+        },
+        "MAT95 | tecla natural 21": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            3.0607500076293945,
+            3.083250045776367
+          ]
+        },
+        "MAT95 | tecla sostenido 21": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            3.077500104904175,
+            3.0905001163482666
+          ]
+        },
+        "MAT95 | tecla natural 22": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            3.084749937057495,
+            3.1072499752044678
+          ]
+        },
+        "MAT95 | tecla sostenido 22": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            3.1015000343322754,
+            3.114500045776367
+          ]
+        },
+        "MAT95 | tecla natural 23": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            3.1087498664855957,
+            3.1312499046325684
+          ]
+        },
+        "MAT95 | tecla natural 24": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            3.1327500343322754,
+            3.155250072479248
+          ]
+        },
+        "MAT95 | tecla sostenido 24": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            3.1494998931884766,
+            3.1624999046325684
+          ]
+        },
+        "MAT95 | tecla natural 25": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            3.156749963760376,
+            3.1792500019073486
+          ]
+        },
+        "MAT95 | tecla sostenido 25": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            3.1735000610351562,
+            3.186500072479248
+          ]
+        },
+        "MAT95 | tecla natural 26": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            3.1807498931884766,
+            3.203249931335449
+          ]
+        },
+        "MAT95 | tecla sostenido 26": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            3.197499990463257,
+            3.2105000019073486
+          ]
+        },
+        "MAT95 | tecla natural 27": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            3.2047500610351562,
+            3.227250099182129
+          ]
+        },
+        "MAT95 | tecla natural 28": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            3.228749990463257,
+            3.2512500286102295
+          ]
+        },
+        "MAT95 | tecla sostenido 28": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            3.245500087738037,
+            3.258500099182129
+          ]
+        },
+        "MAT95 | tecla natural 29": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            3.2527499198913574,
+            3.27524995803833
+          ]
+        },
+        "MAT95 | tecla sostenido 29": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            3.2695000171661377,
+            3.2825000286102295
+          ]
+        },
+        "MAT95 | tecla natural 30": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            3.276750087738037,
+            3.2992501258850098
+          ]
+        },
+        "MAT95 | tecla natural 31": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            3.3007500171661377,
+            3.3232500553131104
+          ]
+        },
+        "MAT95 | tecla sostenido 31": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            3.317499876022339,
+            3.3304998874664307
+          ]
+        },
+        "MAT95 | tecla natural 32": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            3.3247499465942383,
+            3.347249984741211
+          ]
+        },
+        "MAT95 | tecla sostenido 32": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            3.3415000438690186,
+            3.3545000553131104
+          ]
+        },
+        "MAT95 | tecla natural 33": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            3.348749876022339,
+            3.3712499141693115
+          ]
+        },
+        "MAT95 | tecla sostenido 33": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            4.1080002784729,
+            4.122000217437744
+          ],
+          "z": [
+            3.365499973297119,
+            3.378499984741211
+          ]
+        },
+        "MAT95 | tecla natural 34": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            3.3727500438690186,
+            3.395250082015991
+          ]
+        },
+        "MAT95 | tecla natural 35": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            4.100500106811523,
+            4.109499931335449
+          ],
+          "z": [
+            3.396749973297119,
+            3.419250011444092
+          ]
+        },
+        "MAT95 | pad MIDI": {
+          "x": [
+            18.276498794555664,
+            18.32349967956543
+          ],
+          "h": [
+            4.1020002365112305,
+            4.112000465393066
+          ],
+          "z": [
+            2.55649995803833,
+            2.6034998893737793
+          ]
+        },
+        "MAT95 | pad MIDI.001": {
+          "x": [
+            18.351499557495117,
+            18.398500442504883
+          ],
+          "h": [
+            4.1020002365112305,
+            4.112000465393066
+          ],
+          "z": [
+            2.55649995803833,
+            2.6034998893737793
+          ]
+        },
+        "MAT95 | pad MIDI.002": {
+          "x": [
+            18.276498794555664,
+            18.32349967956543
+          ],
+          "h": [
+            4.1020002365112305,
+            4.112000465393066
+          ],
+          "z": [
+            2.614500045776367,
+            2.6614999771118164
+          ]
+        },
+        "MAT95 | pad MIDI.003": {
+          "x": [
+            18.351499557495117,
+            18.398500442504883
+          ],
+          "h": [
+            4.1020002365112305,
+            4.112000465393066
+          ],
+          "z": [
+            2.614500045776367,
+            2.6614999771118164
+          ]
+        },
+        "MAT95 | pad MIDI.004": {
+          "x": [
+            18.276498794555664,
+            18.32349967956543
+          ],
+          "h": [
+            4.1020002365112305,
+            4.112000465393066
+          ],
+          "z": [
+            2.6725001335144043,
+            2.7195000648498535
+          ]
+        },
+        "MAT95 | pad MIDI.005": {
+          "x": [
+            18.351499557495117,
+            18.398500442504883
+          ],
+          "h": [
+            4.1020002365112305,
+            4.112000465393066
+          ],
+          "z": [
+            2.6725001335144043,
+            2.7195000648498535
+          ]
+        },
+        "MAT95 | pad MIDI.006": {
+          "x": [
+            18.276498794555664,
+            18.32349967956543
+          ],
+          "h": [
+            4.1020002365112305,
+            4.112000465393066
+          ],
+          "z": [
+            2.7304999828338623,
+            2.7774999141693115
+          ]
+        },
+        "MAT95 | pad MIDI.007": {
+          "x": [
+            18.351499557495117,
+            18.398500442504883
+          ],
+          "h": [
+            4.1020002365112305,
+            4.112000465393066
+          ],
+          "z": [
+            2.7304999828338623,
+            2.7774999141693115
+          ]
+        },
+        "MAT95 | pad MIDI.008": {
+          "x": [
+            18.276498794555664,
+            18.32349967956543
+          ],
+          "h": [
+            4.1020002365112305,
+            4.112000465393066
+          ],
+          "z": [
+            2.7885000705718994,
+            2.8355000019073486
+          ]
+        },
+        "MAT95 | pad MIDI.009": {
+          "x": [
+            18.351499557495117,
+            18.398500442504883
+          ],
+          "h": [
+            4.1020002365112305,
+            4.112000465393066
+          ],
+          "z": [
+            2.7885000705718994,
+            2.8355000019073486
+          ]
+        },
+        "MAT95 | pad MIDI.010": {
+          "x": [
+            18.276498794555664,
+            18.32349967956543
+          ],
+          "h": [
+            4.1020002365112305,
+            4.112000465393066
+          ],
+          "z": [
+            2.8464999198913574,
+            2.8934998512268066
+          ]
+        },
+        "MAT95 | pad MIDI.011": {
+          "x": [
+            18.351499557495117,
+            18.398500442504883
+          ],
+          "h": [
+            4.1020002365112305,
+            4.112000465393066
+          ],
+          "z": [
+            2.8464999198913574,
+            2.8934998512268066
+          ]
+        },
+        "MAT95 | pad MIDI.012": {
+          "x": [
+            18.276498794555664,
+            18.32349967956543
+          ],
+          "h": [
+            4.1020002365112305,
+            4.112000465393066
+          ],
+          "z": [
+            2.9045000076293945,
+            2.9514999389648438
+          ]
+        },
+        "MAT95 | pad MIDI.013": {
+          "x": [
+            18.351499557495117,
+            18.398500442504883
+          ],
+          "h": [
+            4.1020002365112305,
+            4.112000465393066
+          ],
+          "z": [
+            2.9045000076293945,
+            2.9514999389648438
+          ]
+        },
+        "MAT95 | pad MIDI.014": {
+          "x": [
+            18.276498794555664,
+            18.32349967956543
+          ],
+          "h": [
+            4.1020002365112305,
+            4.112000465393066
+          ],
+          "z": [
+            2.9625000953674316,
+            3.009500026702881
+          ]
+        },
+        "MAT95 | pad MIDI.015": {
+          "x": [
+            18.351499557495117,
+            18.398500442504883
+          ],
+          "h": [
+            4.1020002365112305,
+            4.112000465393066
+          ],
+          "z": [
+            2.9625000953674316,
+            3.009500026702881
+          ]
+        },
+        "MAT95 | pantalla controlador": {
+          "x": [
+            18.260000228881836,
+            18.420000076293945
+          ],
+          "h": [
+            4.1020002365112305,
+            4.105999946594238
+          ],
+          "z": [
+            3.140000104904175,
+            3.3399999141693115
+          ]
+        },
+        "MAT95 | encoder maestro": {
+          "x": [
+            18.50800132751465,
+            18.531999588012695
+          ],
+          "h": [
+            4.103000164031982,
+            4.12600040435791
+          ],
+          "z": [
+            3.107999801635742,
+            3.131999969482422
+          ]
+        },
+        "MAT95 | encoder maestro.001": {
+          "x": [
+            18.50800132751465,
+            18.531999588012695
+          ],
+          "h": [
+            4.103000164031982,
+            4.12600040435791
+          ],
+          "z": [
+            3.187999963760376,
+            3.2120001316070557
+          ]
+        },
+        "MAT95 | encoder maestro.002": {
+          "x": [
+            18.50800132751465,
+            18.531999588012695
+          ],
+          "h": [
+            4.103000164031982,
+            4.12600040435791
+          ],
+          "z": [
+            3.2679998874664307,
+            3.2920000553131104
+          ]
+        },
+        "MAT95 | encoder maestro.003": {
+          "x": [
+            18.50800132751465,
+            18.531999588012695
+          ],
+          "h": [
+            4.103000164031982,
+            4.12600040435791
+          ],
+          "z": [
+            3.3479998111724854,
+            3.371999979019165
+          ]
+        },
+        "Consola estudio": {
+          "x": [
+            17.583097457885742,
+            18.77690315246582
+          ],
+          "h": [
+            3.7762019634246826,
+            4.089797496795654
+          ],
+          "z": [
+            1.3250000476837158,
+            4.675000190734863
+          ]
+        }
+      },
+      "after_bounds_source": {
+        "Isla cocina mono base | fondo": {
+          "x": [
+            16.0,
+            17.639999389648438
+          ],
+          "h": [
+            0.3100000023841858,
+            1.0750000476837158
+          ],
+          "z": [
+            3.7200000286102295,
+            3.73799991607666
+          ]
+        },
+        "Isla cocina mono base | piso": {
+          "x": [
+            16.0,
+            17.639999389648438
+          ],
+          "h": [
+            0.3100000023841858,
+            0.328000009059906
+          ],
+          "z": [
+            3.73799991607666,
+            3.9600000381469727
+          ]
+        },
+        "Isla cocina mono base | costilla": {
+          "x": [
+            16.0,
+            16.018001556396484
+          ],
+          "h": [
+            0.328000009059906,
+            1.0750000476837158
+          ],
+          "z": [
+            3.73799991607666,
+            3.9600000381469727
+          ]
+        },
+        "Isla cocina mono base | costilla.001": {
+          "x": [
+            16.810998916625977,
+            16.82900047302246
+          ],
+          "h": [
+            0.328000009059906,
+            1.0750000476837158
+          ],
+          "z": [
+            3.73799991607666,
+            3.9600000381469727
+          ]
+        },
+        "Isla cocina mono base | costilla.002": {
+          "x": [
+            17.621999740600586,
+            17.64000129699707
+          ],
+          "h": [
+            0.328000009059906,
+            1.0750000476837158
+          ],
+          "z": [
+            3.73799991607666,
+            3.9600000381469727
+          ]
+        },
+        "Isla cocina mono base | travesaño": {
+          "x": [
+            16.0,
+            17.639999389648438
+          ],
+          "h": [
+            1.0449999570846558,
+            1.0749999284744263
+          ],
+          "z": [
+            3.73799991607666,
+            3.7780001163482666
+          ]
+        },
+        "Isla cocina mono base | travesaño.001": {
+          "x": [
+            16.0,
+            17.639999389648438
+          ],
+          "h": [
+            1.0449999570846558,
+            1.0749999284744263
+          ],
+          "z": [
+            3.9100000858306885,
+            3.924999952316284
+          ]
+        },
+        "Isla cocina mono base | zócalo": {
+          "x": [
+            16.059999465942383,
+            17.579999923706055
+          ],
+          "h": [
+            0.20999999344348907,
+            0.3100000023841858
+          ],
+          "z": [
+            3.7799999713897705,
+            3.9000000953674316
+          ]
+        },
+        "Taburete isla mono A | asiento 30 mm": {
+          "x": [
+            16.15999984741211,
+            16.540000915527344
+          ],
+          "h": [
+            0.8300000429153442,
+            0.8600000143051147
+          ],
+          "z": [
+            2.859999656677246,
+            3.239999771118164
+          ]
+        },
+        "Taburete isla mono A | pata izq frente": {
+          "x": [
+            16.162500381469727,
+            16.197500228881836
+          ],
+          "h": [
+            0.2149999737739563,
+            0.8299999833106995
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono A | apoyo elastomérico izq frente": {
+          "x": [
+            16.162500381469727,
+            16.197500228881836
+          ],
+          "h": [
+            0.21000000834465027,
+            0.2150000035762787
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono A | pata izq dorso": {
+          "x": [
+            16.162500381469727,
+            16.197500228881836
+          ],
+          "h": [
+            0.2149999737739563,
+            0.8299999833106995
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono A | apoyo elastomérico izq dorso": {
+          "x": [
+            16.162500381469727,
+            16.197500228881836
+          ],
+          "h": [
+            0.21000000834465027,
+            0.2150000035762787
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono A | pata der frente": {
+          "x": [
+            16.502500534057617,
+            16.537500381469727
+          ],
+          "h": [
+            0.2149999737739563,
+            0.8299999833106995
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono A | apoyo elastomérico der frente": {
+          "x": [
+            16.502500534057617,
+            16.537500381469727
+          ],
+          "h": [
+            0.21000000834465027,
+            0.2150000035762787
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono A | pata der dorso": {
+          "x": [
+            16.502500534057617,
+            16.537500381469727
+          ],
+          "h": [
+            0.2149999737739563,
+            0.8299999833106995
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono A | apoyo elastomérico der dorso": {
+          "x": [
+            16.502500534057617,
+            16.537500381469727
+          ],
+          "h": [
+            0.21000000834465027,
+            0.2150000035762787
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono A | faldón unión X -1": {
+          "x": [
+            16.197500228881836,
+            16.502500534057617
+          ],
+          "h": [
+            0.7700000405311584,
+            0.8299999833106995
+          ],
+          "z": [
+            3.1934995651245117,
+            3.2114996910095215
+          ]
+        },
+        "Taburete isla mono A | faldón unión Y -1": {
+          "x": [
+            16.17099952697754,
+            16.189001083374023
+          ],
+          "h": [
+            0.7700000405311584,
+            0.8299999833106995
+          ],
+          "z": [
+            2.9149997234344482,
+            3.184999704360962
+          ]
+        },
+        "Taburete isla mono A | reposapiés X -1": {
+          "x": [
+            16.197500228881836,
+            16.502500534057617
+          ],
+          "h": [
+            0.3850000202655792,
+            0.4099999964237213
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono A | travesaño Y -1": {
+          "x": [
+            16.162500381469727,
+            16.197500228881836
+          ],
+          "h": [
+            0.3850000202655792,
+            0.4099999964237213
+          ],
+          "z": [
+            2.9149997234344482,
+            3.184999704360962
+          ]
+        },
+        "Taburete isla mono A | faldón unión X 1": {
+          "x": [
+            16.197500228881836,
+            16.502500534057617
+          ],
+          "h": [
+            0.7700000405311584,
+            0.8299999833106995
+          ],
+          "z": [
+            2.8884997367858887,
+            2.9064998626708984
+          ]
+        },
+        "Taburete isla mono A | faldón unión Y 1": {
+          "x": [
+            16.51099967956543,
+            16.529001235961914
+          ],
+          "h": [
+            0.7700000405311584,
+            0.8299999833106995
+          ],
+          "z": [
+            2.9149997234344482,
+            3.184999704360962
+          ]
+        },
+        "Taburete isla mono A | reposapiés X 1": {
+          "x": [
+            16.197500228881836,
+            16.502500534057617
+          ],
+          "h": [
+            0.3850000202655792,
+            0.4099999964237213
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono A | travesaño Y 1": {
+          "x": [
+            16.502500534057617,
+            16.537500381469727
+          ],
+          "h": [
+            0.3850000202655792,
+            0.4099999964237213
+          ],
+          "z": [
+            2.9149997234344482,
+            3.184999704360962
+          ]
+        },
+        "Taburete isla mono B | asiento 30 mm": {
+          "x": [
+            17.099998474121094,
+            17.479999542236328
+          ],
+          "h": [
+            0.8300000429153442,
+            0.8600000143051147
+          ],
+          "z": [
+            2.859999656677246,
+            3.239999771118164
+          ]
+        },
+        "Taburete isla mono B | pata izq frente": {
+          "x": [
+            17.10249900817871,
+            17.13749885559082
+          ],
+          "h": [
+            0.2149999737739563,
+            0.8299999833106995
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono B | apoyo elastomérico izq frente": {
+          "x": [
+            17.10249900817871,
+            17.13749885559082
+          ],
+          "h": [
+            0.21000000834465027,
+            0.2150000035762787
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono B | pata izq dorso": {
+          "x": [
+            17.10249900817871,
+            17.13749885559082
+          ],
+          "h": [
+            0.2149999737739563,
+            0.8299999833106995
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono B | apoyo elastomérico izq dorso": {
+          "x": [
+            17.10249900817871,
+            17.13749885559082
+          ],
+          "h": [
+            0.21000000834465027,
+            0.2150000035762787
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono B | pata der frente": {
+          "x": [
+            17.4424991607666,
+            17.47749900817871
+          ],
+          "h": [
+            0.2149999737739563,
+            0.8299999833106995
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono B | apoyo elastomérico der frente": {
+          "x": [
+            17.4424991607666,
+            17.47749900817871
+          ],
+          "h": [
+            0.21000000834465027,
+            0.2150000035762787
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono B | pata der dorso": {
+          "x": [
+            17.4424991607666,
+            17.47749900817871
+          ],
+          "h": [
+            0.2149999737739563,
+            0.8299999833106995
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono B | apoyo elastomérico der dorso": {
+          "x": [
+            17.4424991607666,
+            17.47749900817871
+          ],
+          "h": [
+            0.21000000834465027,
+            0.2150000035762787
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono B | faldón unión X -1": {
+          "x": [
+            17.137500762939453,
+            17.4424991607666
+          ],
+          "h": [
+            0.7700000405311584,
+            0.8299999833106995
+          ],
+          "z": [
+            3.1934995651245117,
+            3.2114996910095215
+          ]
+        },
+        "Taburete isla mono B | faldón unión Y -1": {
+          "x": [
+            17.110998153686523,
+            17.128999710083008
+          ],
+          "h": [
+            0.7700000405311584,
+            0.8299999833106995
+          ],
+          "z": [
+            2.9149997234344482,
+            3.184999704360962
+          ]
+        },
+        "Taburete isla mono B | reposapiés X -1": {
+          "x": [
+            17.137500762939453,
+            17.4424991607666
+          ],
+          "h": [
+            0.3850000202655792,
+            0.4099999964237213
+          ],
+          "z": [
+            3.184999704360962,
+            3.2199995517730713
+          ]
+        },
+        "Taburete isla mono B | travesaño Y -1": {
+          "x": [
+            17.10249900817871,
+            17.13749885559082
+          ],
+          "h": [
+            0.3850000202655792,
+            0.4099999964237213
+          ],
+          "z": [
+            2.9149997234344482,
+            3.184999704360962
+          ]
+        },
+        "Taburete isla mono B | faldón unión X 1": {
+          "x": [
+            17.137500762939453,
+            17.4424991607666
+          ],
+          "h": [
+            0.7700000405311584,
+            0.8299999833106995
+          ],
+          "z": [
+            2.8884997367858887,
+            2.9064998626708984
+          ]
+        },
+        "Taburete isla mono B | faldón unión Y 1": {
+          "x": [
+            17.450998306274414,
+            17.4689998626709
+          ],
+          "h": [
+            0.7700000405311584,
+            0.8299999833106995
+          ],
+          "z": [
+            2.9149997234344482,
+            3.184999704360962
+          ]
+        },
+        "Taburete isla mono B | reposapiés X 1": {
+          "x": [
+            17.137500762939453,
+            17.4424991607666
+          ],
+          "h": [
+            0.3850000202655792,
+            0.4099999964237213
+          ],
+          "z": [
+            2.879999876022339,
+            2.9149997234344482
+          ]
+        },
+        "Taburete isla mono B | travesaño Y 1": {
+          "x": [
+            17.4424991607666,
+            17.47749900817871
+          ],
+          "h": [
+            0.3850000202655792,
+            0.4099999964237213
+          ],
+          "z": [
+            2.9149997234344482,
+            3.184999704360962
+          ]
+        },
+        "Controlador estudio": {
+          "x": [
+            18.510000228881836,
+            18.90999984741211
+          ],
+          "h": [
+            3.935999870300293,
+            3.991000175476074
+          ],
+          "z": [
+            2.4600000381469727,
+            3.5399999618530273
+          ]
+        },
+        "MAT95 | tecla natural 00": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            2.5567500591278076,
+            2.5792500972747803
+          ]
+        },
+        "MAT95 | tecla sostenido 00": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            2.573499917984009,
+            2.5864999294281006
+          ]
+        },
+        "MAT95 | tecla natural 01": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            2.580749988555908,
+            2.603250026702881
+          ]
+        },
+        "MAT95 | tecla sostenido 01": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            2.5975000858306885,
+            2.6105000972747803
+          ]
+        },
+        "MAT95 | tecla natural 02": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            2.604749917984009,
+            2.6272499561309814
+          ]
+        },
+        "MAT95 | tecla natural 03": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            2.6287500858306885,
+            2.651250123977661
+          ]
+        },
+        "MAT95 | tecla sostenido 03": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            2.6454999446868896,
+            2.6584999561309814
+          ]
+        },
+        "MAT95 | tecla natural 04": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            2.652750015258789,
+            2.6752500534057617
+          ]
+        },
+        "MAT95 | tecla sostenido 04": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            2.6695001125335693,
+            2.682500123977661
+          ]
+        },
+        "MAT95 | tecla natural 05": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            2.6767499446868896,
+            2.6992499828338623
+          ]
+        },
+        "MAT95 | tecla sostenido 05": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            2.69350004196167,
+            2.7065000534057617
+          ]
+        },
+        "MAT95 | tecla natural 06": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            2.7007498741149902,
+            2.723249912261963
+          ]
+        },
+        "MAT95 | tecla natural 07": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            2.72475004196167,
+            2.7472500801086426
+          ]
+        },
+        "MAT95 | tecla sostenido 07": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            2.741499900817871,
+            2.754499912261963
+          ]
+        },
+        "MAT95 | tecla natural 08": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            2.7487499713897705,
+            2.771250009536743
+          ]
+        },
+        "MAT95 | tecla sostenido 08": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            2.765500068664551,
+            2.7785000801086426
+          ]
+        },
+        "MAT95 | tecla natural 09": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            2.772749900817871,
+            2.7952499389648438
+          ]
+        },
+        "MAT95 | tecla natural 10": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            2.796750068664551,
+            2.8192501068115234
+          ]
+        },
+        "MAT95 | tecla sostenido 10": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            2.813499927520752,
+            2.8264999389648438
+          ]
+        },
+        "MAT95 | tecla natural 11": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            2.8207499980926514,
+            2.843250036239624
+          ]
+        },
+        "MAT95 | tecla sostenido 11": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            2.8375000953674316,
+            2.8505001068115234
+          ]
+        },
+        "MAT95 | tecla natural 12": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            2.844749927520752,
+            2.8672499656677246
+          ]
+        },
+        "MAT95 | tecla sostenido 12": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            2.8615000247955322,
+            2.874500036239624
+          ]
+        },
+        "MAT95 | tecla natural 13": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            2.8687500953674316,
+            2.8912501335144043
+          ]
+        },
+        "MAT95 | tecla natural 14": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            2.8927500247955322,
+            2.915250062942505
+          ]
+        },
+        "MAT95 | tecla sostenido 14": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            2.9094998836517334,
+            2.922499895095825
+          ]
+        },
+        "MAT95 | tecla natural 15": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            2.916749954223633,
+            2.9392499923706055
+          ]
+        },
+        "MAT95 | tecla sostenido 15": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            2.933500051498413,
+            2.946500062942505
+          ]
+        },
+        "MAT95 | tecla natural 16": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            2.9407498836517334,
+            2.963249921798706
+          ]
+        },
+        "MAT95 | tecla natural 17": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            2.964750051498413,
+            2.9872500896453857
+          ]
+        },
+        "MAT95 | tecla sostenido 17": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            2.9814999103546143,
+            2.994499921798706
+          ]
+        },
+        "MAT95 | tecla natural 18": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            2.9887499809265137,
+            3.0112500190734863
+          ]
+        },
+        "MAT95 | tecla sostenido 18": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            3.005500078201294,
+            3.0185000896453857
+          ]
+        },
+        "MAT95 | tecla natural 19": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            3.0127499103546143,
+            3.035249948501587
+          ]
+        },
+        "MAT95 | tecla sostenido 19": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            3.0295000076293945,
+            3.0425000190734863
+          ]
+        },
+        "MAT95 | tecla natural 20": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            3.036750078201294,
+            3.0592501163482666
+          ]
+        },
+        "MAT95 | tecla natural 21": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            3.0607500076293945,
+            3.083250045776367
+          ]
+        },
+        "MAT95 | tecla sostenido 21": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            3.077500104904175,
+            3.0905001163482666
+          ]
+        },
+        "MAT95 | tecla natural 22": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            3.084749937057495,
+            3.1072499752044678
+          ]
+        },
+        "MAT95 | tecla sostenido 22": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            3.1015000343322754,
+            3.114500045776367
+          ]
+        },
+        "MAT95 | tecla natural 23": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            3.1087498664855957,
+            3.1312499046325684
+          ]
+        },
+        "MAT95 | tecla natural 24": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            3.1327500343322754,
+            3.155250072479248
+          ]
+        },
+        "MAT95 | tecla sostenido 24": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            3.1494998931884766,
+            3.1624999046325684
+          ]
+        },
+        "MAT95 | tecla natural 25": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            3.156749963760376,
+            3.1792500019073486
+          ]
+        },
+        "MAT95 | tecla sostenido 25": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            3.1735000610351562,
+            3.186500072479248
+          ]
+        },
+        "MAT95 | tecla natural 26": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            3.1807498931884766,
+            3.203249931335449
+          ]
+        },
+        "MAT95 | tecla sostenido 26": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            3.197499990463257,
+            3.2105000019073486
+          ]
+        },
+        "MAT95 | tecla natural 27": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            3.2047500610351562,
+            3.227250099182129
+          ]
+        },
+        "MAT95 | tecla natural 28": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            3.228749990463257,
+            3.2512500286102295
+          ]
+        },
+        "MAT95 | tecla sostenido 28": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            3.245500087738037,
+            3.258500099182129
+          ]
+        },
+        "MAT95 | tecla natural 29": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            3.2527499198913574,
+            3.27524995803833
+          ]
+        },
+        "MAT95 | tecla sostenido 29": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            3.2695000171661377,
+            3.2825000286102295
+          ]
+        },
+        "MAT95 | tecla natural 30": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            3.276750087738037,
+            3.2992501258850098
+          ]
+        },
+        "MAT95 | tecla natural 31": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            3.3007500171661377,
+            3.3232500553131104
+          ]
+        },
+        "MAT95 | tecla sostenido 31": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            3.317499876022339,
+            3.3304998874664307
+          ]
+        },
+        "MAT95 | tecla natural 32": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            3.3247499465942383,
+            3.347249984741211
+          ]
+        },
+        "MAT95 | tecla sostenido 32": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            3.3415000438690186,
+            3.3545000553131104
+          ]
+        },
+        "MAT95 | tecla natural 33": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            3.348749876022339,
+            3.3712499141693115
+          ]
+        },
+        "MAT95 | tecla sostenido 33": {
+          "x": [
+            18.68899917602539,
+            18.798999786376953
+          ],
+          "h": [
+            3.998500347137451,
+            4.012500286102295
+          ],
+          "z": [
+            3.365499973297119,
+            3.378499984741211
+          ]
+        },
+        "MAT95 | tecla natural 34": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            3.3727500438690186,
+            3.395250082015991
+          ]
+        },
+        "MAT95 | tecla natural 35": {
+          "x": [
+            18.690000534057617,
+            18.89000129699707
+          ],
+          "h": [
+            3.991000175476074,
+            4.0
+          ],
+          "z": [
+            3.396749973297119,
+            3.419250011444092
+          ]
+        },
+        "MAT95 | pad MIDI": {
+          "x": [
+            18.5364990234375,
+            18.583499908447266
+          ],
+          "h": [
+            3.9910004138946533,
+            4.00100040435791
+          ],
+          "z": [
+            2.55649995803833,
+            2.6034998893737793
+          ]
+        },
+        "MAT95 | pad MIDI.001": {
+          "x": [
+            18.611499786376953,
+            18.65850067138672
+          ],
+          "h": [
+            3.9910004138946533,
+            4.00100040435791
+          ],
+          "z": [
+            2.55649995803833,
+            2.6034998893737793
+          ]
+        },
+        "MAT95 | pad MIDI.002": {
+          "x": [
+            18.5364990234375,
+            18.583499908447266
+          ],
+          "h": [
+            3.9910004138946533,
+            4.00100040435791
+          ],
+          "z": [
+            2.614500045776367,
+            2.6614999771118164
+          ]
+        },
+        "MAT95 | pad MIDI.003": {
+          "x": [
+            18.611499786376953,
+            18.65850067138672
+          ],
+          "h": [
+            3.9910004138946533,
+            4.00100040435791
+          ],
+          "z": [
+            2.614500045776367,
+            2.6614999771118164
+          ]
+        },
+        "MAT95 | pad MIDI.004": {
+          "x": [
+            18.5364990234375,
+            18.583499908447266
+          ],
+          "h": [
+            3.9910004138946533,
+            4.00100040435791
+          ],
+          "z": [
+            2.6725001335144043,
+            2.7195000648498535
+          ]
+        },
+        "MAT95 | pad MIDI.005": {
+          "x": [
+            18.611499786376953,
+            18.65850067138672
+          ],
+          "h": [
+            3.9910004138946533,
+            4.00100040435791
+          ],
+          "z": [
+            2.6725001335144043,
+            2.7195000648498535
+          ]
+        },
+        "MAT95 | pad MIDI.006": {
+          "x": [
+            18.5364990234375,
+            18.583499908447266
+          ],
+          "h": [
+            3.9910004138946533,
+            4.00100040435791
+          ],
+          "z": [
+            2.7304999828338623,
+            2.7774999141693115
+          ]
+        },
+        "MAT95 | pad MIDI.007": {
+          "x": [
+            18.611499786376953,
+            18.65850067138672
+          ],
+          "h": [
+            3.9910004138946533,
+            4.00100040435791
+          ],
+          "z": [
+            2.7304999828338623,
+            2.7774999141693115
+          ]
+        },
+        "MAT95 | pad MIDI.008": {
+          "x": [
+            18.5364990234375,
+            18.583499908447266
+          ],
+          "h": [
+            3.9910004138946533,
+            4.00100040435791
+          ],
+          "z": [
+            2.7885000705718994,
+            2.8355000019073486
+          ]
+        },
+        "MAT95 | pad MIDI.009": {
+          "x": [
+            18.611499786376953,
+            18.65850067138672
+          ],
+          "h": [
+            3.9910004138946533,
+            4.00100040435791
+          ],
+          "z": [
+            2.7885000705718994,
+            2.8355000019073486
+          ]
+        },
+        "MAT95 | pad MIDI.010": {
+          "x": [
+            18.5364990234375,
+            18.583499908447266
+          ],
+          "h": [
+            3.9910004138946533,
+            4.00100040435791
+          ],
+          "z": [
+            2.8464999198913574,
+            2.8934998512268066
+          ]
+        },
+        "MAT95 | pad MIDI.011": {
+          "x": [
+            18.611499786376953,
+            18.65850067138672
+          ],
+          "h": [
+            3.9910004138946533,
+            4.00100040435791
+          ],
+          "z": [
+            2.8464999198913574,
+            2.8934998512268066
+          ]
+        },
+        "MAT95 | pad MIDI.012": {
+          "x": [
+            18.5364990234375,
+            18.583499908447266
+          ],
+          "h": [
+            3.9910004138946533,
+            4.00100040435791
+          ],
+          "z": [
+            2.9045000076293945,
+            2.9514999389648438
+          ]
+        },
+        "MAT95 | pad MIDI.013": {
+          "x": [
+            18.611499786376953,
+            18.65850067138672
+          ],
+          "h": [
+            3.9910004138946533,
+            4.00100040435791
+          ],
+          "z": [
+            2.9045000076293945,
+            2.9514999389648438
+          ]
+        },
+        "MAT95 | pad MIDI.014": {
+          "x": [
+            18.5364990234375,
+            18.583499908447266
+          ],
+          "h": [
+            3.9910004138946533,
+            4.00100040435791
+          ],
+          "z": [
+            2.9625000953674316,
+            3.009500026702881
+          ]
+        },
+        "MAT95 | pad MIDI.015": {
+          "x": [
+            18.611499786376953,
+            18.65850067138672
+          ],
+          "h": [
+            3.9910004138946533,
+            4.00100040435791
+          ],
+          "z": [
+            2.9625000953674316,
+            3.009500026702881
+          ]
+        },
+        "MAT95 | pantalla controlador": {
+          "x": [
+            18.530000686645508,
+            18.6200008392334
+          ],
+          "h": [
+            3.991000175476074,
+            3.9950003623962402
+          ],
+          "z": [
+            3.119999885559082,
+            3.299999952316284
+          ]
+        },
+        "MAT95 | encoder maestro": {
+          "x": [
+            18.63300132751465,
+            18.656999588012695
+          ],
+          "h": [
+            3.9915003776550293,
+            4.014500617980957
+          ],
+          "z": [
+            3.107999801635742,
+            3.131999969482422
+          ]
+        },
+        "MAT95 | encoder maestro.001": {
+          "x": [
+            18.63300132751465,
+            18.656999588012695
+          ],
+          "h": [
+            3.9915003776550293,
+            4.014500617980957
+          ],
+          "z": [
+            3.187999963760376,
+            3.2120001316070557
+          ]
+        },
+        "MAT95 | encoder maestro.002": {
+          "x": [
+            18.63300132751465,
+            18.656999588012695
+          ],
+          "h": [
+            3.9915003776550293,
+            4.014500617980957
+          ],
+          "z": [
+            3.2679998874664307,
+            3.2920000553131104
+          ]
+        },
+        "MAT95 | encoder maestro.003": {
+          "x": [
+            18.63300132751465,
+            18.656999588012695
+          ],
+          "h": [
+            3.9915003776550293,
+            4.014500617980957
+          ],
+          "z": [
+            3.3479998111724854,
+            3.371999979019165
+          ]
+        },
+        "Consola estudio": {
+          "x": [
+            17.583097457885742,
+            18.77690315246582
+          ],
+          "h": [
+            3.7762019634246826,
+            4.089797496795654
+          ],
+          "z": [
+            1.3250000476837158,
+            4.675000190734863
+          ]
+        },
+        "USO99 | isla apoyo elastomerico 00": {
+          "x": [
+            15.96500015258789,
+            16.0049991607666
+          ],
+          "h": [
+            0.20999999344348907,
+            0.2150000035762787
+          ],
+          "z": [
+            3.3450000286102295,
+            3.384999990463257
+          ]
+        },
+        "USO99 | isla montante 00": {
+          "x": [
+            15.97249984741211,
+            15.997499465942383
+          ],
+          "h": [
+            0.2150000035762787,
+            1.0520000457763672
+          ],
+          "z": [
+            3.3524999618530273,
+            3.377500057220459
+          ]
+        },
+        "USO99 | isla apoyo elastomerico 01": {
+          "x": [
+            15.96500015258789,
+            16.0049991607666
+          ],
+          "h": [
+            0.20999999344348907,
+            0.2150000035762787
+          ],
+          "z": [
+            3.9200000762939453,
+            3.9600000381469727
+          ]
+        },
+        "USO99 | isla montante 01": {
+          "x": [
+            15.97249984741211,
+            15.997499465942383
+          ],
+          "h": [
+            0.2150000035762787,
+            1.0520000457763672
+          ],
+          "z": [
+            3.927500009536743,
+            3.952500104904175
+          ]
+        },
+        "USO99 | isla larguero extremo 0": {
+          "x": [
+            15.97249984741211,
+            15.997499465942383
+          ],
+          "h": [
+            1.0520000457763672,
+            1.0720000267028809
+          ],
+          "z": [
+            3.3524999618530273,
+            3.952500104904175
+          ]
+        },
+        "USO99 | isla apoyo elastomerico 10": {
+          "x": [
+            17.635000228881836,
+            17.674999237060547
+          ],
+          "h": [
+            0.20999999344348907,
+            0.2150000035762787
+          ],
+          "z": [
+            3.3450000286102295,
+            3.384999990463257
+          ]
+        },
+        "USO99 | isla montante 10": {
+          "x": [
+            17.642499923706055,
+            17.66750144958496
+          ],
+          "h": [
+            0.2150000035762787,
+            1.0520000457763672
+          ],
+          "z": [
+            3.3524999618530273,
+            3.377500057220459
+          ]
+        },
+        "USO99 | isla apoyo elastomerico 11": {
+          "x": [
+            17.635000228881836,
+            17.674999237060547
+          ],
+          "h": [
+            0.20999999344348907,
+            0.2150000035762787
+          ],
+          "z": [
+            3.9200000762939453,
+            3.9600000381469727
+          ]
+        },
+        "USO99 | isla montante 11": {
+          "x": [
+            17.642499923706055,
+            17.66750144958496
+          ],
+          "h": [
+            0.2150000035762787,
+            1.0520000457763672
+          ],
+          "z": [
+            3.927500009536743,
+            3.952500104904175
+          ]
+        },
+        "USO99 | isla larguero extremo 1": {
+          "x": [
+            17.642499923706055,
+            17.66750144958496
+          ],
+          "h": [
+            1.0520000457763672,
+            1.0720000267028809
+          ],
+          "z": [
+            3.3524999618530273,
+            3.952500104904175
+          ]
+        },
+        "USO99 | isla travesano superior 0": {
+          "x": [
+            15.9975004196167,
+            17.642499923706055
+          ],
+          "h": [
+            1.0520000457763672,
+            1.0720000267028809
+          ],
+          "z": [
+            3.3524999618530273,
+            3.377500057220459
+          ]
+        },
+        "USO99 | isla asiento elastomerico tapa 0": {
+          "x": [
+            15.97249984741211,
+            17.667499542236328
+          ],
+          "h": [
+            1.0720000267028809,
+            1.0750000476837158
+          ],
+          "z": [
+            3.3524999618530273,
+            3.377500057220459
+          ]
+        },
+        "USO99 | isla travesano superior 1": {
+          "x": [
+            15.9975004196167,
+            17.642499923706055
+          ],
+          "h": [
+            1.0520000457763672,
+            1.0720000267028809
+          ],
+          "z": [
+            3.927500009536743,
+            3.952500104904175
+          ]
+        },
+        "USO99 | isla asiento elastomerico tapa 1": {
+          "x": [
+            15.97249984741211,
+            17.667499542236328
+          ],
+          "h": [
+            1.0720000267028809,
+            1.0750000476837158
+          ],
+          "z": [
+            3.927500009536743,
+            3.952500104904175
+          ]
+        },
+        "USO99 | MIDI bandeja18": {
+          "x": [
+            18.489999771118164,
+            18.940000534057617
+          ],
+          "h": [
+            3.9149999618530273,
+            3.933000087738037
+          ],
+          "z": [
+            2.4049999713897705,
+            3.5950000286102295
+          ]
+        },
+        "USO99 | MIDI placa asiento base 0": {
+          "x": [
+            18.219999313354492,
+            18.520000457763672
+          ],
+          "h": [
+            3.86299991607666,
+            3.867000102996826
+          ],
+          "z": [
+            2.4000000953674316,
+            2.4600000381469727
+          ]
+        },
+        "USO99 | MIDI soldadura base 0 -1": {
+          "x": [
+            18.225000381469727,
+            18.514999389648438
+          ],
+          "h": [
+            3.86299991607666,
+            3.865999937057495
+          ],
+          "z": [
+            2.3970000743865967,
+            2.4000000953674316
+          ]
+        },
+        "USO99 | MIDI soldadura base 0 1": {
+          "x": [
+            18.225000381469727,
+            18.514999389648438
+          ],
+          "h": [
+            3.86299991607666,
+            3.865999937057495
+          ],
+          "z": [
+            2.4600000381469727,
+            2.4630000591278076
+          ]
+        },
+        "USO99 | MIDI calce8 0": {
+          "x": [
+            18.239999771118164,
+            18.5
+          ],
+          "h": [
+            3.867000102996826,
+            3.875
+          ],
+          "z": [
+            2.4149999618530273,
+            2.444999933242798
+          ]
+        },
+        "USO99 | MIDI brazo40x30 0": {
+          "x": [
+            18.219999313354492,
+            18.940000534057617
+          ],
+          "h": [
+            3.875,
+            3.9149999618530273
+          ],
+          "z": [
+            2.4149999618530273,
+            2.445000171661377
+          ]
+        },
+        "USO99 | MIDI cordon soldadura 00": {
+          "x": [
+            18.23699951171875,
+            18.253000259399414
+          ],
+          "h": [
+            3.867000102996826,
+            3.875
+          ],
+          "z": [
+            2.444000005722046,
+            2.4489998817443848
+          ]
+        },
+        "USO99 | MIDI cordon soldadura 01": {
+          "x": [
+            18.48200035095215,
+            18.49799919128418
+          ],
+          "h": [
+            3.867000102996826,
+            3.875
+          ],
+          "z": [
+            2.444000005722046,
+            2.4489998817443848
+          ]
+        },
+        "USO99 | MIDI placa asiento base 1": {
+          "x": [
+            18.219999313354492,
+            18.520000457763672
+          ],
+          "h": [
+            3.86299991607666,
+            3.867000102996826
+          ],
+          "z": [
+            3.5399999618530273,
+            3.5999999046325684
+          ]
+        },
+        "USO99 | MIDI soldadura base 1 -1": {
+          "x": [
+            18.225000381469727,
+            18.514999389648438
+          ],
+          "h": [
+            3.86299991607666,
+            3.865999937057495
+          ],
+          "z": [
+            3.5369999408721924,
+            3.5399999618530273
+          ]
+        },
+        "USO99 | MIDI soldadura base 1 1": {
+          "x": [
+            18.225000381469727,
+            18.514999389648438
+          ],
+          "h": [
+            3.86299991607666,
+            3.865999937057495
+          ],
+          "z": [
+            3.5999999046325684,
+            3.6029999256134033
+          ]
+        },
+        "USO99 | MIDI calce8 1": {
+          "x": [
+            18.239999771118164,
+            18.5
+          ],
+          "h": [
+            3.867000102996826,
+            3.875
+          ],
+          "z": [
+            3.555000066757202,
+            3.5850000381469727
+          ]
+        },
+        "USO99 | MIDI brazo40x30 1": {
+          "x": [
+            18.219999313354492,
+            18.940000534057617
+          ],
+          "h": [
+            3.875,
+            3.9149999618530273
+          ],
+          "z": [
+            3.554999828338623,
+            3.5850000381469727
+          ]
+        },
+        "USO99 | MIDI cordon soldadura 10": {
+          "x": [
+            18.23699951171875,
+            18.253000259399414
+          ],
+          "h": [
+            3.867000102996826,
+            3.875
+          ],
+          "z": [
+            3.5840001106262207,
+            3.5889999866485596
+          ]
+        },
+        "USO99 | MIDI cordon soldadura 11": {
+          "x": [
+            18.48200035095215,
+            18.49799919128418
+          ],
+          "h": [
+            3.867000102996826,
+            3.875
+          ],
+          "z": [
+            3.5840001106262207,
+            3.5889999866485596
+          ]
+        },
+        "USO99 | MIDI apoyo elastomerico 00": {
+          "x": [
+            18.524999618530273,
+            18.575000762939453
+          ],
+          "h": [
+            3.933000087738037,
+            3.936000108718872
+          ],
+          "z": [
+            2.4749999046325684,
+            2.5250000953674316
+          ]
+        },
+        "USO99 | MIDI apoyo elastomerico 01": {
+          "x": [
+            18.524999618530273,
+            18.575000762939453
+          ],
+          "h": [
+            3.933000087738037,
+            3.936000108718872
+          ],
+          "z": [
+            3.4749999046325684,
+            3.5250000953674316
+          ]
+        },
+        "USO99 | MIDI apoyo elastomerico 10": {
+          "x": [
+            18.844999313354492,
+            18.895000457763672
+          ],
+          "h": [
+            3.933000087738037,
+            3.936000108718872
+          ],
+          "z": [
+            2.4749999046325684,
+            2.5250000953674316
+          ]
+        },
+        "USO99 | MIDI apoyo elastomerico 11": {
+          "x": [
+            18.844999313354492,
+            18.895000457763672
+          ],
+          "h": [
+            3.933000087738037,
+            3.936000108718872
+          ],
+          "z": [
+            3.4749999046325684,
+            3.5250000953674316
+          ]
+        },
+        "USO99 | MIDI tope lateral 0": {
+          "x": [
+            18.56999969482422,
+            18.649999618530273
+          ],
+          "h": [
+            3.933000087738037,
+            3.947000026702881
+          ],
+          "z": [
+            2.450000047683716,
+            2.4600000381469727
+          ]
+        },
+        "USO99 | MIDI tope lateral 1": {
+          "x": [
+            18.56999969482422,
+            18.649999618530273
+          ],
+          "h": [
+            3.933000087738037,
+            3.947000026702881
+          ],
+          "z": [
+            3.5399999618530273,
+            3.549999952316284
+          ]
+        }
+      },
+      "island": {
+        "counter_mm": [
+          1720,
+          680,
+          35
+        ],
+        "counter_height_m": 0.9,
+        "seat_height_m": 0.65,
+        "knee_depth_m": 0.4,
+        "knee_zone_width_m": 0.61,
+        "seat_centres_source": [
+          [
+            16.35,
+            0.86,
+            3.05
+          ],
+          [
+            17.29,
+            0.86,
+            3.05
+          ]
+        ],
+        "cabinet_internal_depth_m": 0.222,
+        "stool_front_leg_clearance_m": 0.305,
+        "stool_frame_outer_width_m": 0.375,
+        "support": "steel end portals and hollow25x20mm perimeter beams, elastomer3mm against concrete top; sizing and fastening pending"
+      },
+      "midi": {
+        "body_mm": [
+          400,
+          1080,
+          55
+        ],
+        "white_key_height_m": 0.75,
+        "black_key_height_m": 0.7625,
+        "seat_height_m": 0.47,
+        "tray_underside_height_m": 0.665,
+        "primary_use": "keys; relaxed elbow trial atseat+280mm",
+        "support": "two40x30x2mm cantilever arms on existing steel base, rootplate4+spacer8 and3mm proposed fillets to existing steel base; tray18+fourpad3mm; weld/strength selection pending",
+        "controller_family": [
+          "Controlador estudio",
+          "MAT95 | tecla natural 00",
+          "MAT95 | tecla sostenido 00",
+          "MAT95 | tecla natural 01",
+          "MAT95 | tecla sostenido 01",
+          "MAT95 | tecla natural 02",
+          "MAT95 | tecla natural 03",
+          "MAT95 | tecla sostenido 03",
+          "MAT95 | tecla natural 04",
+          "MAT95 | tecla sostenido 04",
+          "MAT95 | tecla natural 05",
+          "MAT95 | tecla sostenido 05",
+          "MAT95 | tecla natural 06",
+          "MAT95 | tecla natural 07",
+          "MAT95 | tecla sostenido 07",
+          "MAT95 | tecla natural 08",
+          "MAT95 | tecla sostenido 08",
+          "MAT95 | tecla natural 09",
+          "MAT95 | tecla natural 10",
+          "MAT95 | tecla sostenido 10",
+          "MAT95 | tecla natural 11",
+          "MAT95 | tecla sostenido 11",
+          "MAT95 | tecla natural 12",
+          "MAT95 | tecla sostenido 12",
+          "MAT95 | tecla natural 13",
+          "MAT95 | tecla natural 14",
+          "MAT95 | tecla sostenido 14",
+          "MAT95 | tecla natural 15",
+          "MAT95 | tecla sostenido 15",
+          "MAT95 | tecla natural 16",
+          "MAT95 | tecla natural 17",
+          "MAT95 | tecla sostenido 17",
+          "MAT95 | tecla natural 18",
+          "MAT95 | tecla sostenido 18",
+          "MAT95 | tecla natural 19",
+          "MAT95 | tecla sostenido 19",
+          "MAT95 | tecla natural 20",
+          "MAT95 | tecla natural 21",
+          "MAT95 | tecla sostenido 21",
+          "MAT95 | tecla natural 22",
+          "MAT95 | tecla sostenido 22",
+          "MAT95 | tecla natural 23",
+          "MAT95 | tecla natural 24",
+          "MAT95 | tecla sostenido 24",
+          "MAT95 | tecla natural 25",
+          "MAT95 | tecla sostenido 25",
+          "MAT95 | tecla natural 26",
+          "MAT95 | tecla sostenido 26",
+          "MAT95 | tecla natural 27",
+          "MAT95 | tecla natural 28",
+          "MAT95 | tecla sostenido 28",
+          "MAT95 | tecla natural 29",
+          "MAT95 | tecla sostenido 29",
+          "MAT95 | tecla natural 30",
+          "MAT95 | tecla natural 31",
+          "MAT95 | tecla sostenido 31",
+          "MAT95 | tecla natural 32",
+          "MAT95 | tecla sostenido 32",
+          "MAT95 | tecla natural 33",
+          "MAT95 | tecla sostenido 33",
+          "MAT95 | tecla natural 34",
+          "MAT95 | tecla natural 35",
+          "MAT95 | pad MIDI",
+          "MAT95 | pad MIDI.001",
+          "MAT95 | pad MIDI.002",
+          "MAT95 | pad MIDI.003",
+          "MAT95 | pad MIDI.004",
+          "MAT95 | pad MIDI.005",
+          "MAT95 | pad MIDI.006",
+          "MAT95 | pad MIDI.007",
+          "MAT95 | pad MIDI.008",
+          "MAT95 | pad MIDI.009",
+          "MAT95 | pad MIDI.010",
+          "MAT95 | pad MIDI.011",
+          "MAT95 | pad MIDI.012",
+          "MAT95 | pad MIDI.013",
+          "MAT95 | pad MIDI.014",
+          "MAT95 | pad MIDI.015",
+          "MAT95 | pantalla controlador",
+          "MAT95 | encoder maestro",
+          "MAT95 | encoder maestro.001",
+          "MAT95 | encoder maestro.002",
+          "MAT95 | encoder maestro.003"
+        ]
+      },
+      "limits": [
+        "Body/seat/hand envelopes are declared trial geometry, not anthropometric percentiles.",
+        "Structural capacity, vibration, welds and furniture anchorage need professional/product selection.",
+        "Original architectural floors, openings, SAN99, C2/C3 and doors unchanged."
+      ]
+    },
+    "correcciones99_optica_topologia_r8.py": {
+      "topology": [
+        {
+          "object": "WET99 | PB membrana continua2",
+          "boundaryBefore": 3,
+          "nonmanifoldAfter": 0,
+          "maxVertexDisplacementM": 0.0,
+          "filledAreaM2": 7.450580596923828e-09,
+          "positiveVolumeM3": 0.03425978068796946
+        },
+        {
+          "object": "WET99 | PB adhesivo4",
+          "boundaryBefore": 3,
+          "nonmanifoldAfter": 0,
+          "maxVertexDisplacementM": 0.0,
+          "filledAreaM2": 7.450637440342689e-09,
+          "positiveVolumeM3": 0.0682926524297083
+        },
+        {
+          "object": "Vestidor cierre al estar paño A",
+          "boundaryBefore": 120,
+          "nonmanifoldAfter": 0,
+          "maxVertexDisplacementM": 0.0,
+          "filledAreaM2": 0,
+          "positiveVolumeM3": 0.1962802408780118
+        }
+      ],
+      "mirrors": [
+        {
+          "object": "Espejo baño pileta",
+          "opticalFaceIndices": [
+            24,
+            25,
+            74,
+            75
+          ],
+          "maxCornerDeviationBeforeDeg": 31.022012285618818,
+          "maxCornerDeviationAfterDeg": 0.0,
+          "maxReflectedVectorError": 0,
+          "physicalGeometryUnchanged": true
+        },
+        {
+          "object": "Espejo baño suite",
+          "opticalFaceIndices": [
+            24,
+            25,
+            74,
+            75
+          ],
+          "maxCornerDeviationBeforeDeg": 31.591793496370453,
+          "maxCornerDeviationAfterDeg": 0.0,
+          "maxReflectedVectorError": 0,
+          "physicalGeometryUnchanged": true
+        }
+      ],
+      "scope": "Three mesh closures and two planar optical mirrors only",
+      "videoRendered": false
+    }
+  },
+  "scriptSHA256": {
+    "correcciones99_san_mecanica_r8.py": "ee0f76d211906a0543af05bd219de168f94eb6a5759c4fd8c24a584887681ab5",
+    "correcciones99_uso_r8.py": "ae8baf1028149fa8cacb3001a80e583ee8f88d4e821405b70a8a9299b85b1acd",
+    "correcciones99_optica_topologia_r8.py": "eb99a3524ef92f9a9731bca602836dd82762e84f5165c6f68aac42c53bc04f08"
+  },
+  "sceneSynchronization": {
+    "before": [
+      {
+        "name": "CASA DE CAMPO | Atardecer",
+        "objects": 6554,
+        "camera": "CAM | Presentación verticales corregidas"
+      },
+      {
+        "name": "CASA DE CAMPO | DÍA",
+        "objects": 6554,
+        "camera": "CAM | Presentación verticales corregidas"
+      },
+      {
+        "name": "CASA DE CAMPO | NOCHE",
+        "objects": 6554,
+        "camera": "CAM | Presentación verticales corregidas"
+      },
+      {
+        "name": "INSPECCIÓN | Planta alta",
+        "objects": 6554,
+        "camera": "CAM | Planta alta ortogonal"
+      }
+    ],
+    "after": [
+      {
+        "name": "CASA DE CAMPO | DÍA",
+        "objects": 6554,
+        "sameMembership": true,
+        "world": "Cielo físico | DÍA",
+        "camera": "CAM | Presentación verticales corregidas"
+      },
+      {
+        "name": "CASA DE CAMPO | NOCHE",
+        "objects": 6554,
+        "sameMembership": true,
+        "world": "Cielo físico | NOCHE",
+        "camera": "CAM | Presentación verticales corregidas"
+      },
+      {
+        "name": "INSPECCIÓN | Planta alta",
+        "objects": 6554,
+        "sameMembership": true,
+        "world": "Cielo físico | DÍA",
+        "camera": "CAM | Planta alta ortogonal"
+      }
+    ],
+    "mainObjects": 6554,
+    "removedGeneratedLegacy": [
+      "RECORRIDO | Continuo",
+      "TOUR | Recorrido continuo"
+    ],
+    "retainedTour": "TOUR | Recorrido virtual",
+    "videoRendered": false
+  }
+}

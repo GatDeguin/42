@@ -3,3 +3,13 @@ output/Casa_de_Campo_99_*.glb filter=lfs diff=lfs merge=lfs -text
 # Preserve generated deliverable bytes used by the published SHA256 manifests.
 docs/planos99/** -text
 docs/renders99/** -text
+
+# Keep R8 source/evidence bytes stable against SHA256 manifests.
+docs/avance-r8/** -text
+scripts/*r8*.py -text
+scripts/assets/r8/** -text
+review99/r8*/** -text
+review99/github_r8_progress/** -text
+audit/r8_three_passes.md -text
+source/photographic99_grass_r8/** -text
+source/assets/grass_bermuda_01/** -text

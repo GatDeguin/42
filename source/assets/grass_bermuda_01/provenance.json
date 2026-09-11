@@ -1,0 +1,48 @@
+{
+  "asset": "grass_bermuda_01",
+  "url": "https://polyhaven.com/a/grass_bermuda_01",
+  "authors": {
+    "Rico Cilliers": "All"
+  },
+  "license": "CC0",
+  "licenseURL": "https://polyhaven.com/license",
+  "downloadedUTC": "2026-09-11T03:41:08.225620+00:00",
+  "files": [
+    {
+      "file": "grass_bermuda_01_2k.blend",
+      "bytes": 185406,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/grass_bermuda_01/grass_bermuda_01_2k.blend",
+      "md5": "3afe6597602f82d02dd69a76170432b3",
+      "sha256": "3b2ec52390d293b9e810ec4e2a182d725ed2a858eb0912f5bb36909d9c5f5073"
+    },
+    {
+      "file": "textures/grass_bermuda_01_alpha_2k.png",
+      "bytes": 118124,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/grass_bermuda_01/grass_bermuda_01_alpha_2k.png",
+      "md5": "62f5d6785a48f74ba3820279f685e14d",
+      "sha256": "2750b808598d2c4116e494c20065a2dbf7fba5a098c3ed445772ff6d02ec3d3c"
+    },
+    {
+      "file": "textures/grass_bermuda_01_diff_2k.jpg",
+      "bytes": 494673,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/grass_bermuda_01/grass_bermuda_01_diff_2k.jpg",
+      "md5": "16d1d5cccc2966fff5abeeb2e91b44a2",
+      "sha256": "30183c203739dee9812b70f21916fcdcd88719dcfe4fa3270d8ce208369ec933"
+    },
+    {
+      "file": "textures/grass_bermuda_01_nor_gl_2k.exr",
+      "bytes": 5539729,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/grass_bermuda_01/grass_bermuda_01_nor_gl_2k.exr",
+      "md5": "8dc54ea88e98892cbf783ff66cd561e4",
+      "sha256": "9455b54c57471a0a6816ef49a0169aa6180b16ba256e6c7179d1513ad79fe7d2"
+    },
+    {
+      "file": "textures/grass_bermuda_01_rough_2k.exr",
+      "bytes": 1990710,
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/grass_bermuda_01/grass_bermuda_01_rough_2k.exr",
+      "md5": "d16758423aca4e2ef2c8869dfde963c4",
+      "sha256": "353ac7379043d9dee6883af0283f6949bb436e9b6c890a49959036bd0733f0e4"
+    }
+  ],
+  "scope": "Proposed photographic lawn refinement, landscape positions unchanged"
+}

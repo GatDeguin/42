@@ -1,0 +1,11 @@
+{
+  "model": "D:\\2026\\42\\output\\Casa_de_Campo_99_R8_uso_preview.blend",
+  "sha256": "ac0922a881eeea24ad0a7dfd13bf20e710a9b0069039f06711f5755c2dd78d4d",
+  "source_sha256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "idempotent": true,
+  "unchanged_outside_scope": true,
+  "unchanged_objects": 6237,
+  "changed_objects": 126,
+  "new_objects": 35,
+  "door_rigs": 13
+}

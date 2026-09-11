@@ -1,0 +1,119 @@
+{
+  "topology": [
+    {
+      "object": "WET99 | PB membrana continua2",
+      "boundaryBefore": 3,
+      "nonmanifoldAfter": 0,
+      "maxVertexDisplacementM": 0.0,
+      "filledAreaM2": 7.450580596923828e-09,
+      "positiveVolumeM3": 0.03425978068796946
+    },
+    {
+      "object": "WET99 | PB adhesivo4",
+      "boundaryBefore": 3,
+      "nonmanifoldAfter": 0,
+      "maxVertexDisplacementM": 0.0,
+      "filledAreaM2": 7.450637440342689e-09,
+      "positiveVolumeM3": 0.0682926524297083
+    },
+    {
+      "object": "Vestidor cierre al estar paño A",
+      "boundaryBefore": 120,
+      "nonmanifoldAfter": 0,
+      "maxVertexDisplacementM": 0.0,
+      "filledAreaM2": 0,
+      "positiveVolumeM3": 0.1962802408780118
+    }
+  ],
+  "mirrors": [
+    {
+      "object": "Espejo baño pileta",
+      "opticalFaceIndices": [
+        24,
+        25,
+        74,
+        75
+      ],
+      "maxCornerDeviationBeforeDeg": 31.022012285618818,
+      "maxCornerDeviationAfterDeg": 0.0,
+      "maxReflectedVectorError": 0,
+      "physicalGeometryUnchanged": true
+    },
+    {
+      "object": "Espejo baño suite",
+      "opticalFaceIndices": [
+        24,
+        25,
+        74,
+        75
+      ],
+      "maxCornerDeviationBeforeDeg": 31.591793496370453,
+      "maxCornerDeviationAfterDeg": 0.0,
+      "maxReflectedVectorError": 0,
+      "physicalGeometryUnchanged": true
+    }
+  ],
+  "scope": "Three mesh closures and two planar optical mirrors only",
+  "videoRendered": false,
+  "sourceSHA256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "idempotent": true,
+  "reapplication": {
+    "topology": [
+      {
+        "object": "WET99 | PB membrana continua2",
+        "boundaryBefore": 0,
+        "nonmanifoldAfter": 0,
+        "maxVertexDisplacementM": 0.0,
+        "filledAreaM2": 0,
+        "positiveVolumeM3": 0.03425978068796946
+      },
+      {
+        "object": "WET99 | PB adhesivo4",
+        "boundaryBefore": 0,
+        "nonmanifoldAfter": 0,
+        "maxVertexDisplacementM": 0.0,
+        "filledAreaM2": 0,
+        "positiveVolumeM3": 0.0682926524297083
+      },
+      {
+        "object": "Vestidor cierre al estar paño A",
+        "boundaryBefore": 0,
+        "nonmanifoldAfter": 0,
+        "maxVertexDisplacementM": 0.0,
+        "filledAreaM2": 0,
+        "positiveVolumeM3": 0.1962802408780118
+      }
+    ],
+    "mirrors": [
+      {
+        "object": "Espejo baño pileta",
+        "opticalFaceIndices": [
+          24,
+          25,
+          74,
+          75
+        ],
+        "maxCornerDeviationBeforeDeg": 0.0,
+        "maxCornerDeviationAfterDeg": 0.0,
+        "maxReflectedVectorError": 0,
+        "physicalGeometryUnchanged": true
+      },
+      {
+        "object": "Espejo baño suite",
+        "opticalFaceIndices": [
+          24,
+          25,
+          74,
+          75
+        ],
+        "maxCornerDeviationBeforeDeg": 0.0,
+        "maxCornerDeviationAfterDeg": 0.0,
+        "maxReflectedVectorError": 0,
+        "physicalGeometryUnchanged": true
+      }
+    ],
+    "scope": "Three mesh closures and two planar optical mirrors only",
+    "videoRendered": false
+  },
+  "outputSHA256": "29b831ddb8872cf7519087e4a31e987f0461c8222ecbb9f40b4fb5aa30a09317"
+}

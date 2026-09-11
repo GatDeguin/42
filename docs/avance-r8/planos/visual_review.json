@@ -1,0 +1,250 @@
+{
+  "status": "PASS_DOCUMENT_COMPOSITION",
+  "model_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+  "reviewed_utc": "2026-09-11T04:51:10.823550+00:00",
+  "overview_sheets": [
+    "A00",
+    "A01",
+    "A02",
+    "A03",
+    "A03b",
+    "A04",
+    "A05a",
+    "A05b",
+    "A06",
+    "A07",
+    "A08",
+    "A09",
+    "A10",
+    "A10b",
+    "A11",
+    "A12",
+    "A13",
+    "A13b",
+    "A14",
+    "A15",
+    "A16",
+    "D01",
+    "D02",
+    "D03",
+    "D04",
+    "D05",
+    "D05b",
+    "D06",
+    "D07",
+    "D08",
+    "D09",
+    "D10",
+    "D11",
+    "D13",
+    "D14"
+  ],
+  "individually_reviewed_sheets": [
+    "A03b",
+    "A09",
+    "A10b",
+    "A11",
+    "D08",
+    "D11",
+    "D13",
+    "D14"
+  ],
+  "checks": [
+    "All35A2 sheets visually inspected in10contact images for composition, blank pages, clipping and cross-reference consistency.",
+    "A03b,A09,A10b,A11,D08,D11,D13,D14 individually inspected at1684x1191pixels.",
+    "PB bath remains at facade/party-wall corner; PA wardrobe closed to living, direct bedroom access and bath/dining sliding door retained.",
+    "A10b,D14 show400mm knee depth,305mm between stool legs,650mm seat and900mm island, with two610mmP places and alternative withdrawal route.",
+    "A11,D13 show measured750/762.5mm key heights,470mm seat,665mm tray underside and actual support section; operator dimensions declared P.",
+    "D08 shows3.203m minimum fixed height, proposed platform+4.65, operator head+6.37, removable components and transfer route. D11 shows full8mm tile joint, floor/wall continuity and current shower head.",
+    "G/F/P and uncalculated performance limits remain explicit; north down-left with Cedro Misionero at page top."
+  ],
+  "sheets_reviewed": [
+    {
+      "id": "A00",
+      "svg_sha256": "c8659e1b1e4458c9c90c760bb5010867740cc286759eb7deaf231f95122032f8"
+    },
+    {
+      "id": "A01",
+      "svg_sha256": "89f50e7ba43393cf482e26a3cf33160f9bf82f34f04764297a49d3d4eab1f81f"
+    },
+    {
+      "id": "A02",
+      "svg_sha256": "f9178fc4b0f7901b7b7ad2611158746f704d48f9b9e8259e77050e1405fde1a9"
+    },
+    {
+      "id": "A03",
+      "svg_sha256": "4980e9c6755b19d1ec3a0c18c15021c7a1bdf0a7db1ebae10ab275834b78688f"
+    },
+    {
+      "id": "A03b",
+      "svg_sha256": "6476eb8761d973fc243a405df7a28d0d16d56d76b9a4b2dfb266e38a5c35c699"
+    },
+    {
+      "id": "A04",
+      "svg_sha256": "6521884045714e4670a52486234b7f6ca627bb4b278d68507ee2a2b72494894c"
+    },
+    {
+      "id": "A05a",
+      "svg_sha256": "f7184e245d1414df1470338385fc8908579e24c8bb7924549e963479b8f09b38"
+    },
+    {
+      "id": "A05b",
+      "svg_sha256": "de725479a76f61378c942c029c89cd14df5be392435d5fc49763a29f3047fbae"
+    },
+    {
+      "id": "A06",
+      "svg_sha256": "387f294016088f495a593b22a8943612432707b0400df11c048e5cf4bbb132f5"
+    },
+    {
+      "id": "A07",
+      "svg_sha256": "edd8d7b844bd4beeae1f79ed3889409bbce2acadcadf97b88b0408eed4100b11"
+    },
+    {
+      "id": "A08",
+      "svg_sha256": "6530821465ef5e45699d531ac05350351e5c4425686962804a24b2c671d2738d"
+    },
+    {
+      "id": "A09",
+      "svg_sha256": "40a7446aa33a71aeec2a677845c2f15880ccbebe3fd995de7ca359766546da05"
+    },
+    {
+      "id": "A10",
+      "svg_sha256": "f170d3b66ad19ad6a97fb1eba4fb5513d962e58876b2b088c9e2590c0a35668c"
+    },
+    {
+      "id": "A10b",
+      "svg_sha256": "d48ba138f9b62a064cad57327fd7c23fda128150aee7f6b99eb1007b3dfdc3f5"
+    },
+    {
+      "id": "A11",
+      "svg_sha256": "01e8512598ef2728aa95d35273bfcd1f2c284617c25c98727a579920fc68b078"
+    },
+    {
+      "id": "A12",
+      "svg_sha256": "f1de2ab16c13941fa2efdf35abb919c8e007ff45f401023ff3ccb945b9686bf0"
+    },
+    {
+      "id": "A13",
+      "svg_sha256": "afdb845ff5e2944692d3b680c6883c64f2f21c277a5141488c815f41b8aba2a5"
+    },
+    {
+      "id": "A13b",
+      "svg_sha256": "3230857433f27ee54718923212e6deeb99d6ed761e67bbb8c843105817088397"
+    },
+    {
+      "id": "A14",
+      "svg_sha256": "010c61fa685cfd8a901c632566b103207d8da5b3efcafb7752ba0b038463f4fc"
+    },
+    {
+      "id": "A15",
+      "svg_sha256": "567b267c6efba516d979e748092624274b371aa2f3d95076fc0d23428e0d1ace"
+    },
+    {
+      "id": "A16",
+      "svg_sha256": "15601e921fd3b58dd6ebea4906c6621eab99cd7374369d4ead914fe6e2ee3f62"
+    },
+    {
+      "id": "D01",
+      "svg_sha256": "c748367673ce0089b8785e6b4b69d0142053140239c7e60059fdf17d383607b6"
+    },
+    {
+      "id": "D02",
+      "svg_sha256": "dbb0921979409fad252bc2000f997ae9db60b443ed07883b4fe7aaf029ec95e3"
+    },
+    {
+      "id": "D03",
+      "svg_sha256": "db9da1786e41361caf200512347ebc78aec128ab9ba638e75322ca4287882cb5"
+    },
+    {
+      "id": "D04",
+      "svg_sha256": "f5565a9718b4994b62a399ce69ef804544edcba944d5710740a12c9f74919f29"
+    },
+    {
+      "id": "D05",
+      "svg_sha256": "431d483968549466149f2e0d427059e4caee9c6221964812a11e7356ff1f52ce"
+    },
+    {
+      "id": "D05b",
+      "svg_sha256": "391d133a54c25dd74d0dc5f0a27c6f0bcfb0f1442081dacc7cab52d95d964874"
+    },
+    {
+      "id": "D06",
+      "svg_sha256": "f73895c32c58ef29b065f6feb27779264282d784c6fbd5b1792a554e544504e0"
+    },
+    {
+      "id": "D07",
+      "svg_sha256": "257aaa7a7bc9b0b251bbacf5c65557b81057bdaee9118b08123669c5a9766fde"
+    },
+    {
+      "id": "D08",
+      "svg_sha256": "f48d02e68d571a760ef74e57b7c560a754d8bf89ca8b17d13702d8ce5060f3c6"
+    },
+    {
+      "id": "D09",
+      "svg_sha256": "cc877c678c7e7b5688089d1041e326945036fd2d2ba172851662a22a3ff7bca5"
+    },
+    {
+      "id": "D10",
+      "svg_sha256": "90369b4dca1932b34ebae27cef6fd86cfde6c821a88f980cc2519478a27353e0"
+    },
+    {
+      "id": "D11",
+      "svg_sha256": "294fc8d32bd00e8b208f0e32d10c85289b44b61896c6aaac7766bed2267d169a"
+    },
+    {
+      "id": "D13",
+      "svg_sha256": "b7e2299cd7a7c5e28a8a4c15bc2df1dc7873a9da1d5fe842461064df15376a38"
+    },
+    {
+      "id": "D14",
+      "svg_sha256": "e8f770fb1fd54c8e232ab0c96b696e75ea9c730c09ef5197542a20ff757042c9"
+    }
+  ],
+  "local_contact_evidence": [
+    {
+      "path": "visual_contacts/details_01.png",
+      "sha256": "88d3a005168471ea5b89ef7428227b007511096abcc35a29133ef78fbdb26149"
+    },
+    {
+      "path": "visual_contacts/details_02.png",
+      "sha256": "1bca9704f14c322b9b71ef0c9ec4724e885af655ae2fc8e6204547114e351e1f"
+    },
+    {
+      "path": "visual_contacts/details_03.png",
+      "sha256": "ac9cf30c63fa600484682d314bdd9e1a1922b06b5f33420c6d8a66a34ac4e6ec"
+    },
+    {
+      "path": "visual_contacts/details_04.png",
+      "sha256": "c0e56c30533988c8b3ca21b12984fd7a8324682d317d0947f22f10a982992dbb"
+    },
+    {
+      "path": "visual_contacts/general_01.png",
+      "sha256": "55b4a7bf82aba0765663186ab10fc0916d86858e6947af426d5d44053b57ffb1"
+    },
+    {
+      "path": "visual_contacts/general_02.png",
+      "sha256": "3790a18d070a79752f09f5b272d97c0c3994617e48c2926bea1f36796317d56a"
+    },
+    {
+      "path": "visual_contacts/general_03.png",
+      "sha256": "f0d4f48eee27b939e550d8d7988ba6f6dc474099344590a221786091bd9a7802"
+    },
+    {
+      "path": "visual_contacts/general_04.png",
+      "sha256": "041cafcfadf2edd3b1b307390b7b66af99617773ed7aabe684e356ab1369ff3f"
+    },
+    {
+      "path": "visual_contacts/general_05.png",
+      "sha256": "b0392890a11eada68cd336b6eec3073b986720838981c33618e09b66d43d991a"
+    },
+    {
+      "path": "visual_contacts/general_06.png",
+      "sha256": "8e1d9e4738fb1e8a7f5cb611da87e9351d7957e0ac52aa2dd17096e17b32abcd"
+    }
+  ],
+  "limits": [
+    "Digital review, not a physical print proof.",
+    "Overview inspection checks document composition; this is not independent verification of every construction detail.",
+    "No critical9.9 acceptance, normative compliance, engineering capacity or product certification is assigned."
+  ]
+}

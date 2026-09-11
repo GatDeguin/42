@@ -1,0 +1,1448 @@
+{
+  "model": "D:\\2026\\42\\output\\Casa_de_Campo_99_R8_uso_preview.blend",
+  "sha256": "ac0922a881eeea24ad0a7dfd13bf20e710a9b0069039f06711f5755c2dd78d4d",
+  "broad_phase": {
+    "active_source_meshes": 5368,
+    "evaluated_candidates": 1052,
+    "complete_use_regions_source": [
+      {
+        "x": [
+          15.0,
+          18.5
+        ],
+        "h": [
+          0.2,
+          2.0
+        ],
+        "z": [
+          1.75,
+          4.1
+        ]
+      },
+      {
+        "x": [
+          17.45,
+          19.75
+        ],
+        "h": [
+          3.24,
+          4.75
+        ],
+        "z": [
+          1.3,
+          4.7
+        ]
+      }
+    ],
+    "scope": "Every active evaluated mesh overlapping the union; omitted boxes are disjoint from complete affected object and body travel envelopes."
+  },
+  "status": "PASS",
+  "rows": [
+    {
+      "scenario": "new construction versus retained scene",
+      "pairs": 39,
+      "hits": [],
+      "pass": true
+    },
+    {
+      "scenario": "new construction internal",
+      "pairs": 4,
+      "hits": [],
+      "intended_weld_intersections": [
+        [
+          "USO99 | MIDI calce8 0",
+          "USO99 | MIDI cordon soldadura 00",
+          1.0399502917608782e-07
+        ],
+        [
+          "USO99 | MIDI calce8 0",
+          "USO99 | MIDI cordon soldadura 01",
+          1.2797979830522755e-07
+        ],
+        [
+          "USO99 | MIDI calce8 1",
+          "USO99 | MIDI cordon soldadura 10",
+          1.0399502929638006e-07
+        ],
+        [
+          "USO99 | MIDI calce8 1",
+          "USO99 | MIDI cordon soldadura 11",
+          1.2797979829597795e-07
+        ]
+      ],
+      "pass": true
+    },
+    {
+      "scenario": "measured support interfaces",
+      "samples": 54,
+      "hits": [],
+      "pass": true
+    },
+    {
+      "scenario": "changed MIDI assembly versus retained console and base",
+      "pairs": 83,
+      "hits": [],
+      "pass": true
+    },
+    {
+      "scenario": "island two knee reserves and600mm sensitivity",
+      "pairs": 6,
+      "hits": [],
+      "pass": true
+    },
+    {
+      "scenario": "seated island diner0",
+      "pairs": 17,
+      "hits": [],
+      "pass": true
+    },
+    {
+      "scenario": "seated island diner1",
+      "pairs": 17,
+      "hits": [],
+      "pass": true
+    },
+    {
+      "scenario": "rear passage behind two diners diameter450",
+      "pairs": 15,
+      "hits": [],
+      "pass": true
+    },
+    {
+      "scenario": "entry standing to seat0",
+      "pairs": 18,
+      "hits": [],
+      "pass": true
+    },
+    {
+      "scenario": "entry standing to seat1",
+      "pairs": 18,
+      "hits": [],
+      "pass": true
+    },
+    {
+      "scenario": "stool withdrawal450mm",
+      "seats": [
+        {
+          "seat": 0,
+          "positions": 21,
+          "pairs": 357,
+          "hits": [],
+          "pass": true
+        },
+        {
+          "seat": 1,
+          "positions": 21,
+          "pairs": 357,
+          "hits": [],
+          "pass": true
+        }
+      ],
+      "hits": [],
+      "pass": true
+    },
+    {
+      "scenario": "MIDI primary seated operator",
+      "pairs": 10,
+      "hits": [],
+      "pass": true
+    },
+    {
+      "scenario": "trial body support contacts",
+      "samples": 11,
+      "hits": [],
+      "pass": true
+    },
+    {
+      "scenario": "MIDI headroom665mm all12rays",
+      "hits": [],
+      "pass": true
+    },
+    {
+      "scenario": "new construction closed meshes",
+      "hits": [],
+      "pass": true
+    }
+  ],
+  "support_contacts": [
+    {
+      "label": "island pad-counter",
+      "objects": [
+        "USO99 | isla asiento elastomerico tapa 0",
+        "Isla cocina mono tapa"
+      ],
+      "point_source": [
+        16.0,
+        1.0750000476837158,
+        3.365000009536743
+      ],
+      "gap_m": -1.1920928955078125e-07,
+      "pass": true
+    },
+    {
+      "label": "island pad-counter",
+      "objects": [
+        "USO99 | isla asiento elastomerico tapa 0",
+        "Isla cocina mono tapa"
+      ],
+      "point_source": [
+        16.35,
+        1.0750000476837158,
+        3.365000009536743
+      ],
+      "gap_m": -1.1920928955078125e-07,
+      "pass": true
+    },
+    {
+      "label": "island pad-counter",
+      "objects": [
+        "USO99 | isla asiento elastomerico tapa 0",
+        "Isla cocina mono tapa"
+      ],
+      "point_source": [
+        16.82,
+        1.0750000476837158,
+        3.365000009536743
+      ],
+      "gap_m": -1.1920928955078125e-07,
+      "pass": true
+    },
+    {
+      "label": "island pad-counter",
+      "objects": [
+        "USO99 | isla asiento elastomerico tapa 0",
+        "Isla cocina mono tapa"
+      ],
+      "point_source": [
+        17.29,
+        1.0750000476837158,
+        3.365000009536743
+      ],
+      "gap_m": -1.1920928955078125e-07,
+      "pass": true
+    },
+    {
+      "label": "island pad-counter",
+      "objects": [
+        "USO99 | isla asiento elastomerico tapa 0",
+        "Isla cocina mono tapa"
+      ],
+      "point_source": [
+        17.65,
+        1.0750000476837158,
+        3.365000009536743
+      ],
+      "gap_m": -1.1920928955078125e-07,
+      "pass": true
+    },
+    {
+      "label": "island pad-counter",
+      "objects": [
+        "USO99 | isla asiento elastomerico tapa 1",
+        "Isla cocina mono tapa"
+      ],
+      "point_source": [
+        16.0,
+        1.0750000476837158,
+        3.940000057220459
+      ],
+      "gap_m": -1.1920928955078125e-07,
+      "pass": true
+    },
+    {
+      "label": "island pad-counter",
+      "objects": [
+        "USO99 | isla asiento elastomerico tapa 1",
+        "Isla cocina mono tapa"
+      ],
+      "point_source": [
+        16.35,
+        1.0750000476837158,
+        3.940000057220459
+      ],
+      "gap_m": -1.1920928955078125e-07,
+      "pass": true
+    },
+    {
+      "label": "island pad-counter",
+      "objects": [
+        "USO99 | isla asiento elastomerico tapa 1",
+        "Isla cocina mono tapa"
+      ],
+      "point_source": [
+        16.82,
+        1.0750000476837158,
+        3.940000057220459
+      ],
+      "gap_m": -1.1920928955078125e-07,
+      "pass": true
+    },
+    {
+      "label": "island pad-counter",
+      "objects": [
+        "USO99 | isla asiento elastomerico tapa 1",
+        "Isla cocina mono tapa"
+      ],
+      "point_source": [
+        17.29,
+        1.0750000476837158,
+        3.940000057220459
+      ],
+      "gap_m": -1.1920928955078125e-07,
+      "pass": true
+    },
+    {
+      "label": "island pad-counter",
+      "objects": [
+        "USO99 | isla asiento elastomerico tapa 1",
+        "Isla cocina mono tapa"
+      ],
+      "point_source": [
+        17.65,
+        1.0750000476837158,
+        3.940000057220459
+      ],
+      "gap_m": -1.1920928955078125e-07,
+      "pass": true
+    },
+    {
+      "label": "MIDI plate-existing base",
+      "objects": [
+        "Base consola estudio",
+        "USO99 | MIDI placa asiento base 0"
+      ],
+      "point_source": [
+        18.25,
+        3.86299991607666,
+        2.430000066757202
+      ],
+      "gap_m": -2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "label": "MIDI plate-existing base",
+      "objects": [
+        "Base consola estudio",
+        "USO99 | MIDI placa asiento base 0"
+      ],
+      "point_source": [
+        18.45,
+        3.86299991607666,
+        2.430000066757202
+      ],
+      "gap_m": -2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "label": "MIDI plate-existing base",
+      "objects": [
+        "Base consola estudio",
+        "USO99 | MIDI placa asiento base 1"
+      ],
+      "point_source": [
+        18.25,
+        3.86299991607666,
+        3.569999933242798
+      ],
+      "gap_m": -2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "label": "MIDI plate-existing base",
+      "objects": [
+        "Base consola estudio",
+        "USO99 | MIDI placa asiento base 1"
+      ],
+      "point_source": [
+        18.45,
+        3.86299991607666,
+        3.569999933242798
+      ],
+      "gap_m": -2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "label": "controller-pad",
+      "objects": [
+        "USO99 | MIDI apoyo elastomerico 00",
+        "Controlador estudio"
+      ],
+      "point_source": [
+        18.550000190734863,
+        3.936000108718872,
+        2.5
+      ],
+      "gap_m": -2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "label": "pad-tray",
+      "objects": [
+        "USO99 | MIDI bandeja18",
+        "USO99 | MIDI apoyo elastomerico 00"
+      ],
+      "point_source": [
+        18.550000190734863,
+        3.933000087738037,
+        2.5
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "controller-pad",
+      "objects": [
+        "USO99 | MIDI apoyo elastomerico 01",
+        "Controlador estudio"
+      ],
+      "point_source": [
+        18.550000190734863,
+        3.936000108718872,
+        3.5
+      ],
+      "gap_m": -2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "label": "pad-tray",
+      "objects": [
+        "USO99 | MIDI bandeja18",
+        "USO99 | MIDI apoyo elastomerico 01"
+      ],
+      "point_source": [
+        18.550000190734863,
+        3.933000087738037,
+        3.5
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "controller-pad",
+      "objects": [
+        "USO99 | MIDI apoyo elastomerico 10",
+        "Controlador estudio"
+      ],
+      "point_source": [
+        18.869999885559082,
+        3.936000108718872,
+        2.5
+      ],
+      "gap_m": -2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "label": "pad-tray",
+      "objects": [
+        "USO99 | MIDI bandeja18",
+        "USO99 | MIDI apoyo elastomerico 10"
+      ],
+      "point_source": [
+        18.869999885559082,
+        3.933000087738037,
+        2.5
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "controller-pad",
+      "objects": [
+        "USO99 | MIDI apoyo elastomerico 11",
+        "Controlador estudio"
+      ],
+      "point_source": [
+        18.869999885559082,
+        3.936000108718872,
+        3.5
+      ],
+      "gap_m": -2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "label": "pad-tray",
+      "objects": [
+        "USO99 | MIDI bandeja18",
+        "USO99 | MIDI apoyo elastomerico 11"
+      ],
+      "point_source": [
+        18.869999885559082,
+        3.933000087738037,
+        3.5
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "tray-arm",
+      "objects": [
+        "USO99 | MIDI brazo40x30 0",
+        "USO99 | MIDI bandeja18"
+      ],
+      "point_source": [
+        18.52,
+        3.915,
+        2.43
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "tray-arm",
+      "objects": [
+        "USO99 | MIDI brazo40x30 0",
+        "USO99 | MIDI bandeja18"
+      ],
+      "point_source": [
+        18.72,
+        3.915,
+        2.43
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "tray-arm",
+      "objects": [
+        "USO99 | MIDI brazo40x30 0",
+        "USO99 | MIDI bandeja18"
+      ],
+      "point_source": [
+        18.9,
+        3.915,
+        2.43
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "arm-spacer",
+      "objects": [
+        "USO99 | MIDI calce8 0",
+        "USO99 | MIDI brazo40x30 0"
+      ],
+      "point_source": [
+        18.28,
+        3.875,
+        2.43
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "arm-spacer",
+      "objects": [
+        "USO99 | MIDI calce8 0",
+        "USO99 | MIDI brazo40x30 0"
+      ],
+      "point_source": [
+        18.45,
+        3.875,
+        2.43
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "spacer-rootplate",
+      "objects": [
+        "USO99 | MIDI placa asiento base 0",
+        "USO99 | MIDI calce8 0"
+      ],
+      "point_source": [
+        18.28,
+        3.867,
+        2.43
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "spacer-rootplate",
+      "objects": [
+        "USO99 | MIDI placa asiento base 0",
+        "USO99 | MIDI calce8 0"
+      ],
+      "point_source": [
+        18.45,
+        3.867,
+        2.43
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "tray-arm",
+      "objects": [
+        "USO99 | MIDI brazo40x30 1",
+        "USO99 | MIDI bandeja18"
+      ],
+      "point_source": [
+        18.52,
+        3.915,
+        3.57
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "tray-arm",
+      "objects": [
+        "USO99 | MIDI brazo40x30 1",
+        "USO99 | MIDI bandeja18"
+      ],
+      "point_source": [
+        18.72,
+        3.915,
+        3.57
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "tray-arm",
+      "objects": [
+        "USO99 | MIDI brazo40x30 1",
+        "USO99 | MIDI bandeja18"
+      ],
+      "point_source": [
+        18.9,
+        3.915,
+        3.57
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "arm-spacer",
+      "objects": [
+        "USO99 | MIDI calce8 1",
+        "USO99 | MIDI brazo40x30 1"
+      ],
+      "point_source": [
+        18.28,
+        3.875,
+        3.57
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "arm-spacer",
+      "objects": [
+        "USO99 | MIDI calce8 1",
+        "USO99 | MIDI brazo40x30 1"
+      ],
+      "point_source": [
+        18.45,
+        3.875,
+        3.57
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "spacer-rootplate",
+      "objects": [
+        "USO99 | MIDI placa asiento base 1",
+        "USO99 | MIDI calce8 1"
+      ],
+      "point_source": [
+        18.28,
+        3.867,
+        3.57
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "spacer-rootplate",
+      "objects": [
+        "USO99 | MIDI placa asiento base 1",
+        "USO99 | MIDI calce8 1"
+      ],
+      "point_source": [
+        18.45,
+        3.867,
+        3.57
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "root weld-existing steel",
+      "objects": [
+        "Base consola estudio",
+        "USO99 | MIDI soldadura base 0 -1"
+      ],
+      "point_source": [
+        18.28,
+        3.863,
+        2.399
+      ],
+      "gap_m": -2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "label": "root weld-existing steel",
+      "objects": [
+        "Base consola estudio",
+        "USO99 | MIDI soldadura base 0 -1"
+      ],
+      "point_source": [
+        18.45,
+        3.863,
+        2.399
+      ],
+      "gap_m": -2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "label": "root weld-existing steel",
+      "objects": [
+        "Base consola estudio",
+        "USO99 | MIDI soldadura base 0 1"
+      ],
+      "point_source": [
+        18.28,
+        3.863,
+        2.4610000000000003
+      ],
+      "gap_m": -2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "label": "root weld-existing steel",
+      "objects": [
+        "Base consola estudio",
+        "USO99 | MIDI soldadura base 0 1"
+      ],
+      "point_source": [
+        18.45,
+        3.863,
+        2.4610000000000003
+      ],
+      "gap_m": -2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "label": "root weld-existing steel",
+      "objects": [
+        "Base consola estudio",
+        "USO99 | MIDI soldadura base 1 -1"
+      ],
+      "point_source": [
+        18.28,
+        3.863,
+        3.5389999999999997
+      ],
+      "gap_m": -2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "label": "root weld-existing steel",
+      "objects": [
+        "Base consola estudio",
+        "USO99 | MIDI soldadura base 1 -1"
+      ],
+      "point_source": [
+        18.45,
+        3.863,
+        3.5389999999999997
+      ],
+      "gap_m": -2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "label": "root weld-existing steel",
+      "objects": [
+        "Base consola estudio",
+        "USO99 | MIDI soldadura base 1 1"
+      ],
+      "point_source": [
+        18.28,
+        3.863,
+        3.601
+      ],
+      "gap_m": -2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "label": "root weld-existing steel",
+      "objects": [
+        "Base consola estudio",
+        "USO99 | MIDI soldadura base 1 1"
+      ],
+      "point_source": [
+        18.45,
+        3.863,
+        3.601
+      ],
+      "gap_m": -2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "label": "island steel-elastomer",
+      "objects": [
+        "USO99 | isla travesano superior 0",
+        "USO99 | isla asiento elastomerico tapa 0"
+      ],
+      "point_source": [
+        16.1,
+        1.072,
+        3.365
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "island steel-elastomer",
+      "objects": [
+        "USO99 | isla travesano superior 0",
+        "USO99 | isla asiento elastomerico tapa 0"
+      ],
+      "point_source": [
+        16.35,
+        1.072,
+        3.365
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "island steel-elastomer",
+      "objects": [
+        "USO99 | isla travesano superior 0",
+        "USO99 | isla asiento elastomerico tapa 0"
+      ],
+      "point_source": [
+        16.82,
+        1.072,
+        3.365
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "island steel-elastomer",
+      "objects": [
+        "USO99 | isla travesano superior 0",
+        "USO99 | isla asiento elastomerico tapa 0"
+      ],
+      "point_source": [
+        17.29,
+        1.072,
+        3.365
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "island steel-elastomer",
+      "objects": [
+        "USO99 | isla travesano superior 0",
+        "USO99 | isla asiento elastomerico tapa 0"
+      ],
+      "point_source": [
+        17.55,
+        1.072,
+        3.365
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "island steel-elastomer",
+      "objects": [
+        "USO99 | isla travesano superior 1",
+        "USO99 | isla asiento elastomerico tapa 1"
+      ],
+      "point_source": [
+        16.1,
+        1.072,
+        3.94
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "island steel-elastomer",
+      "objects": [
+        "USO99 | isla travesano superior 1",
+        "USO99 | isla asiento elastomerico tapa 1"
+      ],
+      "point_source": [
+        16.35,
+        1.072,
+        3.94
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "island steel-elastomer",
+      "objects": [
+        "USO99 | isla travesano superior 1",
+        "USO99 | isla asiento elastomerico tapa 1"
+      ],
+      "point_source": [
+        16.82,
+        1.072,
+        3.94
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "island steel-elastomer",
+      "objects": [
+        "USO99 | isla travesano superior 1",
+        "USO99 | isla asiento elastomerico tapa 1"
+      ],
+      "point_source": [
+        17.29,
+        1.072,
+        3.94
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    },
+    {
+      "label": "island steel-elastomer",
+      "objects": [
+        "USO99 | isla travesano superior 1",
+        "USO99 | isla asiento elastomerico tapa 1"
+      ],
+      "point_source": [
+        17.55,
+        1.072,
+        3.94
+      ],
+      "gap_m": 0.0,
+      "pass": true
+    }
+  ],
+  "body_support_contacts": [
+    {
+      "label": "seated pelvis",
+      "body": "USE PROBE diner0 pelvis",
+      "point_source": [
+        16.35,
+        0.86,
+        3.05
+      ],
+      "support": [
+        0.8600000143051147,
+        "Taburete isla mono A | asiento 30 mm"
+      ],
+      "gap_m": 0.0,
+      "contact_tolerance_m": 0.0001,
+      "pass": true
+    },
+    {
+      "label": "feet on stool rail",
+      "body": "USE PROBE diner0 foot-1",
+      "point_source": [
+        16.25,
+        0.41,
+        3.2025
+      ],
+      "support": [
+        0.4099999964237213,
+        "Taburete isla mono A | reposapiés X -1"
+      ],
+      "gap_m": 0.0,
+      "contact_tolerance_m": 0.0001,
+      "pass": true
+    },
+    {
+      "label": "feet on stool rail",
+      "body": "USE PROBE diner0 foot1",
+      "point_source": [
+        16.450000000000003,
+        0.41,
+        3.2025
+      ],
+      "support": [
+        0.4099999964237213,
+        "Taburete isla mono A | reposapiés X -1"
+      ],
+      "gap_m": 0.0,
+      "contact_tolerance_m": 0.0001,
+      "pass": true
+    },
+    {
+      "label": "seated pelvis",
+      "body": "USE PROBE diner1 pelvis",
+      "point_source": [
+        17.29,
+        0.86,
+        3.05
+      ],
+      "support": [
+        0.8600000143051147,
+        "Taburete isla mono B | asiento 30 mm"
+      ],
+      "gap_m": 0.0,
+      "contact_tolerance_m": 0.0001,
+      "pass": true
+    },
+    {
+      "label": "feet on stool rail",
+      "body": "USE PROBE diner1 foot-1",
+      "point_source": [
+        17.189999999999998,
+        0.41,
+        3.2025
+      ],
+      "support": [
+        0.4099999964237213,
+        "Taburete isla mono B | reposapiés X -1"
+      ],
+      "gap_m": 0.0,
+      "contact_tolerance_m": 0.0001,
+      "pass": true
+    },
+    {
+      "label": "feet on stool rail",
+      "body": "USE PROBE diner1 foot1",
+      "point_source": [
+        17.39,
+        0.41,
+        3.2025
+      ],
+      "support": [
+        0.4099999964237213,
+        "Taburete isla mono B | reposapiés X -1"
+      ],
+      "gap_m": 0.0,
+      "contact_tolerance_m": 0.0001,
+      "pass": true
+    },
+    {
+      "label": "MIDI pelvis on seat",
+      "body": "USE PROBE MIDI pelvis",
+      "point_source": [
+        19.085,
+        3.72,
+        3
+      ],
+      "support": [
+        3.719975471496582,
+        "Silla estudio asiento"
+      ],
+      "gap_m": 2.4557113647460938e-05,
+      "contact_tolerance_m": 0.0001,
+      "pass": true
+    },
+    {
+      "label": "MIDI feet on rug actual top",
+      "body": "USE PROBE MIDI foot-1",
+      "point_source": [
+        18.5,
+        3.259,
+        2.885
+      ],
+      "support": [
+        3.258999824523926,
+        "Alfombra estudio"
+      ],
+      "gap_m": 2.384185791015625e-07,
+      "contact_tolerance_m": 0.0001,
+      "pass": true
+    },
+    {
+      "label": "MIDI fingertips on white keys",
+      "body": "USE PROBE MIDI hand-1",
+      "point_source": [
+        18.81001,
+        4.0,
+        2.808
+      ],
+      "support": [
+        4.0,
+        "MAT95 | tecla natural 10"
+      ],
+      "gap_m": 9.5367431640625e-07,
+      "contact_tolerance_m": 0.0001,
+      "pass": true
+    },
+    {
+      "label": "MIDI feet on rug actual top",
+      "body": "USE PROBE MIDI foot1",
+      "point_source": [
+        18.5,
+        3.259,
+        3.115
+      ],
+      "support": [
+        3.258999824523926,
+        "Alfombra estudio"
+      ],
+      "gap_m": 2.384185791015625e-07,
+      "contact_tolerance_m": 0.0001,
+      "pass": true
+    },
+    {
+      "label": "MIDI fingertips on white keys",
+      "body": "USE PROBE MIDI hand1",
+      "point_source": [
+        18.81001,
+        4.0,
+        3.192
+      ],
+      "support": [
+        4.0,
+        "MAT95 | tecla natural 26"
+      ],
+      "gap_m": 9.5367431640625e-07,
+      "contact_tolerance_m": 0.0001,
+      "pass": true
+    }
+  ],
+  "midi_headroom_rays": [
+    {
+      "x": 18.52,
+      "z": 2.65,
+      "first": [
+        3.9149999618530273,
+        "USO99 | MIDI bandeja18"
+      ],
+      "above_floor": 0.6649999618530273
+    },
+    {
+      "x": 18.52,
+      "z": 3,
+      "first": [
+        3.9149999618530273,
+        "USO99 | MIDI bandeja18"
+      ],
+      "above_floor": 0.6649999618530273
+    },
+    {
+      "x": 18.52,
+      "z": 3.35,
+      "first": [
+        3.9149999618530273,
+        "USO99 | MIDI bandeja18"
+      ],
+      "above_floor": 0.6649999618530273
+    },
+    {
+      "x": 18.65,
+      "z": 2.65,
+      "first": [
+        3.9149999618530273,
+        "USO99 | MIDI bandeja18"
+      ],
+      "above_floor": 0.6649999618530273
+    },
+    {
+      "x": 18.65,
+      "z": 3,
+      "first": [
+        3.9149999618530273,
+        "USO99 | MIDI bandeja18"
+      ],
+      "above_floor": 0.6649999618530273
+    },
+    {
+      "x": 18.65,
+      "z": 3.35,
+      "first": [
+        3.9149999618530273,
+        "USO99 | MIDI bandeja18"
+      ],
+      "above_floor": 0.6649999618530273
+    },
+    {
+      "x": 18.8,
+      "z": 2.65,
+      "first": [
+        3.9149999618530273,
+        "USO99 | MIDI bandeja18"
+      ],
+      "above_floor": 0.6649999618530273
+    },
+    {
+      "x": 18.8,
+      "z": 3,
+      "first": [
+        3.9149999618530273,
+        "USO99 | MIDI bandeja18"
+      ],
+      "above_floor": 0.6649999618530273
+    },
+    {
+      "x": 18.8,
+      "z": 3.35,
+      "first": [
+        3.9149999618530273,
+        "USO99 | MIDI bandeja18"
+      ],
+      "above_floor": 0.6649999618530273
+    },
+    {
+      "x": 18.9,
+      "z": 2.65,
+      "first": [
+        3.9149999618530273,
+        "USO99 | MIDI bandeja18"
+      ],
+      "above_floor": 0.6649999618530273
+    },
+    {
+      "x": 18.9,
+      "z": 3,
+      "first": [
+        3.9149999618530273,
+        "USO99 | MIDI bandeja18"
+      ],
+      "above_floor": 0.6649999618530273
+    },
+    {
+      "x": 18.9,
+      "z": 3.35,
+      "first": [
+        3.9149999618530273,
+        "USO99 | MIDI bandeja18"
+      ],
+      "above_floor": 0.6649999618530273
+    }
+  ],
+  "new_meshes": [
+    {
+      "name": "USO99 | isla apoyo elastomerico 00",
+      "nonmanifold_edges": 0,
+      "volume_m3": 7.999810218571992e-06
+    },
+    {
+      "name": "USO99 | isla montante 00",
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.00015400523947932502
+    },
+    {
+      "name": "USO99 | isla apoyo elastomerico 01",
+      "nonmanifold_edges": 0,
+      "volume_m3": 7.999810218569606e-06
+    },
+    {
+      "name": "USO99 | isla montante 01",
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.0001540052394793065
+    },
+    {
+      "name": "USO99 | isla larguero extremo 0",
+      "nonmanifold_edges": 0,
+      "volume_m3": 9.839563007784692e-05
+    },
+    {
+      "name": "USO99 | isla apoyo elastomerico 10",
+      "nonmanifold_edges": 0,
+      "volume_m3": 7.999810218562884e-06
+    },
+    {
+      "name": "USO99 | isla montante 10",
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.0001540451509084201
+    },
+    {
+      "name": "USO99 | isla apoyo elastomerico 11",
+      "nonmanifold_edges": 0,
+      "volume_m3": 7.999810218597579e-06
+    },
+    {
+      "name": "USO99 | isla montante 11",
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.00015404515090368878
+    },
+    {
+      "name": "USO99 | isla larguero extremo 1",
+      "nonmanifold_edges": 0,
+      "volume_m3": 9.841851824500609e-05
+    },
+    {
+      "name": "USO99 | isla travesano superior 0",
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.00026978356141163387
+    },
+    {
+      "name": "USO99 | isla asiento elastomerico tapa 0",
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.00012712635112140623
+    },
+    {
+      "name": "USO99 | isla travesano superior 1",
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.0002697835614115634
+    },
+    {
+      "name": "USO99 | isla asiento elastomerico tapa 1",
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.00012712635112131342
+    },
+    {
+      "name": "USO99 | MIDI bandeja18",
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.009639084217191618
+    },
+    {
+      "name": "USO99 | MIDI placa asiento base 0",
+      "nonmanifold_edges": 0,
+      "volume_m3": 7.200357056623896e-05
+    },
+    {
+      "name": "USO99 | MIDI soldadura base 0 -1",
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3050137902862434e-06
+    },
+    {
+      "name": "USO99 | MIDI soldadura base 0 1",
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3050137901379245e-06
+    },
+    {
+      "name": "USO99 | MIDI calce8 0",
+      "nonmanifold_edges": 0,
+      "volume_m3": 6.239919204718489e-05
+    },
+    {
+      "name": "USO99 | MIDI brazo40x30 0",
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.00019008916077877896
+    },
+    {
+      "name": "USO99 | MIDI cordon soldadura 00",
+      "nonmanifold_edges": 0,
+      "volume_m3": 6.400057974142732e-07
+    },
+    {
+      "name": "USO99 | MIDI cordon soldadura 01",
+      "nonmanifold_edges": 0,
+      "volume_m3": 6.399295063482793e-07
+    },
+    {
+      "name": "USO99 | MIDI placa asiento base 1",
+      "nonmanifold_edges": 0,
+      "volume_m3": 7.200357056646772e-05
+    },
+    {
+      "name": "USO99 | MIDI soldadura base 1 -1",
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3050137901381414e-06
+    },
+    {
+      "name": "USO99 | MIDI soldadura base 1 1",
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.3050137901381414e-06
+    },
+    {
+      "name": "USO99 | MIDI calce8 1",
+      "nonmanifold_edges": 0,
+      "volume_m3": 6.239919204720375e-05
+    },
+    {
+      "name": "USO99 | MIDI brazo40x30 1",
+      "nonmanifold_edges": 0,
+      "volume_m3": 0.00019008916077973187
+    },
+    {
+      "name": "USO99 | MIDI cordon soldadura 10",
+      "nonmanifold_edges": 0,
+      "volume_m3": 6.400057974328131e-07
+    },
+    {
+      "name": "USO99 | MIDI cordon soldadura 11",
+      "nonmanifold_edges": 0,
+      "volume_m3": 6.399295063482793e-07
+    },
+    {
+      "name": "USO99 | MIDI apoyo elastomerico 00",
+      "nonmanifold_edges": 0,
+      "volume_m3": 7.5002527256951e-06
+    },
+    {
+      "name": "USO99 | MIDI apoyo elastomerico 01",
+      "nonmanifold_edges": 0,
+      "volume_m3": 7.50025272571364e-06
+    },
+    {
+      "name": "USO99 | MIDI apoyo elastomerico 10",
+      "nonmanifold_edges": 0,
+      "volume_m3": 7.500252725769043e-06
+    },
+    {
+      "name": "USO99 | MIDI apoyo elastomerico 11",
+      "nonmanifold_edges": 0,
+      "volume_m3": 7.500252725787474e-06
+    },
+    {
+      "name": "USO99 | MIDI tope lateral 0",
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.1199929809691087e-05
+    },
+    {
+      "name": "USO99 | MIDI tope lateral 1",
+      "nonmanifold_edges": 0,
+      "volume_m3": 1.119992980969087e-05
+    }
+  ],
+  "operator_dimensions": {
+    "MIDI_seat_m": 0.47,
+    "MIDI_pelvis_offset_forward_from_seat_centre_m": 0.015,
+    "MIDI_rug_top_above_NPT_m": 0.009,
+    "MIDI_relaxed_elbow_from_seat_m": 0.28,
+    "MIDI_forearm_axis_rise_m": 0.018,
+    "MIDI_forearm_axis_run_m": 0.245,
+    "MIDI_forearm_axis_lateral_offset_m": 0.04,
+    "MIDI_upper_arm_axis_length_m": 0.2825774230188958,
+    "MIDI_forearm_axis_length_m": 0.24889556042645677,
+    "MIDI_hand_envelope_mm": [
+      150,
+      70,
+      42
+    ],
+    "MIDI_shoe_envelope_mm": [
+      280,
+      100,
+      60
+    ],
+    "MIDI_fingertip_bottom_above_floor_m": 0.75,
+    "MIDI_thigh_radius_m": 0.06,
+    "MIDI_head_top_above_floor_m": 1.395,
+    "diner_seat_m": 0.65,
+    "diner_knee_length_trial_m": 0.6,
+    "passage_diameter_m": 0.45,
+    "passage_height_m": 1.718,
+    "stool_withdrawal_m": 0.45,
+    "entry_positions_each": 18,
+    "entry_trajectory_source_xz": {
+      "rear_to_gap": [
+        [
+          16.82,
+          2.37
+        ],
+        [
+          16.82,
+          3.05
+        ]
+      ],
+      "gap_to_seats": [
+        [
+          16.35,
+          3.05
+        ],
+        [
+          17.29,
+          3.05
+        ]
+      ]
+    }
+  },
+  "limits": [
+    "Trial body dimensions explicitly selected; not population percentiles or accessibility certification.",
+    "Entry checks standing approaches and21stool poses; it does not simulate dynamic balance or full sit-to-stand motion.",
+    "Keys are primary neutral input; all auxiliary console controls are not claimed to share that reach/posture.",
+    "Weld beads touch connected steel intentionally; capacity and fabrication remain professional selection."
+  ]
+}

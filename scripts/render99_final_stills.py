@@ -22,10 +22,11 @@ shots+= [
  ('LUZ99 | Exterior jardin retrato','exterior_retrato','Jardín, composición vertical'),
  ('LUZ99 | Bano suite humano','bano_humano','Bañera de la vivienda, detalle a altura de uso'),
  ('LUZ99 | Acceso dormitorio desde estar','dormitorio_puerta','Puerta directa del dormitorio al estar')]
+if bpy.data.objects.get('LUZ99 | Pileta desde jardin'):shots.append(('LUZ99 | Pileta desde jardin','pileta_jardin','Pileta desde el jardín, borde próximo completo'))
 only=set(arg('--only','').split(',')) if arg('--only') else None
 if only:shots=[s for s in shots if s[1] in only]
 manifest=os.path.join(OUT,'manifest.json')
-report=dict(source=source,sourceSHA256=sha,revision='R7',status='CANDIDATO EN REVISIÓN; umbral global 9,9 pendiente',video='PAUSED_PENDING_EXPLICIT_APPROVAL',engine='Cycles OptiX',transform='AgX Medium High Contrast',exposureEV=.35,images=[])
+report=dict(source=source,sourceSHA256=sha,revision=arg('--revision','R7'),status='CANDIDATO EN REVISIÓN; umbral global 9,9 pendiente',video='PAUSED_PENDING_EXPLICIT_APPROVAL',engine='Cycles OptiX',transform='AgX Medium High Contrast',exposureEV=.35,images=[])
 if os.path.exists(manifest):
  prior=json.load(open(manifest,encoding='utf8'))
  assert prior['sourceSHA256']==sha,'Output directory contains a different revision'
