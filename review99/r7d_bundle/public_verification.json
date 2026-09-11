@@ -1,0 +1,722 @@
+{
+  "status": "PASS",
+  "commit": "694e18e6afcb66b6e579403cdb82ac09c7cf57c2",
+  "url": "https://gatdeguin.github.io/42/",
+  "verifiedAt": "2026-09-11T03:10:45.376152+00:00",
+  "scope": "Exact public bytes of all gallery and plan files plus current entry pages and metadata; source Blender/GLB unchanged and previously verified.",
+  "files": [
+    {
+      "path": "docs/planos99/A00.dxf",
+      "status": 200,
+      "bytes": 19248,
+      "sha256": "cb181c754d6a02f7bebacba21bde295e3ac5edec45b5756c1417c32fc56c4133"
+    },
+    {
+      "path": "docs/planos99/A00.svg",
+      "status": 200,
+      "bytes": 16823,
+      "sha256": "8bae39be64696b8dba8647c7497134024216e70cc645f3c0992af56509930e1d"
+    },
+    {
+      "path": "docs/planos99/A01.dxf",
+      "status": 200,
+      "bytes": 75911,
+      "sha256": "1190edcf0fe485f175a1780beda216b267d12a1c3fe9da49358af9e5fe87591f"
+    },
+    {
+      "path": "docs/planos99/A01.svg",
+      "status": 200,
+      "bytes": 29721,
+      "sha256": "681562eb7c9a7754a5e440fe1b1c287154cebb44823e146764f5d9962ec6e6b7"
+    },
+    {
+      "path": "docs/planos99/A02.dxf",
+      "status": 200,
+      "bytes": 389335,
+      "sha256": "1e0c86df739cebff0a6370c10c4ea8d8ff8a6a3765ae88f36e4376b5df83dd01"
+    },
+    {
+      "path": "docs/planos99/A02.svg",
+      "status": 200,
+      "bytes": 217383,
+      "sha256": "dfa6e38bbb1fddca81f1f5a3059fb99218a57a12d3944a1a823d5d67143eca6f"
+    },
+    {
+      "path": "docs/planos99/A03.dxf",
+      "status": 200,
+      "bytes": 759295,
+      "sha256": "75cd744eac746a08829d441ac2c39cf2a45640d6a56e2e13f25496f8717b2f6b"
+    },
+    {
+      "path": "docs/planos99/A03.svg",
+      "status": 200,
+      "bytes": 402974,
+      "sha256": "4bda676675c1c56b6501056808391e2f473fa3dd39a8cdd120e43d32a85ee611"
+    },
+    {
+      "path": "docs/planos99/A03b.dxf",
+      "status": 200,
+      "bytes": 467457,
+      "sha256": "7fb63b63784dfed93680d985a2682a472e0aa53e0c009e8f871cbc10e4cd8538"
+    },
+    {
+      "path": "docs/planos99/A03b.svg",
+      "status": 200,
+      "bytes": 238237,
+      "sha256": "9b4af81ce81028fafe6e76f91e3728c17ec24d2fe5aa92a5b79559d83b2c74c0"
+    },
+    {
+      "path": "docs/planos99/A04.dxf",
+      "status": 200,
+      "bytes": 213348,
+      "sha256": "4254851436d1c36b6cbcc177d546876e784a94cb3279ef90f546dcf60b02b2ba"
+    },
+    {
+      "path": "docs/planos99/A04.svg",
+      "status": 200,
+      "bytes": 124090,
+      "sha256": "42ba19e82d8acdec059926704fa38c44297e912306ac9d86af2000780ebb8c75"
+    },
+    {
+      "path": "docs/planos99/A05a.dxf",
+      "status": 200,
+      "bytes": 1611364,
+      "sha256": "6dab4f9b5ce299770c89b46c0f2576241b31e3019f946245c01f8ad621dcdf54"
+    },
+    {
+      "path": "docs/planos99/A05a.svg",
+      "status": 200,
+      "bytes": 1023927,
+      "sha256": "61a5586807b08405c4fce63209c5a1cdb422e572f02ca3fd8a9eb54e8ed79da7"
+    },
+    {
+      "path": "docs/planos99/A05b.dxf",
+      "status": 200,
+      "bytes": 1424243,
+      "sha256": "a1ecea4e65745aca27b86e4ec894e9e357b73240b866d8ffc99d26cf9ccd3fe7"
+    },
+    {
+      "path": "docs/planos99/A05b.svg",
+      "status": 200,
+      "bytes": 924558,
+      "sha256": "9131c0363b2f2686d293de0cd39c769360a12b16d6cf16af2a1c667a61a29808"
+    },
+    {
+      "path": "docs/planos99/A06.dxf",
+      "status": 200,
+      "bytes": 529025,
+      "sha256": "440810ff27cc4df9e09d2055cac1a4e568fb31c9096c672a54cb9efa36a41812"
+    },
+    {
+      "path": "docs/planos99/A06.svg",
+      "status": 200,
+      "bytes": 298083,
+      "sha256": "14551d4300a41f9620f43dcf9c039812d718c383a4f7e85492e311726834ade8"
+    },
+    {
+      "path": "docs/planos99/A07.dxf",
+      "status": 200,
+      "bytes": 341221,
+      "sha256": "29fd0ef7c6544a32b8540b5df6fd1de33f74642d3ddaa7d5abd7111b27005a8f"
+    },
+    {
+      "path": "docs/planos99/A07.svg",
+      "status": 200,
+      "bytes": 207237,
+      "sha256": "bd81bb913a14ecaa159f8cd3e900dd3e9e0aa4ce0aac379fda56377cc662756c"
+    },
+    {
+      "path": "docs/planos99/A08.dxf",
+      "status": 200,
+      "bytes": 57119,
+      "sha256": "42569296ba36d2cc4ad3144a61690f19fff21b54c50757c0f46109013f849f1d"
+    },
+    {
+      "path": "docs/planos99/A08.svg",
+      "status": 200,
+      "bytes": 24466,
+      "sha256": "eeffa295dc96e2e3e2c2104cc7f1e73f10f5868daedeca30d3620785d2187726"
+    },
+    {
+      "path": "docs/planos99/A09.dxf",
+      "status": 200,
+      "bytes": 271067,
+      "sha256": "845812ef7f8ec800efe92534fda1e18418de4afe6c938430eebcd9244a7f1286"
+    },
+    {
+      "path": "docs/planos99/A09.svg",
+      "status": 200,
+      "bytes": 147793,
+      "sha256": "8e98af07587249f9a84cdf0d893d8ac364aeb78bef157f17c91ab3455e830b45"
+    },
+    {
+      "path": "docs/planos99/A10.dxf",
+      "status": 200,
+      "bytes": 182290,
+      "sha256": "f4422bc4ec1584c6fb9369115f5691c39d7646521fdb2214d9d14a71197923ec"
+    },
+    {
+      "path": "docs/planos99/A10.svg",
+      "status": 200,
+      "bytes": 96064,
+      "sha256": "3674c606446c9c9c2b3a4f1090dfcaa013dea4b3f495f8aa5361abe415cf0741"
+    },
+    {
+      "path": "docs/planos99/A10b.dxf",
+      "status": 200,
+      "bytes": 238733,
+      "sha256": "4437dbf11f1cd7b68bd0c6eaf8831795f588d874ac15ebf8dc30f44b9159939e"
+    },
+    {
+      "path": "docs/planos99/A10b.svg",
+      "status": 200,
+      "bytes": 129278,
+      "sha256": "fefe54aeec8ea36a9c94756478a189f0d8aead6e0bc6aeeacae0339ae36e9882"
+    },
+    {
+      "path": "docs/planos99/A11.dxf",
+      "status": 200,
+      "bytes": 270508,
+      "sha256": "8971f7b2f50b802f7b2cf22b92c3c9b0cab085c73b847c023606878dc48f975e"
+    },
+    {
+      "path": "docs/planos99/A11.svg",
+      "status": 200,
+      "bytes": 143457,
+      "sha256": "9a43a95820bdefa39fd86ff83e957f92193b1e4b593c18ca11c037c3262e7dbd"
+    },
+    {
+      "path": "docs/planos99/A12.dxf",
+      "status": 200,
+      "bytes": 38855,
+      "sha256": "f65604b4c802ec10352ab99431783d71cf3588a5647d393bc76c9a8c7119d1ad"
+    },
+    {
+      "path": "docs/planos99/A12.svg",
+      "status": 200,
+      "bytes": 31182,
+      "sha256": "7a7280135d1b40dd972dc82632c56a0c9b0d46e81dee4a0c4dfc1ebba11cf53d"
+    },
+    {
+      "path": "docs/planos99/A13.dxf",
+      "status": 200,
+      "bytes": 38720,
+      "sha256": "c814b9a21345c10134359081c6a097da07c5b79d65623178efc55404ad9e9dba"
+    },
+    {
+      "path": "docs/planos99/A13.svg",
+      "status": 200,
+      "bytes": 13999,
+      "sha256": "e1dbd005666493bb973ffd1e0acaba985593a152a1ee3825c6bbfb3a093ce225"
+    },
+    {
+      "path": "docs/planos99/A13b.dxf",
+      "status": 200,
+      "bytes": 44745,
+      "sha256": "e3b23449e4f8868a64bde5b702244b44b5aa37894e1a9b7094a909a329e25e97"
+    },
+    {
+      "path": "docs/planos99/A13b.svg",
+      "status": 200,
+      "bytes": 19163,
+      "sha256": "61f81a2a1f75587b771234d71e8fa3a3a6791717845c3fee44e86fcf0175ab6d"
+    },
+    {
+      "path": "docs/planos99/A14.dxf",
+      "status": 200,
+      "bytes": 113024,
+      "sha256": "e4ecabc96078521501e51da431ca4593416439ab67afce99c25611c63c485f78"
+    },
+    {
+      "path": "docs/planos99/A14.svg",
+      "status": 200,
+      "bytes": 56300,
+      "sha256": "343e4cc7a7e642d17f09758e55c55fd0aa07c33464c1bf8e3195b49902e7c59b"
+    },
+    {
+      "path": "docs/planos99/A15.dxf",
+      "status": 200,
+      "bytes": 23850,
+      "sha256": "7d5711428e8eaa55c535f36b123b51363b2be194506cd64b12de7545ab7c2a55"
+    },
+    {
+      "path": "docs/planos99/A15.svg",
+      "status": 200,
+      "bytes": 10247,
+      "sha256": "f7e4103cfede318043f7ce8b67cc3d27db575077eed63510d10fa1f02a8ea736"
+    },
+    {
+      "path": "docs/planos99/A16.dxf",
+      "status": 200,
+      "bytes": 19248,
+      "sha256": "54bc2eea32b0cd9989e56942c735df0fb27256adcb84a7b0c9a61b342037c13e"
+    },
+    {
+      "path": "docs/planos99/A16.svg",
+      "status": 200,
+      "bytes": 14937,
+      "sha256": "db7212d913fc498f773245bd4cb5a1c5aa7bd9aa10184e7b4e4e5cb568cf0613"
+    },
+    {
+      "path": "docs/planos99/ACCESO_MANTENIMIENTO_D08.md",
+      "status": 200,
+      "bytes": 1650,
+      "sha256": "e79e5e13b96375a9c52e1999cdda6e7daa1bb4d94f0c9b10f942c4abab3f5345"
+    },
+    {
+      "path": "docs/planos99/AUDITORIA_DIMENSIONAL.md",
+      "status": 200,
+      "bytes": 3894,
+      "sha256": "11f4305de737fd87c3bf5cf7d2b8fb8b49aeebdfd32263724d4820c898bdf454"
+    },
+    {
+      "path": "docs/planos99/Casa_de_Campo_Planos_A2.pdf",
+      "status": 200,
+      "bytes": 1683613,
+      "sha256": "f1237f05ca9438963ec0d8b81edae8df81bdcd5c2b20889ecb57639b5cca3cc1"
+    },
+    {
+      "path": "docs/planos99/Casa_de_Campo_Planos_Editables.zip",
+      "status": 200,
+      "bytes": 3770215,
+      "sha256": "6032ba141a0620a0f782a497d8c9ef07a5ef54ba06dfcef16855570f62a461aa"
+    },
+    {
+      "path": "docs/planos99/D01.dxf",
+      "status": 200,
+      "bytes": 45480,
+      "sha256": "7ee407e755eb0d6cbd921ddbc28e9aebd19a341c12a5ae9379d93279dac17c56"
+    },
+    {
+      "path": "docs/planos99/D01.svg",
+      "status": 200,
+      "bytes": 17230,
+      "sha256": "9c1088675c0c139514357d7cc2b30833e99b796e8978a4f52124645e30de9694"
+    },
+    {
+      "path": "docs/planos99/D02.dxf",
+      "status": 200,
+      "bytes": 47907,
+      "sha256": "8a0731fa29e710834a413056a738e66dbd95ef2e9a7f0ced0485b7d5f9cd697a"
+    },
+    {
+      "path": "docs/planos99/D02.svg",
+      "status": 200,
+      "bytes": 16547,
+      "sha256": "51798e4647119b1619fb3c57812535954b7d4b98007ca3bd138a6425523281f8"
+    },
+    {
+      "path": "docs/planos99/D03.dxf",
+      "status": 200,
+      "bytes": 85441,
+      "sha256": "d00013b3563c82af637a208f5bbf0b098bb16e372c80a1050cbe24c616037c7f"
+    },
+    {
+      "path": "docs/planos99/D03.svg",
+      "status": 200,
+      "bytes": 39323,
+      "sha256": "7e3687c2ef2fde70a016a856707440eedc775398057b5296b8ad1b5746981266"
+    },
+    {
+      "path": "docs/planos99/D04.dxf",
+      "status": 200,
+      "bytes": 69492,
+      "sha256": "4e0ed2bb0798bf4706b4ac0f744c0a5f34b03a90003dda2519c4e98f119579f5"
+    },
+    {
+      "path": "docs/planos99/D04.svg",
+      "status": 200,
+      "bytes": 23905,
+      "sha256": "fa2c5bcea76c759342a6bd75cf51a83ee9cd7ee21a2ef77c58ff7d5cc5579a59"
+    },
+    {
+      "path": "docs/planos99/D05.dxf",
+      "status": 200,
+      "bytes": 48043,
+      "sha256": "5f7c1ed245707e9f50ca0ff3e86b12cbb2c42de0ecfadc207b9dddcb31cbd729"
+    },
+    {
+      "path": "docs/planos99/D05.svg",
+      "status": 200,
+      "bytes": 14498,
+      "sha256": "a465a5bbd1d68fc5c4d15f372e0afe00a5b09a6e21a2c2aa689bcb69abc6ebb2"
+    },
+    {
+      "path": "docs/planos99/D05b.dxf",
+      "status": 200,
+      "bytes": 57361,
+      "sha256": "1703cc9f4be86a54e3a1130348e9bc7d0decbd620958612777311c150930f187"
+    },
+    {
+      "path": "docs/planos99/D05b.svg",
+      "status": 200,
+      "bytes": 17880,
+      "sha256": "825bf43a74b5b061a9623c7ce0ebd35203f8fb6d333fc0b20d4b149426e4f6b2"
+    },
+    {
+      "path": "docs/planos99/D06.dxf",
+      "status": 200,
+      "bytes": 50106,
+      "sha256": "abfcfedc60f006ecdf40f468f15d0cdd70d218e90aae8b1f9367b599f10bbdb3"
+    },
+    {
+      "path": "docs/planos99/D06.svg",
+      "status": 200,
+      "bytes": 18946,
+      "sha256": "71d991f032424d04f0f751543a9dab0a6dd5be4bfbdc854775073edc9c70773f"
+    },
+    {
+      "path": "docs/planos99/D07.dxf",
+      "status": 200,
+      "bytes": 50793,
+      "sha256": "ff9a280cd594dd5d81992ae7b4e3399099802e7951a5d9c69e6053287847c579"
+    },
+    {
+      "path": "docs/planos99/D07.svg",
+      "status": 200,
+      "bytes": 18550,
+      "sha256": "07bd0f3a1f3ce79502dfc697942acbd066dd3f92880ccbdefc8b0ca132eee6c6"
+    },
+    {
+      "path": "docs/planos99/D08.dxf",
+      "status": 200,
+      "bytes": 2251837,
+      "sha256": "ee51fe506150b6ba070d286e805afae124dcf1e9754a17ea6193dfd08b4550d4"
+    },
+    {
+      "path": "docs/planos99/D08.svg",
+      "status": 200,
+      "bytes": 5430158,
+      "sha256": "6b36a2b9165277fe484589e14eef0d5b4fade1a3156faa2c3126b37f7613f591"
+    },
+    {
+      "path": "docs/planos99/D09.dxf",
+      "status": 200,
+      "bytes": 62649,
+      "sha256": "ce97ad8b8df1a10336d0c581f7a7bda88d7d2cae1877eacbb0522613a8610537"
+    },
+    {
+      "path": "docs/planos99/D09.svg",
+      "status": 200,
+      "bytes": 24865,
+      "sha256": "712182af0c6b0ef8866024097cffea9187a6832ca9517af3b6bcf8edf8575f9e"
+    },
+    {
+      "path": "docs/planos99/D10.dxf",
+      "status": 200,
+      "bytes": 256316,
+      "sha256": "8150fdae30afe9e1d322edd80615079c91abb77d580ecee037bd3fa1d1d0deab"
+    },
+    {
+      "path": "docs/planos99/D10.svg",
+      "status": 200,
+      "bytes": 153290,
+      "sha256": "a4e29e338eb587b61b7961d220c1ed538bc87aec09e6e67f8de6442d6f63f70b"
+    },
+    {
+      "path": "docs/planos99/D11.dxf",
+      "status": 200,
+      "bytes": 422350,
+      "sha256": "fab6b7e1e4324087ee680d4a392b2ed1488ec26a3c961bbfb535a293a4d7e19d"
+    },
+    {
+      "path": "docs/planos99/D11.svg",
+      "status": 200,
+      "bytes": 242450,
+      "sha256": "1a704b50632ebc931b6e708a563ebd2419bc541d70ec92db5596d226c033cf7c"
+    },
+    {
+      "path": "docs/planos99/README.md",
+      "status": 200,
+      "bytes": 1030,
+      "sha256": "9229a2e109c03ea90e0598bb00d4ded93c68cc3b10c677c3222c86d738d73015"
+    },
+    {
+      "path": "docs/planos99/REVISION_VISUAL.md",
+      "status": 200,
+      "bytes": 740,
+      "sha256": "058f16433215fc054ead26cf156f3e7a281e745458cec0d2a67c24e8363573e9"
+    },
+    {
+      "path": "docs/planos99/anclajes_medidos.json",
+      "status": 200,
+      "bytes": 19921,
+      "sha256": "a8163834815728cb43dc4e6fab5f041641663b483f498963aced619e47afb5aa"
+    },
+    {
+      "path": "docs/planos99/details_manifest.json",
+      "status": 200,
+      "bytes": 28492,
+      "sha256": "7cd51d43c2edcc871b3887402d1c54a0b927a2accb70f16961410d15ec1a7937"
+    },
+    {
+      "path": "docs/planos99/dimension_register.csv",
+      "status": 200,
+      "bytes": 16016,
+      "sha256": "11157e72be9487ffedbe8984637485129ae70ad80296a8301ba098b4217b33b8"
+    },
+    {
+      "path": "docs/planos99/dimensional_audit.json",
+      "status": 200,
+      "bytes": 19510,
+      "sha256": "62a2000be2346e3f6f19d477ca5c68ce1cb8792f7c0371b2566992a71f1b52ac"
+    },
+    {
+      "path": "docs/planos99/emission_manifest.json",
+      "status": 200,
+      "bytes": 3515,
+      "sha256": "a87f38f7e66c3de57aa7a482b3ac17caeea52c3be6d2257d9cf6fa075cdab41b"
+    },
+    {
+      "path": "docs/planos99/fuentes.md",
+      "status": 200,
+      "bytes": 1034,
+      "sha256": "e96be1c8a22ae7ec2f7113184294f302b9266c5836a9f60ea0b62edf30ec4dc4"
+    },
+    {
+      "path": "docs/planos99/index.html",
+      "status": 200,
+      "bytes": 16335,
+      "sha256": "c80d28e50eb516fc67d218a907d0ffd53181530a9897d8456ba52c181732aaa9"
+    },
+    {
+      "path": "docs/planos99/manifest.json",
+      "status": 200,
+      "bytes": 19525,
+      "sha256": "ce68d036692038d8835a6687a730185c56927b31c4c48faa1265d21ec8826471"
+    },
+    {
+      "path": "docs/planos99/measurements.json",
+      "status": 200,
+      "bytes": 62044,
+      "sha256": "4a4805d206b34d95bf218f31eb02e22ca0906e00e9919b80c024a44801462314"
+    },
+    {
+      "path": "docs/planos99/package_validation.json",
+      "status": 200,
+      "bytes": 500,
+      "sha256": "f8e8318054c8b4361eb4c759bcc6492aa7843ade5a8bc5d92a2a312021ebd25d"
+    },
+    {
+      "path": "docs/planos99/print_validation.json",
+      "status": 200,
+      "bytes": 3688,
+      "sha256": "b22ff1f389ee69012eb2b1b24a8d2d2230304c283323214cd26b42fbe9f34014"
+    },
+    {
+      "path": "docs/planos99/publication_validation.json",
+      "status": 200,
+      "bytes": 1155,
+      "sha256": "8be76e3287e02e2d816a46a5ba1f915c0ddc5c26b69771b1db414ef2694b2763"
+    },
+    {
+      "path": "docs/planos99/service_access_proposal.json",
+      "status": 200,
+      "bytes": 4673,
+      "sha256": "5305a05ee07d5e07742b7995552691590209a5f28410f04a77c37adf2b847e25"
+    },
+    {
+      "path": "docs/planos99/verification.json",
+      "status": 200,
+      "bytes": 5388,
+      "sha256": "9a355d6790e216163c1576a8c4335451b9aeaf05f025f52e196e429dff113672"
+    },
+    {
+      "path": "docs/planos99/visual_review.json",
+      "status": 200,
+      "bytes": 1761,
+      "sha256": "1b8fe509c93f2fe96c4b6c953adb6d5cd62d5bae24d7ff503689211584fc9e85"
+    },
+    {
+      "path": "docs/renders99/bano.jpg",
+      "status": 200,
+      "bytes": 567094,
+      "sha256": "d6ccdccd2eb24dcdc9f97b2a999ccb6c7e81b94dca597dedaeb16ac3a3a5f971"
+    },
+    {
+      "path": "docs/renders99/bano_acceso.jpg",
+      "status": 200,
+      "bytes": 498253,
+      "sha256": "8afeeee38c86bda64ede6e180dddcc66c187ed6f89e2f2f0ebe77e962139b46e"
+    },
+    {
+      "path": "docs/renders99/bano_humano.jpg",
+      "status": 200,
+      "bytes": 522245,
+      "sha256": "b2f217d068efd9cfcc9d85b44b73df6bbe0e6097885c437deca20237d2192df9"
+    },
+    {
+      "path": "docs/renders99/bano_mono.jpg",
+      "status": 200,
+      "bytes": 278522,
+      "sha256": "5c3337c00dba5b0f11046233c53c96459d6f12a95af19ca952191c7fa62f1295"
+    },
+    {
+      "path": "docs/renders99/bano_mono_sanitarios.jpg",
+      "status": 200,
+      "bytes": 311691,
+      "sha256": "e6e33341dd8637611d0ff439e2aeac44c28b5ed1cd0b400e09ab3e9be50cb8a5"
+    },
+    {
+      "path": "docs/renders99/bano_quincho.jpg",
+      "status": 200,
+      "bytes": 1017643,
+      "sha256": "b2ba29abe6ed9c5c2c8085af7fef3f9f40624ae42718d532ca2a3b6381ab99c8"
+    },
+    {
+      "path": "docs/renders99/cocina.jpg",
+      "status": 200,
+      "bytes": 488358,
+      "sha256": "d2d023030552904238ae3f330723263ebcabe461feb98a052c8607188fa59a36"
+    },
+    {
+      "path": "docs/renders99/cubiertas.jpg",
+      "status": 200,
+      "bytes": 960873,
+      "sha256": "418a97e4042f89f87c71bd88c2602c00463061608e23d4666016c9f8874dac51"
+    },
+    {
+      "path": "docs/renders99/dormitorio.jpg",
+      "status": 200,
+      "bytes": 474494,
+      "sha256": "5d8ad552a4036b8ee4e7f5275bc5473b832b77e9363beb669336d43970dc5a6e"
+    },
+    {
+      "path": "docs/renders99/dormitorio_acceso.jpg",
+      "status": 200,
+      "bytes": 318447,
+      "sha256": "d35c5b161b09d040da867a2ec7b5943c075bb3d640a46a0e4efdbe3155a27a7e"
+    },
+    {
+      "path": "docs/renders99/dormitorio_puerta.jpg",
+      "status": 200,
+      "bytes": 338923,
+      "sha256": "2ba4f919e58d22dd38de5528af2e9c872ca919c3a61a0d9023f26f7c2c80ef45"
+    },
+    {
+      "path": "docs/renders99/dormitorio_retrato.jpg",
+      "status": 200,
+      "bytes": 589314,
+      "sha256": "395e459436659c58db780623c5ed687a7cae49b97c004bc9779271bbab36682a"
+    },
+    {
+      "path": "docs/renders99/escalera.jpg",
+      "status": 200,
+      "bytes": 1179335,
+      "sha256": "07ce20512c9e566899ac975d8fe58784ffb486760f4eb4b662d1ff28ceae2aed"
+    },
+    {
+      "path": "docs/renders99/estudio.jpg",
+      "status": 200,
+      "bytes": 654917,
+      "sha256": "fbd55cef820fca975d1e8db7bb1c7321d59f4a360a320895040fc649c27e81cb"
+    },
+    {
+      "path": "docs/renders99/estudio_retrato.jpg",
+      "status": 200,
+      "bytes": 848800,
+      "sha256": "62bf20c3c7356e52b6fa0270e7d103aaaaca246b4aa5d3ae42b0aebe101c1606"
+    },
+    {
+      "path": "docs/renders99/exterior.jpg",
+      "status": 200,
+      "bytes": 1672784,
+      "sha256": "9c087860da67f1f813371c10b9d4808c48ed818ebafd6e3c5360c760bc66f3b6"
+    },
+    {
+      "path": "docs/renders99/exterior_retrato.jpg",
+      "status": 200,
+      "bytes": 1277394,
+      "sha256": "f330cdef18766c646be99daf3a1ad43013b6ca089ed183c9bbb8c7d97d7d0cb5"
+    },
+    {
+      "path": "docs/renders99/huerta.jpg",
+      "status": 200,
+      "bytes": 1495101,
+      "sha256": "29edf5f32c120d99651f1a1583a37fe248c7652df1320b488676f6476769bd58"
+    },
+    {
+      "path": "docs/renders99/index.html",
+      "status": 200,
+      "bytes": 10204,
+      "sha256": "9f9149e6f8c66eb9b14182ef6d36d0d10586c7c7cd72bbaa96f3a603f7ba3dd7"
+    },
+    {
+      "path": "docs/renders99/manifest.json",
+      "status": 200,
+      "bytes": 25021,
+      "sha256": "bd26743c842014dda1e726bd03380111cf519de32b02dc939287dff2a1a07582"
+    },
+    {
+      "path": "docs/renders99/mono_cocina.jpg",
+      "status": 200,
+      "bytes": 643954,
+      "sha256": "b5233e89bb3721d99c378922958b36449645ebb099d917a12b743eafbb3b1970"
+    },
+    {
+      "path": "docs/renders99/mono_distribucion.jpg",
+      "status": 200,
+      "bytes": 750292,
+      "sha256": "4d2a3dc36b9a41147c01ea258300970a701ec3ed17b07a20fa86e31b02ab1954"
+    },
+    {
+      "path": "docs/renders99/pileta.jpg",
+      "status": 200,
+      "bytes": 1165171,
+      "sha256": "65df77c8a5b3692c9bf8c990a8177d42f103a4603d0b270e21abc121fc4d79e7"
+    },
+    {
+      "path": "docs/renders99/puerta_bano.jpg",
+      "status": 200,
+      "bytes": 496835,
+      "sha256": "9bf80839c00ad0b2e4aed6538ae8d8ae249b92aea1d496fcb332e916239efce2"
+    },
+    {
+      "path": "docs/renders99/quincho.jpg",
+      "status": 200,
+      "bytes": 660754,
+      "sha256": "a4ab673f7144f6829b2aa9a421c79345a37cc45418de946d45b3a0fada781d53"
+    },
+    {
+      "path": "docs/renders99/vestidor.jpg",
+      "status": 200,
+      "bytes": 637958,
+      "sha256": "d27038b6f75abe69fcd535adc9ea35ae9a9771b0b44aceffc85e8542f57de4b9"
+    },
+    {
+      "path": "docs/renders99/vestidor_retrato.jpg",
+      "status": 200,
+      "bytes": 906856,
+      "sha256": "678855099b1189c40f732a4921066d8fe4ca5ea166c00d0e530eea89bcc0c138"
+    },
+    {
+      "path": "docs/index.html",
+      "status": 200,
+      "bytes": 7159,
+      "sha256": "b425446238aac7c045b211efdb5652b62c0f03b0b79fe74f6dd7b0a0836b1f67"
+    },
+    {
+      "path": "docs/preview99/index.html",
+      "status": 200,
+      "bytes": 7133,
+      "sha256": "6ddb563a1a703a4efd67aa935f68c69141e0f6605f07d8ad485c1f51527f5a8e"
+    },
+    {
+      "path": "docs/preview99/assets/model-info.json",
+      "status": 200,
+      "bytes": 68945,
+      "sha256": "c880f5e3d2c20b13a73f7451ab47faf958bbdf88e0d53c4f10f60deda430e672"
+    },
+    {
+      "path": "docs/avance-r7/index.html",
+      "status": 200,
+      "bytes": 5487,
+      "sha256": "dcd441b1cb1600636c8ef15bf5fa72a5af912887287c090fd9a122ef73036a90"
+    }
+  ],
+  "count": 118,
+  "bytes": 45308598,
+  "score": 8.5,
+  "approved": false,
+  "videoRendered": false
+}
