@@ -12,8 +12,8 @@
   "unresolved_links": [],
   "pdf_identical_to_emission": true,
   "pdf_sha256": "68d4006d5c4b2976a4dc120060dd031a927a24c4ab8cb081af376fad1e393881",
-  "zip_sha256": "ba09ae08e3f9b9f725758a4e55736b690eafb19747dd97c5066a66c0c3bde9a0",
-  "zip_bytes": 5418429,
+  "zip_sha256": "cfca232431aa58ce89f43422783990c33e9684d2b1fb8588b353884edeb53a84",
+  "zip_bytes": 5418433,
   "model_unchanged": true,
   "source_package_files_checked": 95,
   "source_zip_bytes_match": true,
@@ -36,10 +36,10 @@
   "navigation": {
     "back": "../",
     "back_model_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
-    "viewer": null,
-    "viewer_model_sha256": null,
-    "gallery": null,
-    "gallery_status": "in preparation"
+    "viewer": "../../",
+    "viewer_model_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+    "gallery": "../../renders99/",
+    "gallery_status": "available"
   },
   "manifest_bytes_match": true,
   "pending_preview_evidence": []

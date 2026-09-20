@@ -1,0 +1,72 @@
+{
+  "url": "http://127.0.0.1:8420/",
+  "scope": "Deployment load and controls only; no architectural or photographic review.",
+  "expectedSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+  "errors": [],
+  "viewports": [
+    {
+      "name": "desktop",
+      "readyMs": 53467.2227,
+      "stats": {
+        "drawCalls": 1928,
+        "triangles": 65758691,
+        "doors": 13,
+        "meshes": 5826,
+        "sourceModel": "Casa_de_Campo_99_R8.blend",
+        "sourceSHA": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+        "downloadBytes": 208958850
+      },
+      "width": 1440,
+      "scrollWidth": 1440,
+      "doors": [
+        "balconyRear_A",
+        "balconyRear_B",
+        "balconySide",
+        "bathDining",
+        "bathLink",
+        "bathroomMono",
+        "bedroomDining",
+        "bedroomLink",
+        "gate",
+        "mono_L",
+        "mono_R",
+        "poolBath",
+        "studio"
+      ],
+      "download": "https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R8.glb"
+    },
+    {
+      "name": "mobile",
+      "readyMs": 20593.529500000004,
+      "stats": {
+        "drawCalls": 1835,
+        "triangles": 50984915,
+        "doors": 13,
+        "meshes": 5826,
+        "sourceModel": "Casa_de_Campo_99_R8.blend",
+        "sourceSHA": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+        "downloadBytes": 208958850
+      },
+      "width": 390,
+      "scrollWidth": 390,
+      "doors": [
+        "balconyRear_A",
+        "balconyRear_B",
+        "balconySide",
+        "bathDining",
+        "bathLink",
+        "bathroomMono",
+        "bedroomDining",
+        "bedroomLink",
+        "gate",
+        "mono_L",
+        "mono_R",
+        "poolBath",
+        "studio"
+      ],
+      "download": "https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R8.glb"
+    }
+  ],
+  "videoRendered": false,
+  "passed": true
+}

@@ -8,7 +8,7 @@
 <script type="importmap">{"imports":{"three":"../vendor/three.module.js","three/addons/":"../vendor/addons/"}}</script>
 </head>
 <body>
-<header><button id="menu" class="icon" aria-label="Abrir controles" aria-expanded="false">☰</button><a class="brand" href="./"><span class="mark">42</span><span>CASA DE CAMPO<small>CEDRO MISIONERO</small></span></a><div class="header-right"><a href="../planos99/">Planos R7D ↗</a><a href="../renders99/">Imágenes R7D ↗</a><span class="live">R7D · en revisión</span><a href="https://github.com/GatDeguin/42" target="_blank" rel="noopener">Proyecto ↗</a></div></header>
+<header><button id="menu" class="icon" aria-label="Abrir controles" aria-expanded="false">☰</button><a class="brand" href="./"><span class="mark">42</span><span>CASA DE CAMPO<small>CEDRO MISIONERO</small></span></a><div class="header-right"><a href="../avance-r8/planos/">Planos R8 ↗</a><a href="../renders99/">Imágenes R8 ↗</a><span class="live">R8 · versión publicada</span><a href="https://github.com/GatDeguin/42" target="_blank" rel="noopener">Proyecto ↗</a></div></header>
 <aside id="panel" aria-label="Controles del modelo">
 <div class="panel-intro"><span class="eyebrow">EXPLORAR LA ARQUITECTURA</span><h1>Tu espacio,<br>desde cada ángulo.</h1><p>Gira, acércate y descubre el interior.</p></div>
 <section><h2>Vistas generales</h2><div class="segmented" role="group" aria-label="Vistas generales"><button data-view="exterior" class="active">Exterior</button><button data-view="pb">Planta baja</button><button data-view="pa">Planta alta</button></div></section>
@@ -24,9 +24,9 @@
 <a class="source-link" href="./controles.html" target="_blank" rel="noopener">Cómo recorrer la casa ↗</a>
 <a id="source-glb" class="source-link" href="./assets/house.glb" download>Descargar modelo 3D · GLB ↧</a>
 <a id="source-blend" class="source-link" href="#" hidden>Descargar fuente Blender ↧</a>
-<a class="source-link" href="../avance-r8/">Avance R8 · modelo, imágenes y correcciones ↗</a>
+<a class="source-link" href="../avance-r8/">Entrega R8 · modelo, imágenes y planos ↗</a>
 <a class="source-link" href="./README.md" target="_blank" rel="noopener">Fuente de esta candidata ↗</a>
-<p class="model-note">R7D: 8,5/10 en la auditoría independiente. Sin aprobación final. Objetivo 9,9 e hiperrealismo fotográfico. La mecánica sanitaria y el acabado fotográfico siguen bajo revisión. Las 25 imágenes y los 33 planos enlazados provienen de esta misma fuente R7D.</p>
+<p class="model-note">R8: modelo completo, 26 imágenes y 35 planos de la misma fuente. Video pausado.</p>
 </aside>
 <main id="viewport" aria-label="Modelo tridimensional interactivo">
 <canvas id="scene" aria-label="Casa de campo en 3D. Arrastra para girar y usa la rueda para acercarte." tabindex="0"></canvas>
@@ -39,5 +39,5 @@
 <div id="error" hidden role="alert"><h2>No pudimos abrir el modelo</h2><p id="error-detail">Comprueba tu conexión y vuelve a intentarlo.</p><button onclick="location.reload()">Volver a cargar</button><a href="https://github.com/GatDeguin/42">Ver el proyecto en GitHub ↗</a></div>
 <noscript><div class="no-script">Activa JavaScript para usar el visor 3D.</div></noscript>
 </main>
-<script type="module" src="./viewer.js"></script>
+<script type="module" src="./viewer.js?v=r8-60810e"></script>
 </body></html>

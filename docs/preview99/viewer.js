@@ -3,7 +3,7 @@ import * as THREE from 'three';
 import {OrbitControls} from 'three/addons/controls/OrbitControls.js';
 import {GLTFLoader} from 'three/addons/loaders/GLTFLoader.js';
 import {MeshoptDecoder} from 'three/addons/libs/meshopt_decoder.module.js';
-import {createPhotographicPipeline} from './photographic.js';
+import {createPhotographicPipeline} from './photographic.js?v=r8-60810e';
 import {mergeGeometries} from 'three/addons/utils/BufferGeometryUtils.js';
 
 const $=id=>document.getElementById(id), viewport=$('viewport'), canvas=$('scene');
@@ -161,7 +161,7 @@ async function start(){
   controls.addEventListener('start',()=>{cameraMove=null;});
   photo=await createPhotographicPipeline({THREE,renderer,scene,camera,controls,viewport,mobile,status:$('photo-status')});
   new ResizeObserver(()=>{const w=viewport.clientWidth,h=viewport.clientHeight;renderer.setSize(w,h,false);photo?.resize(w,h);const oldPortrait=camera.aspect<1;camera.aspect=w/h;fitAuthoredCamera(camera,activePreset(currentView));camera.updateProjectionMatrix();if(ready&&oldPortrait!==(camera.aspect<1))selectView(currentView,true);}).observe(viewport);
-  metadata=await fetch(assetRoot+'model-info.json').then(r=>{if(!r.ok)throw new Error('metadata download failed');return r.json();});
+  metadata=await fetch(assetRoot+'model-info.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('metadata download failed');return r.json();});
   photo.verifySource(metadata.stats.source_sha256);
   if(!metadata.stats.sourceTerrain){
    const ground=new THREE.Mesh(photo.groundGeometry(),new THREE.MeshStandardMaterial({color:0xffffff,roughness:1,map:photo.textures.outerGrass.albedo,normalMap:photo.textures.outerGrass.normal,normalScale:new THREE.Vector2(.25,.25)}));ground.material.map=ground.material.map.clone();ground.material.map.repeat.set(.25,.25);ground.material.normalMap=ground.material.normalMap.clone();ground.material.normalMap.repeat.set(.25,.25);ground.rotation.x=-Math.PI/2;ground.position.set(0,-.20,0);ground.receiveShadow=true;scene.add(ground);
@@ -179,7 +179,7 @@ async function start(){
   const glbDownload=$('source-glb');if(glbDownload){const url=metadata.downloads?.glb;glbDownload.hidden=!!metadata.assets?.model&&!url;if(url&&/^https?:\/\//.test(url))glbDownload.href=url;}
   woodSurfaces=await fetch(assetRoot+'textures/wood-surfaces.json').then(r=>r.json());
   const texLoader=new THREE.TextureLoader();await Promise.all(Object.entries({fabric:'fabric',paver:'paver',poolBasin:'poolTile',road:'cement',terracotta:'brick',oak:'oak',walnut:'walnut',parquet:'parquet'}).map(async([key,file])=>{const t=await texLoader.loadAsync('../assets/textures/'+file+'_albedo.png');t.colorSpace=THREE.SRGBColorSpace;t.flipY=false;t.wrapS=t.wrapT=THREE.RepeatWrapping;t.anisotropy=Math.min(8,renderer.capabilities.getMaxAnisotropy());if(key==='parquet')t.repeat.set(1/(.70*2.8),1/(.70*1.44));webTextures[key]=t;}));const resourceManager=new THREE.LoadingManager();resourceManager.onProgress=(_,loaded,total)=>{if(ready)return;$('progress').style.width=Math.min(90,10+80*loaded/Math.max(total,1))+'%';$('loading-text').textContent='Preparando recursos · '+loaded+' de '+total;};const loader=new GLTFLoader(resourceManager).setMeshoptDecoder(MeshoptDecoder);const bakePromise=metadata.gi?.enabled&&new URLSearchParams(location.search).get('gi')!=='0'?photo.loadBake(loader):Promise.resolve();
-  const modelEntry=metadata.assets?.model||'house.glb';const modelPromise=loader.loadAsync(assetRoot+modelEntry);
+  const modelEntry=metadata.assets?.model||'house.glb';const modelPromise=loader.loadAsync(assetRoot+modelEntry+'?v='+metadata.stats.source_sha256.slice(0,16));
   const [gltf]=await Promise.all([modelPromise,bakePromise]);
   model=gltf.scene;scene.add(model);$('loading-text').textContent='Preparando materiales e interacción…';
   const sourceNodes=new Map();model.traverse(o=>sourceNodes.set(o.userData.label||o.name,o));

@@ -1,0 +1,948 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R8.blend",
+  "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+  "revision": "R8",
+  "status": "CANDIDATO EN REVISIÓN; umbral global 9,9 pendiente",
+  "video": "PAUSED_PENDING_EXPLICIT_APPROVAL",
+  "engine": "Cycles OptiX",
+  "transform": "AgX Medium High Contrast",
+  "exposureEV": 0.35,
+  "images": [
+    {
+      "key": "huerta",
+      "file": "huerta.png",
+      "title": "Huerta y jardín",
+      "camera": "CAM | Huerta",
+      "frame": 1,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        1.100000023841858,
+        -2.0,
+        3.0999999046325684
+      ],
+      "quaternionBlender": [
+        0.33128347992897034,
+        0.19802582263946533,
+        -0.473322331905365,
+        -0.7918351888656616
+      ],
+      "lensMM": 26.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 51.6,
+      "sha256": "1eb4bbc67c5b211dbc83cf69fb041d92598dde2544579c2dc567ef9de289ccf8"
+    },
+    {
+      "key": "estudio",
+      "file": "estudio.png",
+      "title": "Estudio de grabación",
+      "camera": "LUZ99 | Estudio amplitud",
+      "frame": 150,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        20.549999237060547,
+        -5.630000114440918,
+        4.849999904632568
+      ],
+      "quaternionBlender": [
+        0.6914759874343872,
+        0.6358018517494202,
+        0.23212841153144836,
+        0.2524547576904297
+      ],
+      "lensMM": 21.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 56.21,
+      "sha256": "db117ab04ba97a1d45119f168293693530a9489dd4fd35405b394145dec9d724"
+    },
+    {
+      "key": "dormitorio",
+      "file": "dormitorio.png",
+      "title": "Dormitorio",
+      "camera": "REV | Dormitorio completo",
+      "frame": 1,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        17.1200008392334,
+        -8.539999961853027,
+        4.860000133514404
+      ],
+      "quaternionBlender": [
+        0.7510849833488464,
+        0.5412307381629944,
+        0.22103184461593628,
+        0.30673372745513916
+      ],
+      "lensMM": 22.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 64.74,
+      "sha256": "87af0f73c32379fd534c7c3b0c2ca59532742829aba46571efa24fe4e3561418"
+    },
+    {
+      "key": "pileta_jardin",
+      "file": "pileta_jardin.png",
+      "title": "Pileta desde el jardín, borde próximo completo",
+      "camera": "LUZ99 | Pileta desde jardin",
+      "frame": 1,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        10.0,
+        -14.25,
+        1.7200000286102295
+      ],
+      "quaternionBlender": [
+        0.4484221041202545,
+        0.36791619658470154,
+        -0.5166906714439392,
+        -0.6297507882118225
+      ],
+      "lensMM": 25.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 56.35,
+      "sha256": "227b2ada728c13f5da643da05e0008615ad5bbc529567d7c824fb232cd6130a4"
+    },
+    {
+      "key": "exterior",
+      "file": "exterior.png",
+      "title": "Casa y paisaje",
+      "camera": "CAM | Presentación verticales corregidas",
+      "frame": 1,
+      "pixels": [
+        2400,
+        1800
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        7.5,
+        -26.0,
+        7.400000095367432
+      ],
+      "quaternionBlender": [
+        0.6831219792366028,
+        0.6831219792366028,
+        -0.18260446190834045,
+        -0.18260447680950165
+      ],
+      "lensMM": 30.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        -0.25
+      ],
+      "seconds": 87.39,
+      "sha256": "887f791ccefad98732b0e755d3c0252b4fb2076e721f223436ec319a7ec3a4d0"
+    },
+    {
+      "key": "pileta",
+      "file": "pileta.png",
+      "title": "Pileta y playa húmeda",
+      "camera": "CAM | Pileta & playa húmeda",
+      "frame": 1,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        10.5,
+        -21.700000762939453,
+        3.5999999046325684
+      ],
+      "quaternionBlender": [
+        0.7232989072799683,
+        0.5133904218673706,
+        -0.2672996520996094,
+        -0.3765897750854492
+      ],
+      "lensMM": 25.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 58.14,
+      "sha256": "7735f2b6e287c89ab0e90bf5267b2e187f323d6d5a9acfe2b98f141e35554db6"
+    },
+    {
+      "key": "cocina",
+      "file": "cocina.png",
+      "title": "Cocina de la vivienda",
+      "camera": "REV | Cocina comedor",
+      "frame": 150,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        15.050000190734863,
+        -11.460000038146973,
+        4.929999828338623
+      ],
+      "quaternionBlender": [
+        0.5866951942443848,
+        0.5322481393814087,
+        -0.41008228063583374,
+        -0.4520323872566223
+      ],
+      "lensMM": 24.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 82.06,
+      "sha256": "9aef73e346bc0258d355f66c9f28fc0880e9e542b4ffc372bde633c933956466"
+    },
+    {
+      "key": "quincho",
+      "file": "quincho.png",
+      "title": "Quincho y línea de fuego",
+      "camera": "REV | Quincho y extracción",
+      "frame": 150,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        15.0,
+        -11.399999618530273,
+        1.9199999570846558
+      ],
+      "quaternionBlender": [
+        0.6131797432899475,
+        0.5995820760726929,
+        -0.3595699667930603,
+        -0.36772462725639343
+      ],
+      "lensMM": 23.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 64.78,
+      "sha256": "2203488c55bed294f6eb792f628d7d51e80faf011106f1d4cabd91ae51fcfdaa"
+    },
+    {
+      "key": "dormitorio_acceso",
+      "file": "dormitorio_acceso.png",
+      "title": "Acceso al dormitorio",
+      "camera": "REV | Dormitorio acceso",
+      "frame": 1,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        14.569999694824219,
+        -8.600000381469727,
+        4.869999885559082
+      ],
+      "quaternionBlender": [
+        0.7562058568000793,
+        0.5773874521255493,
+        -0.18682703375816345,
+        -0.24468789994716644
+      ],
+      "lensMM": 24.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 62.62,
+      "sha256": "fd2f128e0302de4ce7c785c74e34c7cfbb7dd1a3379cc8b68956a9c1e4897719"
+    },
+    {
+      "key": "vestidor",
+      "file": "vestidor.png",
+      "title": "Vestidor",
+      "camera": "REV | Vestidor circulación",
+      "frame": 1,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        18.520000457763672,
+        -8.600000381469727,
+        4.860000133514404
+      ],
+      "quaternionBlender": [
+        0.7744689583778381,
+        0.6326119303703308,
+        0.0,
+        0.0
+      ],
+      "lensMM": 22.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 57.83,
+      "sha256": "4ea7a8e8c300e2d24404d47d04729b77a7e92156e5070b4a790a975b376ebb61"
+    },
+    {
+      "key": "bano",
+      "file": "bano.png",
+      "title": "Baño de la vivienda",
+      "camera": "REV | Baño completo",
+      "frame": 1,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        19.84000015258789,
+        -8.550000190734863,
+        4.900000095367432
+      ],
+      "quaternionBlender": [
+        0.7853460311889648,
+        0.570968747138977,
+        -0.14067158102989197,
+        -0.19348841905593872
+      ],
+      "lensMM": 18.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 69.76,
+      "sha256": "4b8715f96e47c335dff915fdef1abf9a57031678f3887de227d25316d0a3246b"
+    },
+    {
+      "key": "bano_acceso",
+      "file": "bano_acceso.png",
+      "title": "Baño desde el acceso",
+      "camera": "REV | Baño desde acceso",
+      "frame": 150,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        19.68000030517578,
+        -7.429999828338623,
+        4.900000095367432
+      ],
+      "quaternionBlender": [
+        0.6568415760993958,
+        0.42631006240844727,
+        -0.33859848976135254,
+        -0.521699070930481
+      ],
+      "lensMM": 18.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 89.72,
+      "sha256": "9d3006aa1892d4a78d59de61dd6438d427746ccc1db5bf4eb8eca2f1f1f36038"
+    },
+    {
+      "key": "puerta_bano",
+      "file": "puerta_bano.png",
+      "title": "Comunicación entre baño y comedor",
+      "camera": "REV | Baño acceso comedor",
+      "frame": 150,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        19.920000076293945,
+        -10.0,
+        4.920000076293945
+      ],
+      "quaternionBlender": [
+        0.7869311571121216,
+        0.615993857383728,
+        -0.022147148847579956,
+        -0.028292955830693245
+      ],
+      "lensMM": 25.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 87.2,
+      "sha256": "c3c3f7e0ffcb64fa70f9adec087d5afd75bd658f15ef93970ed26b6c9586e1c7"
+    },
+    {
+      "key": "mono_cocina",
+      "file": "mono_cocina.png",
+      "title": "Cocina e isla del monoambiente",
+      "camera": "REV | Mono cocina e isla",
+      "frame": 1,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        18.799999237060547,
+        -1.0,
+        1.8600000143051147
+      ],
+      "quaternionBlender": [
+        0.2382286787033081,
+        0.20341093838214874,
+        0.61666339635849,
+        0.7222169637680054
+      ],
+      "lensMM": 24.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 76.41,
+      "sha256": "e244e2c05e5eec78ea6e56485e1e45f2a909428b477ad2fbb5bbcf4344523c09"
+    },
+    {
+      "key": "mono_distribucion",
+      "file": "mono_distribucion.png",
+      "title": "Distribución del monoambiente",
+      "camera": "REV | Mono distribución",
+      "frame": 1,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        19.079999923706055,
+        -5.449999809265137,
+        1.8600000143051147
+      ],
+      "quaternionBlender": [
+        0.7255839109420776,
+        0.5919256806373596,
+        0.221832737326622,
+        0.2719232439994812
+      ],
+      "lensMM": 22.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 69.97,
+      "sha256": "6760cb2276efffb493823fc88879d2ebfeba067f34fd7309092ffefc2e2b3085"
+    },
+    {
+      "key": "bano_mono",
+      "file": "bano_mono.png",
+      "title": "Ducha del monoambiente",
+      "camera": "REV | Baño mono",
+      "frame": 150,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        19.520000457763672,
+        -1.7000000476837158,
+        1.649999976158142
+      ],
+      "quaternionBlender": [
+        0.6355400681495667,
+        0.6355399489402771,
+        -0.309982031583786,
+        -0.3099820613861084
+      ],
+      "lensMM": 18.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        -0.10000000149011612
+      ],
+      "seconds": 113.59,
+      "sha256": "2013b04890364fb2a2413920330ee44925b369560a54fdbcc093af9232f96209"
+    },
+    {
+      "key": "bano_mono_sanitarios",
+      "file": "bano_mono_sanitarios.png",
+      "title": "Sanitarios del monoambiente",
+      "camera": "REV | Baño mono sanitarios",
+      "frame": 150,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        20.6200008392334,
+        -0.8899999856948853,
+        1.7999999523162842
+      ],
+      "quaternionBlender": [
+        0.4254886209964752,
+        0.21555852890014648,
+        0.397206574678421,
+        0.7840414047241211
+      ],
+      "lensMM": 22.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 96.08,
+      "sha256": "372403d5a7e8595519a171e1cbf70b3c5d9321f20a676b90729b4b7bd38c7700"
+    },
+    {
+      "key": "bano_quincho",
+      "file": "bano_quincho.png",
+      "title": "Baño del quincho",
+      "camera": "REV | Baño quincho",
+      "frame": 150,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        21.229999542236328,
+        -11.5,
+        1.7999999523162842
+      ],
+      "quaternionBlender": [
+        0.8865665793418884,
+        0.46192625164985657,
+        0.011540772393345833,
+        0.02214999496936798
+      ],
+      "lensMM": 22.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 68.41,
+      "sha256": "16581960bda0ecb38043447e49e24f3d33a04e0cb16b1cb00ae087f6e6d5269e"
+    },
+    {
+      "key": "escalera",
+      "file": "escalera.png",
+      "title": "Escalera y desembarco",
+      "camera": "REV | Escalera y desembarco",
+      "frame": 150,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        9.5,
+        -0.20000000298023224,
+        3.25
+      ],
+      "quaternionBlender": [
+        0.31029167771339417,
+        0.2841617465019226,
+        -0.6126829981803894,
+        -0.6690222024917603
+      ],
+      "lensMM": 30.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 71.3,
+      "sha256": "92780c567c5984734d5819f90b6d175d85d7aa89f0e5d6c487875d1060af97fe"
+    },
+    {
+      "key": "cubiertas",
+      "file": "cubiertas.png",
+      "title": "Cubiertas a distinta altura",
+      "camera": "REV | Cubierta escalonada",
+      "frame": 1,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        10.199999809265137,
+        4.5,
+        9.0
+      ],
+      "quaternionBlender": [
+        0.2469676434993744,
+        0.2080344408750534,
+        -0.6097347140312195,
+        -0.7238454222679138
+      ],
+      "lensMM": 33.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 38.76,
+      "sha256": "8a4231452c49f9f0500561f163b43ddc0ac381ee179075970e08aaf5715f567c"
+    },
+    {
+      "key": "estudio_retrato",
+      "file": "estudio_retrato.png",
+      "title": "Estudio, composición vertical",
+      "camera": "LUZ99 | Estudio retrato",
+      "frame": 150,
+      "pixels": [
+        1800,
+        2400
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        20.399999618530273,
+        -5.449999809265137,
+        4.829999923706055
+      ],
+      "quaternionBlender": [
+        0.6852696537971497,
+        0.6412941813468933,
+        0.23585644364356995,
+        0.2520298361778259
+      ],
+      "lensMM": 22.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 88.51,
+      "sha256": "fa93d6fe901b541eba01fa176a4580b8a76166a9d01ea9c6d2c9b77cc2030397"
+    },
+    {
+      "key": "dormitorio_retrato",
+      "file": "dormitorio_retrato.png",
+      "title": "Dormitorio, composición vertical",
+      "camera": "LUZ99 | Dormitorio retrato",
+      "frame": 1,
+      "pixels": [
+        1800,
+        2400
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        17.100000381469727,
+        -8.670000076293945,
+        4.670000076293945
+      ],
+      "quaternionBlender": [
+        0.7226520776748657,
+        0.5922729969024658,
+        0.22588671743869781,
+        0.275611937046051
+      ],
+      "lensMM": 20.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 113.85,
+      "sha256": "fe773d8a97ca7af5390fb7a7426d1a113f7cbd21c2fd1a6a5de9d7550a2579fb"
+    },
+    {
+      "key": "vestidor_retrato",
+      "file": "vestidor_retrato.png",
+      "title": "Vestidor, composición vertical",
+      "camera": "LUZ99 | Vestidor retrato",
+      "frame": 1,
+      "pixels": [
+        1800,
+        2400
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        18.520000457763672,
+        -8.430000305175781,
+        4.75
+      ],
+      "quaternionBlender": [
+        0.7518575191497803,
+        0.6593256592750549,
+        0.0,
+        0.0
+      ],
+      "lensMM": 23.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 105.06,
+      "sha256": "9a71f1e0de8018efededb40096694322e885b982a6c84ea84fc3804bb46f672f"
+    },
+    {
+      "key": "exterior_retrato",
+      "file": "exterior_retrato.png",
+      "title": "Jardín, composición vertical",
+      "camera": "LUZ99 | Exterior jardin retrato",
+      "frame": 1,
+      "pixels": [
+        1800,
+        2400
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        7.099999904632568,
+        -24.0,
+        5.5
+      ],
+      "quaternionBlender": [
+        0.7032347321510315,
+        0.6492196321487427,
+        -0.19656790792942047,
+        -0.21292228996753693
+      ],
+      "lensMM": 29.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 78.14,
+      "sha256": "7c7af50be0daad86433a8408107c53559cc22ab1e5b132cc9484f7fa97e47107"
+    },
+    {
+      "key": "bano_humano",
+      "file": "bano_humano.png",
+      "title": "Bañera de la vivienda, detalle a altura de uso",
+      "camera": "LUZ99 | Bano suite humano",
+      "frame": 1,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        19.770000457763672,
+        -8.34000015258789,
+        4.75
+      ],
+      "quaternionBlender": [
+        0.7609503269195557,
+        0.541049599647522,
+        -0.2074967920780182,
+        -0.29183050990104675
+      ],
+      "lensMM": 20.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 81.37,
+      "sha256": "0ffc01cf7183c6974bc152f1c6c38e933f9354a5a1250dc204c5e615bcd87e9e"
+    },
+    {
+      "key": "dormitorio_puerta",
+      "file": "dormitorio_puerta.png",
+      "title": "Puerta directa del dormitorio al estar",
+      "camera": "LUZ99 | Acceso dormitorio desde estar",
+      "frame": 150,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        17.079999923706055,
+        -10.550000190734863,
+        4.849999904632568
+      ],
+      "quaternionBlender": [
+        0.700862467288971,
+        0.700862467288971,
+        0.09376465529203415,
+        0.09376463294029236
+      ],
+      "lensMM": 20.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        -0.11999999731779099
+      ],
+      "seconds": 67.05,
+      "sha256": "a0d431970698e930a0da9ec098e02ee86c6aae238db76179e4944aaa92cb70cd"
+    }
+  ]
+}

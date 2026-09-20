@@ -4,7 +4,7 @@ import {WebGLPathTracer,DenoiseMaterial,FullScreenQuad,GenerateMeshBVHWorker,RGB
 export async function createPhotographicPipeline({renderer,scene,camera,controls,viewport,mobile,status}) {
  const start=performance.now(), textureLoader=new THREE.TextureLoader();
  const [optics,source,hdr]=await Promise.all([
-  fetch(new URLSearchParams(location.search).has('previous')?'./assets/optics-original.json':'./assets/optics.json').then(r=>r.json()),fetch('./assets/material-profiles.json').then(r=>r.json()),
+  fetch(new URLSearchParams(location.search).has('previous')?'./assets/optics-original.json':'./assets/optics.json',{cache:'no-store'}).then(r=>r.json()),fetch('./assets/material-profiles.json').then(r=>r.json()),
   new RGBELoader().setDataType(THREE.FloatType).loadAsync('./assets/belfast_sunset_2k.hdr')]);
  hdr.mapping=THREE.EquirectangularReflectionMapping;
  scene.environment=hdr;scene.background=hdr;scene.environmentIntensity=.50;scene.backgroundIntensity=.7;scene.backgroundBlurriness=.06;
@@ -56,6 +56,8 @@ export async function createPhotographicPipeline({renderer,scene,camera,controls
   light.name=spec.name;light.userData.source=spec;lights.push(light);scene.add(light);
  }
  const materialCache=new Map(),decodedGeometries=new Map(),bakedSurfaces=new Map(),bakedMaterials=new Map(),appliedBakedSurfaces=new Set();
+ const bakedUVTextures=new Map();
+ function bakeTextureUV0(texture){if(!texture||texture.channel===0)return texture;if(!bakedUVTextures.has(texture.uuid)){const copy=texture.clone();copy.channel=0;copy.needsUpdate=true;bakedUVTextures.set(texture.uuid,copy);}return bakedUVTextures.get(texture.uuid);}
  let bakedTexture=null,bakeReport=null;
  function material(old){
   if(materialCache.has(old.uuid))return materialCache.get(old.uuid);
@@ -63,7 +65,7 @@ export async function createPhotographicPipeline({renderer,scene,camera,controls
   const physical=['glass','glassInner','water','fabric','clothWhite','acoustic'].includes(key);
   const m=physical?new THREE.MeshPhysicalMaterial():old.clone();
   if(physical){THREE.MeshStandardMaterial.prototype.copy.call(m,old);m.defines={STANDARD:'',PHYSICAL:''};}
-  m.name=old.name+' · óptica R7';m.envMapIntensity=1;
+  m.name=old.name+' · óptica R8';m.envMapIntensity=1;
   const definition=source.materials[key];
   const kind=definition?.texture||(key.includes('madera original')?'wood':null);
   const maps=textures[kind];
@@ -85,7 +87,7 @@ export async function createPhotographicPipeline({renderer,scene,camera,controls
    m.thickness=key==='water'?(optics.water?.maxDepthMetres??1.45):.012;m.attenuationColor.setRGB(...(key==='water'?[.24,.74,.79]:[.93,.975,.96]));
    m.attenuationDistance=key==='water'?12:14;m.color.setRGB(.98,.995,.995);m.roughness=key==='water'?.035:.022;
    m.side=THREE.DoubleSide;m.map=null;m.roughnessMap=null;m.normalMap=key==='water'?wave:null;
-   if(key==='water')m.normalScale.set(.35,.35);
+   if(key==='water'){const strength=.35*(optics.water?.bumpDistanceRatio??1);m.normalScale.set(strength,strength);}
   }
   if(key==='mirror'){m.color.setRGB(.91,.94,.95);m.metalness=1;m.roughness=.025;}
   m.needsUpdate=true;materialCache.set(old.uuid,m);return m;
@@ -162,11 +164,14 @@ export async function createPhotographicPipeline({renderer,scene,camera,controls
     if(!o.geometry.attributes.uv1)throw new Error('Missing UV2 for baked surface '+o.userData.label);
     const lightKey=o.material.uuid+'|'+baked.region;
     if(!bakedMaterials.has(lightKey)){
-     const m=o.material.clone();m.lightMap=baked.texture;m.lightMapIntensity=Math.PI;
+     const m=o.material.clone();
+     for(const key of ['map','normalMap','roughnessMap','metalnessMap','aoMap','emissiveMap','bumpMap','alphaMap','clearcoatMap','clearcoatNormalMap','clearcoatRoughnessMap','sheenColorMap','sheenRoughnessMap','transmissionMap','thicknessMap','specularIntensityMap','specularColorMap'])if(m[key])m[key]=bakeTextureUV0(m[key]);
+     m.lightMap=baked.texture;m.lightMapIntensity=Math.PI;
      m.onBeforeCompile=shader=>{shader.fragmentShader=shader.fragmentShader.replace('#include <lights_fragment_maps>',THREE.ShaderChunk.lights_fragment_maps.replace('iblIrradiance += getIBLIrradiance( geometryNormal );','/* Full diffuse is provided by the source-matched atlas. */'));shader.fragmentShader=shader.fragmentShader.replace('#include <lights_fragment_end>','#include <lights_fragment_end>\nreflectedLight.directDiffuse = vec3(0.0);');};
      m.customProgramCacheKey=()=> 'gi-full-diffuse-r7';m.needsUpdate=true;bakedMaterials.set(lightKey,m);
     }
     o.material=bakedMaterials.get(lightKey);
+    if(o.material.normalMap){if(!o.geometry.index||!o.geometry.attributes.normal||!o.geometry.attributes.uv)throw new Error('Incomplete photographic tangent basis in GI receiver '+o.userData.label);o.geometry.computeTangents();}
    }
    // GLB meshopt/quantization is legal for raster. Path tracing merges CPU attributes,
    // so dynamic meshes must be decoded exactly as the static batching path already does.

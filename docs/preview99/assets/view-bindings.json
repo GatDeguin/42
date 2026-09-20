@@ -52,7 +52,7 @@
     {
       "key": "pileta",
       "label": "Pileta y jardín",
-      "camera": "CAM | Pileta & playa húmeda"
+      "camera": "LUZ99 | Pileta desde jardin"
     },
     {
       "key": "huerta",
@@ -70,6 +70,6 @@
       "camera": "LUZ99 | Acceso dormitorio desde estar"
     }
   ],
-  "blenderDownloadURL": null,
+  "blenderDownloadURL": "https://media.githubusercontent.com/media/GatDeguin/42/main/output/Casa_de_Campo_99_R8.blend",
   "note": "R7 development bindings. Source download is bound only after the integrated candidate is frozen."
 }

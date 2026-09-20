@@ -356,10 +356,10 @@
   "navigation": {
     "back": "../",
     "back_model_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
-    "viewer": null,
-    "viewer_model_sha256": null,
-    "gallery": null,
-    "gallery_status": "in preparation"
+    "viewer": "../../",
+    "viewer_model_sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+    "gallery": "../../renders99/",
+    "gallery_status": "available"
   },
   "dimensional_audit": {
     "path": "dimensional_audit.json",
@@ -905,8 +905,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 17904,
-      "sha256": "cd804ade13b0aa5fc669add3d42fccdc0b7d0e95478932f16f3a18eaa6da6f84"
+      "bytes": 17899,
+      "sha256": "a5ca79e05053288aeb9c6d9457ba3b4ac0be95dd7fd37104c4e7afd042562e90"
     },
     {
       "path": "README.md",

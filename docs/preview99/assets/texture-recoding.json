@@ -12,6 +12,24 @@
     "decodedPixelEquality": true
   },
   {
+    "name": "terlenka_nor_gl_2k",
+    "before": 22874923,
+    "after": 7644858,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "terlenka_diff_2k",
+    "before": 22854646,
+    "after": 6751430,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "terlenka_rough_2k",
+    "before": 5428534,
+    "after": 3363920,
+    "decodedPixelEquality": true
+  },
+  {
     "name": "tile300_normal",
     "before": 622925,
     "after": 479626,
@@ -156,6 +174,36 @@
     "decodedPixelEquality": true
   },
   {
+    "name": "bermuda_source_normal_2k",
+    "before": 5642120,
+    "after": 4627524,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "grass_bermuda_01_diff-grass_bermuda_01_alpha",
+    "action": "kept original PNG",
+    "reason": "WebP altered RGB in transparent pixels",
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "bermuda_source_rough_2k",
+    "before": 2110734,
+    "after": 747454,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "lot_normal",
+    "before": 10195429,
+    "after": 9256144,
+    "decodedPixelEquality": true
+  },
+  {
+    "name": "lot_rough",
+    "before": 4476615,
+    "after": 2525482,
+    "decodedPixelEquality": true
+  },
+  {
     "name": "leafy_grass_nor_gl_1k",
     "before": 6111876,
     "after": 2485194,
@@ -210,21 +258,9 @@
     "decodedPixelEquality": true
   },
   {
-    "name": "terlenka_nor_gl_2k",
-    "before": 22874923,
-    "after": 7644858,
-    "decodedPixelEquality": true
-  },
-  {
     "name": "pillow_basecolor",
     "before": 1171134,
     "after": 842956,
-    "decodedPixelEquality": true
-  },
-  {
-    "name": "terlenka_rough_2k",
-    "before": 5428534,
-    "after": 3363920,
     "decodedPixelEquality": true
   },
   {

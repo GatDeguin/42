@@ -12,6 +12,7 @@ for(const m of document.getRoot().listMaterials())if(m.getName().includes('tree_
 let grassBefore=0,grassAfter=0;
 for(const node of document.getRoot().listNodes()){
  if(!(node.getExtras().label||node.getName()).startsWith('Césped botánico'))continue;
+ if(node.getExtras().preserveFullGeometry===true)continue;
  const mesh=node.getMesh();if(!mesh)continue;
  for(const p of mesh.listPrimitives()){
   const ia=p.getIndices();if(!ia)continue;const indices=ia.getArray(),n=p.getAttribute('POSITION').getCount();

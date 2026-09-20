@@ -1,0 +1,668 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R8.blend",
+  "sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+  "boolean_pairs": 88,
+  "hard_environment_hits": [],
+  "designed_screws_embedded_into_rafters": [
+    {
+      "new": "VENT99 | tornillo cabio P",
+      "existing": "Estudio | cabio 06",
+      "volume_m3": 4.994247420403942e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.001",
+      "existing": "Estudio | cabio 06",
+      "volume_m3": 4.99424742243821e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.002",
+      "existing": "Estudio | cabio 06",
+      "volume_m3": 4.994247515427554e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.003",
+      "existing": "Estudio | cabio 06",
+      "volume_m3": 4.994247518432149e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.004",
+      "existing": "Estudio | cabio 06",
+      "volume_m3": 4.994247420476109e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.005",
+      "existing": "Estudio | cabio 06",
+      "volume_m3": 4.994247005106398e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.006",
+      "existing": "Estudio | cabio 06",
+      "volume_m3": 4.994247515563756e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.007",
+      "existing": "Estudio | cabio 06",
+      "volume_m3": 4.994247516223392e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.008",
+      "existing": "Estudio | cabio 08",
+      "volume_m3": 4.994247423579536e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.009",
+      "existing": "Estudio | cabio 08",
+      "volume_m3": 4.994247420655273e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.010",
+      "existing": "Estudio | cabio 08",
+      "volume_m3": 4.994247514017718e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.011",
+      "existing": "Estudio | cabio 08",
+      "volume_m3": 4.99424750646974e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.012",
+      "existing": "Estudio | cabio 08",
+      "volume_m3": 4.994247424162633e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.013",
+      "existing": "Estudio | cabio 08",
+      "volume_m3": 4.994247002146086e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.014",
+      "existing": "Estudio | cabio 08",
+      "volume_m3": 4.994247508783359e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.015",
+      "existing": "Estudio | cabio 08",
+      "volume_m3": 4.994247516432744e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.016",
+      "existing": "Estudio | cabio 04",
+      "volume_m3": 4.994350528299393e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.017",
+      "existing": "Estudio | cabio 04",
+      "volume_m3": 4.994350528108269e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.018",
+      "existing": "Estudio | cabio 05",
+      "volume_m3": 4.99435052825345e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.019",
+      "existing": "Estudio | cabio 05",
+      "volume_m3": 4.994350528193785e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.020",
+      "existing": "Estudio | cabio 04",
+      "volume_m3": 4.994331070760074e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.021",
+      "existing": "Estudio | cabio 04",
+      "volume_m3": 4.994331069219084e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.022",
+      "existing": "Estudio | cabio 05",
+      "volume_m3": 4.994331069271905e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.023",
+      "existing": "Estudio | cabio 05",
+      "volume_m3": 4.994331069561421e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.024",
+      "existing": "Estudio | cabio 04",
+      "volume_m3": 4.994308884663866e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.025",
+      "existing": "Estudio | cabio 04",
+      "volume_m3": 4.994308881416612e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.026",
+      "existing": "Estudio | cabio 05",
+      "volume_m3": 4.994308878468734e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.027",
+      "existing": "Estudio | cabio 05",
+      "volume_m3": 4.994308881336788e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.028",
+      "existing": "Estudio | cabio 08",
+      "volume_m3": 4.99435052869987e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.029",
+      "existing": "Estudio | cabio 08",
+      "volume_m3": 4.994350528309422e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.030",
+      "existing": "Estudio | cabio 09",
+      "volume_m3": 4.994350528381488e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.031",
+      "existing": "Estudio | cabio 09",
+      "volume_m3": 4.994350527366031e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.032",
+      "existing": "Estudio | cabio 08",
+      "volume_m3": 4.994326943486126e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.033",
+      "existing": "Estudio | cabio 08",
+      "volume_m3": 4.994326943253429e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.034",
+      "existing": "Estudio | cabio 09",
+      "volume_m3": 4.994326943459427e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.035",
+      "existing": "Estudio | cabio 09",
+      "volume_m3": 4.99432694346434e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.036",
+      "existing": "Estudio | cabio 08",
+      "volume_m3": 4.994308883268091e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.037",
+      "existing": "Estudio | cabio 08",
+      "volume_m3": 4.994308881561387e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.038",
+      "existing": "Estudio | cabio 09",
+      "volume_m3": 4.994308881062112e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.039",
+      "existing": "Estudio | cabio 09",
+      "volume_m3": 4.99430888250566e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.040",
+      "existing": "Estudio | cabio 04",
+      "volume_m3": 4.994247515587202e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.041",
+      "existing": "Estudio | cabio 04",
+      "volume_m3": 4.994247511983924e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.042",
+      "existing": "Estudio | cabio 05",
+      "volume_m3": 4.994247513124844e-07
+    },
+    {
+      "new": "VENT99 | tornillo cabio P.043",
+      "existing": "Estudio | cabio 05",
+      "volume_m3": 4.994247514051701e-07
+    }
+  ],
+  "service_paths": [
+    {
+      "id": "service platform",
+      "source_bounds": {
+        "x": [
+          18.95,
+          19.55
+        ],
+        "y": [
+          3.251,
+          6.0
+        ],
+        "z": [
+          4.48,
+          5.68
+        ]
+      },
+      "removed_objects": [],
+      "retained_vent_objects": 358,
+      "removal_sequence": "Access with all new parts installed.",
+      "boolean_pairs": 0,
+      "hits": [],
+      "pass": true
+    },
+    {
+      "id": "rear approach",
+      "source_bounds": {
+        "x": [
+          14.3,
+          19.55
+        ],
+        "y": [
+          3.251,
+          5.25
+        ],
+        "z": [
+          5.0,
+          5.6
+        ]
+      },
+      "removed_objects": [],
+      "retained_vent_objects": 358,
+      "removal_sequence": "Approach with all new parts installed; studio door fully open.",
+      "boolean_pairs": 0,
+      "hits": [],
+      "pass": true
+    },
+    {
+      "id": "filter supply lower",
+      "source_bounds": {
+        "x": [
+          18.783,
+          18.805
+        ],
+        "y": [
+          5.4,
+          6.999
+        ],
+        "z": [
+          4.569999999999999,
+          4.79
+        ]
+      },
+      "removed_objects": [
+        "VENT99 | cierre cuarto vuelta panel cabeza",
+        "VENT99 | cierre cuarto vuelta panel cabeza.001",
+        "VENT99 | cierre cuarto vuelta panel cabeza.002",
+        "VENT99 | cierre cuarto vuelta panel cabeza.003",
+        "VENT99 | cierre cuarto vuelta panel cabeza.004",
+        "VENT99 | cierre cuarto vuelta panel cabeza.005",
+        "VENT99 | cierre cuarto vuelta panel cabeza.006",
+        "VENT99 | cierre cuarto vuelta panel cabeza.007",
+        "VENT99 | cierre cuarto vuelta panel leva",
+        "VENT99 | cierre cuarto vuelta panel leva.001",
+        "VENT99 | cierre cuarto vuelta panel leva.002",
+        "VENT99 | cierre cuarto vuelta panel leva.003",
+        "VENT99 | cierre cuarto vuelta panel leva.004",
+        "VENT99 | cierre cuarto vuelta panel leva.005",
+        "VENT99 | cierre cuarto vuelta panel leva.006",
+        "VENT99 | cierre cuarto vuelta panel leva.007",
+        "VENT99 | cierre cuarto vuelta panel vastago",
+        "VENT99 | cierre cuarto vuelta panel vastago.001",
+        "VENT99 | cierre cuarto vuelta panel vastago.002",
+        "VENT99 | cierre cuarto vuelta panel vastago.003",
+        "VENT99 | cierre cuarto vuelta panel vastago.004",
+        "VENT99 | cierre cuarto vuelta panel vastago.005",
+        "VENT99 | cierre cuarto vuelta panel vastago.006",
+        "VENT99 | cierre cuarto vuelta panel vastago.007",
+        "VENT99 | impulsion cartucho marco",
+        "VENT99 | impulsion cartucho marco.001",
+        "VENT99 | impulsion cartucho marco.002",
+        "VENT99 | impulsion cartucho marco.003",
+        "VENT99 | impulsion cartucho medio poroso P",
+        "VENT99 | impulsion filtro tapa inferior desmontable",
+        "VENT99 | panel registro desmontable",
+        "VENT99 | panel registro desmontable.001"
+      ],
+      "retained_vent_objects": 326,
+      "removal_sequence": "Isolate unit. Remove both hatch panels and their quarter-turn closures. Release own filter bottom cover, then lower cassette; other unit and all supports remain.",
+      "boolean_pairs": 0,
+      "hits": [],
+      "pass": true
+    },
+    {
+      "id": "silencer supply lower",
+      "source_bounds": {
+        "x": [
+          19.199,
+          19.801
+        ],
+        "y": [
+          5.4,
+          7.018
+        ],
+        "z": [
+          4.552,
+          4.808
+        ]
+      },
+      "removed_objects": [
+        "VENT99 | cierre cuarto vuelta panel cabeza",
+        "VENT99 | cierre cuarto vuelta panel cabeza.001",
+        "VENT99 | cierre cuarto vuelta panel cabeza.002",
+        "VENT99 | cierre cuarto vuelta panel cabeza.003",
+        "VENT99 | cierre cuarto vuelta panel cabeza.004",
+        "VENT99 | cierre cuarto vuelta panel cabeza.005",
+        "VENT99 | cierre cuarto vuelta panel cabeza.006",
+        "VENT99 | cierre cuarto vuelta panel cabeza.007",
+        "VENT99 | cierre cuarto vuelta panel leva",
+        "VENT99 | cierre cuarto vuelta panel leva.001",
+        "VENT99 | cierre cuarto vuelta panel leva.002",
+        "VENT99 | cierre cuarto vuelta panel leva.003",
+        "VENT99 | cierre cuarto vuelta panel leva.004",
+        "VENT99 | cierre cuarto vuelta panel leva.005",
+        "VENT99 | cierre cuarto vuelta panel leva.006",
+        "VENT99 | cierre cuarto vuelta panel leva.007",
+        "VENT99 | cierre cuarto vuelta panel vastago",
+        "VENT99 | cierre cuarto vuelta panel vastago.001",
+        "VENT99 | cierre cuarto vuelta panel vastago.002",
+        "VENT99 | cierre cuarto vuelta panel vastago.003",
+        "VENT99 | cierre cuarto vuelta panel vastago.004",
+        "VENT99 | cierre cuarto vuelta panel vastago.005",
+        "VENT99 | cierre cuarto vuelta panel vastago.006",
+        "VENT99 | cierre cuarto vuelta panel vastago.007",
+        "VENT99 | impulsion abrazadera silenciador",
+        "VENT99 | impulsion abrazadera silenciador.001",
+        "VENT99 | impulsion acople salida silenciador50",
+        "VENT99 | impulsion camisa perforada interna0",
+        "VENT99 | impulsion camisa perforada interna1",
+        "VENT99 | impulsion camisa perforada interna10",
+        "VENT99 | impulsion camisa perforada interna11",
+        "VENT99 | impulsion camisa perforada interna12",
+        "VENT99 | impulsion camisa perforada interna13",
+        "VENT99 | impulsion camisa perforada interna14",
+        "VENT99 | impulsion camisa perforada interna15",
+        "VENT99 | impulsion camisa perforada interna16",
+        "VENT99 | impulsion camisa perforada interna17",
+        "VENT99 | impulsion camisa perforada interna18",
+        "VENT99 | impulsion camisa perforada interna19",
+        "VENT99 | impulsion camisa perforada interna2",
+        "VENT99 | impulsion camisa perforada interna3",
+        "VENT99 | impulsion camisa perforada interna4",
+        "VENT99 | impulsion camisa perforada interna5",
+        "VENT99 | impulsion camisa perforada interna6",
+        "VENT99 | impulsion camisa perforada interna7",
+        "VENT99 | impulsion camisa perforada interna8",
+        "VENT99 | impulsion camisa perforada interna9",
+        "VENT99 | impulsion flexible salida",
+        "VENT99 | impulsion manta acople salida silenciador50",
+        "VENT99 | impulsion silenciador absorbente50",
+        "VENT99 | impulsion silenciador camisa0.8",
+        "VENT99 | impulsion silenciador tapa aro",
+        "VENT99 | impulsion silenciador tapa aro.001",
+        "VENT99 | panel registro desmontable",
+        "VENT99 | panel registro desmontable.001",
+        "VENT99 | tuerca equipo",
+        "VENT99 | tuerca equipo.001",
+        "VENT99 | varilla equipo M6",
+        "VENT99 | varilla equipo M6.001"
+      ],
+      "retained_vent_objects": 299,
+      "removal_sequence": "Isolate unit. Remove hatch panels and their closures, both adjacent flexible couplings including detachable exit insulation, own two clamp bands and two rods/nuts; lower own silencer. Other unit, fan, rigid ducts and rails remain.",
+      "boolean_pairs": 0,
+      "hits": [],
+      "pass": true
+    },
+    {
+      "id": "fan supply lower",
+      "source_bounds": {
+        "x": [
+          18.949,
+          19.151
+        ],
+        "y": [
+          5.4,
+          6.969
+        ],
+        "z": [
+          4.601,
+          4.7589999999999995
+        ]
+      },
+      "removed_objects": [
+        "VENT99 | cierre cuarto vuelta panel cabeza",
+        "VENT99 | cierre cuarto vuelta panel cabeza.001",
+        "VENT99 | cierre cuarto vuelta panel cabeza.002",
+        "VENT99 | cierre cuarto vuelta panel cabeza.003",
+        "VENT99 | cierre cuarto vuelta panel cabeza.004",
+        "VENT99 | cierre cuarto vuelta panel cabeza.005",
+        "VENT99 | cierre cuarto vuelta panel cabeza.006",
+        "VENT99 | cierre cuarto vuelta panel cabeza.007",
+        "VENT99 | cierre cuarto vuelta panel leva",
+        "VENT99 | cierre cuarto vuelta panel leva.001",
+        "VENT99 | cierre cuarto vuelta panel leva.002",
+        "VENT99 | cierre cuarto vuelta panel leva.003",
+        "VENT99 | cierre cuarto vuelta panel leva.004",
+        "VENT99 | cierre cuarto vuelta panel leva.005",
+        "VENT99 | cierre cuarto vuelta panel leva.006",
+        "VENT99 | cierre cuarto vuelta panel leva.007",
+        "VENT99 | cierre cuarto vuelta panel vastago",
+        "VENT99 | cierre cuarto vuelta panel vastago.001",
+        "VENT99 | cierre cuarto vuelta panel vastago.002",
+        "VENT99 | cierre cuarto vuelta panel vastago.003",
+        "VENT99 | cierre cuarto vuelta panel vastago.004",
+        "VENT99 | cierre cuarto vuelta panel vastago.005",
+        "VENT99 | cierre cuarto vuelta panel vastago.006",
+        "VENT99 | cierre cuarto vuelta panel vastago.007",
+        "VENT99 | impulsion flexible entrada",
+        "VENT99 | impulsion flexible salida",
+        "VENT99 | impulsion ventilador carcasa",
+        "VENT99 | impulsion ventilador rotor",
+        "VENT99 | panel registro desmontable",
+        "VENT99 | panel registro desmontable.001"
+      ],
+      "retained_vent_objects": 328,
+      "removal_sequence": "Isolate unit. Remove hatch panels and their closures, inlet and outlet flexible couplings; lower fan module. Both filter cases, silencers and structural hangers remain.",
+      "boolean_pairs": 0,
+      "hits": [],
+      "pass": true
+    },
+    {
+      "id": "filter extract lower",
+      "source_bounds": {
+        "x": [
+          18.783,
+          18.805
+        ],
+        "y": [
+          5.4,
+          6.999
+        ],
+        "z": [
+          4.989999999999999,
+          5.21
+        ]
+      },
+      "removed_objects": [
+        "VENT99 | cierre cuarto vuelta panel cabeza",
+        "VENT99 | cierre cuarto vuelta panel cabeza.001",
+        "VENT99 | cierre cuarto vuelta panel cabeza.002",
+        "VENT99 | cierre cuarto vuelta panel cabeza.003",
+        "VENT99 | cierre cuarto vuelta panel cabeza.004",
+        "VENT99 | cierre cuarto vuelta panel cabeza.005",
+        "VENT99 | cierre cuarto vuelta panel cabeza.006",
+        "VENT99 | cierre cuarto vuelta panel cabeza.007",
+        "VENT99 | cierre cuarto vuelta panel leva",
+        "VENT99 | cierre cuarto vuelta panel leva.001",
+        "VENT99 | cierre cuarto vuelta panel leva.002",
+        "VENT99 | cierre cuarto vuelta panel leva.003",
+        "VENT99 | cierre cuarto vuelta panel leva.004",
+        "VENT99 | cierre cuarto vuelta panel leva.005",
+        "VENT99 | cierre cuarto vuelta panel leva.006",
+        "VENT99 | cierre cuarto vuelta panel leva.007",
+        "VENT99 | cierre cuarto vuelta panel vastago",
+        "VENT99 | cierre cuarto vuelta panel vastago.001",
+        "VENT99 | cierre cuarto vuelta panel vastago.002",
+        "VENT99 | cierre cuarto vuelta panel vastago.003",
+        "VENT99 | cierre cuarto vuelta panel vastago.004",
+        "VENT99 | cierre cuarto vuelta panel vastago.005",
+        "VENT99 | cierre cuarto vuelta panel vastago.006",
+        "VENT99 | cierre cuarto vuelta panel vastago.007",
+        "VENT99 | extraccion cartucho marco",
+        "VENT99 | extraccion cartucho marco.001",
+        "VENT99 | extraccion cartucho marco.002",
+        "VENT99 | extraccion cartucho marco.003",
+        "VENT99 | extraccion cartucho medio poroso P",
+        "VENT99 | extraccion filtro tapa inferior desmontable",
+        "VENT99 | panel registro desmontable",
+        "VENT99 | panel registro desmontable.001"
+      ],
+      "retained_vent_objects": 326,
+      "removal_sequence": "Isolate unit. Remove both hatch panels and their quarter-turn closures. Release own filter bottom cover, then lower cassette; other unit and all supports remain.",
+      "boolean_pairs": 0,
+      "hits": [],
+      "pass": true
+    },
+    {
+      "id": "silencer extract lower",
+      "source_bounds": {
+        "x": [
+          19.199,
+          19.801
+        ],
+        "y": [
+          5.4,
+          7.018
+        ],
+        "z": [
+          4.9719999999999995,
+          5.228
+        ]
+      },
+      "removed_objects": [
+        "VENT99 | cierre cuarto vuelta panel cabeza",
+        "VENT99 | cierre cuarto vuelta panel cabeza.001",
+        "VENT99 | cierre cuarto vuelta panel cabeza.002",
+        "VENT99 | cierre cuarto vuelta panel cabeza.003",
+        "VENT99 | cierre cuarto vuelta panel cabeza.004",
+        "VENT99 | cierre cuarto vuelta panel cabeza.005",
+        "VENT99 | cierre cuarto vuelta panel cabeza.006",
+        "VENT99 | cierre cuarto vuelta panel cabeza.007",
+        "VENT99 | cierre cuarto vuelta panel leva",
+        "VENT99 | cierre cuarto vuelta panel leva.001",
+        "VENT99 | cierre cuarto vuelta panel leva.002",
+        "VENT99 | cierre cuarto vuelta panel leva.003",
+        "VENT99 | cierre cuarto vuelta panel leva.004",
+        "VENT99 | cierre cuarto vuelta panel leva.005",
+        "VENT99 | cierre cuarto vuelta panel leva.006",
+        "VENT99 | cierre cuarto vuelta panel leva.007",
+        "VENT99 | cierre cuarto vuelta panel vastago",
+        "VENT99 | cierre cuarto vuelta panel vastago.001",
+        "VENT99 | cierre cuarto vuelta panel vastago.002",
+        "VENT99 | cierre cuarto vuelta panel vastago.003",
+        "VENT99 | cierre cuarto vuelta panel vastago.004",
+        "VENT99 | cierre cuarto vuelta panel vastago.005",
+        "VENT99 | cierre cuarto vuelta panel vastago.006",
+        "VENT99 | cierre cuarto vuelta panel vastago.007",
+        "VENT99 | extraccion abrazadera silenciador",
+        "VENT99 | extraccion abrazadera silenciador.001",
+        "VENT99 | extraccion acople salida silenciador50",
+        "VENT99 | extraccion camisa perforada interna0",
+        "VENT99 | extraccion camisa perforada interna1",
+        "VENT99 | extraccion camisa perforada interna10",
+        "VENT99 | extraccion camisa perforada interna11",
+        "VENT99 | extraccion camisa perforada interna12",
+        "VENT99 | extraccion camisa perforada interna13",
+        "VENT99 | extraccion camisa perforada interna14",
+        "VENT99 | extraccion camisa perforada interna15",
+        "VENT99 | extraccion camisa perforada interna16",
+        "VENT99 | extraccion camisa perforada interna17",
+        "VENT99 | extraccion camisa perforada interna18",
+        "VENT99 | extraccion camisa perforada interna19",
+        "VENT99 | extraccion camisa perforada interna2",
+        "VENT99 | extraccion camisa perforada interna3",
+        "VENT99 | extraccion camisa perforada interna4",
+        "VENT99 | extraccion camisa perforada interna5",
+        "VENT99 | extraccion camisa perforada interna6",
+        "VENT99 | extraccion camisa perforada interna7",
+        "VENT99 | extraccion camisa perforada interna8",
+        "VENT99 | extraccion camisa perforada interna9",
+        "VENT99 | extraccion flexible salida",
+        "VENT99 | extraccion manta acople salida silenciador50",
+        "VENT99 | extraccion silenciador absorbente50",
+        "VENT99 | extraccion silenciador camisa0.8",
+        "VENT99 | extraccion silenciador tapa aro",
+        "VENT99 | extraccion silenciador tapa aro.001",
+        "VENT99 | panel registro desmontable",
+        "VENT99 | panel registro desmontable.001",
+        "VENT99 | tuerca equipo.004",
+        "VENT99 | tuerca equipo.005",
+        "VENT99 | varilla equipo M6.004",
+        "VENT99 | varilla equipo M6.005"
+      ],
+      "retained_vent_objects": 299,
+      "removal_sequence": "Isolate unit. Remove hatch panels and their closures, both adjacent flexible couplings including detachable exit insulation, own two clamp bands and two rods/nuts; lower own silencer. Other unit, fan, rigid ducts and rails remain.",
+      "boolean_pairs": 1,
+      "hits": [],
+      "pass": true
+    },
+    {
+      "id": "fan extract lower",
+      "source_bounds": {
+        "x": [
+          18.949,
+          19.151
+        ],
+        "y": [
+          5.4,
+          6.969
+        ],
+        "z": [
+          5.021,
+          5.178999999999999
+        ]
+      },
+      "removed_objects": [
+        "VENT99 | cierre cuarto vuelta panel cabeza",
+        "VENT99 | cierre cuarto vuelta panel cabeza.001",
+        "VENT99 | cierre cuarto vuelta panel cabeza.002",
+        "VENT99 | cierre cuarto vuelta panel cabeza.003",
+        "VENT99 | cierre cuarto vuelta panel cabeza.004",
+        "VENT99 | cierre cuarto vuelta panel cabeza.005",
+        "VENT99 | cierre cuarto vuelta panel cabeza.006",
+        "VENT99 | cierre cuarto vuelta panel cabeza.007",
+        "VENT99 | cierre cuarto vuelta panel leva",
+        "VENT99 | cierre cuarto vuelta panel leva.001",
+        "VENT99 | cierre cuarto vuelta panel leva.002",
+        "VENT99 | cierre cuarto vuelta panel leva.003",
+        "VENT99 | cierre cuarto vuelta panel leva.004",
+        "VENT99 | cierre cuarto vuelta panel leva.005",
+        "VENT99 | cierre cuarto vuelta panel leva.006",
+        "VENT99 | cierre cuarto vuelta panel leva.007",
+        "VENT99 | cierre cuarto vuelta panel vastago",
+        "VENT99 | cierre cuarto vuelta panel vastago.001",
+        "VENT99 | cierre cuarto vuelta panel vastago.002",
+        "VENT99 | cierre cuarto vuelta panel vastago.003",
+        "VENT99 | cierre cuarto vuelta panel vastago.004",
+        "VENT99 | cierre cuarto vuelta panel vastago.005",
+        "VENT99 | cierre cuarto vuelta panel vastago.006",
+        "VENT99 | cierre cuarto vuelta panel vastago.007",
+        "VENT99 | extraccion flexible entrada",
+        "VENT99 | extraccion flexible salida",
+        "VENT99 | extraccion ventilador carcasa",
+        "VENT99 | extraccion ventilador rotor",
+        "VENT99 | panel registro desmontable",
+        "VENT99 | panel registro desmontable.001"
+      ],
+      "retained_vent_objects": 328,
+      "removal_sequence": "Isolate unit. Remove hatch panels and their closures, inlet and outlet flexible couplings; lower fan module. Both filter cases, silencers and structural hangers remain.",
+      "boolean_pairs": 1,
+      "hits": [],
+      "pass": true
+    }
+  ],
+  "minimum_new_fixed_height_m": 6.453000068664551,
+  "minimum_height_pass": true,
+  "rectangular_air_area_m2": 0.024,
+  "pass": true,
+  "service_entry_door": "studio open=1 for approach check",
+  "scope": "New environmental contacts; service swept envelopes checked against all active original environment plus all VENT99 except exact per-path removed_objects. Temporary boxes are full conservative swept volumes. This does not validate airflow, acoustics or resistance."
+}

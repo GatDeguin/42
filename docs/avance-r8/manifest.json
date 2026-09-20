@@ -1,6 +1,6 @@
 {
   "revision": "R8",
-  "status": "ADVANCE_PENDING_GLOBAL_REVIEW",
+  "status": "COMPLETE_R8_SITE_PUBLISHED_WITHOUT_NEW_REVIEW",
   "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
   "sourceFile": "Casa_de_Campo_99_R8.blend",
   "lastFormalReview": {
@@ -8,7 +8,7 @@
     "score": 8.5,
     "target": 9.9
   },
-  "viewerRevision": "R7D",
+  "viewerRevision": "R8",
   "images": [
     {
       "key": "huerta",
@@ -167,5 +167,9 @@
       "sourcePNG": "review99\\r8_checkpoint\\stills\\pileta_jardin.png"
     }
   ],
-  "videoRendered": false
+  "videoRendered": false,
+  "galleryImages": 26,
+  "plans": 35,
+  "fullGallery": "../renders99/",
+  "viewer": "../"
 }

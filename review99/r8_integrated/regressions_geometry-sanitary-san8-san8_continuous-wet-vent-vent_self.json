@@ -1,0 +1,78 @@
+{
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R8.blend",
+  "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+  "checks": [
+    {
+      "key": "geometry",
+      "report": "review99/r8_integrated/frozen_geometry_checks.json",
+      "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+      "scriptSHA256": "f6b1693d1cd3f95fa68f9e3972922db62db2e8495e51bcb055fe73c0e2743dc0",
+      "adaptedCodeSHA256": "95e22fa777964913c300c92e0b706c4c3ea42011a30714de76b5cffc558966b8",
+      "seconds": 164.46856260299683,
+      "passed": true,
+      "adaptation": "Output paths/source guard only; SAN8 preview-save branch disabled. Measurement geometry and tolerances unchanged."
+    },
+    {
+      "key": "sanitary",
+      "report": "review99/r8_integrated/sanitary_checks.json",
+      "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+      "scriptSHA256": "b83577f04f5440164f7ed20d414d0f49ecbbbaa3c9c59c4a4166e2e5bac877bc",
+      "adaptedCodeSHA256": "89b711afccd393cd83de890ab91f5f436282833ae6a6a40c4ca692e39d450179",
+      "seconds": 343.734228849411,
+      "passed": true,
+      "adaptation": "R8 sanitary family includes42 retained plus192 new parts in environment, topology and footprint tests; tolerance unchanged."
+    },
+    {
+      "key": "san8",
+      "report": "review99/r8_integrated/san8/validation.json",
+      "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+      "scriptSHA256": "9af0b1234f3073f5bfcd32a1e4d28fa06db31651979a9d3e75e9eef21df97103",
+      "adaptedCodeSHA256": "d0a32226011db79ac97083af6b546c7a4f7909d8b3dc84423066f1b41379c794",
+      "seconds": 425.4769501686096,
+      "passed": true,
+      "adaptation": "Output paths/source guard only; SAN8 preview-save branch disabled. Measurement geometry and tolerances unchanged."
+    },
+    {
+      "key": "san8_continuous",
+      "report": "review99/r8_integrated/san8/continuous_and_sections.json",
+      "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+      "scriptSHA256": "953fd840c741d455a9eb75935fcdc9a3dbd2dff28d4a35408d5db5b415f21cfe",
+      "adaptedCodeSHA256": "18547f0cdc1322524f83445205be7a43fc34ba28e8c90cba9663bdeced301e46",
+      "seconds": 10.877207040786743,
+      "passed": true,
+      "adaptation": "Output paths/source guard only; SAN8 preview-save branch disabled. Measurement geometry and tolerances unchanged."
+    },
+    {
+      "key": "wet",
+      "report": "review99/r8_integrated/wet_check.json",
+      "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+      "scriptSHA256": "85f74d72f685f12020ee05064d7f45d982ccb0459d33992388081220ce154a0f",
+      "adaptedCodeSHA256": "9db3c3c9b91ff7541a743034ead003b017b65e59073f59db5d8423c876a237aa",
+      "seconds": 91.72417640686035,
+      "passed": true,
+      "adaptation": "Output paths/source guard only; SAN8 preview-save branch disabled. Measurement geometry and tolerances unchanged."
+    },
+    {
+      "key": "vent",
+      "report": "review99/r8_integrated/vent_check.json",
+      "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+      "scriptSHA256": "dde2b7f9fcc6d4c1809be8fc2ef7fdafd3728068707e30945e4d00e3a5a23a5e",
+      "adaptedCodeSHA256": "996a2d25173c7e146e4be8ab1093a3a04d0b3ba771c9b43c2d6e6d72438f1a25",
+      "seconds": 71.59020447731018,
+      "passed": true,
+      "adaptation": "Output paths/source guard only; SAN8 preview-save branch disabled. Measurement geometry and tolerances unchanged."
+    },
+    {
+      "key": "vent_self",
+      "report": "review99/r8_integrated/vent_self_check.json",
+      "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+      "scriptSHA256": "ff58130dc2ea6c606a70f0db3c518cc5a3b7e2bf10b3a4910b919c815234adf4",
+      "adaptedCodeSHA256": "495ad32c553781c874650b4685d5e7e1a44d8f7a7fa7ae0d5ffa14a90cfa4912",
+      "seconds": 58.44938087463379,
+      "passed": true,
+      "adaptation": "Output paths/source guard only; SAN8 preview-save branch disabled. Measurement geometry and tolerances unchanged."
+    }
+  ],
+  "passed": true,
+  "videoRendered": false
+}

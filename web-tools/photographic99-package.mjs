@@ -13,7 +13,13 @@ for(const t of doc.getRoot().listTextures()){
  const uri='textures99/'+sha+'.'+ext;t.setURI(uri);textureChecks.push({name:t.getName(),uri,sha256:sha,bytes:bytes.length});
 }
 await io.write(dir+entry,doc);
-const json=JSON.parse(fs.readFileSync(dir+entry));fs.writeFileSync(dir+entry,JSON.stringify(json));
+const json=JSON.parse(fs.readFileSync(dir+entry));
+// Content-addressed geometry prevents a cached previous revision being reused.
+for(const b of json.buffers.filter(b=>b.uri)){
+ const bytes=fs.readFileSync(dir+b.uri),uri='geometry-'+hash(bytes)+'.bin';
+ fs.writeFileSync(dir+uri,bytes);b.uri=uri;
+}
+fs.writeFileSync(dir+entry,JSON.stringify(json));
 for(const b of json.buffers)assert(b.uri||b.extensions?.EXT_meshopt_compression?.fallback===true,'Unresolved buffer URI');
 const uris=[entry,...json.buffers.filter(b=>b.uri).map(b=>b.uri),...json.images.map(i=>i.uri)];assert(uris.every(u=>u&&!u.includes('..')&&!u.includes(':')));
 const files=[...new Set(uris)].map(uri=>{const b=fs.readFileSync(dir+uri);assert(b.length<100*1024*1024,uri);return{uri,bytes:b.length,sha256:hash(b)}});

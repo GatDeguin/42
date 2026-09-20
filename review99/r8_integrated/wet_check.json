@@ -1,0 +1,18 @@
+{
+  "ceramic_nonmanifold_edges": 0,
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R8.blend",
+  "sha256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+  "parts": 54,
+  "external_boolean_pairs": 123,
+  "hits": [],
+  "coplanar_rounding_under_1_micron": [
+    {
+      "new": "WET99 | PB ceramica8",
+      "existing": "Espejo baño mono",
+      "intersection_m3": 1.1893574420034775e-07,
+      "normal_overlap_m": 2.479553222745068e-07
+    }
+  ],
+  "pass": true,
+  "scope": "Every wet new mesh against active external mesh with overlapping evaluated bounds; designed embedded bodies listed as hits for pocket coordination."
+}

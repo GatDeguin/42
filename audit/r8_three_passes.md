@@ -37,3 +37,7 @@ La mejora no se dará por aprobada por completar archivos o cálculos: requiere 
 ## Fuente integrada de avance R8
 
 `output/Casa_de_Campo_99_R8.blend`, SHA256 `60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329`, 6.555 objetos. Integra las dos primeras pasadas; aplicación doble idéntica, cuatro escenas sincronizadas y recorrido preparado comprobado. Se emiten cuatro imágenes y35planos identificados desde esta fuente como avance, mientras continúa la tercera pasada. Esto no constituye una nueva aprobación ni completa el conjunto de26imágenes y el visor R8. La nota integral8,5/10 pertenece a R7D.
+
+## Publicación directa solicitada el20 de septiembre de2026
+
+El propietario indicó: «publicalo completo, no revises». Se continúa con la publicación integral del modelo R8, sus26imágenes y35planos en GitHub Pages, sin otra auditoría arquitectónica ni nueva puntuación. La navegación usa geometría/materiales R8 y luz progresiva opcional; no se activan los atlas estáticos anteriores. Las comprobaciones restantes son de empaquetado, carga y despliegue. Vídeo pausado.

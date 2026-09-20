@@ -1,11 +1,13 @@
 {
-  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7D.blend",
-  "sourceSHA256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R8.blend",
+  "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
   "water": {
     "maxDepthMetres": 1.3600000143051147,
     "surfaceHeight": -0.029999971389770508,
     "bottomHeight": -1.3899999856948853,
-    "scope": "Maximum source water depth; raster uses a constant optical thickness."
+    "scope": "Maximum source water depth; raster uses a constant optical thickness.",
+    "bumpDistanceRatio": 0.22222222222222224,
+    "surfaceOpticsNote": "R8 source bump distance8mm, strength0.23. Runtime analytical ripple is scaled relative to previous36mm distance; not a geometry deformation."
   },
   "scene": "CASA DE CAMPO | Atardecer",
   "axes": "Three Y up, from Blender (X,Z,-Y)",
@@ -1308,22 +1310,6 @@
       "textures": []
     },
     {
-      "name": "Césped fino | variación botánica",
-      "key": "",
-      "color": [
-        0.800000011920929,
-        0.800000011920929,
-        0.800000011920929,
-        1.0
-      ],
-      "proceduralFinish": null,
-      "roughness": 0.75,
-      "metalness": 0.0,
-      "ior": 1.5,
-      "transmission": 0.0,
-      "textures": []
-    },
-    {
       "name": "Césped | grass",
       "key": "grass",
       "color": [
@@ -1680,6 +1666,47 @@
       ]
     },
     {
+      "name": "GRASS8 | Bermuda CC0 alpha mask",
+      "key": "",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "proceduralFinish": null,
+      "roughness": 0.7599999904632568,
+      "metalness": 0.0,
+      "ior": 1.5,
+      "transmission": 0.0,
+      "textures": [
+        "//..\\source\\assets\\grass_bermuda_01\\textures\\grass_bermuda_01_diff_2k.jpg",
+        "//..\\source\\assets\\grass_bermuda_01\\textures\\grass_bermuda_01_alpha_2k.png",
+        "D:\\2026\\42\\source\\photographic99_grass_r8\\bermuda_source_normal_2k.png",
+        "D:\\2026\\42\\source\\photographic99_grass_r8\\bermuda_source_rough_2k.png"
+      ]
+    },
+    {
+      "name": "GRASS8 | Lote césped y tierra CC0",
+      "key": "",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "proceduralFinish": null,
+      "roughness": 0.5,
+      "metalness": 0.0,
+      "ior": 1.5,
+      "transmission": 0.0,
+      "textures": [
+        "D:\\2026\\42\\source\\photographic99_grass_r8\\lot_color.jpg",
+        "D:\\2026\\42\\source\\photographic99_grass_r8\\lot_normal.png",
+        "D:\\2026\\42\\source\\photographic99_grass_r8\\lot_rough.png"
+      ]
+    },
+    {
       "name": "Hormigón oscuro | concreteDark",
       "key": "concreteDark",
       "color": [
@@ -1859,22 +1886,6 @@
         "D:\\2026\\42\\source\\photographic99_luz\\asiento_UF_satinado_rough.png",
         "D:\\2026\\42\\source\\photographic99_luz\\asiento_UF_satinado_normal.png"
       ]
-    },
-    {
-      "name": "LUZ99 | briznas entorno",
-      "key": "",
-      "color": [
-        1.0,
-        1.0,
-        1.0,
-        1.0
-      ],
-      "proceduralFinish": null,
-      "roughness": 0.8100000023841858,
-      "metalness": 0.0,
-      "ior": 1.5,
-      "transmission": 0.0,
-      "textures": []
     },
     {
       "name": "LUZ99 | cromado sanitario",
@@ -2671,7 +2682,7 @@
       ]
     },
     {
-      "name": "R7B | Agregado suelo 0",
+      "name": "R8B | Agregado suelo 0",
       "key": "",
       "color": [
         0.07000000029802322,
@@ -2687,7 +2698,7 @@
       "textures": []
     },
     {
-      "name": "R7B | Agregado suelo 1",
+      "name": "R8B | Agregado suelo 1",
       "key": "",
       "color": [
         0.12999999523162842,
@@ -2703,7 +2714,7 @@
       "textures": []
     },
     {
-      "name": "R7B | Agregado suelo 2",
+      "name": "R8B | Agregado suelo 2",
       "key": "",
       "color": [
         0.0949999988079071,
@@ -2719,7 +2730,7 @@
       "textures": []
     },
     {
-      "name": "R7B | Agregado suelo 3",
+      "name": "R8B | Agregado suelo 3",
       "key": "",
       "color": [
         0.1599999964237213,
@@ -2735,7 +2746,7 @@
       "textures": []
     },
     {
-      "name": "R7B | Botón mate",
+      "name": "R8B | Botón mate",
       "key": "",
       "color": [
         0.36000001430511475,
@@ -2751,7 +2762,7 @@
       "textures": []
     },
     {
-      "name": "R7B | Cortina tejido",
+      "name": "R8B | Cortina tejido",
       "key": "",
       "color": [
         0.5,
@@ -2771,7 +2782,7 @@
       ]
     },
     {
-      "name": "R7B | Funda almohada",
+      "name": "R8B | Funda almohada",
       "key": "",
       "color": [
         0.5,
@@ -2791,7 +2802,7 @@
       ]
     },
     {
-      "name": "R7B | Hoja acelga",
+      "name": "R8B | Hoja acelga",
       "key": "",
       "color": [
         0.04800000041723251,
@@ -2807,7 +2818,7 @@
       "textures": []
     },
     {
-      "name": "R7B | Hoja albahaca",
+      "name": "R8B | Hoja albahaca",
       "key": "",
       "color": [
         0.05999999865889549,
@@ -2823,7 +2834,7 @@
       "textures": []
     },
     {
-      "name": "R7B | Hoja lechuga",
+      "name": "R8B | Hoja lechuga",
       "key": "",
       "color": [
         0.1599999964237213,
@@ -2839,7 +2850,7 @@
       "textures": []
     },
     {
-      "name": "R7B | Hoja pimiento",
+      "name": "R8B | Hoja pimiento",
       "key": "",
       "color": [
         0.02800000086426735,
@@ -2855,7 +2866,7 @@
       "textures": []
     },
     {
-      "name": "R7B | Manta tejido y caída",
+      "name": "R8B | Manta tejido y caída",
       "key": "",
       "color": [
         0.5,
@@ -2875,7 +2886,7 @@
       ]
     },
     {
-      "name": "R7B | Nervio 0",
+      "name": "R8B | Nervio 0",
       "key": "",
       "color": [
         0.23999999463558197,
@@ -2891,7 +2902,7 @@
       "textures": []
     },
     {
-      "name": "R7B | Nervio 1",
+      "name": "R8B | Nervio 1",
       "key": "",
       "color": [
         0.11999999731779099,
@@ -2907,7 +2918,7 @@
       "textures": []
     },
     {
-      "name": "R7B | Nervio 2",
+      "name": "R8B | Nervio 2",
       "key": "",
       "color": [
         0.3100000023841858,
@@ -2923,7 +2934,7 @@
       "textures": []
     },
     {
-      "name": "R7B | Nervio 3",
+      "name": "R8B | Nervio 3",
       "key": "",
       "color": [
         0.17000000178813934,
@@ -2939,7 +2950,7 @@
       "textures": []
     },
     {
-      "name": "R7B | Perchas acero cepillado",
+      "name": "R8B | Perchas acero cepillado",
       "key": "",
       "color": [
         0.3400000035762787,
@@ -2955,7 +2966,7 @@
       "textures": []
     },
     {
-      "name": "R7B | Pimiento verde",
+      "name": "R8B | Pimiento verde",
       "key": "",
       "color": [
         0.04500000178813934,
@@ -2971,7 +2982,7 @@
       "textures": []
     },
     {
-      "name": "R7B | Prenda adulta 0",
+      "name": "R8B | Prenda adulta 0",
       "key": "",
       "color": [
         0.5,
@@ -2991,7 +3002,7 @@
       ]
     },
     {
-      "name": "R7B | Prenda adulta 1",
+      "name": "R8B | Prenda adulta 1",
       "key": "",
       "color": [
         0.5,
@@ -3011,7 +3022,7 @@
       ]
     },
     {
-      "name": "R7B | Prenda adulta 2",
+      "name": "R8B | Prenda adulta 2",
       "key": "",
       "color": [
         0.5,
@@ -3031,7 +3042,7 @@
       ]
     },
     {
-      "name": "R7B | Prenda adulta 3",
+      "name": "R8B | Prenda adulta 3",
       "key": "",
       "color": [
         0.5,
@@ -3051,7 +3062,7 @@
       ]
     },
     {
-      "name": "R7B | Prenda adulta 4",
+      "name": "R8B | Prenda adulta 4",
       "key": "",
       "color": [
         0.5,
@@ -3071,7 +3082,7 @@
       ]
     },
     {
-      "name": "R7B | Prenda adulta 5",
+      "name": "R8B | Prenda adulta 5",
       "key": "",
       "color": [
         0.5,
@@ -3091,7 +3102,7 @@
       ]
     },
     {
-      "name": "R7B | Prenda adulta 6",
+      "name": "R8B | Prenda adulta 6",
       "key": "",
       "color": [
         0.5,
@@ -3111,7 +3122,7 @@
       ]
     },
     {
-      "name": "R7B | Suelo franco y compost",
+      "name": "R8B | Suelo franco y compost",
       "key": "",
       "color": [
         0.0949999988079071,
@@ -3131,7 +3142,7 @@
       ]
     },
     {
-      "name": "R7B | Tallo 0",
+      "name": "R8B | Tallo 0",
       "key": "",
       "color": [
         0.25999999046325684,
@@ -3147,7 +3158,7 @@
       "textures": []
     },
     {
-      "name": "R7B | Tallo 1",
+      "name": "R8B | Tallo 1",
       "key": "",
       "color": [
         0.06499999761581421,
@@ -3163,7 +3174,7 @@
       "textures": []
     },
     {
-      "name": "R7B | Tallo 2",
+      "name": "R8B | Tallo 2",
       "key": "",
       "color": [
         0.36000001430511475,
@@ -3179,7 +3190,7 @@
       "textures": []
     },
     {
-      "name": "R7B | Tallo 3",
+      "name": "R8B | Tallo 3",
       "key": "",
       "color": [
         0.07999999821186066,
@@ -3288,6 +3299,38 @@
       ],
       "proceduralFinish": null,
       "roughness": 0.4300000071525574,
+      "metalness": 0.0,
+      "ior": 1.5,
+      "transmission": 0.0,
+      "textures": []
+    },
+    {
+      "name": "SAN8 | bearing polymer",
+      "key": "",
+      "color": [
+        0.12999999523162842,
+        0.13500000536441803,
+        0.12999999523162842,
+        1.0
+      ],
+      "proceduralFinish": null,
+      "roughness": 0.550000011920929,
+      "metalness": 0.0,
+      "ior": 1.5,
+      "transmission": 0.0,
+      "textures": []
+    },
+    {
+      "name": "SAN8 | friction composite",
+      "key": "",
+      "color": [
+        0.10000000149011612,
+        0.09000000357627869,
+        0.07500000298023224,
+        1.0
+      ],
+      "proceduralFinish": null,
+      "roughness": 0.6800000071525574,
       "metalness": 0.0,
       "ior": 1.5,
       "transmission": 0.0,
@@ -3441,25 +3484,6 @@
       ]
     },
     {
-      "name": "Textil | fabric",
-      "key": "fabric",
-      "color": [
-        1.0,
-        1.0,
-        1.0,
-        1.0
-      ],
-      "proceduralFinish": null,
-      "roughness": 0.8799999952316284,
-      "metalness": 0.0,
-      "ior": 1.5,
-      "transmission": 0.0,
-      "textures": [
-        "//..\\source\\textures\\fabric_albedo.png",
-        "//..\\source\\textures\\fabric_surface.png"
-      ]
-    },
-    {
       "name": "tree_small_02_branches",
       "key": "",
       "color": [
@@ -3498,6 +3522,74 @@
         "//..\\source\\assets\\tree_small_02\\textures\\tree_small_02_rough_2k.exr",
         "//..\\source\\assets\\tree_small_02\\textures\\tree_small_02_nor_gl_2k.exr"
       ]
+    },
+    {
+      "name": "UPH99 | Tejido tapizado fotográfico",
+      "key": "fabricPhotographic",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "proceduralFinish": null,
+      "roughness": 0.8199999928474426,
+      "metalness": 0.0,
+      "ior": 1.5,
+      "transmission": 0.0,
+      "textures": [
+        "D:\\2026\\42\\source\\assets\\terlenka\\terlenka_diff_2k.png",
+        "D:\\2026\\42\\source\\assets\\terlenka\\terlenka_nor_gl_2k.png",
+        "D:\\2026\\42\\source\\assets\\terlenka\\terlenka_rough_2k.png"
+      ]
+    },
+    {
+      "name": "USO99 | rubber",
+      "key": "",
+      "color": [
+        0.02500000037252903,
+        0.028999999165534973,
+        0.02500000037252903,
+        1.0
+      ],
+      "proceduralFinish": null,
+      "roughness": 0.6499999761581421,
+      "metalness": 0.0,
+      "ior": 1.5,
+      "transmission": 0.0,
+      "textures": []
+    },
+    {
+      "name": "USO99 | steel",
+      "key": "",
+      "color": [
+        0.054999999701976776,
+        0.06499999761581421,
+        0.06599999964237213,
+        1.0
+      ],
+      "proceduralFinish": null,
+      "roughness": 0.30000001192092896,
+      "metalness": 0.800000011920929,
+      "ior": 1.5,
+      "transmission": 0.0,
+      "textures": []
+    },
+    {
+      "name": "USO99 | tray",
+      "key": "",
+      "color": [
+        0.07500000298023224,
+        0.07999999821186066,
+        0.07999999821186066,
+        1.0
+      ],
+      "proceduralFinish": null,
+      "roughness": 0.41999998688697815,
+      "metalness": 0.05000000074505806,
+      "ior": 1.5,
+      "transmission": 0.0,
+      "textures": []
     },
     {
       "name": "Vaso de piscina | poolBasin",

@@ -1,89 +1,13 @@
 {
-  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R7D.blend",
-  "sourceSHA256": "9cf1a0e2f1b1a6063a28942623f20bc25b1b1ef423471a284b052ed7acffc54e",
-  "revision": "R7",
+  "source": "D:\\2026\\42\\output\\Casa_de_Campo_99_R8.blend",
+  "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+  "revision": "R8",
   "status": "CANDIDATO EN REVISIÓN; umbral global 9,9 pendiente",
   "video": "PAUSED_PENDING_EXPLICIT_APPROVAL",
   "engine": "Cycles OptiX",
   "transform": "AgX Medium High Contrast",
   "exposureEV": 0.35,
   "images": [
-    {
-      "key": "exterior",
-      "file": "exterior.jpg",
-      "title": "Casa y paisaje",
-      "camera": "CAM | Presentación verticales corregidas",
-      "frame": 1,
-      "pixels": [
-        2400,
-        1800
-      ],
-      "samples": 256,
-      "adaptiveThreshold": 0.008999999612569809,
-      "exposureEV": 0.35,
-      "positionBlender": [
-        7.5,
-        -26.0,
-        7.400000095367432
-      ],
-      "quaternionBlender": [
-        0.6831219792366028,
-        0.6831219792366028,
-        -0.18260446190834045,
-        -0.18260447680950165
-      ],
-      "lensMM": 30.0,
-      "sensorMM": [
-        36.0,
-        24.0
-      ],
-      "shift": [
-        0.0,
-        -0.25
-      ],
-      "seconds": 80.35,
-      "sha256": "9c087860da67f1f813371c10b9d4808c48ed818ebafd6e3c5360c760bc66f3b6",
-      "source_png_sha256": "d42c0953456f671a27191d0ed7695c648fd0be3527ade2672c95bd2e9fb438cd",
-      "bytes": 1672784
-    },
-    {
-      "key": "pileta",
-      "file": "pileta.jpg",
-      "title": "Pileta y playa húmeda",
-      "camera": "CAM | Pileta & playa húmeda",
-      "frame": 1,
-      "pixels": [
-        2000,
-        1500
-      ],
-      "samples": 256,
-      "adaptiveThreshold": 0.008999999612569809,
-      "exposureEV": 0.35,
-      "positionBlender": [
-        10.5,
-        -21.700000762939453,
-        3.5999999046325684
-      ],
-      "quaternionBlender": [
-        0.7232989072799683,
-        0.5133904218673706,
-        -0.2672996520996094,
-        -0.3765897750854492
-      ],
-      "lensMM": 25.0,
-      "sensorMM": [
-        36.0,
-        24.0
-      ],
-      "shift": [
-        0.0,
-        0.0
-      ],
-      "seconds": 55.24,
-      "sha256": "65df77c8a5b3692c9bf8c990a8177d42f103a4603d0b270e21abc121fc4d79e7",
-      "source_png_sha256": "d2d3f029ce3dbbe952e56b1f2f27f948d20ae817b1524d06955cbd8f903393ea",
-      "bytes": 1165171
-    },
     {
       "key": "huerta",
       "file": "huerta.jpg",
@@ -117,10 +41,10 @@
         0.0,
         0.0
       ],
-      "seconds": 40.35,
-      "sha256": "29edf5f32c120d99651f1a1583a37fe248c7652df1320b488676f6476769bd58",
-      "source_png_sha256": "05ac31bef748944c067449bd0b377e29e03c61456d80685a8b6d93b4f79d9769",
-      "bytes": 1495101
+      "seconds": 51.6,
+      "sha256": "66455af0d8b23e8ad802f468dafd32c0c6796a1cb1220f03f369c508076828c8",
+      "source_png_sha256": "1eb4bbc67c5b211dbc83cf69fb041d92598dde2544579c2dc567ef9de289ccf8",
+      "bytes": 1233634
     },
     {
       "key": "estudio",
@@ -155,86 +79,10 @@
         0.0,
         0.0
       ],
-      "seconds": 54.8,
-      "sha256": "fbd55cef820fca975d1e8db7bb1c7321d59f4a360a320895040fc649c27e81cb",
-      "source_png_sha256": "5a6e2d0d68280dd47b50306c5d0c70ed85f0da0f73d910513fe1b57faab7e220",
-      "bytes": 654917
-    },
-    {
-      "key": "cocina",
-      "file": "cocina.jpg",
-      "title": "Cocina de la vivienda",
-      "camera": "REV | Cocina comedor",
-      "frame": 150,
-      "pixels": [
-        2000,
-        1500
-      ],
-      "samples": 256,
-      "adaptiveThreshold": 0.008999999612569809,
-      "exposureEV": 0.35,
-      "positionBlender": [
-        15.050000190734863,
-        -11.460000038146973,
-        4.929999828338623
-      ],
-      "quaternionBlender": [
-        0.5866951942443848,
-        0.5322481393814087,
-        -0.41008228063583374,
-        -0.4520323872566223
-      ],
-      "lensMM": 24.0,
-      "sensorMM": [
-        36.0,
-        24.0
-      ],
-      "shift": [
-        0.0,
-        0.0
-      ],
-      "seconds": 76.85,
-      "sha256": "d2d023030552904238ae3f330723263ebcabe461feb98a052c8607188fa59a36",
-      "source_png_sha256": "e62f277fd567e043044e412f80f0d88d5efad2f0e222540c0a89db3f56d10afb",
-      "bytes": 488358
-    },
-    {
-      "key": "quincho",
-      "file": "quincho.jpg",
-      "title": "Quincho y línea de fuego",
-      "camera": "REV | Quincho y extracción",
-      "frame": 150,
-      "pixels": [
-        2000,
-        1500
-      ],
-      "samples": 256,
-      "adaptiveThreshold": 0.008999999612569809,
-      "exposureEV": 0.35,
-      "positionBlender": [
-        15.0,
-        -11.399999618530273,
-        1.9199999570846558
-      ],
-      "quaternionBlender": [
-        0.6131797432899475,
-        0.5995820760726929,
-        -0.3595699667930603,
-        -0.36772462725639343
-      ],
-      "lensMM": 23.0,
-      "sensorMM": [
-        36.0,
-        24.0
-      ],
-      "shift": [
-        0.0,
-        0.0
-      ],
-      "seconds": 60.37,
-      "sha256": "a4ab673f7144f6829b2aa9a421c79345a37cc45418de946d45b3a0fada781d53",
-      "source_png_sha256": "81d245b1aff5551a72d38ad4cc976a9a62d7bf777a7710b5899049433023cac2",
-      "bytes": 660754
+      "seconds": 56.21,
+      "sha256": "a1307c1f8979eef127f6f31e416a052122d604e39921634daf00f0ded9c5ce36",
+      "source_png_sha256": "db117ab04ba97a1d45119f168293693530a9489dd4fd35405b394145dec9d724",
+      "bytes": 630173
     },
     {
       "key": "dormitorio",
@@ -269,10 +117,200 @@
         0.0,
         0.0
       ],
-      "seconds": 64.07,
-      "sha256": "5d8ad552a4036b8ee4e7f5275bc5473b832b77e9363beb669336d43970dc5a6e",
-      "source_png_sha256": "0685be025485d3abcdd31c814d56aaa1b093e4333ed636c7580bf9bf8c848e55",
-      "bytes": 474494
+      "seconds": 64.74,
+      "sha256": "53831e4b7606f9b81f7fe4583c093acf30a6c38a0f435b163ab93702769d2aa5",
+      "source_png_sha256": "87af0f73c32379fd534c7c3b0c2ca59532742829aba46571efa24fe4e3561418",
+      "bytes": 446235
+    },
+    {
+      "key": "pileta_jardin",
+      "file": "pileta_jardin.jpg",
+      "title": "Pileta desde el jardín, borde próximo completo",
+      "camera": "LUZ99 | Pileta desde jardin",
+      "frame": 1,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        10.0,
+        -14.25,
+        1.7200000286102295
+      ],
+      "quaternionBlender": [
+        0.4484221041202545,
+        0.36791619658470154,
+        -0.5166906714439392,
+        -0.6297507882118225
+      ],
+      "lensMM": 25.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 56.35,
+      "sha256": "efbff0e7e1ac39c7fe754ae5cb65f4577fabd2477e524a4504689b1c06b417f4",
+      "source_png_sha256": "227b2ada728c13f5da643da05e0008615ad5bbc529567d7c824fb232cd6130a4",
+      "bytes": 1112052
+    },
+    {
+      "key": "exterior",
+      "file": "exterior.jpg",
+      "title": "Casa y paisaje",
+      "camera": "CAM | Presentación verticales corregidas",
+      "frame": 1,
+      "pixels": [
+        2400,
+        1800
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        7.5,
+        -26.0,
+        7.400000095367432
+      ],
+      "quaternionBlender": [
+        0.6831219792366028,
+        0.6831219792366028,
+        -0.18260446190834045,
+        -0.18260447680950165
+      ],
+      "lensMM": 30.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        -0.25
+      ],
+      "seconds": 87.39,
+      "sha256": "01c56d26614aa2afddbe0f58236dcdc37a125080eaf729268540a315cd524b23",
+      "source_png_sha256": "887f791ccefad98732b0e755d3c0252b4fb2076e721f223436ec319a7ec3a4d0",
+      "bytes": 1590474
+    },
+    {
+      "key": "pileta",
+      "file": "pileta.jpg",
+      "title": "Pileta y playa húmeda",
+      "camera": "CAM | Pileta & playa húmeda",
+      "frame": 1,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        10.5,
+        -21.700000762939453,
+        3.5999999046325684
+      ],
+      "quaternionBlender": [
+        0.7232989072799683,
+        0.5133904218673706,
+        -0.2672996520996094,
+        -0.3765897750854492
+      ],
+      "lensMM": 25.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 58.14,
+      "sha256": "5aca60e5e575cdda22d768227bfee5c400d7f8008ae0381d5679433e2612e6cf",
+      "source_png_sha256": "7735f2b6e287c89ab0e90bf5267b2e187f323d6d5a9acfe2b98f141e35554db6",
+      "bytes": 1132897
+    },
+    {
+      "key": "cocina",
+      "file": "cocina.jpg",
+      "title": "Cocina de la vivienda",
+      "camera": "REV | Cocina comedor",
+      "frame": 150,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        15.050000190734863,
+        -11.460000038146973,
+        4.929999828338623
+      ],
+      "quaternionBlender": [
+        0.5866951942443848,
+        0.5322481393814087,
+        -0.41008228063583374,
+        -0.4520323872566223
+      ],
+      "lensMM": 24.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 82.06,
+      "sha256": "87d6716bc145eac7bf5dbab529f82ac60d9a3d219c129a8043575e005f87704a",
+      "source_png_sha256": "9aef73e346bc0258d355f66c9f28fc0880e9e542b4ffc372bde633c933956466",
+      "bytes": 499052
+    },
+    {
+      "key": "quincho",
+      "file": "quincho.jpg",
+      "title": "Quincho y línea de fuego",
+      "camera": "REV | Quincho y extracción",
+      "frame": 150,
+      "pixels": [
+        2000,
+        1500
+      ],
+      "samples": 256,
+      "adaptiveThreshold": 0.008999999612569809,
+      "exposureEV": 0.35,
+      "positionBlender": [
+        15.0,
+        -11.399999618530273,
+        1.9199999570846558
+      ],
+      "quaternionBlender": [
+        0.6131797432899475,
+        0.5995820760726929,
+        -0.3595699667930603,
+        -0.36772462725639343
+      ],
+      "lensMM": 23.0,
+      "sensorMM": [
+        36.0,
+        24.0
+      ],
+      "shift": [
+        0.0,
+        0.0
+      ],
+      "seconds": 64.78,
+      "sha256": "690033153f957d19d2dfd81d55e597568cd1c4cc986789bc172b434a4dccad24",
+      "source_png_sha256": "2203488c55bed294f6eb792f628d7d51e80faf011106f1d4cabd91ae51fcfdaa",
+      "bytes": 657149
     },
     {
       "key": "dormitorio_acceso",
@@ -307,10 +345,10 @@
         0.0,
         0.0
       ],
-      "seconds": 99.45,
-      "sha256": "d35c5b161b09d040da867a2ec7b5943c075bb3d640a46a0e4efdbe3155a27a7e",
-      "source_png_sha256": "9fa3764983e635e8bcd41ebe544cc85cf1e58e3264685d7de37516c051936000",
-      "bytes": 318447
+      "seconds": 62.62,
+      "sha256": "d78818750ed12675e74f513db5ed2c63fa7e73788ca4077c1a543e4329441d18",
+      "source_png_sha256": "fd2f128e0302de4ce7c785c74e34c7cfbb7dd1a3379cc8b68956a9c1e4897719",
+      "bytes": 284869
     },
     {
       "key": "vestidor",
@@ -345,10 +383,10 @@
         0.0,
         0.0
       ],
-      "seconds": 59.16,
-      "sha256": "d27038b6f75abe69fcd535adc9ea35ae9a9771b0b44aceffc85e8542f57de4b9",
-      "source_png_sha256": "385c4c72d505bfe004900ad12d792b16b7b66574e1b5fe5720ddd35c403720a9",
-      "bytes": 637958
+      "seconds": 57.83,
+      "sha256": "41a64da4c9cda12aa4d53a1fc8fb91a249d56ab548bf6be64272f6c5667f47fc",
+      "source_png_sha256": "4ea7a8e8c300e2d24404d47d04729b77a7e92156e5070b4a790a975b376ebb61",
+      "bytes": 636429
     },
     {
       "key": "bano",
@@ -383,10 +421,10 @@
         0.0,
         0.0
       ],
-      "seconds": 67.47,
-      "sha256": "d6ccdccd2eb24dcdc9f97b2a999ccb6c7e81b94dca597dedaeb16ac3a3a5f971",
-      "source_png_sha256": "15cb3b781bd5917adb4c6efbe19d5ddef330bf1b1e5da9528a8943de7f97f653",
-      "bytes": 567094
+      "seconds": 69.76,
+      "sha256": "b13f1ca2936ec54f3131ab87d30d11d3dc0f2d2e4c3b9312711a0560fcfebf15",
+      "source_png_sha256": "4b8715f96e47c335dff915fdef1abf9a57031678f3887de227d25316d0a3246b",
+      "bytes": 565163
     },
     {
       "key": "bano_acceso",
@@ -421,10 +459,10 @@
         0.0,
         0.0
       ],
-      "seconds": 84.88,
-      "sha256": "8afeeee38c86bda64ede6e180dddcc66c187ed6f89e2f2f0ebe77e962139b46e",
-      "source_png_sha256": "160c7add5509fd9713e7088a439cfee6184224c90af01b11d9b20787dbce4b79",
-      "bytes": 498253
+      "seconds": 89.72,
+      "sha256": "966137806ed90b639ebe3d1b7c5512b1a970dd9d631a4c28fba8c05496b7af07",
+      "source_png_sha256": "9d3006aa1892d4a78d59de61dd6438d427746ccc1db5bf4eb8eca2f1f1f36038",
+      "bytes": 499920
     },
     {
       "key": "puerta_bano",
@@ -459,10 +497,10 @@
         0.0,
         0.0
       ],
-      "seconds": 70.16,
-      "sha256": "9bf80839c00ad0b2e4aed6538ae8d8ae249b92aea1d496fcb332e916239efce2",
-      "source_png_sha256": "6b0d2125d7caa91620a2ffa5fcf4130f34301b3600450b18cbbd64595f8b0562",
-      "bytes": 496835
+      "seconds": 87.2,
+      "sha256": "44372eb6853e68c97e7ea94b8a15e95feac78f4cefeef5636a296cc17417e129",
+      "source_png_sha256": "c3c3f7e0ffcb64fa70f9adec087d5afd75bd658f15ef93970ed26b6c9586e1c7",
+      "bytes": 496198
     },
     {
       "key": "mono_cocina",
@@ -497,10 +535,10 @@
         0.0,
         0.0
       ],
-      "seconds": 64.32,
-      "sha256": "b5233e89bb3721d99c378922958b36449645ebb099d917a12b743eafbb3b1970",
-      "source_png_sha256": "521c3e2ad8bb7de31201267f03b66e39ce8c713a5b691ee31fd17c11de54f580",
-      "bytes": 643954
+      "seconds": 76.41,
+      "sha256": "9848101ca329310693584edc4d6a7654148da71eabc617a493d5b8e0fcf31343",
+      "source_png_sha256": "e244e2c05e5eec78ea6e56485e1e45f2a909428b477ad2fbb5bbcf4344523c09",
+      "bytes": 639152
     },
     {
       "key": "mono_distribucion",
@@ -535,10 +573,10 @@
         0.0,
         0.0
       ],
-      "seconds": 57.43,
-      "sha256": "4d2a3dc36b9a41147c01ea258300970a701ec3ed17b07a20fa86e31b02ab1954",
-      "source_png_sha256": "32f9630e4b15edfe526da6679abca06eca4528ed454f24b2912da185de9157ff",
-      "bytes": 750292
+      "seconds": 69.97,
+      "sha256": "73a565188011e4746e40fb074d544eb60bfa1b1a8be20df546b10cc0d5edd613",
+      "source_png_sha256": "6760cb2276efffb493823fc88879d2ebfeba067f34fd7309092ffefc2e2b3085",
+      "bytes": 748130
     },
     {
       "key": "bano_mono",
@@ -573,10 +611,10 @@
         0.0,
         -0.10000000149011612
       ],
-      "seconds": 88.77,
-      "sha256": "5c3337c00dba5b0f11046233c53c96459d6f12a95af19ca952191c7fa62f1295",
-      "source_png_sha256": "8751c5ea6fe7543026aa0dbb677bff594f43c126cf3efb99241908e9b3275c77",
-      "bytes": 278522
+      "seconds": 113.59,
+      "sha256": "749242213c198b4c0e5290d83a2f56cf261abd9f80efb27689e384eaf34c7183",
+      "source_png_sha256": "2013b04890364fb2a2413920330ee44925b369560a54fdbcc093af9232f96209",
+      "bytes": 278576
     },
     {
       "key": "bano_mono_sanitarios",
@@ -611,10 +649,10 @@
         0.0,
         0.0
       ],
-      "seconds": 80.88,
-      "sha256": "e6e33341dd8637611d0ff439e2aeac44c28b5ed1cd0b400e09ab3e9be50cb8a5",
-      "source_png_sha256": "f621a4ae979d5efc7fbdba121cd3ea119722617a1723d738e4a12b1f7c814b68",
-      "bytes": 311691
+      "seconds": 96.08,
+      "sha256": "77494ecb1c62af5c7b6dda25e9670633813cdf434086e05fb528ef7b284e1336",
+      "source_png_sha256": "372403d5a7e8595519a171e1cbf70b3c5d9321f20a676b90729b4b7bd38c7700",
+      "bytes": 324015
     },
     {
       "key": "bano_quincho",
@@ -649,10 +687,10 @@
         0.0,
         0.0
       ],
-      "seconds": 49.46,
-      "sha256": "b2ba29abe6ed9c5c2c8085af7fef3f9f40624ae42718d532ca2a3b6381ab99c8",
-      "source_png_sha256": "c07be5ab062d93805aa2e3f811e307958feb5c3b9c249666491ebe7051b665d4",
-      "bytes": 1017643
+      "seconds": 68.41,
+      "sha256": "1bdc5e7d04ac4bd069b0848bdb094017654223eaac23ee6271a5f0d21d2f9e93",
+      "source_png_sha256": "16581960bda0ecb38043447e49e24f3d33a04e0cb16b1cb00ae087f6e6d5269e",
+      "bytes": 1010658
     },
     {
       "key": "escalera",
@@ -687,10 +725,10 @@
         0.0,
         0.0
       ],
-      "seconds": 54.37,
-      "sha256": "07ce20512c9e566899ac975d8fe58784ffb486760f4eb4b662d1ff28ceae2aed",
-      "source_png_sha256": "f5d6343a74124d5d9c9f88e16e1bec07915a1e0b1a442538872efc008361e863",
-      "bytes": 1179335
+      "seconds": 71.3,
+      "sha256": "9139b03e3e598df774f60f47fa00568280b5fa13d6f8697e57d0d801c7913458",
+      "source_png_sha256": "92780c567c5984734d5819f90b6d175d85d7aa89f0e5d6c487875d1060af97fe",
+      "bytes": 1149777
     },
     {
       "key": "cubiertas",
@@ -725,10 +763,10 @@
         0.0,
         0.0
       ],
-      "seconds": 30.49,
-      "sha256": "418a97e4042f89f87c71bd88c2602c00463061608e23d4666016c9f8874dac51",
-      "source_png_sha256": "c390bd4c0f318b31ac9f525ff9c6f05431437f75af415f102f468496340c0eeb",
-      "bytes": 960873
+      "seconds": 38.76,
+      "sha256": "1b68ca12632ca0a6ff6a394c08a9c62858b8e46ce27b99e4e61f9a79155a0d03",
+      "source_png_sha256": "8a4231452c49f9f0500561f163b43ddc0ac381ee179075970e08aaf5715f567c",
+      "bytes": 958052
     },
     {
       "key": "estudio_retrato",
@@ -763,10 +801,10 @@
         0.0,
         0.0
       ],
-      "seconds": 79.15,
-      "sha256": "62bf20c3c7356e52b6fa0270e7d103aaaaca246b4aa5d3ae42b0aebe101c1606",
-      "source_png_sha256": "3641b7c0d4c252b92870db657deaae2129cf6cedb5ea3ae71fb45cf6cadfb947",
-      "bytes": 848800
+      "seconds": 88.51,
+      "sha256": "e51af39a97950f3e36cb1e2ab73559a61138cd66e6c160af451fa2a9a6fdd5a3",
+      "source_png_sha256": "fa93d6fe901b541eba01fa176a4580b8a76166a9d01ea9c6d2c9b77cc2030397",
+      "bytes": 790717
     },
     {
       "key": "dormitorio_retrato",
@@ -801,10 +839,10 @@
         0.0,
         0.0
       ],
-      "seconds": 92.05,
-      "sha256": "395e459436659c58db780623c5ed687a7cae49b97c004bc9779271bbab36682a",
-      "source_png_sha256": "119bc61b500784947a6d99735149279776823e93828fb2816e64553071db8093",
-      "bytes": 589314
+      "seconds": 113.85,
+      "sha256": "48fd36778f996232a2eb630ca2dc1ce011530bed7fcd4f202f3715aa3b375f88",
+      "source_png_sha256": "fe773d8a97ca7af5390fb7a7426d1a113f7cbd21c2fd1a6a5de9d7550a2579fb",
+      "bytes": 563670
     },
     {
       "key": "vestidor_retrato",
@@ -839,10 +877,10 @@
         0.0,
         0.0
       ],
-      "seconds": 83.72,
-      "sha256": "678855099b1189c40f732a4921066d8fe4ca5ea166c00d0e530eea89bcc0c138",
-      "source_png_sha256": "ff1556ab68acc30af0607064b32cb753f8033b5d702fb90497c14ce78a9fc60d",
-      "bytes": 906856
+      "seconds": 105.06,
+      "sha256": "1c3e24acd26f9f9ef347f77415271b5b7408b65f5f2440e5a035cb6469db90c9",
+      "source_png_sha256": "9a71f1e0de8018efededb40096694322e885b982a6c84ea84fc3804bb46f672f",
+      "bytes": 904932
     },
     {
       "key": "exterior_retrato",
@@ -877,10 +915,10 @@
         0.0,
         0.0
       ],
-      "seconds": 58.26,
-      "sha256": "f330cdef18766c646be99daf3a1ad43013b6ca089ed183c9bbb8c7d97d7d0cb5",
-      "source_png_sha256": "99fb8f60b4522c8bac6a2113cc3c6de35c8c371d9c805318c2159199da823522",
-      "bytes": 1277394
+      "seconds": 78.14,
+      "sha256": "7739626e63adc5a4f33c99c4a086348410d85f602847d229a9021b49a3567ebb",
+      "source_png_sha256": "7c7af50be0daad86433a8408107c53559cc22ab1e5b132cc9484f7fa97e47107",
+      "bytes": 1198777
     },
     {
       "key": "bano_humano",
@@ -915,10 +953,10 @@
         0.0,
         0.0
       ],
-      "seconds": 70.73,
-      "sha256": "b2f217d068efd9cfcc9d85b44b73df6bbe0e6097885c437deca20237d2192df9",
-      "source_png_sha256": "13c981328d3824e010790e5550fe4bd2bd6cc9afc3e4eeb780bf54406e86fe1e",
-      "bytes": 522245
+      "seconds": 81.37,
+      "sha256": "46de8011d3227aa5f222f3af6045723b79b5a81b17f7ca99e63c159d2b7751dc",
+      "source_png_sha256": "0ffc01cf7183c6974bc152f1c6c38e933f9354a5a1250dc204c5e615bcd87e9e",
+      "bytes": 522656
     },
     {
       "key": "dormitorio_puerta",
@@ -953,10 +991,10 @@
         0.0,
         -0.11999999731779099
       ],
-      "seconds": 66.02,
-      "sha256": "2ba4f919e58d22dd38de5528af2e9c872ca919c3a61a0d9023f26f7c2c80ef45",
-      "source_png_sha256": "d2f0b2c1cf836cddf7d511b19f4bb40b30dea9a2e60a929550d8031dcd93b445",
-      "bytes": 338923
+      "seconds": 67.05,
+      "sha256": "c1e0599fd41815a33f34bb2798de53960f92ff46b0eaf12d57dbf569c15ad977",
+      "source_png_sha256": "a0d431970698e930a0da9ec098e02ee86c6aae238db76179e4944aaa92cb70cd",
+      "bytes": 319209
     }
   ]
 }
