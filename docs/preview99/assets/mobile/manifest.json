@@ -1,0 +1,952 @@
+{
+  "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+  "revision": "R8-mobile-1",
+  "entrypoint": "house.gltf",
+  "files": [
+    {
+      "uri": "house.gltf",
+      "bytes": 4995870,
+      "sha256": "a3507e501c3d55865e78aa7702b467102fc492518465ae73ed0f41a0cf7d30c9"
+    },
+    {
+      "uri": "geometry-de8372bfb7027b7db634360ee100568c4bff98cf660b274acd296434c974daf0.bin",
+      "bytes": 9721916,
+      "sha256": "de8372bfb7027b7db634360ee100568c4bff98cf660b274acd296434c974daf0"
+    },
+    {
+      "uri": "textures/f1792cb04997e577b16101c8e01741dbb11c5d61d654411585a7342ba05dc089.webp",
+      "bytes": 3034,
+      "sha256": "f1792cb04997e577b16101c8e01741dbb11c5d61d654411585a7342ba05dc089"
+    },
+    {
+      "uri": "textures/5ddb32eee12a0dffe9b33733197436148556260c551fa77cabb5b78313d3f50d.webp",
+      "bytes": 27560,
+      "sha256": "5ddb32eee12a0dffe9b33733197436148556260c551fa77cabb5b78313d3f50d"
+    },
+    {
+      "uri": "textures/2cfd65eb8a8cf2f6d46551909fa3a98f81dae51215d9ef7aab3122ffa0618435.webp",
+      "bytes": 62674,
+      "sha256": "2cfd65eb8a8cf2f6d46551909fa3a98f81dae51215d9ef7aab3122ffa0618435"
+    },
+    {
+      "uri": "textures/b242ffdf6772d04227452aa6a708e7804cb5c2cf73f808d631801330c6546639.webp",
+      "bytes": 10424,
+      "sha256": "b242ffdf6772d04227452aa6a708e7804cb5c2cf73f808d631801330c6546639"
+    },
+    {
+      "uri": "textures/b56433d5d9e01177cfa5d41c40da205e3d4e120d87d78eb1b501a108da183f43.webp",
+      "bytes": 3028,
+      "sha256": "b56433d5d9e01177cfa5d41c40da205e3d4e120d87d78eb1b501a108da183f43"
+    },
+    {
+      "uri": "textures/61ec44167d348d633ce010c1297b50898c42feecef196c05b5893b1a1512a0fc.webp",
+      "bytes": 22556,
+      "sha256": "61ec44167d348d633ce010c1297b50898c42feecef196c05b5893b1a1512a0fc"
+    },
+    {
+      "uri": "textures/673000e6d217ba19a33387b8efae38cc7ea928e9fb044ba23367cdf622ec6c57.webp",
+      "bytes": 1890,
+      "sha256": "673000e6d217ba19a33387b8efae38cc7ea928e9fb044ba23367cdf622ec6c57"
+    },
+    {
+      "uri": "textures/16718d6e997811459596b671dcd122fdd77b23717e47900af28974130d8f0f23.webp",
+      "bytes": 1518,
+      "sha256": "16718d6e997811459596b671dcd122fdd77b23717e47900af28974130d8f0f23"
+    },
+    {
+      "uri": "textures/2eec391a69f4d467b71b2e01fed075d3be3c3c4d0623d81b7cb2e9454f2e3725.webp",
+      "bytes": 5040,
+      "sha256": "2eec391a69f4d467b71b2e01fed075d3be3c3c4d0623d81b7cb2e9454f2e3725"
+    },
+    {
+      "uri": "textures/27058167524198f1890eaedbb21e043c7e10ae68a075475df5a9192f39dcf034.webp",
+      "bytes": 1136,
+      "sha256": "27058167524198f1890eaedbb21e043c7e10ae68a075475df5a9192f39dcf034"
+    },
+    {
+      "uri": "textures/397bbe2a43dc2e9e056a7c951d3545b560dccc350db6d87a0f9237a9439c0cc3.webp",
+      "bytes": 890,
+      "sha256": "397bbe2a43dc2e9e056a7c951d3545b560dccc350db6d87a0f9237a9439c0cc3"
+    },
+    {
+      "uri": "textures/1dd781d3adf806d98600dbb327bdabd575103dee8bf58f376154e716bfc82222.webp",
+      "bytes": 648,
+      "sha256": "1dd781d3adf806d98600dbb327bdabd575103dee8bf58f376154e716bfc82222"
+    },
+    {
+      "uri": "textures/b8b71a6b910146bd249b70dd41883afb2fce1c940dfb9b3c88785d42e4439059.webp",
+      "bytes": 4218,
+      "sha256": "b8b71a6b910146bd249b70dd41883afb2fce1c940dfb9b3c88785d42e4439059"
+    },
+    {
+      "uri": "textures/c5a8e7ef20def73ddf956ec5429c82993eafcd70c704e7d23d1a127c5aa4b70f.webp",
+      "bytes": 35888,
+      "sha256": "c5a8e7ef20def73ddf956ec5429c82993eafcd70c704e7d23d1a127c5aa4b70f"
+    },
+    {
+      "uri": "textures/684ab3f122e06335e5535333a83f7eed2351b7dd1157c30727a1790d44c84555.webp",
+      "bytes": 77888,
+      "sha256": "684ab3f122e06335e5535333a83f7eed2351b7dd1157c30727a1790d44c84555"
+    },
+    {
+      "uri": "textures/51504b01347e7b22a853dd27cdc6f505b09d52b1398ed8c1e5511bec2cb0e677.webp",
+      "bytes": 2712,
+      "sha256": "51504b01347e7b22a853dd27cdc6f505b09d52b1398ed8c1e5511bec2cb0e677"
+    },
+    {
+      "uri": "textures/c75f8a3ed7ee173642a3bd8bb482bda6b06e682fa306dc57ddf134271e3b87d1.webp",
+      "bytes": 93682,
+      "sha256": "c75f8a3ed7ee173642a3bd8bb482bda6b06e682fa306dc57ddf134271e3b87d1"
+    },
+    {
+      "uri": "textures/e15d317b4293a0c942c7869e891d44eeb7eda92e2d1eca5f26b9c0a07f74656e.webp",
+      "bytes": 52516,
+      "sha256": "e15d317b4293a0c942c7869e891d44eeb7eda92e2d1eca5f26b9c0a07f74656e"
+    },
+    {
+      "uri": "textures/e419c0f0ea08b4cf0edac2bb70a478d87e802ab4a711d3d0d176261513e18602.webp",
+      "bytes": 53760,
+      "sha256": "e419c0f0ea08b4cf0edac2bb70a478d87e802ab4a711d3d0d176261513e18602"
+    },
+    {
+      "uri": "textures/521bca2a2895c6796bf39491c58afd8da628d85793b9ea54b0f9193ea235e97c.webp",
+      "bytes": 824,
+      "sha256": "521bca2a2895c6796bf39491c58afd8da628d85793b9ea54b0f9193ea235e97c"
+    },
+    {
+      "uri": "textures/c1591c39c411c4077f81fcf370205b445279fea40503271d77a9b6f3050def21.webp",
+      "bytes": 1364,
+      "sha256": "c1591c39c411c4077f81fcf370205b445279fea40503271d77a9b6f3050def21"
+    },
+    {
+      "uri": "textures/50d9a5028e63123e4f33165e7aa183c280b34b90b5adb0fd5d90fca9f78e2ae6.webp",
+      "bytes": 52100,
+      "sha256": "50d9a5028e63123e4f33165e7aa183c280b34b90b5adb0fd5d90fca9f78e2ae6"
+    },
+    {
+      "uri": "textures/5e4a406de82df708c580862d3cf8d24901832e8a31395e7e63b9648fe974d6e7.webp",
+      "bytes": 35694,
+      "sha256": "5e4a406de82df708c580862d3cf8d24901832e8a31395e7e63b9648fe974d6e7"
+    },
+    {
+      "uri": "textures/49c3ac13153247941c735bd589c9c8daf9fa11b2a536b02f086fdd50e1998078.webp",
+      "bytes": 11664,
+      "sha256": "49c3ac13153247941c735bd589c9c8daf9fa11b2a536b02f086fdd50e1998078"
+    },
+    {
+      "uri": "textures/1be5fb8eba579eba56df9427ce7f2b62bb3afebe546b5be6bca0c6479f0fa6c9.webp",
+      "bytes": 38798,
+      "sha256": "1be5fb8eba579eba56df9427ce7f2b62bb3afebe546b5be6bca0c6479f0fa6c9"
+    },
+    {
+      "uri": "textures/384088f230a60aecd3bcbe17ab714bfdf32380d2fb7ddc0360d0533532d1525e.webp",
+      "bytes": 74940,
+      "sha256": "384088f230a60aecd3bcbe17ab714bfdf32380d2fb7ddc0360d0533532d1525e"
+    },
+    {
+      "uri": "textures/2f455f9d3949430802dee49451ee78483c0cf76b5cc32ac5416ffb0aa47eed1f.webp",
+      "bytes": 17914,
+      "sha256": "2f455f9d3949430802dee49451ee78483c0cf76b5cc32ac5416ffb0aa47eed1f"
+    },
+    {
+      "uri": "textures/75f9a40f9e20835baadecbe3d25a0f30bd08338a748a4544ab7064552bdace0e.webp",
+      "bytes": 109924,
+      "sha256": "75f9a40f9e20835baadecbe3d25a0f30bd08338a748a4544ab7064552bdace0e"
+    },
+    {
+      "uri": "textures/c42eabb7bf87d2c9fa975e10d125dc07b81c37a36a9c50621113ea8613dca362.webp",
+      "bytes": 70918,
+      "sha256": "c42eabb7bf87d2c9fa975e10d125dc07b81c37a36a9c50621113ea8613dca362"
+    },
+    {
+      "uri": "textures/c0bd671a27983c5a305eb8b15e51e154faed096b2ab35fe4ddd8e80251b6e35b.webp",
+      "bytes": 16474,
+      "sha256": "c0bd671a27983c5a305eb8b15e51e154faed096b2ab35fe4ddd8e80251b6e35b"
+    },
+    {
+      "uri": "textures/9b0f1651b8931c267f623d6083c72351b6d08a11acb997d76109929580197380.webp",
+      "bytes": 35480,
+      "sha256": "9b0f1651b8931c267f623d6083c72351b6d08a11acb997d76109929580197380"
+    },
+    {
+      "uri": "textures/5ee9579fb714ef3c632a152336165dff06bdd96e7c06935ebd2be5889005668a.webp",
+      "bytes": 1244,
+      "sha256": "5ee9579fb714ef3c632a152336165dff06bdd96e7c06935ebd2be5889005668a"
+    },
+    {
+      "uri": "textures/b0c1aaa3f2d36ab3a17e1648b2e8bec0f1530a732551ae0c7426b27949a83ac5.webp",
+      "bytes": 50602,
+      "sha256": "b0c1aaa3f2d36ab3a17e1648b2e8bec0f1530a732551ae0c7426b27949a83ac5"
+    },
+    {
+      "uri": "textures/d1f4df9a0881cb0f210d480aeb540e7328813cfb7ef69c2ed33d4032cf9d3e1f.webp",
+      "bytes": 58084,
+      "sha256": "d1f4df9a0881cb0f210d480aeb540e7328813cfb7ef69c2ed33d4032cf9d3e1f"
+    },
+    {
+      "uri": "textures/dbb46893d5dffd78835cf1c586d90a4fde8255b13fc1382109df5f0abe50059d.webp",
+      "bytes": 26416,
+      "sha256": "dbb46893d5dffd78835cf1c586d90a4fde8255b13fc1382109df5f0abe50059d"
+    },
+    {
+      "uri": "textures/3511dc2b01f003cc3ec032ee0c63246430b7cd7d43207d44065cae90fb524737.webp",
+      "bytes": 77458,
+      "sha256": "3511dc2b01f003cc3ec032ee0c63246430b7cd7d43207d44065cae90fb524737"
+    },
+    {
+      "uri": "textures/b055efe19970b6946f253dbebc11e29d3f8d6f8475a4871930611c4616ee7426.webp",
+      "bytes": 52730,
+      "sha256": "b055efe19970b6946f253dbebc11e29d3f8d6f8475a4871930611c4616ee7426"
+    },
+    {
+      "uri": "textures/26938ea8664a1a914fadf6adb93407758c43fb1d6b79499ab5f4d79e30503e7b.webp",
+      "bytes": 31672,
+      "sha256": "26938ea8664a1a914fadf6adb93407758c43fb1d6b79499ab5f4d79e30503e7b"
+    },
+    {
+      "uri": "textures/04e9e5e778d4c9f45e0a45f04ed06abbd9a7ca6d40320d25023626e92c78c4f2.webp",
+      "bytes": 126050,
+      "sha256": "04e9e5e778d4c9f45e0a45f04ed06abbd9a7ca6d40320d25023626e92c78c4f2"
+    },
+    {
+      "uri": "textures/a556f2ed3b96f5209f28a1cd3a29d7898f2ce45040d5e7de41034acab02acb1b.webp",
+      "bytes": 106704,
+      "sha256": "a556f2ed3b96f5209f28a1cd3a29d7898f2ce45040d5e7de41034acab02acb1b"
+    },
+    {
+      "uri": "textures/bde4e9141194b7d78c0ff0030289d3c53674d2a4a1ecdf4261d672d8ca9f8147.webp",
+      "bytes": 4830,
+      "sha256": "bde4e9141194b7d78c0ff0030289d3c53674d2a4a1ecdf4261d672d8ca9f8147"
+    },
+    {
+      "uri": "textures/0c93eb9dd5b4f7d126ec83ea1a7dc56500457145971bf6d34c25a6fc84d997df.webp",
+      "bytes": 3760,
+      "sha256": "0c93eb9dd5b4f7d126ec83ea1a7dc56500457145971bf6d34c25a6fc84d997df"
+    },
+    {
+      "uri": "textures/5b7ca9e8fbe6a6286b8eb0f330d613feda9b57a5c5d73ce6ca04b1fb6f278f5f.webp",
+      "bytes": 1256,
+      "sha256": "5b7ca9e8fbe6a6286b8eb0f330d613feda9b57a5c5d73ce6ca04b1fb6f278f5f"
+    },
+    {
+      "uri": "textures/715f4417f64e06d554ce52c204612536a3caa7e7dcf718240d1fc7dc884beac0.webp",
+      "bytes": 1186,
+      "sha256": "715f4417f64e06d554ce52c204612536a3caa7e7dcf718240d1fc7dc884beac0"
+    },
+    {
+      "uri": "textures/83f78e10968113777a6cd5769264d39776a3d9c6258c396f22971ac62f830b3e.webp",
+      "bytes": 1852,
+      "sha256": "83f78e10968113777a6cd5769264d39776a3d9c6258c396f22971ac62f830b3e"
+    },
+    {
+      "uri": "textures/97eb6c84db312e2020fe77c85f9bcbdc3559251a4260685e51421bcf6d0704e0.webp",
+      "bytes": 1178,
+      "sha256": "97eb6c84db312e2020fe77c85f9bcbdc3559251a4260685e51421bcf6d0704e0"
+    },
+    {
+      "uri": "textures/4c66fdcd4d4a29d8195b5677853f954fe419d3513b36cd3260bb2c9319ccd959.webp",
+      "bytes": 1568,
+      "sha256": "4c66fdcd4d4a29d8195b5677853f954fe419d3513b36cd3260bb2c9319ccd959"
+    },
+    {
+      "uri": "textures/5299464bfe103b312d2da21c600188d77a1000e85623f074856686a47ac1ba2f.webp",
+      "bytes": 16808,
+      "sha256": "5299464bfe103b312d2da21c600188d77a1000e85623f074856686a47ac1ba2f"
+    },
+    {
+      "uri": "textures/8ac776f5012a3ab786b218cb4d07bddac115d5ba486ec0861b1c6f6e6f851391.webp",
+      "bytes": 8302,
+      "sha256": "8ac776f5012a3ab786b218cb4d07bddac115d5ba486ec0861b1c6f6e6f851391"
+    },
+    {
+      "uri": "textures/a1baff3dc14845cad0940aaf19c0015f288213b1a841b54b2fff6d40dacad3a8.webp",
+      "bytes": 7286,
+      "sha256": "a1baff3dc14845cad0940aaf19c0015f288213b1a841b54b2fff6d40dacad3a8"
+    },
+    {
+      "uri": "textures/19ab597eb1db92da2e2284e1f063ca6d1625553cd0e22ddd6837d27bfdfc50c1.webp",
+      "bytes": 108448,
+      "sha256": "19ab597eb1db92da2e2284e1f063ca6d1625553cd0e22ddd6837d27bfdfc50c1"
+    },
+    {
+      "uri": "textures/e1cd4743105296200baa352e0301a9a886aff6b471964dfc63ee4932ac979d34.webp",
+      "bytes": 68394,
+      "sha256": "e1cd4743105296200baa352e0301a9a886aff6b471964dfc63ee4932ac979d34"
+    },
+    {
+      "uri": "textures/bae9700c74367c8ac15dd49ccefeb53acee59244905ea6937158e68eb90fabcb.webp",
+      "bytes": 27478,
+      "sha256": "bae9700c74367c8ac15dd49ccefeb53acee59244905ea6937158e68eb90fabcb"
+    },
+    {
+      "uri": "textures/12c13fc699148c60b3e37e9f8484a2f9332b567191c4763ce2a5dd0c3ca2eeb0.webp",
+      "bytes": 5398,
+      "sha256": "12c13fc699148c60b3e37e9f8484a2f9332b567191c4763ce2a5dd0c3ca2eeb0"
+    },
+    {
+      "uri": "textures/247f234538bfb4be01208199fd82ede8654e2eee7441f1901adabe06d417b747.webp",
+      "bytes": 7468,
+      "sha256": "247f234538bfb4be01208199fd82ede8654e2eee7441f1901adabe06d417b747"
+    },
+    {
+      "uri": "textures/8ed1d75c1ede22b6f0307e1fe67eaf834d0926beb54d075241679e96d31f93cc.webp",
+      "bytes": 738,
+      "sha256": "8ed1d75c1ede22b6f0307e1fe67eaf834d0926beb54d075241679e96d31f93cc"
+    },
+    {
+      "uri": "textures/ac7f07181b37a05cff02cfb72840aa6c9c887e6f89f4b677177d08fe70267329.webp",
+      "bytes": 2320,
+      "sha256": "ac7f07181b37a05cff02cfb72840aa6c9c887e6f89f4b677177d08fe70267329"
+    },
+    {
+      "uri": "textures/0ae22639effeb1447bb540ba7211111688ea83c62edc92f12be32df9718a6620.webp",
+      "bytes": 2560,
+      "sha256": "0ae22639effeb1447bb540ba7211111688ea83c62edc92f12be32df9718a6620"
+    },
+    {
+      "uri": "textures/2f07227bddf8d7af1ebd25430312352838d0076640a3bf7332292b28a5549adb.webp",
+      "bytes": 6820,
+      "sha256": "2f07227bddf8d7af1ebd25430312352838d0076640a3bf7332292b28a5549adb"
+    },
+    {
+      "uri": "textures/8356ce2ba9ad6fe8e2a4c67a5d59aaa3f52a5fe920acf5dc67b4cd553d839b45.webp",
+      "bytes": 1034,
+      "sha256": "8356ce2ba9ad6fe8e2a4c67a5d59aaa3f52a5fe920acf5dc67b4cd553d839b45"
+    },
+    {
+      "uri": "textures/e3ce09127aa9a691d9c9dcbe43cb48c7c1d54d4826a40ba3a78be3019f88e26c.webp",
+      "bytes": 2740,
+      "sha256": "e3ce09127aa9a691d9c9dcbe43cb48c7c1d54d4826a40ba3a78be3019f88e26c"
+    },
+    {
+      "uri": "sunset-512.hdr",
+      "bytes": 529457,
+      "sha256": "376b1225ef5070c2922d4ddece8f13a5026e4b8c39b6e98f048f2a308cf2af74"
+    },
+    {
+      "uri": "fabric_albedo.webp",
+      "bytes": 3682,
+      "sha256": "801f5cbfc9bdfb0a0d99e346f6911a1d1fd59b19e8fea5df80add4842cd04b21"
+    },
+    {
+      "uri": "paver_albedo.webp",
+      "bytes": 2438,
+      "sha256": "8cb04065302b1b19df627f81ffafc7c1920ae50366e921f7f466bfbb8df5ce8b"
+    },
+    {
+      "uri": "poolTile_albedo.webp",
+      "bytes": 2832,
+      "sha256": "e70bf776ef7fed8cfc351285105b95c41c0757f8f9ae23434c48731afb4f036d"
+    },
+    {
+      "uri": "cement_albedo.webp",
+      "bytes": 1506,
+      "sha256": "00cc3eb922ab3d8b9796a7846210c35ddfc367a0104330d211af86b6c76ea796"
+    },
+    {
+      "uri": "brick_albedo.webp",
+      "bytes": 4434,
+      "sha256": "f5b68374282e777abe8a153ac3c17e9451210958a5ab0b52c9092c5df3fd8556"
+    },
+    {
+      "uri": "oak_albedo.webp",
+      "bytes": 896,
+      "sha256": "4605ee07d54caec5e27a149ac6ebac9bbeb76485b485e84422dd5bdd57699cdd"
+    },
+    {
+      "uri": "walnut_albedo.webp",
+      "bytes": 834,
+      "sha256": "c0ad74fe2ae4ef84f59aca5a7708bdac3f673640423383bb8f1060c6f6830b77"
+    },
+    {
+      "uri": "parquet_albedo.webp",
+      "bytes": 1616,
+      "sha256": "5e066ac55f34343c4ba9a3b36dbe4f96ed4f71cc63401c9a45f3b9de2d022058"
+    }
+  ],
+  "totalBytes": 17005021,
+  "architecturalMeshesUnchanged": 5249,
+  "nodesPreserved": 5618,
+  "landscape": [
+    {
+      "name": "BOT95 | árbol 00",
+      "before": 94814,
+      "after": 1236
+    },
+    {
+      "name": "BOT95 | árbol 00",
+      "before": 386574,
+      "after": 4667
+    },
+    {
+      "name": "BOT95 | árbol 00",
+      "before": 14145,
+      "after": 166
+    },
+    {
+      "name": "BOT95 | árbol 06",
+      "before": 94814,
+      "after": 1236
+    },
+    {
+      "name": "BOT95 | árbol 06",
+      "before": 386574,
+      "after": 4667
+    },
+    {
+      "name": "BOT95 | árbol 06",
+      "before": 14145,
+      "after": 166
+    },
+    {
+      "name": "Césped botánico 00-00",
+      "before": 21553,
+      "after": 239
+    },
+    {
+      "name": "Césped botánico 00-01",
+      "before": 22100,
+      "after": 264
+    },
+    {
+      "name": "Césped botánico 00-02",
+      "before": 20105,
+      "after": 238
+    },
+    {
+      "name": "Césped botánico 00-03",
+      "before": 20415,
+      "after": 248
+    },
+    {
+      "name": "Césped botánico 00-04",
+      "before": 24108,
+      "after": 314
+    },
+    {
+      "name": "Césped botánico 00-05",
+      "before": 21103,
+      "after": 254
+    },
+    {
+      "name": "Césped botánico 00-06",
+      "before": 22838,
+      "after": 292
+    },
+    {
+      "name": "Césped botánico 00-07",
+      "before": 24241,
+      "after": 290
+    },
+    {
+      "name": "Césped botánico 00-08",
+      "before": 20673,
+      "after": 233
+    },
+    {
+      "name": "Césped botánico 00-09",
+      "before": 20476,
+      "after": 244
+    },
+    {
+      "name": "Césped botánico 01-00",
+      "before": 23366,
+      "after": 299
+    },
+    {
+      "name": "Césped botánico 01-01",
+      "before": 19392,
+      "after": 254
+    },
+    {
+      "name": "Césped botánico 01-04",
+      "before": 25667,
+      "after": 302
+    },
+    {
+      "name": "Césped botánico 01-05",
+      "before": 24048,
+      "after": 273
+    },
+    {
+      "name": "Césped botánico 01-06",
+      "before": 26402,
+      "after": 315
+    },
+    {
+      "name": "Césped botánico 01-07",
+      "before": 26098,
+      "after": 319
+    },
+    {
+      "name": "Césped botánico 01-08",
+      "before": 23362,
+      "after": 280
+    },
+    {
+      "name": "Césped botánico 01-09",
+      "before": 23438,
+      "after": 307
+    },
+    {
+      "name": "Césped botánico 02-00",
+      "before": 24324,
+      "after": 270
+    },
+    {
+      "name": "Césped botánico 02-01",
+      "before": 19162,
+      "after": 231
+    },
+    {
+      "name": "Césped botánico 02-04",
+      "before": 26374,
+      "after": 335
+    },
+    {
+      "name": "Césped botánico 02-05",
+      "before": 26675,
+      "after": 320
+    },
+    {
+      "name": "Césped botánico 02-06",
+      "before": 26732,
+      "after": 321
+    },
+    {
+      "name": "Césped botánico 02-07",
+      "before": 26230,
+      "after": 310
+    },
+    {
+      "name": "Césped botánico 02-08",
+      "before": 23525,
+      "after": 253
+    },
+    {
+      "name": "Césped botánico 02-09",
+      "before": 24556,
+      "after": 301
+    },
+    {
+      "name": "Césped botánico 03-00",
+      "before": 23857,
+      "after": 272
+    },
+    {
+      "name": "Césped botánico 03-01",
+      "before": 19259,
+      "after": 218
+    },
+    {
+      "name": "Césped botánico 03-04",
+      "before": 25741,
+      "after": 301
+    },
+    {
+      "name": "Césped botánico 03-05",
+      "before": 26570,
+      "after": 313
+    },
+    {
+      "name": "Césped botánico 03-06",
+      "before": 25278,
+      "after": 314
+    },
+    {
+      "name": "Césped botánico 03-07",
+      "before": 26625,
+      "after": 339
+    },
+    {
+      "name": "Césped botánico 03-08",
+      "before": 26488,
+      "after": 333
+    },
+    {
+      "name": "Césped botánico 03-09",
+      "before": 23577,
+      "after": 263
+    },
+    {
+      "name": "Césped botánico 04-00",
+      "before": 24247,
+      "after": 288
+    },
+    {
+      "name": "Césped botánico 04-01",
+      "before": 24292,
+      "after": 295
+    },
+    {
+      "name": "Césped botánico 04-02",
+      "before": 11788,
+      "after": 146
+    },
+    {
+      "name": "Césped botánico 04-03",
+      "before": 16471,
+      "after": 211
+    },
+    {
+      "name": "Césped botánico 04-04",
+      "before": 26872,
+      "after": 338
+    },
+    {
+      "name": "Césped botánico 04-05",
+      "before": 26368,
+      "after": 335
+    },
+    {
+      "name": "Césped botánico 04-06",
+      "before": 22663,
+      "after": 262
+    },
+    {
+      "name": "Césped botánico 04-07",
+      "before": 26138,
+      "after": 297
+    },
+    {
+      "name": "Césped botánico 04-08",
+      "before": 24511,
+      "after": 289
+    },
+    {
+      "name": "Césped botánico 04-09",
+      "before": 22684,
+      "after": 241
+    },
+    {
+      "name": "Césped botánico 05-00",
+      "before": 23218,
+      "after": 269
+    },
+    {
+      "name": "Césped botánico 05-01",
+      "before": 26703,
+      "after": 326
+    },
+    {
+      "name": "Césped botánico 05-02",
+      "before": 27194,
+      "after": 332
+    },
+    {
+      "name": "Césped botánico 05-03",
+      "before": 26815,
+      "after": 315
+    },
+    {
+      "name": "Césped botánico 05-04",
+      "before": 26397,
+      "after": 316
+    },
+    {
+      "name": "Césped botánico 05-05",
+      "before": 26073,
+      "after": 291
+    },
+    {
+      "name": "Césped botánico 05-06",
+      "before": 26613,
+      "after": 323
+    },
+    {
+      "name": "Césped botánico 05-07",
+      "before": 26003,
+      "after": 298
+    },
+    {
+      "name": "Césped botánico 05-08",
+      "before": 24205,
+      "after": 312
+    },
+    {
+      "name": "Césped botánico 05-09",
+      "before": 22097,
+      "after": 290
+    },
+    {
+      "name": "Césped botánico 06-00",
+      "before": 9080,
+      "after": 107
+    },
+    {
+      "name": "Césped botánico 06-01",
+      "before": 10352,
+      "after": 119
+    },
+    {
+      "name": "Césped botánico 06-02",
+      "before": 10130,
+      "after": 132
+    },
+    {
+      "name": "Césped botánico 06-03",
+      "before": 10650,
+      "after": 127
+    },
+    {
+      "name": "Césped botánico 06-04",
+      "before": 10102,
+      "after": 121
+    },
+    {
+      "name": "Césped botánico 06-05",
+      "before": 10464,
+      "after": 134
+    },
+    {
+      "name": "Césped botánico 06-06",
+      "before": 16096,
+      "after": 205
+    },
+    {
+      "name": "Césped botánico 06-09",
+      "before": 8823,
+      "after": 108
+    },
+    {
+      "name": "Césped botánico 07-06",
+      "before": 10588,
+      "after": 127
+    },
+    {
+      "name": "Césped botánico 07-09",
+      "before": 9848,
+      "after": 118
+    },
+    {
+      "name": "Césped botánico 08-06",
+      "before": 9667,
+      "after": 124
+    },
+    {
+      "name": "Césped botánico 08-09",
+      "before": 9067,
+      "after": 111
+    },
+    {
+      "name": "Césped botánico 09-06",
+      "before": 10273,
+      "after": 108
+    },
+    {
+      "name": "Césped botánico 09-09",
+      "before": 9060,
+      "after": 116
+    },
+    {
+      "name": "Césped botánico 10-06",
+      "before": 9353,
+      "after": 112
+    },
+    {
+      "name": "Césped botánico 10-07",
+      "before": 9125,
+      "after": 109
+    },
+    {
+      "name": "Césped botánico 10-08",
+      "before": 10122,
+      "after": 121
+    },
+    {
+      "name": "Césped botánico 10-09",
+      "before": 13252,
+      "after": 161
+    },
+    {
+      "name": "Paisaje | pradera de transición",
+      "before": 95469,
+      "after": 1130
+    },
+    {
+      "name": "R8B | Huerta 1 | agregados milimétricos 0",
+      "before": 1550,
+      "after": 64
+    },
+    {
+      "name": "R8B | Huerta 1 | agregados milimétricos 1",
+      "before": 1550,
+      "after": 64
+    },
+    {
+      "name": "R8B | Huerta 1 | agregados milimétricos 2",
+      "before": 1550,
+      "after": 64
+    },
+    {
+      "name": "R8B | Huerta 1 | agregados milimétricos 3",
+      "before": 1550,
+      "after": 64
+    },
+    {
+      "name": "R8B | Huerta 1 | lechuga de hoja hojas",
+      "before": 820224,
+      "after": 9842
+    },
+    {
+      "name": "R8B | Huerta 1 | nervaduras",
+      "before": 37292,
+      "after": 428
+    },
+    {
+      "name": "R8B | Huerta 1 | sustrato labrado",
+      "before": 42980,
+      "after": 514
+    },
+    {
+      "name": "R8B | Huerta 1 | tallos pecíolos",
+      "before": 3456,
+      "after": 62
+    },
+    {
+      "name": "R8B | Huerta 2 | agregados milimétricos 0",
+      "before": 1550,
+      "after": 64
+    },
+    {
+      "name": "R8B | Huerta 2 | agregados milimétricos 1",
+      "before": 1550,
+      "after": 64
+    },
+    {
+      "name": "R8B | Huerta 2 | agregados milimétricos 2",
+      "before": 1550,
+      "after": 64
+    },
+    {
+      "name": "R8B | Huerta 2 | agregados milimétricos 3",
+      "before": 1550,
+      "after": 64
+    },
+    {
+      "name": "R8B | Huerta 2 | fruto 0",
+      "before": 960,
+      "after": 144
+    },
+    {
+      "name": "R8B | Huerta 2 | fruto 2",
+      "before": 960,
+      "after": 144
+    },
+    {
+      "name": "R8B | Huerta 2 | fruto 3",
+      "before": 960,
+      "after": 144
+    },
+    {
+      "name": "R8B | Huerta 2 | fruto 5",
+      "before": 960,
+      "after": 144
+    },
+    {
+      "name": "R8B | Huerta 2 | fruto 6",
+      "before": 960,
+      "after": 144
+    },
+    {
+      "name": "R8B | Huerta 2 | nervaduras",
+      "before": 61400,
+      "after": 726
+    },
+    {
+      "name": "R8B | Huerta 2 | pimiento compacto hojas",
+      "before": 1412608,
+      "after": 16950
+    },
+    {
+      "name": "R8B | Huerta 2 | sustrato labrado",
+      "before": 42980,
+      "after": 514
+    },
+    {
+      "name": "R8B | Huerta 2 | tallos pecíolos",
+      "before": 2748,
+      "after": 59
+    },
+    {
+      "name": "R8B | Huerta 3 | acelga hojas",
+      "before": 683520,
+      "after": 8202
+    },
+    {
+      "name": "R8B | Huerta 3 | agregados milimétricos 0",
+      "before": 1550,
+      "after": 64
+    },
+    {
+      "name": "R8B | Huerta 3 | agregados milimétricos 1",
+      "before": 1550,
+      "after": 64
+    },
+    {
+      "name": "R8B | Huerta 3 | agregados milimétricos 2",
+      "before": 1550,
+      "after": 64
+    },
+    {
+      "name": "R8B | Huerta 3 | agregados milimétricos 3",
+      "before": 1550,
+      "after": 64
+    },
+    {
+      "name": "R8B | Huerta 3 | nervaduras",
+      "before": 26879,
+      "after": 338
+    },
+    {
+      "name": "R8B | Huerta 3 | sustrato labrado",
+      "before": 42980,
+      "after": 514
+    },
+    {
+      "name": "R8B | Huerta 3 | tallos pecíolos",
+      "before": 2880,
+      "after": 64
+    },
+    {
+      "name": "R8B | Huerta 4 | agregados milimétricos 0",
+      "before": 1550,
+      "after": 64
+    },
+    {
+      "name": "R8B | Huerta 4 | agregados milimétricos 1",
+      "before": 1550,
+      "after": 64
+    },
+    {
+      "name": "R8B | Huerta 4 | agregados milimétricos 2",
+      "before": 1550,
+      "after": 64
+    },
+    {
+      "name": "R8B | Huerta 4 | agregados milimétricos 3",
+      "before": 1550,
+      "after": 64
+    },
+    {
+      "name": "R8B | Huerta 4 | albahaca hojas",
+      "before": 2825216,
+      "after": 33902
+    },
+    {
+      "name": "R8B | Huerta 4 | nervaduras",
+      "before": 139870,
+      "after": 1694
+    },
+    {
+      "name": "R8B | Huerta 4 | sustrato labrado",
+      "before": 42980,
+      "after": 514
+    },
+    {
+      "name": "R8B | Huerta 4 | tallos pecíolos",
+      "before": 4512,
+      "after": 64
+    }
+  ]
+}

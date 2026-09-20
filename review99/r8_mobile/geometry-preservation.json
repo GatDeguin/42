@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+  "nodes": 5618,
+  "architecturalAndFurnitureGeometry": "Byte-identical decoded vertex attributes and identical oriented triangles; transforms, extras and hierarchy identical; only foliage geometry differs",
+  "doors": 13
+}

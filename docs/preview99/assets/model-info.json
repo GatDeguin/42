@@ -1482,9 +1482,9 @@
         22.533510208129883
       ],
       "quaternion": [
-        2.3743080390659088e-08,
+        2.3743080390659088e-8,
         -0.2582417130470276,
-        -4.189979918578501e-09,
+        -4.189979918578501e-9,
         0.966080367565155
       ],
       "fov": 48.455490919907895,
@@ -2052,9 +2052,9 @@
         -0.7625775337219238
       ],
       "quaternion": [
-        -2.562516954185412e-08,
+        -2.562516954185412e-8,
         -0.4383808672428131,
-        -3.357200029086016e-08,
+        -3.357200029086016e-8,
         0.8987892866134644
       ],
       "fov": 73.73979529168804,
@@ -2546,9 +2546,9 @@
         6.690669059753418
       ],
       "quaternion": [
-        2.0229164121587928e-08,
+        2.0229164121587928e-8,
         0.1326032280921936,
-        -1.3613308702531413e-08,
+        -1.3613308702531413e-8,
         0.9911692142486572
       ],
       "fov": 68.03869857197115,
@@ -2951,7 +2951,13 @@
     "reason": "Raster PBR navigation and optional progressive light transport; static irradiance atlases not included in this runtime."
   },
   "assets": {
-    "model": "house.gltf"
+    "model": "house.gltf",
+    "mobile": {
+      "model": "mobile/house.gltf",
+      "manifest": "mobile/manifest.json",
+      "downloadBytes": 17005021,
+      "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329"
+    }
   },
   "webPackage": {
     "entrypoint": "house.gltf",

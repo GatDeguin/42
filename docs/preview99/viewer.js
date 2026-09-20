@@ -3,11 +3,11 @@ import * as THREE from 'three';
 import {OrbitControls} from 'three/addons/controls/OrbitControls.js';
 import {GLTFLoader} from 'three/addons/loaders/GLTFLoader.js';
 import {MeshoptDecoder} from 'three/addons/libs/meshopt_decoder.module.js';
-import {createPhotographicPipeline} from './photographic.js?v=r8-60810e';
+
 import {mergeGeometries} from 'three/addons/utils/BufferGeometryUtils.js';
 
 const $=id=>document.getElementById(id), viewport=$('viewport'), canvas=$('scene');
-const mobile=matchMedia('(max-width:760px)').matches, reduced=matchMedia('(prefers-reduced-motion:reduce)').matches;
+const mobile=matchMedia('(max-width:760px)').matches||matchMedia('(pointer:coarse)').matches||/Android|iPhone|iPad|iPod/i.test(navigator.userAgent)||(navigator.maxTouchPoints>1&&/Macintosh/i.test(navigator.userAgent))||(navigator.deviceMemory>0&&navigator.deviceMemory<=4), reduced=matchMedia('(prefers-reduced-motion:reduce)').matches;
 let photo, renderer, scene, camera, controls, model, metadata, selected=null, selectionBox=null, cameraMove=null, ready=false, currentView='exterior';
 const assetRoot=new URLSearchParams(location.search).has('previous')?'../assets/':'./assets/';
 const webTextures={},woodMaterials=new Map();let woodSurfaces={};const doors=new Map(), originals=[], batches=[], pickable=[], raycaster=new THREE.Raycaster(), pointer=new THREE.Vector2();
@@ -27,7 +27,7 @@ const presets={
 };
 function fail(error){
  console.error(error);$('loading').classList.add('done');$('error').hidden=false;$('status').textContent='No disponible';
- $('error-detail').textContent=error?.message?.includes('WebGL')?'Tu navegador no pudo iniciar WebGL. Prueba con Chrome, Edge o Safari actualizado y aceleración gráfica activada.':'No se pudo descargar o preparar el modelo. Comprueba la conexión y vuelve a cargar.';
+ $('error-detail').textContent=error?.message==='WebGL context lost'?'El navegador interrumpió la vista 3D. Puedes volver a cargar o abrir las imágenes y los planos.':error?.message?.includes('WebGL')?'Tu navegador no pudo iniciar WebGL. Prueba con Chrome, Edge o Safari actualizado y aceleración gráfica activada.':'No se pudo descargar o preparar el modelo. Comprueba la conexión y vuelve a cargar.';
 }
 function doorAncestor(o){while(o){if(o.userData.doorKey)return o;o=o.parent;}return null;}
 function metaOf(o){let p=o;while(p){if(p.userData.label)return p.userData;p=p.parent;}return o.userData;}
@@ -141,7 +141,7 @@ function setupBatching(root){
  for(const members of bins.values()){
   const first=members[0],geos=[];
   for(const o of members){
-   let g=o.geometry.clone();if(g.index)g=g.toNonIndexed();for(const [name,a] of Object.entries(g.attributes)){const array=new Float32Array(a.count*a.itemSize);for(let i=0;i<a.count;i++)for(let k=0;k<a.itemSize;k++)array[i*a.itemSize+k]=a.getComponent(i,k);g.setAttribute(name,new THREE.Float32BufferAttribute(array,a.itemSize));}g.applyMatrix4(o.matrixWorld);geos.push(g);
+   let g=o.geometry.clone();if(g.index&&!mobile)g=g.toNonIndexed();if(mobile&&!g.index)g.setIndex(Array.from({length:g.attributes.position.count},(_,i)=>i));for(const [name,a] of Object.entries(g.attributes)){const array=new Float32Array(a.count*a.itemSize);for(let i=0;i<a.count;i++)for(let k=0;k<a.itemSize;k++)array[i*a.itemSize+k]=a.getComponent(i,k);g.setAttribute(name,new THREE.Float32BufferAttribute(array,a.itemSize));}g.applyMatrix4(o.matrixWorld);geos.push(g);
   }
   const geometry=mergeGeometries(geos,false);
   if(!geometry){for(const o of members){o.visible=true;o.userData.dynamic=true;}continue;}
@@ -152,17 +152,20 @@ function setupBatching(root){
 }
 async function start(){
  try{
-  renderer=new THREE.WebGLRenderer({canvas,antialias:true,alpha:false,powerPreference:'high-performance'});
-  renderer.setPixelRatio(Math.min(devicePixelRatio,mobile?1.5:2));renderer.setClearColor(0xe8ede8);renderer.outputColorSpace=THREE.SRGBColorSpace;renderer.toneMapping=THREE.AgXToneMapping;renderer.toneMappingExposure=1.0;
+  renderer=new THREE.WebGLRenderer({canvas,antialias:!mobile,alpha:false,powerPreference:mobile?'low-power':'high-performance'});
+  renderer.setPixelRatio(Math.min(devicePixelRatio,mobile?1:2));renderer.setClearColor(0xe8ede8);renderer.outputColorSpace=THREE.SRGBColorSpace;renderer.toneMapping=THREE.AgXToneMapping;renderer.toneMappingExposure=1.0;
   renderer.shadowMap.enabled=true;renderer.shadowMap.type=THREE.PCFSoftShadowMap;
   scene=new THREE.Scene();scene.background=new THREE.Color(0xe8ede8);
   camera=new THREE.PerspectiveCamera(46,1,.035,5000);camera.position.set(...presets.exterior.p);
   controls=new OrbitControls(camera,canvas);controls.target.set(...presets.exterior.t);controls.enableDamping=true;controls.dampingFactor=.10;controls.minDistance=.18;controls.maxDistance=95;controls.maxPolarAngle=Math.PI;controls.screenSpacePanning=true;controls.rotateSpeed=.55;controls.panSpeed=.6;
   controls.addEventListener('start',()=>{cameraMove=null;});
+  const {createPhotographicPipeline}=await import(mobile?'./mobile-photographic.js?v=r8m1':'./photographic.js?v=r8-60810e');
+  if(mobile)$('photo-mode').closest('section').hidden=true;
   photo=await createPhotographicPipeline({THREE,renderer,scene,camera,controls,viewport,mobile,status:$('photo-status')});
   new ResizeObserver(()=>{const w=viewport.clientWidth,h=viewport.clientHeight;renderer.setSize(w,h,false);photo?.resize(w,h);const oldPortrait=camera.aspect<1;camera.aspect=w/h;fitAuthoredCamera(camera,activePreset(currentView));camera.updateProjectionMatrix();if(ready&&oldPortrait!==(camera.aspect<1))selectView(currentView,true);}).observe(viewport);
   metadata=await fetch(assetRoot+'model-info.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('metadata download failed');return r.json();});
   photo.verifySource(metadata.stats.source_sha256);
+  if(mobile&&metadata.assets?.mobile?.sourceSHA256!==metadata.stats.source_sha256)throw new Error('Mobile package source mismatch');
   if(!metadata.stats.sourceTerrain){
    const ground=new THREE.Mesh(photo.groundGeometry(),new THREE.MeshStandardMaterial({color:0xffffff,roughness:1,map:photo.textures.outerGrass.albedo,normalMap:photo.textures.outerGrass.normal,normalScale:new THREE.Vector2(.25,.25)}));ground.material.map=ground.material.map.clone();ground.material.map.repeat.set(.25,.25);ground.material.normalMap=ground.material.normalMap.clone();ground.material.normalMap.repeat.set(.25,.25);ground.rotation.x=-Math.PI/2;ground.position.set(0,-.20,0);ground.receiveShadow=true;scene.add(ground);
   }
@@ -178,16 +181,16 @@ async function start(){
   if(metadata.downloads?.blender&&/^https?:\/\//.test(metadata.downloads.blender)){const link=$('source-blend');if(link){link.href=metadata.downloads.blender;link.hidden=false;}}
   const glbDownload=$('source-glb');if(glbDownload){const url=metadata.downloads?.glb;glbDownload.hidden=!!metadata.assets?.model&&!url;if(url&&/^https?:\/\//.test(url))glbDownload.href=url;}
   woodSurfaces=await fetch(assetRoot+'textures/wood-surfaces.json').then(r=>r.json());
-  const texLoader=new THREE.TextureLoader();await Promise.all(Object.entries({fabric:'fabric',paver:'paver',poolBasin:'poolTile',road:'cement',terracotta:'brick',oak:'oak',walnut:'walnut',parquet:'parquet'}).map(async([key,file])=>{const t=await texLoader.loadAsync('../assets/textures/'+file+'_albedo.png');t.colorSpace=THREE.SRGBColorSpace;t.flipY=false;t.wrapS=t.wrapT=THREE.RepeatWrapping;t.anisotropy=Math.min(8,renderer.capabilities.getMaxAnisotropy());if(key==='parquet')t.repeat.set(1/(.70*2.8),1/(.70*1.44));webTextures[key]=t;}));const resourceManager=new THREE.LoadingManager();resourceManager.onProgress=(_,loaded,total)=>{if(ready)return;$('progress').style.width=Math.min(90,10+80*loaded/Math.max(total,1))+'%';$('loading-text').textContent='Preparando recursos · '+loaded+' de '+total;};const loader=new GLTFLoader(resourceManager).setMeshoptDecoder(MeshoptDecoder);const bakePromise=metadata.gi?.enabled&&new URLSearchParams(location.search).get('gi')!=='0'?photo.loadBake(loader):Promise.resolve();
-  const modelEntry=metadata.assets?.model||'house.glb';const modelPromise=loader.loadAsync(assetRoot+modelEntry+'?v='+metadata.stats.source_sha256.slice(0,16));
+  const texLoader=new THREE.TextureLoader();await Promise.all(Object.entries({fabric:'fabric',paver:'paver',poolBasin:'poolTile',road:'cement',terracotta:'brick',oak:'oak',walnut:'walnut',parquet:'parquet'}).map(async([key,file])=>{const t=await texLoader.loadAsync(mobile?assetRoot+'mobile/'+file+'_albedo.webp':'../assets/textures/'+file+'_albedo.png');t.colorSpace=THREE.SRGBColorSpace;t.flipY=false;t.wrapS=t.wrapT=THREE.RepeatWrapping;t.anisotropy=Math.min(8,renderer.capabilities.getMaxAnisotropy());if(key==='parquet')t.repeat.set(1/(.70*2.8),1/(.70*1.44));webTextures[key]=t;}));const resourceManager=new THREE.LoadingManager();resourceManager.onProgress=(_,loaded,total)=>{if(ready)return;$('progress').style.width=Math.min(90,10+80*loaded/Math.max(total,1))+'%';$('loading-text').textContent='Preparando recursos · '+loaded+' de '+total;};const loader=new GLTFLoader(resourceManager).setMeshoptDecoder(MeshoptDecoder);const bakePromise=metadata.gi?.enabled&&new URLSearchParams(location.search).get('gi')!=='0'?photo.loadBake(loader):Promise.resolve();
+  const modelEntry=mobile?metadata.assets?.mobile?.model:metadata.assets?.model||'house.glb';if(!modelEntry)throw new Error('Mobile package unavailable');const modelPromise=loader.loadAsync(assetRoot+modelEntry+'?v='+metadata.stats.source_sha256.slice(0,16));
   const [gltf]=await Promise.all([modelPromise,bakePromise]);
   model=gltf.scene;scene.add(model);$('loading-text').textContent='Preparando materiales e interacción…';
   const sourceNodes=new Map();model.traverse(o=>sourceNodes.set(o.userData.label||o.name,o));
   model.traverse(o=>{if(o.userData.doorKey){const spec=metadata.doors.find(d=>d.key===o.userData.doorKey);if(spec)doors.set(spec.key,{node:o,spec,value:0,target:0,closedP:new THREE.Vector3(...spec.closed.position),openP:new THREE.Vector3(...spec.open.position),closedQ:new THREE.Quaternion(...spec.closed.quaternion),openQ:new THREE.Quaternion(...spec.open.quaternion),parts:(spec.parts||[]).map(part=>({node:sourceNodes.get(part.label),closedP:new THREE.Vector3(...part.closed.position),openP:new THREE.Vector3(...part.open.position),closedQ:new THREE.Quaternion(...part.closed.quaternion),openQ:new THREE.Quaternion(...part.open.quaternion),closedS:new THREE.Vector3(...part.closed.scale),openS:new THREE.Vector3(...part.open.scale)}))});}});
   for(const d of doors.values())for(const part of d.parts||[])if(!part.node)throw new Error('Missing animated door child');
   await new Promise(resolve=>requestAnimationFrame(resolve));
-  setupBatching(model);await photo.warmup();photo.completeSetup();ready=true;selectView('exterior',true);$('progress').style.width='100%';$('status').textContent='Modelo listo';$('status-dot').classList.add('ready');$('loading').classList.add('done');
-  window.__viewer={get ready(){return ready;},get stats(){return {drawCalls:renderer.info.render.calls,triangles:renderer.info.render.triangles,doors:doors.size,meshes:originals.length,sourceModel:metadata.stats.source_model,sourceSHA:metadata.stats.source_sha256,downloadBytes:metadata.stats.downloadBytes};},selectView,setAllDoors,get presets(){return presets;},get photo(){return photo;},get scene(){return scene;},get controls(){return controls;},get camera(){return camera;},get doors(){return doors;},get renderer(){return renderer;},get originals(){return originals;},pick};
+  setupBatching(model);await new Promise(resolve=>requestAnimationFrame(resolve));await photo.warmup();photo.completeSetup();ready=true;selectView('exterior',true);$('progress').style.width='100%';$('status').textContent='Modelo listo';$('status-dot').classList.add('ready');$('loading').classList.add('done');
+  window.__viewer={get ready(){return ready;},get stats(){return {drawCalls:renderer.info.render.calls,triangles:renderer.info.render.triangles,doors:doors.size,meshes:originals.length,sourceModel:metadata.stats.source_model,sourceSHA:metadata.stats.source_sha256,profile:mobile?'mobile':'desktop',downloadBytes:mobile?metadata.assets.mobile.downloadBytes:metadata.stats.downloadBytes};},selectView,setAllDoors,get presets(){return presets;},get photo(){return photo;},get scene(){return scene;},get controls(){return controls;},get camera(){return camera;},get doors(){return doors;},get renderer(){return renderer;},get originals(){return originals;},pick};
   animate();
  }catch(error){fail(error);}
 }

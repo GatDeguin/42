@@ -1,0 +1,88 @@
+{
+  "url": "http://127.0.0.1:8420/",
+  "environment": "Chrome desktop with touch/UA emulation and 256 MiB V8 old-space limit; not a physical phone",
+  "errors": [],
+  "cases": [
+    {
+      "name": "phone",
+      "readyMs": 3669.6574999999993,
+      "stats": {
+        "drawCalls": 611,
+        "triangles": 1753815,
+        "doors": 13,
+        "meshes": 5826,
+        "sourceModel": "Casa_de_Campo_99_R8.blend",
+        "sourceSHA": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+        "profile": "mobile",
+        "downloadBytes": 17005021
+      },
+      "ratio": 1,
+      "width": 430,
+      "scrollWidth": 430,
+      "photo": {
+        "profile": "mobile",
+        "sourceLights": 36,
+        "rasterLocalLightLimit": 4,
+        "geometryExpansion": false,
+        "enabled": false
+      },
+      "memory": {
+        "geometryArrayBytes": 87102016,
+        "materialTextureMipBytes": 85363370.66666664,
+        "webglContextLosses": 0,
+        "stats": {
+          "drawCalls": 611,
+          "triangles": 1753815,
+          "doors": 13,
+          "meshes": 5826,
+          "sourceModel": "Casa_de_Campo_99_R8.blend",
+          "sourceSHA": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+          "profile": "mobile",
+          "downloadBytes": 17005021
+        }
+      },
+      "requests": 87
+    },
+    {
+      "name": "tablet-landscape",
+      "readyMs": 1360.048700000003,
+      "stats": {
+        "drawCalls": 639,
+        "triangles": 1807867,
+        "doors": 13,
+        "meshes": 5826,
+        "sourceModel": "Casa_de_Campo_99_R8.blend",
+        "sourceSHA": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+        "profile": "mobile",
+        "downloadBytes": 17005021
+      },
+      "ratio": 1,
+      "width": 1194,
+      "scrollWidth": 1194,
+      "photo": {
+        "profile": "mobile",
+        "sourceLights": 36,
+        "rasterLocalLightLimit": 4,
+        "geometryExpansion": false,
+        "enabled": false
+      },
+      "memory": {
+        "geometryArrayBytes": 87102016,
+        "materialTextureMipBytes": 85363370.66666664,
+        "webglContextLosses": 0,
+        "stats": {
+          "drawCalls": 1318,
+          "triangles": 3705493,
+          "doors": 13,
+          "meshes": 5826,
+          "sourceModel": "Casa_de_Campo_99_R8.blend",
+          "sourceSHA": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
+          "profile": "mobile",
+          "downloadBytes": 17005021
+        }
+      },
+      "requests": 87
+    }
+  ],
+  "passed": true
+}
