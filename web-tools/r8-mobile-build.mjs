@@ -15,25 +15,35 @@ for(const node of nodes){
  const mesh=node.getMesh();if(!mesh||!isVegetation(node)||protectedMeshes.has(mesh)||visited.has(mesh))continue;visited.add(mesh);
  for(const p of mesh.listPrimitives()){
   const ia=p.getIndices();if(!ia||ia.getCount()<600)continue;
-  const before=ia.getCount()/3,target=Math.max(64,Math.floor(before*.012)),indices=ia.getArray(),positions=p.getAttribute('POSITION'),parent=Int32Array.from({length:positions.getCount()},(_,i)=>i);
+  const tree=(node.getExtras().label||node.getName()).startsWith('BOT95 |'),leaves=tree&&p.getMaterial()?.getName().includes('_leaves'),wood=tree&&!leaves;
+  const ratio=leaves?.025:wood?(p.getMaterial()?.getName().includes('_trunk')?.1:.06):.012;
+  const before=ia.getCount()/3,target=Math.max(64,Math.floor(before*ratio)),indices=ia.getArray(),positions=p.getAttribute('POSITION'),parent=Int32Array.from({length:positions.getCount()},(_,i)=>i);
   function find(i){while(parent[i]!==i){parent[i]=parent[parent[i]];i=parent[i];}return i;}
   for(let i=0;i<indices.length;i+=3){const r=find(indices[i]);parent[find(indices[i+1])]=r;parent[find(indices[i+2])]=r;}
   const components=new Map();for(let i=0;i<indices.length;i+=3){const r=find(indices[i]);if(!components.has(r))components.set(r,[]);components.get(r).push(indices[i],indices[i+1],indices[i+2]);}
-  if(components.size>12){
+  if(components.size>12&&!wood){
    // Whole disconnected leaves/tufts are sampled evenly; never discard random faces.
-   const all=[...components.values()],keepCount=Math.max(8,Math.min(all.length,Math.ceil(all.length*target/before))),kept=[];
-   for(let i=0;i<keepCount;i++)kept.push(...all[Math.floor((i+.5)*all.length/keepCount)]);
+   const all=[...components.values()],keepCount=Math.max(8,Math.min(all.length,Math.ceil(all.length*target/before))),kept=[],leafCenters=new Map();
+   for(let i=0;i<keepCount;i++){
+    const component=all[Math.floor((i+.5)*all.length/keepCount)];kept.push(...component);
+    if(leaves){const vertices=[...new Set(component)],array=positions.getArray(),center=[0,0,0];for(const v of vertices)for(let k=0;k<3;k++)center[k]+=array[v*3+k]/vertices.length;for(const v of vertices)leafCenters.set(v,center);}
+   }
    const remap=new Map();for(const v of kept)if(!remap.has(v))remap.set(v,remap.size);
    for(const semantic of p.listSemantics()){
     const old=p.getAttribute(semantic),arr=old.getArray(),size=old.getElementSize(),a=new arr.constructor(remap.size*size);
-    for(const [from,to] of remap)for(let k=0;k<size;k++)a[to*size+k]=arr[from*size+k];
+    for(const [from,to] of remap)for(let k=0;k<size;k++){
+     let value=arr[from*size+k];
+     // Fewer, larger leaf cards retain projected canopy coverage at phone resolution.
+     if(leaves&&semantic==='POSITION'){const center=leafCenters.get(from);value=center[k]+(value-center[k])*5.5;if(arr instanceof Int16Array)value=Math.max(-32767,Math.min(32767,Math.round(value)));}
+     a[to*size+k]=value;
+    }
     p.setAttribute(semantic,doc.createAccessor().setType(old.getType()).setArray(a).setNormalized(old.getNormalized()).setBuffer(old.getBuffer()));
    }
    p.setIndices(doc.createAccessor().setType('SCALAR').setArray(Uint32Array.from(kept,v=>remap.get(v))).setBuffer(ia.getBuffer()));
   }
   const current=p.getIndices().getCount()/3;
-  if(current>target*1.1)simplifyPrimitive(p,{simplifier:MeshoptSimplifier,ratio:Math.min(1,target/current),error:.025,lockBorder:false});
-  changes.push({name:node.getExtras().label||node.getName(),before,after:p.getIndices().getCount()/3});
+  if(!leaves&&current>target*1.1)simplifyPrimitive(p,{simplifier:MeshoptSimplifier,ratio:Math.min(1,target/current),error:wood?.008:.025,lockBorder:false});
+  changes.push({name:node.getExtras().label||node.getName(),material:p.getMaterial()?.getName(),before,after:p.getIndices().getCount()/3,...(tree?{strategy:leaves?'canopy-coverage-cards':'connected-wood-simplification',leafCardScale:leaves?5.5:1}: {})});
  }
 }
 for(const [m,digest] of protectedBefore)assert.equal(protectedDigest(m),digest,'Architectural geometry changed');
@@ -65,7 +75,7 @@ for(let y=0;y<height;y++){
 fs.writeFileSync(dest+'sunset-512.hdr',Buffer.concat(parts));
 const uris=['house.gltf',...g.buffers.filter(b=>b.uri).map(b=>b.uri),...g.images.map(i=>i.uri),'sunset-512.hdr',...['fabric','paver','poolTile','cement','brick','oak','walnut','parquet'].map(n=>n+'_albedo.webp')];
 const files=[...new Set(uris)].map(uri=>{const b=fs.readFileSync(dest+uri);return {uri,bytes:b.length,sha256:hash(b)}});
-const report={sourceSHA256:info.stats.source_sha256,revision:'R8-mobile-1',entrypoint:'house.gltf',files,totalBytes:files.reduce((s,f)=>s+f.bytes,0),architecturalMeshesUnchanged:protectedMeshes.size,nodesPreserved:nodes.length,landscape:changes};
+const report={sourceSHA256:info.stats.source_sha256,revision:'R8-mobile-2',entrypoint:'house.gltf',files,totalBytes:files.reduce((s,f)=>s+f.bytes,0),architecturalMeshesUnchanged:protectedMeshes.size,nodesPreserved:nodes.length,landscape:changes};
 fs.writeFileSync(dest+'manifest.json',JSON.stringify(report,null,2));
-info.assets.mobile={model:'mobile/house.gltf',manifest:'mobile/manifest.json',downloadBytes:report.totalBytes,sourceSHA256:info.stats.source_sha256};fs.writeFileSync(root+'model-info.json',JSON.stringify(info,null,2));
+info.assets.mobile={revision:'R8-mobile-2',model:'mobile/house.gltf',manifest:'mobile/manifest.json',downloadBytes:report.totalBytes,sourceSHA256:info.stats.source_sha256};fs.writeFileSync(root+'model-info.json',JSON.stringify(info,null,2));
 console.log('MOBILE_PACKAGE_READY',JSON.stringify({bytes:report.totalBytes,architecturalMeshesUnchanged:protectedMeshes.size,nodes:nodes.length}));

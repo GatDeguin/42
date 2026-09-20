@@ -10,6 +10,8 @@ Publicación integral autorizada sin otra revisión arquitectónica. No se asign
 
 ## Carga móvil R8
 
-Teléfonos, tabletas y dispositivos con memoria limitada reciben automáticamente un derivado de 17 MB con texturas de hasta 512 px y vegetación simplificada. La geometría de arquitectura y mobiliario, las transformaciones, la jerarquía y las 13 puertas se conservan. El original completo permanece disponible para escritorio y descarga.
+Teléfonos, tabletas y dispositivos con memoria limitada reciben automáticamente un derivado de 17,5 MB con texturas de hasta 512 px y vegetación simplificada. La geometría de arquitectura y mobiliario, las transformaciones, la jerarquía y las 13 puertas se conservan. El original completo permanece disponible para escritorio y descarga.
 
 El perfil móvil conserva índices al agrupar geometría y utiliza iluminación raster con recursos limitados. No prepara BVH, luz progresiva ni posprocesado. El tamaño de pantalla no es el único criterio: también se detectan dispositivos táctiles, iOS y Android, incluidas tabletas en horizontal.
+
+Los árboles móviles conservan troncos y ramas conectadas. Sus copas usan menos hojas con mayor cobertura, en vez de eliminar casi toda la silueta. La regresión visual compara frente, costado y vista superior con el árbol original; la carga móvil mantiene el límite de tres millones de triángulos y el mismo presupuesto de texturas.

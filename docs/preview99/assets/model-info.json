@@ -2953,9 +2953,10 @@
   "assets": {
     "model": "house.gltf",
     "mobile": {
+      "revision": "R8-mobile-2",
       "model": "mobile/house.gltf",
       "manifest": "mobile/manifest.json",
-      "downloadBytes": 17005021,
+      "downloadBytes": 17477303,
       "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329"
     }
   },

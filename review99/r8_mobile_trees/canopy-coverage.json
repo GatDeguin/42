@@ -1,0 +1,23 @@
+[
+  {
+    "view": "front",
+    "reference": 38286,
+    "candidate": 37020,
+    "coverage": 0.755785404586533,
+    "iou": 0.6240241535475523
+  },
+  {
+    "view": "side",
+    "reference": 34550,
+    "candidate": 33939,
+    "coverage": 0.7874384949348769,
+    "iou": 0.6590121841920403
+  },
+  {
+    "view": "top",
+    "reference": 44832,
+    "candidate": 41879,
+    "coverage": 0.7869379014989293,
+    "iou": 0.685967607085221
+  }
+]

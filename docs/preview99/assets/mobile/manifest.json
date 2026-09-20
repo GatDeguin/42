@@ -1,17 +1,17 @@
 {
   "sourceSHA256": "60810e1945f53b339c070c6e77635f408b99c244fc07f43a5084ebeecdde5329",
-  "revision": "R8-mobile-1",
+  "revision": "R8-mobile-2",
   "entrypoint": "house.gltf",
   "files": [
     {
       "uri": "house.gltf",
-      "bytes": 4995870,
-      "sha256": "a3507e501c3d55865e78aa7702b467102fc492518465ae73ed0f41a0cf7d30c9"
+      "bytes": 4996052,
+      "sha256": "5e8d1264f1ecdbe8e9c8bc392ca1476a0454e00ddad03590242af5c34a7cfc9e"
     },
     {
-      "uri": "geometry-de8372bfb7027b7db634360ee100568c4bff98cf660b274acd296434c974daf0.bin",
-      "bytes": 9721916,
-      "sha256": "de8372bfb7027b7db634360ee100568c4bff98cf660b274acd296434c974daf0"
+      "uri": "geometry-1c3f89743aff0df7c7c190cf79381de239071a1c802086b6650b5a093f1cee8b.bin",
+      "bytes": 10194016,
+      "sha256": "1c3f89743aff0df7c7c190cf79381de239071a1c802086b6650b5a093f1cee8b"
     },
     {
       "uri": "textures/f1792cb04997e577b16101c8e01741dbb11c5d61d654411585a7342ba05dc089.webp",
@@ -364,587 +364,715 @@
       "sha256": "5e066ac55f34343c4ba9a3b36dbe4f96ed4f71cc63401c9a45f3b9de2d022058"
     }
   ],
-  "totalBytes": 17005021,
+  "totalBytes": 17477303,
   "architecturalMeshesUnchanged": 5249,
   "nodesPreserved": 5618,
   "landscape": [
     {
       "name": "BOT95 | árbol 00",
+      "material": "WEB | tree_small_02_branches",
       "before": 94814,
-      "after": 1236
+      "after": 6848,
+      "strategy": "connected-wood-simplification",
+      "leafCardScale": 1
     },
     {
       "name": "BOT95 | árbol 00",
+      "material": "WEB | tree_small_02_leaves",
       "before": 386574,
-      "after": 4667
+      "after": 9711,
+      "strategy": "canopy-coverage-cards",
+      "leafCardScale": 5.5
     },
     {
       "name": "BOT95 | árbol 00",
+      "material": "WEB | tree_small_02_trunk",
       "before": 14145,
-      "after": 166
+      "after": 1408,
+      "strategy": "connected-wood-simplification",
+      "leafCardScale": 1
     },
     {
       "name": "BOT95 | árbol 06",
+      "material": "WEB | tree_small_02_branches",
       "before": 94814,
-      "after": 1236
+      "after": 6848,
+      "strategy": "connected-wood-simplification",
+      "leafCardScale": 1
     },
     {
       "name": "BOT95 | árbol 06",
+      "material": "WEB | tree_small_02_leaves",
       "before": 386574,
-      "after": 4667
+      "after": 9711,
+      "strategy": "canopy-coverage-cards",
+      "leafCardScale": 5.5
     },
     {
       "name": "BOT95 | árbol 06",
+      "material": "WEB | tree_small_02_trunk",
       "before": 14145,
-      "after": 166
+      "after": 1408,
+      "strategy": "connected-wood-simplification",
+      "leafCardScale": 1
     },
     {
       "name": "Césped botánico 00-00",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 21553,
       "after": 239
     },
     {
       "name": "Césped botánico 00-01",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 22100,
       "after": 264
     },
     {
       "name": "Césped botánico 00-02",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 20105,
       "after": 238
     },
     {
       "name": "Césped botánico 00-03",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 20415,
       "after": 248
     },
     {
       "name": "Césped botánico 00-04",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 24108,
       "after": 314
     },
     {
       "name": "Césped botánico 00-05",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 21103,
       "after": 254
     },
     {
       "name": "Césped botánico 00-06",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 22838,
       "after": 292
     },
     {
       "name": "Césped botánico 00-07",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 24241,
       "after": 290
     },
     {
       "name": "Césped botánico 00-08",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 20673,
       "after": 233
     },
     {
       "name": "Césped botánico 00-09",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 20476,
       "after": 244
     },
     {
       "name": "Césped botánico 01-00",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 23366,
       "after": 299
     },
     {
       "name": "Césped botánico 01-01",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 19392,
       "after": 254
     },
     {
       "name": "Césped botánico 01-04",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 25667,
       "after": 302
     },
     {
       "name": "Césped botánico 01-05",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 24048,
       "after": 273
     },
     {
       "name": "Césped botánico 01-06",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 26402,
       "after": 315
     },
     {
       "name": "Césped botánico 01-07",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 26098,
       "after": 319
     },
     {
       "name": "Césped botánico 01-08",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 23362,
       "after": 280
     },
     {
       "name": "Césped botánico 01-09",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 23438,
       "after": 307
     },
     {
       "name": "Césped botánico 02-00",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 24324,
       "after": 270
     },
     {
       "name": "Césped botánico 02-01",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 19162,
       "after": 231
     },
     {
       "name": "Césped botánico 02-04",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 26374,
       "after": 335
     },
     {
       "name": "Césped botánico 02-05",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 26675,
       "after": 320
     },
     {
       "name": "Césped botánico 02-06",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 26732,
       "after": 321
     },
     {
       "name": "Césped botánico 02-07",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 26230,
       "after": 310
     },
     {
       "name": "Césped botánico 02-08",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 23525,
       "after": 253
     },
     {
       "name": "Césped botánico 02-09",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 24556,
       "after": 301
     },
     {
       "name": "Césped botánico 03-00",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 23857,
       "after": 272
     },
     {
       "name": "Césped botánico 03-01",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 19259,
       "after": 218
     },
     {
       "name": "Césped botánico 03-04",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 25741,
       "after": 301
     },
     {
       "name": "Césped botánico 03-05",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 26570,
       "after": 313
     },
     {
       "name": "Césped botánico 03-06",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 25278,
       "after": 314
     },
     {
       "name": "Césped botánico 03-07",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 26625,
       "after": 339
     },
     {
       "name": "Césped botánico 03-08",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 26488,
       "after": 333
     },
     {
       "name": "Césped botánico 03-09",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 23577,
       "after": 263
     },
     {
       "name": "Césped botánico 04-00",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 24247,
       "after": 288
     },
     {
       "name": "Césped botánico 04-01",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 24292,
       "after": 295
     },
     {
       "name": "Césped botánico 04-02",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 11788,
       "after": 146
     },
     {
       "name": "Césped botánico 04-03",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 16471,
       "after": 211
     },
     {
       "name": "Césped botánico 04-04",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 26872,
       "after": 338
     },
     {
       "name": "Césped botánico 04-05",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 26368,
       "after": 335
     },
     {
       "name": "Césped botánico 04-06",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 22663,
       "after": 262
     },
     {
       "name": "Césped botánico 04-07",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 26138,
       "after": 297
     },
     {
       "name": "Césped botánico 04-08",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 24511,
       "after": 289
     },
     {
       "name": "Césped botánico 04-09",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 22684,
       "after": 241
     },
     {
       "name": "Césped botánico 05-00",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 23218,
       "after": 269
     },
     {
       "name": "Césped botánico 05-01",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 26703,
       "after": 326
     },
     {
       "name": "Césped botánico 05-02",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 27194,
       "after": 332
     },
     {
       "name": "Césped botánico 05-03",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 26815,
       "after": 315
     },
     {
       "name": "Césped botánico 05-04",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 26397,
       "after": 316
     },
     {
       "name": "Césped botánico 05-05",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 26073,
       "after": 291
     },
     {
       "name": "Césped botánico 05-06",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 26613,
       "after": 323
     },
     {
       "name": "Césped botánico 05-07",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 26003,
       "after": 298
     },
     {
       "name": "Césped botánico 05-08",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 24205,
       "after": 312
     },
     {
       "name": "Césped botánico 05-09",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 22097,
       "after": 290
     },
     {
       "name": "Césped botánico 06-00",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 9080,
       "after": 107
     },
     {
       "name": "Césped botánico 06-01",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 10352,
       "after": 119
     },
     {
       "name": "Césped botánico 06-02",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 10130,
       "after": 132
     },
     {
       "name": "Césped botánico 06-03",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 10650,
       "after": 127
     },
     {
       "name": "Césped botánico 06-04",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 10102,
       "after": 121
     },
     {
       "name": "Césped botánico 06-05",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 10464,
       "after": 134
     },
     {
       "name": "Césped botánico 06-06",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 16096,
       "after": 205
     },
     {
       "name": "Césped botánico 06-09",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 8823,
       "after": 108
     },
     {
       "name": "Césped botánico 07-06",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 10588,
       "after": 127
     },
     {
       "name": "Césped botánico 07-09",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 9848,
       "after": 118
     },
     {
       "name": "Césped botánico 08-06",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 9667,
       "after": 124
     },
     {
       "name": "Césped botánico 08-09",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 9067,
       "after": 111
     },
     {
       "name": "Césped botánico 09-06",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 10273,
       "after": 108
     },
     {
       "name": "Césped botánico 09-09",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 9060,
       "after": 116
     },
     {
       "name": "Césped botánico 10-06",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 9353,
       "after": 112
     },
     {
       "name": "Césped botánico 10-07",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 9125,
       "after": 109
     },
     {
       "name": "Césped botánico 10-08",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 10122,
       "after": 121
     },
     {
       "name": "Césped botánico 10-09",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 13252,
       "after": 161
     },
     {
       "name": "Paisaje | pradera de transición",
+      "material": "GRASS8 | Bermuda CC0 alpha mask",
       "before": 95469,
       "after": 1130
     },
     {
       "name": "R8B | Huerta 1 | agregados milimétricos 0",
+      "material": "R8B | Agregado suelo 0",
       "before": 1550,
       "after": 64
     },
     {
       "name": "R8B | Huerta 1 | agregados milimétricos 1",
+      "material": "R8B | Agregado suelo 1",
       "before": 1550,
       "after": 64
     },
     {
       "name": "R8B | Huerta 1 | agregados milimétricos 2",
+      "material": "R8B | Agregado suelo 2",
       "before": 1550,
       "after": 64
     },
     {
       "name": "R8B | Huerta 1 | agregados milimétricos 3",
+      "material": "R8B | Agregado suelo 3",
       "before": 1550,
       "after": 64
     },
     {
       "name": "R8B | Huerta 1 | lechuga de hoja hojas",
+      "material": "R8B | Hoja lechuga",
       "before": 820224,
       "after": 9842
     },
     {
       "name": "R8B | Huerta 1 | nervaduras",
+      "material": "R8B | Nervio 0",
       "before": 37292,
       "after": 428
     },
     {
       "name": "R8B | Huerta 1 | sustrato labrado",
+      "material": "R8B | Suelo franco y compost",
       "before": 42980,
       "after": 514
     },
     {
       "name": "R8B | Huerta 1 | tallos pecíolos",
+      "material": "R8B | Tallo 0",
       "before": 3456,
       "after": 62
     },
     {
       "name": "R8B | Huerta 2 | agregados milimétricos 0",
+      "material": "R8B | Agregado suelo 0",
       "before": 1550,
       "after": 64
     },
     {
       "name": "R8B | Huerta 2 | agregados milimétricos 1",
+      "material": "R8B | Agregado suelo 1",
       "before": 1550,
       "after": 64
     },
     {
       "name": "R8B | Huerta 2 | agregados milimétricos 2",
+      "material": "R8B | Agregado suelo 2",
       "before": 1550,
       "after": 64
     },
     {
       "name": "R8B | Huerta 2 | agregados milimétricos 3",
+      "material": "R8B | Agregado suelo 3",
       "before": 1550,
       "after": 64
     },
     {
       "name": "R8B | Huerta 2 | fruto 0",
+      "material": "R8B | Pimiento verde",
       "before": 960,
       "after": 144
     },
     {
       "name": "R8B | Huerta 2 | fruto 2",
+      "material": "R8B | Pimiento verde",
       "before": 960,
       "after": 144
     },
     {
       "name": "R8B | Huerta 2 | fruto 3",
+      "material": "R8B | Pimiento verde",
       "before": 960,
       "after": 144
     },
     {
       "name": "R8B | Huerta 2 | fruto 5",
+      "material": "R8B | Pimiento verde",
       "before": 960,
       "after": 144
     },
     {
       "name": "R8B | Huerta 2 | fruto 6",
+      "material": "R8B | Pimiento verde",
       "before": 960,
       "after": 144
     },
     {
       "name": "R8B | Huerta 2 | nervaduras",
+      "material": "R8B | Nervio 1",
       "before": 61400,
       "after": 726
     },
     {
       "name": "R8B | Huerta 2 | pimiento compacto hojas",
+      "material": "R8B | Hoja pimiento",
       "before": 1412608,
       "after": 16950
     },
     {
       "name": "R8B | Huerta 2 | sustrato labrado",
+      "material": "R8B | Suelo franco y compost",
       "before": 42980,
       "after": 514
     },
     {
       "name": "R8B | Huerta 2 | tallos pecíolos",
+      "material": "R8B | Tallo 1",
       "before": 2748,
       "after": 59
     },
     {
       "name": "R8B | Huerta 3 | acelga hojas",
+      "material": "R8B | Hoja acelga",
       "before": 683520,
       "after": 8202
     },
     {
       "name": "R8B | Huerta 3 | agregados milimétricos 0",
+      "material": "R8B | Agregado suelo 0",
       "before": 1550,
       "after": 64
     },
     {
       "name": "R8B | Huerta 3 | agregados milimétricos 1",
+      "material": "R8B | Agregado suelo 1",
       "before": 1550,
       "after": 64
     },
     {
       "name": "R8B | Huerta 3 | agregados milimétricos 2",
+      "material": "R8B | Agregado suelo 2",
       "before": 1550,
       "after": 64
     },
     {
       "name": "R8B | Huerta 3 | agregados milimétricos 3",
+      "material": "R8B | Agregado suelo 3",
       "before": 1550,
       "after": 64
     },
     {
       "name": "R8B | Huerta 3 | nervaduras",
+      "material": "R8B | Nervio 2",
       "before": 26879,
       "after": 338
     },
     {
       "name": "R8B | Huerta 3 | sustrato labrado",
+      "material": "R8B | Suelo franco y compost",
       "before": 42980,
       "after": 514
     },
     {
       "name": "R8B | Huerta 3 | tallos pecíolos",
+      "material": "R8B | Tallo 2",
       "before": 2880,
       "after": 64
     },
     {
       "name": "R8B | Huerta 4 | agregados milimétricos 0",
+      "material": "R8B | Agregado suelo 0",
       "before": 1550,
       "after": 64
     },
     {
       "name": "R8B | Huerta 4 | agregados milimétricos 1",
+      "material": "R8B | Agregado suelo 1",
       "before": 1550,
       "after": 64
     },
     {
       "name": "R8B | Huerta 4 | agregados milimétricos 2",
+      "material": "R8B | Agregado suelo 2",
       "before": 1550,
       "after": 64
     },
     {
       "name": "R8B | Huerta 4 | agregados milimétricos 3",
+      "material": "R8B | Agregado suelo 3",
       "before": 1550,
       "after": 64
     },
     {
       "name": "R8B | Huerta 4 | albahaca hojas",
+      "material": "R8B | Hoja albahaca",
       "before": 2825216,
       "after": 33902
     },
     {
       "name": "R8B | Huerta 4 | nervaduras",
+      "material": "R8B | Nervio 3",
       "before": 139870,
       "after": 1694
     },
     {
       "name": "R8B | Huerta 4 | sustrato labrado",
+      "material": "R8B | Suelo franco y compost",
       "before": 42980,
       "after": 514
     },
     {
       "name": "R8B | Huerta 4 | tallos pecíolos",
+      "material": "R8B | Tallo 3",
       "before": 4512,
       "after": 64
     }
